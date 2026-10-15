@@ -1,0 +1,23 @@
+{
+  "subject": "VCE Physical Education",
+  "unit": "Unit 2",
+  "area_of_study": "Area of Study 2",
+  "released": [
+    {
+      "name": "Hormonal Considerations",
+      "status": "released"
+    },
+    {
+      "name": "Injuries & Safety",
+      "status": "released"
+    },
+    {
+      "name": "Psychological Skills & Sleep",
+      "status": "coming_soon"
+    },
+    {
+      "name": "Mental Fitness",
+      "status": "coming_soon"
+    }
+  ]
+}
