@@ -1,0 +1,977 @@
+[
+  {
+    "id": "H01",
+    "kk": "Hormonal Considerations",
+    "domain": "Hormones & menstrual cycle",
+    "difficulty": "Foundation",
+    "q": "Which statement best describes the role of hormones in relation to physical activity?",
+    "options": [
+      "Hormones only influence reproduction.",
+      "Hormones influence functions including muscular development, energy levels, metabolism and reproduction.",
+      "Hormones determine whether an athlete will perform well.",
+      "Hormones affect only elite athletes."
+    ],
+    "answer": 1,
+    "feedback": "Hormones influence several body functions relevant to physical activity, but their effects vary between individuals."
+  },
+  {
+    "id": "H02",
+    "kk": "Hormonal Considerations",
+    "domain": "Hormones & menstrual cycle",
+    "difficulty": "Foundation",
+    "q": "Which statement about the menstrual cycle is most accurate?",
+    "options": [
+      "Every menstrual cycle lasts exactly 28 days.",
+      "Menstruation occurs after the luteal phase and is completely separate from the follicular phase.",
+      "Cycle length and individual experiences can vary.",
+      "Hormone levels remain constant throughout the cycle."
+    ],
+    "answer": 2,
+    "feedback": "A 28-day cycle is a simplified model; cycle length and experiences can vary."
+  },
+  {
+    "id": "H03",
+    "kk": "Hormonal Considerations",
+    "domain": "Hormones & menstrual cycle",
+    "difficulty": "Foundation",
+    "q": "What occurs during ovulation?",
+    "options": [
+      "The uterine lining is shed.",
+      "An egg is released from the ovary.",
+      "Progesterone falls to its lowest level.",
+      "Menstruation automatically begins."
+    ],
+    "answer": 1,
+    "feedback": "Ovulation involves the release of an egg from the ovary."
+  },
+  {
+    "id": "H04",
+    "kk": "Hormonal Considerations",
+    "domain": "Hormones & menstrual cycle",
+    "difficulty": "Foundation",
+    "q": "Which hormone typically rises during the luteal phase?",
+    "options": [
+      "Progesterone",
+      "Insulin",
+      "Adrenaline",
+      "Testosterone only"
+    ],
+    "answer": 0,
+    "feedback": "Progesterone rises during the luteal phase."
+  },
+  {
+    "id": "H05",
+    "kk": "Hormonal Considerations",
+    "domain": "Period poverty & stigma",
+    "difficulty": "Foundation",
+    "q": "Which description best defines period poverty?",
+    "options": [
+      "Having an irregular menstrual cycle.",
+      "Having insufficient access to menstrual products, sanitation facilities or adequate menstrual education.",
+      "Experiencing pain during menstruation.",
+      "Choosing not to participate in sport during menstruation."
+    ],
+    "answer": 1,
+    "feedback": "Period poverty involves practical and educational barriers to managing menstruation."
+  },
+  {
+    "id": "H06",
+    "kk": "Hormonal Considerations",
+    "domain": "Amenorrhea & Female Athlete Triad",
+    "difficulty": "Foundation",
+    "q": "Amenorrhea refers to:",
+    "options": [
+      "excessive menstrual bleeding.",
+      "menstrual pain during physical activity.",
+      "the absence of menstruation.",
+      "increased energy during the menstrual cycle."
+    ],
+    "answer": 2,
+    "feedback": "Amenorrhea is the absence of menstruation and can require appropriate medical assessment."
+  },
+  {
+    "id": "H07",
+    "kk": "Hormonal Considerations",
+    "domain": "Amenorrhea & Female Athlete Triad",
+    "difficulty": "Foundation",
+    "q": "Which group best represents the three linked areas of the Female Athlete Triad as taught in this course?",
+    "options": [
+      "Low energy availability, menstrual disturbance and low bone mass.",
+      "Low hydration, menstrual disturbance and muscle weakness.",
+      "High energy availability, regular menstruation and low bone mass.",
+      "Low energy availability, hypertension and muscle soreness."
+    ],
+    "answer": 0,
+    "feedback": "The current teaching model links low energy availability, menstrual disturbance and low bone mass."
+  },
+  {
+    "id": "H08",
+    "kk": "Hormonal Considerations",
+    "domain": "Period poverty & stigma",
+    "difficulty": "Foundation",
+    "q": "Menstrual stigma is most directly an issue of:",
+    "options": [
+      "inclusion.",
+      "aerobic fitness.",
+      "muscular strength.",
+      "training frequency."
+    ],
+    "answer": 0,
+    "feedback": "Stigma may create embarrassment or make participants feel unwelcome, reducing inclusion."
+  },
+  {
+    "id": "H09",
+    "kk": "Hormonal Considerations",
+    "domain": "Individualised physical-activity prescription",
+    "difficulty": "Application",
+    "q": "A runner tracks her menstrual cycle. Her coach automatically reduces every training session during menstruation even though she reports feeling well. Which approach would be more appropriate?",
+    "options": [
+      "Continue reducing every session because menstrual phase determines performance.",
+      "Stop tracking the athlete completely.",
+      "Consider her individual symptoms, recovery and training responses when deciding whether adjustment is needed.",
+      "Prevent vigorous activity throughout the entire menstrual cycle."
+    ],
+    "answer": 2,
+    "feedback": "Exercise prescription should respond to the individual rather than predetermined assumptions about cycle phase."
+  },
+  {
+    "id": "H10",
+    "kk": "Hormonal Considerations",
+    "domain": "Access, inclusion, participation & performance",
+    "difficulty": "Application",
+    "q": "A basketballer experiences fatigue and abdominal discomfort during training. She begins moving more slowly and her shooting technique becomes less consistent. Which outcome is being affected most directly?",
+    "options": [
+      "Access",
+      "Inclusion",
+      "Participation",
+      "Performance"
+    ],
+    "answer": 3,
+    "feedback": "The symptoms are reducing the quality of physical and skill execution, which relates to performance."
+  },
+  {
+    "id": "H11",
+    "kk": "Hormonal Considerations",
+    "domain": "Access, inclusion, participation & performance",
+    "difficulty": "Application",
+    "q": "A swimmer decides not to attend training because she is worried menstrual bleeding may leak through her uniform. This is primarily an effect on:",
+    "options": [
+      "participation.",
+      "performance.",
+      "access to coaching.",
+      "muscular development."
+    ],
+    "answer": 0,
+    "feedback": "She is taking part less often, so the immediate consequence is reduced participation."
+  },
+  {
+    "id": "H12",
+    "kk": "Hormonal Considerations",
+    "domain": "Access, inclusion, participation & performance",
+    "difficulty": "Application",
+    "q": "A teenage athlete cannot afford menstrual products and therefore cannot comfortably attend weekend competition. Which issue is demonstrated most directly?",
+    "options": [
+      "Access",
+      "Skill execution",
+      "Mental fitness",
+      "Coaching style"
+    ],
+    "answer": 0,
+    "feedback": "Cost is creating a practical barrier to accessing the activity."
+  },
+  {
+    "id": "H13",
+    "kk": "Hormonal Considerations",
+    "domain": "Period poverty & stigma",
+    "difficulty": "Application",
+    "q": "Members of a sporting club regularly joke about menstruation. One athlete feels embarrassed about requesting support and believes her needs are not taken seriously. Which concept is most directly affected?",
+    "options": [
+      "Inclusion",
+      "Aerobic capacity",
+      "Access to equipment",
+      "Training intensity"
+    ],
+    "answer": 0,
+    "feedback": "Negative attitudes can reduce belonging and make participants feel their needs are unwelcome."
+  },
+  {
+    "id": "H14",
+    "kk": "Hormonal Considerations",
+    "domain": "Individualised physical-activity prescription",
+    "difficulty": "Application",
+    "q": "An athlete experiences severe menstrual pain that repeatedly interferes with training and everyday activities. Which response is most appropriate?",
+    "options": [
+      "Assume this is normal and encourage the athlete to ignore it.",
+      "Permanently remove all physical activity.",
+      "Encourage appropriate professional medical assessment and individual support.",
+      "Require the athlete to disclose the issue to teammates."
+    ],
+    "answer": 2,
+    "feedback": "Severe or persistent symptoms should receive appropriate professional attention rather than being dismissed or managed through blanket restrictions."
+  },
+  {
+    "id": "H15",
+    "kk": "Hormonal Considerations",
+    "domain": "Amenorrhea & Female Athlete Triad",
+    "difficulty": "Application",
+    "q": "An endurance athlete consistently consumes less energy than required for training and begins experiencing menstrual disturbance. Which additional health concern is associated with the Female Athlete Triad?",
+    "options": [
+      "Reduced bone health",
+      "Improved bone density",
+      "Increased flexibility",
+      "Improved reaction time"
+    ],
+    "answer": 0,
+    "feedback": "Low energy availability can affect menstrual function and compromise bone health."
+  },
+  {
+    "id": "H16",
+    "kk": "Hormonal Considerations",
+    "domain": "Amenorrhea & Female Athlete Triad",
+    "difficulty": "Application",
+    "q": "Which strategy would best help reduce the risk associated with the Female Athlete Triad?",
+    "options": [
+      "Encourage athletes to maintain the lowest possible body weight.",
+      "Ensure energy intake supports training demands and promote a healthy body image.",
+      "Ignore changes to menstrual health unless performance declines.",
+      "Increase training load whenever menstrual disturbance occurs."
+    ],
+    "answer": 1,
+    "feedback": "Adequate nutrition, healthy body image and attention to menstrual and bone health are appropriate preventative strategies."
+  },
+  {
+    "id": "H17",
+    "kk": "Hormonal Considerations",
+    "domain": "Local, national & global responses",
+    "difficulty": "Application",
+    "q": "A community sporting centre installs free menstrual products, private changing spaces and appropriate disposal facilities. The main purpose of these changes is to:",
+    "options": [
+      "guarantee improved athletic performance.",
+      "reduce practical barriers to access and participation.",
+      "determine athletes' menstrual cycle phases.",
+      "replace individualised physical-activity prescription."
+    ],
+    "answer": 1,
+    "feedback": "Suitable products and facilities remove practical barriers and can make participation more manageable."
+  },
+  {
+    "id": "H18",
+    "kk": "Hormonal Considerations",
+    "domain": "Local, national & global responses",
+    "difficulty": "Application",
+    "q": "The AIS provides education and menstrual-health resources for athletes, coaches and health professionals. Which outcome is this most likely designed to support?",
+    "options": [
+      "More informed and individualised responses to athletes' needs.",
+      "Identical training programs for all athletes.",
+      "Elimination of all menstrual symptoms.",
+      "Mandatory disclosure of menstrual information."
+    ],
+    "answer": 0,
+    "feedback": "Education can help athletes and support staff understand individual patterns and respond appropriately."
+  },
+  {
+    "id": "H19",
+    "kk": "Hormonal Considerations",
+    "domain": "Historical, current & future implications",
+    "difficulty": "Application",
+    "q": "In some sporting environments, loss of menstruation was historically regarded as evidence that an athlete was training hard enough. Why is this attitude problematic?",
+    "options": [
+      "Amenorrhea may indicate a health concern rather than superior fitness.",
+      "Amenorrhea guarantees improved sporting performance.",
+      "Menstruation is unrelated to athlete health.",
+      "Loss of menstruation increases bone mass."
+    ],
+    "answer": 0,
+    "feedback": "Menstrual disturbance may be associated with low energy availability and other health concerns and should not be celebrated as evidence of commitment."
+  },
+  {
+    "id": "H20",
+    "kk": "Hormonal Considerations",
+    "domain": "Individualised physical-activity prescription",
+    "difficulty": "Application",
+    "q": "An athlete's tracking app predicts that ovulation will occur tomorrow. Which conclusion is most appropriate?",
+    "options": [
+      "The app confirms the athlete's exact hormone levels.",
+      "The prediction is an estimate and should be considered alongside the athlete's individual symptoms and responses.",
+      "The athlete should automatically complete their hardest training session tomorrow.",
+      "The athlete should avoid training until the next cycle."
+    ],
+    "answer": 1,
+    "feedback": "Tracking may identify patterns, but app predictions do not confirm ovulation or hormone levels."
+  },
+  {
+    "id": "H21",
+    "kk": "Hormonal Considerations",
+    "domain": "Individualised physical-activity prescription",
+    "difficulty": "Stimulus",
+    "q": "An athlete records four sessions. Sessions with greater fatigue and discomfort are also the sessions in which less of the planned training is completed. Which conclusion is best supported?",
+    "options": [
+      "Menstruation always prevents training completion.",
+      "Higher reported symptoms were associated with lower session completion for this athlete.",
+      "Fatigue is the only influence on training completion.",
+      "Every future session should be reduced by the same amount."
+    ],
+    "answer": 1,
+    "feedback": "The pattern supports an individual association between symptom severity and session completion without proving a universal rule or single cause."
+  },
+  {
+    "id": "H22",
+    "kk": "Hormonal Considerations",
+    "domain": "Individualised physical-activity prescription",
+    "difficulty": "Stimulus",
+    "q": "Mia reports greater fatigue than usual during training. Her diary also shows that she slept for only four hours the previous night. Which interpretation is most appropriate?",
+    "options": [
+      "Her menstrual cycle must be the sole cause.",
+      "Her sleep must be the sole cause.",
+      "Both menstrual symptoms and other influences such as sleep should be considered.",
+      "She should stop physical activity permanently."
+    ],
+    "answer": 2,
+    "feedback": "Training responses should be interpreted individually and in context rather than attributed automatically to cycle phase."
+  },
+  {
+    "id": "H23",
+    "kk": "Hormonal Considerations",
+    "domain": "Period poverty & stigma",
+    "difficulty": "Stimulus",
+    "q": "A club survey identifies difficulty accessing menstrual products, embarrassment discussing menstruation and inadequate changing facilities. Which response best addresses the combination of barriers?",
+    "options": [
+      "Increase training intensity.",
+      "Provide free products, suitable facilities and confidential avenues for support.",
+      "Require public disclosure of menstrual cycles.",
+      "Remove menstruating athletes from competition."
+    ],
+    "answer": 1,
+    "feedback": "This strategy addresses financial, practical and social barriers together."
+  },
+  {
+    "id": "H24",
+    "kk": "Hormonal Considerations",
+    "domain": "Local, national & global responses",
+    "difficulty": "Stimulus",
+    "q": "A school introduces free menstrual products. Before the initiative, 24 students reported missing at least one physical-activity session because they did not have suitable products. Six months later, 8 students report the same problem. Which conclusion is best supported?",
+    "options": [
+      "The initiative may have reduced an access barrier.",
+      "The initiative has eliminated all barriers to physical activity.",
+      "Menstrual symptoms no longer affect any student.",
+      "Free products guarantee greater sporting performance."
+    ],
+    "answer": 0,
+    "feedback": "The reduction is consistent with improved access, but it does not prove that every menstrual-related barrier has disappeared."
+  },
+  {
+    "id": "H25",
+    "kk": "Hormonal Considerations",
+    "domain": "Hormones & menstrual cycle",
+    "difficulty": "Stimulus",
+    "q": "Over three menstrual cycles, an athlete records different levels of fatigue during the same phase each month. Which conclusion is most appropriate?",
+    "options": [
+      "One cycle can always predict every future cycle.",
+      "The athlete should use individual patterns over time rather than relying on a fixed rule for each phase.",
+      "The menstrual cycle has no relevance to exercise prescription.",
+      "Training should cease during that phase."
+    ],
+    "answer": 1,
+    "feedback": "Individual experiences can vary between cycles, so repeated monitoring is more useful than fixed assumptions."
+  },
+  {
+    "id": "H26",
+    "kk": "Hormonal Considerations",
+    "domain": "Local, national & global responses",
+    "difficulty": "Stimulus",
+    "q": "A professional sporting organisation has access to specialist hormone-monitoring technology, while a local community club cannot afford the same system. Which limitation does this example illustrate?",
+    "options": [
+      "Technology cannot collect useful information.",
+      "Cost and specialist support can create unequal access to emerging technology.",
+      "Community athletes do not experience hormonal changes.",
+      "Elite athletes no longer require individualised training."
+    ],
+    "answer": 1,
+    "feedback": "Advanced technologies may improve understanding but may not be equally accessible across sporting settings."
+  },
+  {
+    "id": "H27",
+    "kk": "Hormonal Considerations",
+    "domain": "Period poverty & stigma",
+    "difficulty": "SAC-style",
+    "q": "A netball club provides free menstrual products but athletes still report embarrassment asking coaches for support because menstruation is regularly joked about within the team. Which additional strategy would most effectively improve the situation?",
+    "options": [
+      "Remove the free menstrual products.",
+      "Introduce respectful menstrual-health education and confidential support processes.",
+      "Require all athletes to disclose their cycle publicly.",
+      "Reduce every athlete's training load."
+    ],
+    "answer": 1,
+    "feedback": "Free products address access, but respectful education and confidential support are also needed to address stigma and inclusion."
+  },
+  {
+    "id": "H28",
+    "kk": "Hormonal Considerations",
+    "domain": "Access, inclusion, participation & performance",
+    "difficulty": "SAC-style",
+    "q": "An athlete cannot afford menstrual products, feels embarrassed because teammates make negative comments, misses training, and performs poorly after returning because she has completed less preparation. Which sequence best matches the four effects described?",
+    "options": [
+      "Access → inclusion → participation → performance",
+      "Performance → access → inclusion → participation",
+      "Inclusion → participation → access → performance",
+      "Participation → performance → inclusion → access"
+    ],
+    "answer": 0,
+    "feedback": "Cost affects access; negative attitudes affect inclusion; missing training affects participation; reduced preparation may then affect performance."
+  },
+  {
+    "id": "H29",
+    "kk": "Hormonal Considerations",
+    "domain": "Historical, current & future implications",
+    "difficulty": "SAC-style",
+    "q": "Research into female athletes becomes more inclusive and coaches receive better education about menstrual health. Which future implication is most reasonable?",
+    "options": [
+      "Every athlete will respond identically to training.",
+      "Individualised exercise prescription may improve as knowledge and support increase.",
+      "Menstrual tracking will become unnecessary.",
+      "Hormonal considerations will no longer influence physical activity."
+    ],
+    "answer": 1,
+    "feedback": "Better research and education may allow more informed and individualised support while recognising that responses still vary."
+  },
+  {
+    "id": "H30",
+    "kk": "Hormonal Considerations",
+    "domain": "Individualised physical-activity prescription",
+    "difficulty": "SAC-style",
+    "q": "A coach wants to use menstrual information to modify an athlete's training program. Which approach is most appropriate?",
+    "options": [
+      "Require the athlete to share cycle information with the entire team.",
+      "Assume cycle phase predicts how the athlete will perform.",
+      "With the athlete's consent, privately monitor relevant symptoms and training responses and make adjustments when appropriate.",
+      "Automatically remove high-intensity exercise during menstruation."
+    ],
+    "answer": 2,
+    "feedback": "Appropriate prescription should be consensual, private and individualised rather than based on stereotypes or compulsory disclosure."
+  },
+  {
+    "id": "I01",
+    "kk": "Injuries & Safety",
+    "domain": "Injury impacts & mechanisms",
+    "difficulty": "Foundation",
+    "q": "Which one of the following is the best example of an acute injury?",
+    "options": [
+      "Achilles pain developing gradually after repeated running.",
+      "Knee damage caused by an awkward landing during a match.",
+      "Shoulder soreness developing after repeated swimming sessions.",
+      "Shin pain becoming progressively worse over several weeks."
+    ],
+    "answer": 1,
+    "feedback": "Acute injuries occur during a sudden event, such as a fall, collision, awkward landing or change of direction."
+  },
+  {
+    "id": "I02",
+    "kk": "Injuries & Safety",
+    "domain": "Injury impacts & mechanisms",
+    "difficulty": "Foundation",
+    "q": "An overuse injury is most likely to develop when:",
+    "options": [
+      "body tissues are repeatedly loaded without sufficient recovery.",
+      "an athlete experiences one unexpected collision.",
+      "an athlete changes direction once during a game.",
+      "protective equipment is fitted correctly."
+    ],
+    "answer": 0,
+    "feedback": "Overuse injuries can develop when repeated loading occurs without enough recovery time."
+  },
+  {
+    "id": "I03",
+    "kk": "Injuries & Safety",
+    "domain": "Injury impacts & mechanisms",
+    "difficulty": "Foundation",
+    "q": "Which situation most clearly demonstrates an injury affecting access to physical activity?",
+    "options": [
+      "An injured athlete feels disconnected from teammates.",
+      "A player cannot afford the rehabilitation required to return to sport.",
+      "Knee pain prevents an athlete from completing training.",
+      "Reduced strength slows an athlete during competition."
+    ],
+    "answer": 1,
+    "feedback": "Cost is a practical barrier to obtaining rehabilitation and therefore affects access."
+  },
+  {
+    "id": "I04",
+    "kk": "Injuries & Safety",
+    "domain": "Injury impacts & mechanisms",
+    "difficulty": "Foundation",
+    "q": "An injured footballer cannot compete for six weeks but continues attending team meetings and is given a role helping with drills. This strategy primarily supports the athlete's:",
+    "options": [
+      "inclusion.",
+      "aerobic capacity.",
+      "injury diagnosis.",
+      "reaction time."
+    ],
+    "answer": 0,
+    "feedback": "Maintaining contact and meaningful involvement can help an injured athlete continue to feel valued and connected."
+  },
+  {
+    "id": "I05",
+    "kk": "Injuries & Safety",
+    "domain": "Injury impacts & mechanisms",
+    "difficulty": "Foundation",
+    "q": "A runner stops attending training because knee pain makes running uncomfortable. The injury is most directly affecting:",
+    "options": [
+      "participation.",
+      "inclusion.",
+      "access to equipment.",
+      "officiating."
+    ],
+    "answer": 0,
+    "feedback": "The athlete is taking part less often because the injury limits involvement."
+  },
+  {
+    "id": "I06",
+    "kk": "Injuries & Safety",
+    "domain": "Concussion",
+    "difficulty": "Foundation",
+    "q": "Which statement about concussion is most accurate?",
+    "options": [
+      "Loss of consciousness must occur before concussion is suspected.",
+      "Concussion can occur after force to the head, neck or body and may temporarily disrupt brain function.",
+      "Concussion only occurs after a direct blow to the head.",
+      "An athlete without a headache cannot have concussion."
+    ],
+    "answer": 1,
+    "feedback": "Concussion may result from force transmitted to the brain, and loss of consciousness is not required."
+  },
+  {
+    "id": "I07",
+    "kk": "Injuries & Safety",
+    "domain": "Knee & ACL injuries",
+    "difficulty": "Foundation",
+    "q": "The anterior cruciate ligament assists primarily with:",
+    "options": [
+      "stabilising the knee and controlling forward and rotational movement.",
+      "producing energy for muscle contraction.",
+      "absorbing all impact through the ankle.",
+      "controlling shoulder movement."
+    ],
+    "answer": 0,
+    "feedback": "The ACL contributes to knee stability, including control of forward movement of the shin and rotational stability."
+  },
+  {
+    "id": "I08",
+    "kk": "Injuries & Safety",
+    "domain": "Injury prevention & safety",
+    "difficulty": "Foundation",
+    "q": "Which approach is most consistent with safe participation in physical activity?",
+    "options": [
+      "Increase training loads rapidly to improve adaptation.",
+      "Ignore minor warning signs until performance declines.",
+      "Match safety strategies to the activity risks and the participant's needs.",
+      "Use protective equipment as the only injury-prevention strategy."
+    ],
+    "answer": 2,
+    "feedback": "Safety strategies should match the specific risks of the activity and the individual participant."
+  },
+  {
+    "id": "I09",
+    "kk": "Injuries & Safety",
+    "domain": "Concussion",
+    "difficulty": "Application",
+    "q": "During a hockey match, Maya receives a heavy collision and appears confused and unsteady. What is the most appropriate immediate response?",
+    "options": [
+      "Allow her to continue if she reports no headache.",
+      "Remove her from participation and arrange appropriate assessment.",
+      "Let her rest for five minutes and then complete a running test.",
+      "Allow her to decide whether she feels safe to continue."
+    ],
+    "answer": 1,
+    "feedback": "Suspected concussion requires immediate removal from participation and appropriate assessment."
+  },
+  {
+    "id": "I10",
+    "kk": "Injuries & Safety",
+    "domain": "Concussion",
+    "difficulty": "Application",
+    "q": "An athlete with suspected concussion feels normal again ten minutes after leaving the field. Why should the athlete still not return immediately?",
+    "options": [
+      "Symptoms settling does not necessarily mean recovery is complete.",
+      "Every concussion causes permanent brain damage.",
+      "Athletes must always avoid physical activity for several months.",
+      "Feeling better proves the original symptoms were unrelated to concussion."
+    ],
+    "answer": 0,
+    "feedback": "Symptoms can improve before recovery is complete, and returning too early may expose the athlete to further injury."
+  },
+  {
+    "id": "I11",
+    "kk": "Injuries & Safety",
+    "domain": "Concussion",
+    "difficulty": "Application",
+    "q": "A concussed player returns too early and receives another heavy impact. Which consequence is most consistent with the lesson material?",
+    "options": [
+      "The second impact guarantees faster recovery.",
+      "Further injury may worsen the condition and prolong recovery.",
+      "The player automatically becomes immune to future concussion.",
+      "Continued participation reduces the need for medical assessment."
+    ],
+    "answer": 1,
+    "feedback": "Another impact before recovery may worsen the injury and increase time away from sport."
+  },
+  {
+    "id": "I12",
+    "kk": "Injuries & Safety",
+    "domain": "Concussion",
+    "difficulty": "Application",
+    "q": "A student recovering from concussion finds long periods of screen use worsen symptoms. Which strategy is most appropriate?",
+    "options": [
+      "Complete all schoolwork without breaks.",
+      "Avoid learning permanently.",
+      "Gradually resume learning and reduce activities that worsen symptoms.",
+      "Return to unrestricted sport before returning to school."
+    ],
+    "answer": 2,
+    "feedback": "Recovery should be gradual and individualised, including adjustments to learning where symptoms are aggravated."
+  },
+  {
+    "id": "I13",
+    "kk": "Injuries & Safety",
+    "domain": "Knee & ACL injuries",
+    "difficulty": "Application",
+    "q": "A netballer twists awkwardly, hears a pop and develops rapid knee swelling. Which response is most appropriate?",
+    "options": [
+      "Strap the knee and return if jogging feels comfortable.",
+      "Remove the athlete from play and arrange qualified assessment.",
+      "Complete several more direction changes to test stability.",
+      "Continue competing unless pain becomes severe."
+    ],
+    "answer": 1,
+    "feedback": "A pop, swelling and instability may indicate serious injury and require removal and professional assessment."
+  },
+  {
+    "id": "I14",
+    "kk": "Injuries & Safety",
+    "domain": "Knee & ACL injuries",
+    "difficulty": "Application",
+    "q": "Which movement is most closely associated with a possible non-contact ACL injury?",
+    "options": [
+      "Controlled walking in a straight line.",
+      "Sudden change of direction with poor knee control.",
+      "Seated upper-body stretching.",
+      "Standing still before competition."
+    ],
+    "answer": 1,
+    "feedback": "ACL injuries can occur during sudden stopping, direction changes and awkward landings."
+  },
+  {
+    "id": "I15",
+    "kk": "Injuries & Safety",
+    "domain": "Injury prevention & safety",
+    "difficulty": "Application",
+    "q": "A basketballer repeatedly lands with the knee moving inward. Which strategy is most appropriate?",
+    "options": [
+      "Increase the number of jumps without changing technique.",
+      "Use neuromuscular training incorporating strength, balance and controlled landing practice.",
+      "Avoid all jumping permanently.",
+      "Rely entirely on a knee brace."
+    ],
+    "answer": 1,
+    "feedback": "Neuromuscular training can improve movement control through strength, balance, agility and technique practice."
+  },
+  {
+    "id": "I16",
+    "kk": "Injuries & Safety",
+    "domain": "Knee & ACL injuries",
+    "difficulty": "Application",
+    "q": "Which statement best describes ACL injury risk?",
+    "options": [
+      "One single factor explains all ACL injuries.",
+      "Injury risk can reflect several interacting individual and environmental influences.",
+      "Female athletes will inevitably sustain ACL injuries.",
+      "Hormone levels alone determine ACL injury risk."
+    ],
+    "answer": 1,
+    "feedback": "ACL risk can reflect interacting factors such as anatomy, movement control, strength, training opportunities and sporting environment."
+  },
+  {
+    "id": "I17",
+    "kk": "Injuries & Safety",
+    "domain": "Injury prevention & safety",
+    "difficulty": "Application",
+    "q": "Girls at a sporting club have limited access to strength training and receive little coaching in landing or change-of-direction technique. Why may this be relevant to injury prevention?",
+    "options": [
+      "Training opportunities can influence strength and movement control.",
+      "Strength training guarantees that no knee injury will occur.",
+      "Landing technique has no relationship with knee loading.",
+      "Injury prevention is solely the athlete's responsibility."
+    ],
+    "answer": 0,
+    "feedback": "Access to suitable training and coaching can influence modifiable factors such as strength and movement control."
+  },
+  {
+    "id": "I18",
+    "kk": "Injuries & Safety",
+    "domain": "Rehabilitation & return to sport",
+    "difficulty": "Application",
+    "q": "An athlete has completed the expected rehabilitation time after an ACL injury but still lacks strength and confidence. Which conclusion is most appropriate?",
+    "options": [
+      "Time since injury alone proves the athlete is ready to compete.",
+      "Return should depend on individual recovery criteria and clinical assessment.",
+      "Confidence is unrelated to return to sport.",
+      "Competition should always resume before training."
+    ],
+    "answer": 1,
+    "feedback": "Rehabilitation should restore physical and psychological readiness; time alone does not establish readiness."
+  },
+  {
+    "id": "I19",
+    "kk": "Injuries & Safety",
+    "domain": "Injury impacts & mechanisms",
+    "difficulty": "Application",
+    "q": "Sam has returned to training following a knee injury. His leg strength remains reduced and he hesitates during direction changes. What is the most likely effect?",
+    "options": [
+      "Improved skill execution.",
+      "Reduced sporting performance.",
+      "Improved access to rehabilitation.",
+      "Greater inclusion in the team."
+    ],
+    "answer": 1,
+    "feedback": "Reduced strength and fear of reinjury may impair movement control and skill execution."
+  },
+  {
+    "id": "I20",
+    "kk": "Injuries & Safety",
+    "domain": "Rehabilitation & return to sport",
+    "difficulty": "Application",
+    "q": "A rural athlete must travel several hours and pay substantial fees to receive specialist rehabilitation. This most directly demonstrates:",
+    "options": [
+      "an access barrier.",
+      "improved inclusion.",
+      "psychological skill development.",
+      "safer officiating."
+    ],
+    "answer": 0,
+    "feedback": "Cost and location can restrict access to appropriate recovery support."
+  },
+  {
+    "id": "I21",
+    "kk": "Injuries & Safety",
+    "domain": "Responsibility & sporting systems",
+    "difficulty": "Application",
+    "q": "Which action best reflects an athlete's responsibility for sporting safety?",
+    "options": [
+      "Hiding symptoms to avoid losing selection.",
+      "Reporting injury symptoms and concerns.",
+      "Diagnosing their own concussion.",
+      "Ignoring medical advice when feeling better."
+    ],
+    "answer": 1,
+    "feedback": "Athletes contribute to safety by reporting symptoms and injury concerns rather than concealing them."
+  },
+  {
+    "id": "I22",
+    "kk": "Injuries & Safety",
+    "domain": "Responsibility & sporting systems",
+    "difficulty": "Application",
+    "q": "A coach notices that an injured player is being pressured by teammates to return before medical clearance. Which response is most appropriate?",
+    "options": [
+      "Encourage the athlete to play through the injury.",
+      "Prioritise athlete welfare and support appropriate recovery.",
+      "Allow teammates to decide whether the athlete returns.",
+      "Ignore the situation because safety is solely the athlete's responsibility."
+    ],
+    "answer": 1,
+    "feedback": "Coaches should provide safe preparation and avoid pressuring athletes to continue when injured."
+  },
+  {
+    "id": "I23",
+    "kk": "Injuries & Safety",
+    "domain": "Injury impacts & mechanisms",
+    "difficulty": "Stimulus",
+    "q": "A sports club records 18 injury presentations for ages 8–9, 42 for ages 10–14, 37 for ages 15–19 and 25 for ages 20–24. Which conclusion is best supported?",
+    "options": [
+      "The 10–14 age group recorded the most injury presentations in this sample.",
+      "Injury risk always decreases with age.",
+      "Every 10–14-year-old participant will be injured.",
+      "Age is the only factor influencing injury."
+    ],
+    "answer": 0,
+    "feedback": "The data support a comparison of the recorded groups but do not establish universal injury risk or prove a single cause."
+  },
+  {
+    "id": "I24",
+    "kk": "Injuries & Safety",
+    "domain": "Injury prevention & safety",
+    "difficulty": "Stimulus",
+    "q": "A coach records increasingly high training loads alongside increasing athlete fatigue over four weeks. What is the most appropriate response?",
+    "options": [
+      "Continue increasing training regardless of fatigue.",
+      "Review training load and ensure adequate recovery.",
+      "Eliminate all future training.",
+      "Assume the athlete has a concussion."
+    ],
+    "answer": 1,
+    "feedback": "Gradual training progression and adequate recovery are strategies used to reduce injury risk."
+  },
+  {
+    "id": "I25",
+    "kk": "Injuries & Safety",
+    "domain": "Rehabilitation & return to sport",
+    "difficulty": "Stimulus",
+    "q": "During rehabilitation, an athlete's leg strength improves from 60% to 90% of pre-injury level, confidence improves, and change-of-direction control improves. Which conclusion is best supported?",
+    "options": [
+      "Rehabilitation has improved several indicators of readiness.",
+      "The athlete is automatically ready for competition.",
+      "Confidence is the only factor relevant to return.",
+      "Time since injury is the only necessary criterion."
+    ],
+    "answer": 0,
+    "feedback": "Strength, movement control and confidence have improved, although return should still follow appropriate individual assessment."
+  },
+  {
+    "id": "I26",
+    "kk": "Injuries & Safety",
+    "domain": "Injury prevention & safety",
+    "difficulty": "Stimulus",
+    "q": "A team introduces a warm-up containing lower-body strength, balance, agility and controlled landing activities. Knee injuries decrease during the following season. Which conclusion is most appropriate?",
+    "options": [
+      "The program may have contributed to reducing modifiable injury risk.",
+      "The program guarantees no future knee injury will occur.",
+      "Protective equipment is now unnecessary in every sport.",
+      "Every knee injury has the same cause."
+    ],
+    "answer": 0,
+    "feedback": "Neuromuscular programs can reduce modifiable risk, but no program can prevent every injury."
+  },
+  {
+    "id": "I27",
+    "kk": "Injuries & Safety",
+    "domain": "Rehabilitation & return to sport",
+    "difficulty": "Stimulus",
+    "q": "A professional club uses cryotherapy and dynamic air compression, while a community club cannot afford either technique. What issue does this demonstrate?",
+    "options": [
+      "Recovery resources may differ between sporting settings.",
+      "Community athletes do not require recovery.",
+      "Expensive technology guarantees better outcomes.",
+      "Injury management is unrelated to financial resources."
+    ],
+    "answer": 0,
+    "feedback": "Some recovery technologies are more accessible to organisations with greater financial resources."
+  },
+  {
+    "id": "I28",
+    "kk": "Injuries & Safety",
+    "domain": "Concussion",
+    "difficulty": "Stimulus",
+    "q": "Before concussion education, 14 athletes reported that they would continue playing after feeling dizzy following a collision. After education, only 4 reported that they would continue. Which conclusion is best supported?",
+    "options": [
+      "Education may have improved recognition of the need to withdraw from play.",
+      "Education eliminates all concussions.",
+      "Dizziness is unrelated to concussion.",
+      "Education proves that injury rates will fall to zero."
+    ],
+    "answer": 0,
+    "feedback": "Education can improve awareness and willingness to respond appropriately, although it cannot eliminate all injury."
+  },
+  {
+    "id": "I29",
+    "kk": "Injuries & Safety",
+    "domain": "Injury impacts & mechanisms",
+    "difficulty": "Stimulus",
+    "q": "An injured netballer cannot afford private physiotherapy, feels disconnected after missing team activities, attends fewer training sessions and moves more slowly after returning. Which sequence correctly identifies the effects?",
+    "options": [
+      "Access → inclusion → participation → performance",
+      "Inclusion → access → performance → participation",
+      "Participation → performance → access → inclusion",
+      "Performance → inclusion → access → participation"
+    ],
+    "answer": 0,
+    "feedback": "Rehabilitation cost affects access; disconnection affects inclusion; fewer sessions affects participation; slower movement affects performance."
+  },
+  {
+    "id": "I30",
+    "kk": "Injuries & Safety",
+    "domain": "Concussion",
+    "difficulty": "SAC-style",
+    "q": "A junior sporting league introduces a rule requiring athletes with suspected concussion to be removed from play, assessed appropriately and complete a gradual return process. How is this most likely to reduce the impact of injury?",
+    "options": [
+      "It guarantees that concussion will never occur.",
+      "It reduces the likelihood of continued participation while the athlete may still be recovering.",
+      "It allows athletes to return as soon as symptoms briefly disappear.",
+      "It places all responsibility for concussion on the athlete."
+    ],
+    "answer": 1,
+    "feedback": "Removal and controlled return reduce exposure to further injury during recovery and place athlete welfare ahead of immediate performance."
+  },
+  {
+    "id": "I31",
+    "kk": "Injuries & Safety",
+    "domain": "Historical, current & future implications",
+    "difficulty": "SAC-style",
+    "q": "Historically, athletes were sometimes praised for 'playing through pain'. Current sporting practice increasingly encourages injury reporting and appropriate assessment. What does this change most clearly demonstrate?",
+    "options": [
+      "A shift from prioritising toughness toward prioritising athlete welfare.",
+      "A reduction in the importance of participant safety.",
+      "A return to earlier sporting attitudes.",
+      "An expectation that athletes diagnose their own injuries."
+    ],
+    "answer": 0,
+    "feedback": "Current approaches increasingly prioritise athlete wellbeing rather than treating continued participation while injured as evidence of toughness."
+  },
+  {
+    "id": "I32",
+    "kk": "Injuries & Safety",
+    "domain": "Injury prevention & safety",
+    "difficulty": "SAC-style",
+    "q": "A soccer club wants to reduce lower-limb injuries. It introduces strength and movement training but makes no changes to an unsafe playing surface. Which evaluation is most appropriate?",
+    "options": [
+      "The program is sufficient because strength training removes every injury risk.",
+      "The strategy addresses some individual risks but should also address environmental hazards.",
+      "Playing surfaces cannot influence injury.",
+      "The club should stop strength training completely."
+    ],
+    "answer": 1,
+    "feedback": "Injury prevention should address relevant individual and environmental risks rather than relying on one strategy alone."
+  },
+  {
+    "id": "I33",
+    "kk": "Injuries & Safety",
+    "domain": "Injury prevention & safety",
+    "difficulty": "SAC-style",
+    "q": "An athlete has completed several weeks of intense training and reports high fatigue but no specific injury. Which strategy is most appropriate for reducing injury risk?",
+    "options": [
+      "Increase training volume further.",
+      "Include adequate rest and recovery to reduce fatigue associated with overtraining.",
+      "Avoid all nutrition following training.",
+      "Wait until an injury develops before changing the program."
+    ],
+    "answer": 1,
+    "feedback": "Adequate recovery can reduce fatigue and the risk of injuries associated with excessive training load."
+  },
+  {
+    "id": "I34",
+    "kk": "Injuries & Safety",
+    "domain": "Responsibility & sporting systems",
+    "difficulty": "SAC-style",
+    "q": "An elite athlete has immediate access to medical staff and specialist rehabilitation technology after injury, while a community athlete has limited local services. Which conclusion best reflects this comparison?",
+    "options": [
+      "Injury management resources can vary considerably between sporting settings.",
+      "Community athletes experience less serious injuries.",
+      "Elite injury-management strategies are automatically appropriate for every community club.",
+      "Access to support has no influence on recovery."
+    ],
+    "answer": 0,
+    "feedback": "The material identifies resource differences between elite and community settings as an important access consideration."
+  },
+  {
+    "id": "I35",
+    "kk": "Injuries & Safety",
+    "domain": "Historical, current & future implications",
+    "difficulty": "SAC-style",
+    "q": "Future injury-management technology becomes more effective but remains expensive. Which outcome is most consistent with the course material?",
+    "options": [
+      "Innovation will automatically improve safety equally for every participant.",
+      "New technology may improve injury management, but cost may restrict who can access it.",
+      "Traditional prevention strategies will become unnecessary.",
+      "Community clubs will no longer need coach education."
+    ],
+    "answer": 1,
+    "feedback": "Future developments may improve prevention and rehabilitation, but strategies also need to be practical, affordable and accessible."
+  }
+]
