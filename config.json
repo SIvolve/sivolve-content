@@ -1,4 +1,4 @@
-{
+ased{
   "subject": "VCE Physical Education",
   "unit": "Unit 2",
   "area_of_study": "Area of Study 2",
@@ -23,7 +23,7 @@
     },
     {
       "name": "Mental Fitness",
-      "status": "coming_soon",
+      "status": "released",
       "unit": "Unit 2",
       "aos": "Area of Study 2"
     }
