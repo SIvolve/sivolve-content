@@ -5,19 +5,27 @@
   "released": [
     {
       "name": "Hormonal Considerations",
-      "status": "released"
+      "status": "released",
+      "unit": "Unit 2",
+      "aos": "Area of Study 2"
     },
     {
       "name": "Injuries & Safety",
-      "status": "released"
+      "status": "released",
+      "unit": "Unit 2",
+      "aos": "Area of Study 2"
     },
     {
       "name": "Psychological Skills & Sleep",
-      "status": "coming_soon"
+      "status": "coming_soon",
+      "unit": "Unit 2",
+      "aos": "Area of Study 2"
     },
     {
       "name": "Mental Fitness",
-      "status": "coming_soon"
+      "status": "coming_soon",
+      "unit": "Unit 2",
+      "aos": "Area of Study 2"
     }
   ]
 }
