@@ -1423,5 +1423,455 @@
     ],
     "answer": 3,
     "feedback": "Event scheduling can affect sleep and recovery, so athlete wellbeing should be considered alongside commercial and audience demands."
+  },
+  {
+    "id": "M01",
+    "kk": "Mental Fitness",
+    "domain": "Understanding mental fitness",
+    "difficulty": "Foundation",
+    "q": "Which statement best describes mental fitness?",
+    "options": [
+      "The absence of all mental-health difficulties.",
+      "Skills and habits that help people cope with challenges and support wellbeing.",
+      "The ability to ignore stress during competition.",
+      "A measure of physical strength and endurance."
+    ],
+    "answer": 1,
+    "feedback": "Mental fitness involves skills that support coping and wellbeing. It does not mean a person will never experience mental-health difficulties."
+  },
+  {
+    "id": "M02",
+    "kk": "Mental Fitness",
+    "domain": "Components of mental fitness",
+    "difficulty": "Foundation",
+    "q": "Which of the following is a component of mental fitness?",
+    "options": [
+      "Maximum aerobic capacity.",
+      "Reaction time.",
+      "Emotional resilience.",
+      "Flexibility."
+    ],
+    "answer": 2,
+    "feedback": "Emotional resilience is one component of mental fitness and involves adapting to setbacks and difficulties."
+  },
+  {
+    "id": "M03",
+    "kk": "Mental Fitness",
+    "domain": "Cognitive functioning",
+    "difficulty": "Foundation",
+    "q": "Cognitive functioning most directly involves:",
+    "options": [
+      "thinking, learning, decision-making and problem-solving.",
+      "muscular strength and power.",
+      "access to sporting facilities.",
+      "competition scheduling."
+    ],
+    "answer": 0,
+    "feedback": "Cognitive functioning supports attention, learning, decision-making and problem-solving."
+  },
+  {
+    "id": "M04",
+    "kk": "Mental Fitness",
+    "domain": "Social connection",
+    "difficulty": "Foundation",
+    "q": "How can social connection contribute to mental fitness?",
+    "options": [
+      "By removing the need for recovery.",
+      "By guaranteeing improved sporting performance.",
+      "By preventing all stress.",
+      "By providing belonging, support and meaningful relationships."
+    ],
+    "answer": 3,
+    "feedback": "Supportive relationships can provide belonging and help people cope with challenges."
+  },
+  {
+    "id": "M05",
+    "kk": "Mental Fitness",
+    "domain": "Physical activity & mental fitness",
+    "difficulty": "Foundation",
+    "q": "Which statement about physical activity and mental fitness is most accurate?",
+    "options": [
+      "Physical activity prevents all mental illness.",
+      "Physical activity may support mood, coping and social connection, but benefits vary between individuals.",
+      "Only competitive sport can support mental fitness.",
+      "Physical activity removes the need for professional support."
+    ],
+    "answer": 1,
+    "feedback": "Physical activity can support wellbeing, but outcomes vary and some people may also require professional support."
+  },
+  {
+    "id": "M06",
+    "kk": "Mental Fitness",
+    "domain": "Stress management",
+    "difficulty": "Foundation",
+    "q": "Which strategy is most directly associated with managing stress in sport?",
+    "options": [
+      "Increasing training whenever an athlete feels overwhelmed.",
+      "Avoiding all competition.",
+      "Using controlled breathing or mindfulness to manage pressure.",
+      "Ignoring signs of fatigue."
+    ],
+    "answer": 2,
+    "feedback": "Controlled breathing and mindfulness can help athletes manage physical tension and focus on the present moment."
+  },
+  {
+    "id": "M07",
+    "kk": "Mental Fitness",
+    "domain": "Emotional resilience",
+    "difficulty": "Foundation",
+    "q": "Emotional resilience is best described as:",
+    "options": [
+      "the ability to adapt constructively to setbacks and challenges.",
+      "never experiencing disappointment.",
+      "avoiding situations where failure is possible.",
+      "maintaining the same emotional response in every situation."
+    ],
+    "answer": 0,
+    "feedback": "Resilience involves acknowledging setbacks and responding constructively rather than avoiding all difficulty."
+  },
+  {
+    "id": "M08",
+    "kk": "Mental Fitness",
+    "domain": "Elite sport pathways",
+    "difficulty": "Foundation",
+    "q": "An elite sport pathway is most likely to include:",
+    "options": [
+      "only recreational physical activity.",
+      "informal games with no organised coaching.",
+      "activities designed solely for beginners.",
+      "academies, representative squads and specialised development programs."
+    ],
+    "answer": 3,
+    "feedback": "Elite pathways support athletes progressing towards higher levels through specialised coaching and development opportunities."
+  },
+  {
+    "id": "M09",
+    "kk": "Mental Fitness",
+    "domain": "Beginning activity",
+    "difficulty": "Application",
+    "q": "A beginner stops attending a fitness program after making several mistakes during the first session. Which strategy would most appropriately support continued participation?",
+    "options": [
+      "Increase the difficulty immediately.",
+      "Tell the participant mistakes should never occur.",
+      "Set achievable challenges and provide constructive feedback about progress.",
+      "Compare the participant publicly with the strongest member of the group."
+    ],
+    "answer": 2,
+    "feedback": "Achievable challenges and constructive feedback can support confidence, motivation and willingness to continue."
+  },
+  {
+    "id": "M10",
+    "kk": "Mental Fitness",
+    "domain": "Social connection",
+    "difficulty": "Application",
+    "q": "A community walking group wants new participants to feel more included. Which strategy is most appropriate?",
+    "options": [
+      "Require participants to walk alone.",
+      "Create welcoming group activities and opportunities for participants to interact.",
+      "Remove all beginner sessions.",
+      "Rank participants according to speed."
+    ],
+    "answer": 1,
+    "feedback": "Meaningful interaction and a shared purpose can strengthen social connection and belonging."
+  },
+  {
+    "id": "M11",
+    "kk": "Mental Fitness",
+    "domain": "Access, inclusion, participation & performance",
+    "difficulty": "Application",
+    "q": "A person wants to become active but is unsure what local opportunities are available. Which strategy would most directly improve access?",
+    "options": [
+      "Increase training intensity.",
+      "Require specialist equipment before joining.",
+      "Reduce the number of available programs.",
+      "Provide clear information about location, cost, activity type and available support."
+    ],
+    "answer": 3,
+    "feedback": "Accessible information can reduce uncertainty and help people identify suitable opportunities."
+  },
+  {
+    "id": "M12",
+    "kk": "Mental Fitness",
+    "domain": "Physical activity & mental fitness",
+    "difficulty": "Application",
+    "q": "A participant joins a recreational basketball program, enjoys learning new skills and develops new friendships. Which mental-fitness benefits are most clearly demonstrated?",
+    "options": [
+      "Achievement and social connection.",
+      "Increased physiological arousal only.",
+      "Reduced access to activity.",
+      "Elimination of all future stress."
+    ],
+    "answer": 0,
+    "feedback": "Skill development can provide achievement, while shared activity can strengthen social connection."
+  },
+  {
+    "id": "M13",
+    "kk": "Mental Fitness",
+    "domain": "Supporting positive experiences",
+    "difficulty": "Application",
+    "q": "Which approach is most likely to support a positive physical-activity experience?",
+    "options": [
+      "Requiring everyone to perform at the same level.",
+      "Using public comparison to increase pressure.",
+      "Providing choice, achievable challenge and a supportive environment.",
+      "Discouraging beginners from asking for help."
+    ],
+    "answer": 2,
+    "feedback": "Choice, achievable success and supportive environments can strengthen enjoyment and continued participation."
+  },
+  {
+    "id": "M14",
+    "kk": "Mental Fitness",
+    "domain": "Stress management",
+    "difficulty": "Application",
+    "q": "An athlete is struggling to balance training, schoolwork and recovery and is becoming increasingly stressed. Which response is most appropriate?",
+    "options": [
+      "Add extra training sessions.",
+      "Review the schedule and plan time for training, schoolwork and recovery.",
+      "Stop communicating with support people.",
+      "Ignore the issue unless performance declines."
+    ],
+    "answer": 1,
+    "feedback": "Planning and workload management can help athletes manage competing demands."
+  },
+  {
+    "id": "M15",
+    "kk": "Mental Fitness",
+    "domain": "Emotional resilience",
+    "difficulty": "Application",
+    "q": "An athlete is not selected for a representative team. Which response best demonstrates emotional resilience?",
+    "options": [
+      "Stop participating permanently.",
+      "Blame teammates for the decision.",
+      "Avoid asking for feedback.",
+      "Acknowledge the disappointment, seek constructive feedback and set achievable improvement goals."
+    ],
+    "answer": 3,
+    "feedback": "Resilience involves responding constructively to setbacks and identifying appropriate next steps."
+  },
+  {
+    "id": "M16",
+    "kk": "Mental Fitness",
+    "domain": "Cognitive functioning",
+    "difficulty": "Application",
+    "q": "During a match, a footballer notices an unmarked teammate and quickly selects an appropriate pass. Which component of mental fitness is most directly involved?",
+    "options": [
+      "Cognitive functioning.",
+      "Social exclusion.",
+      "Structural access.",
+      "Physical strength."
+    ],
+    "answer": 0,
+    "feedback": "Cognitive functioning supports information processing, decision-making and problem-solving during performance."
+  },
+  {
+    "id": "M17",
+    "kk": "Mental Fitness",
+    "domain": "Help-seeking & referral",
+    "difficulty": "Application",
+    "q": "An athlete in a development pathway is experiencing ongoing difficulties but worries that asking for help will affect selection. Which organisational response is most appropriate?",
+    "options": [
+      "Tell athletes that seeking help shows a lack of commitment.",
+      "Require concerns to be discussed publicly.",
+      "Provide confidential support options and clear referral pathways that do not unfairly penalise help-seeking.",
+      "Remove the athlete from the pathway immediately."
+    ],
+    "answer": 2,
+    "feedback": "Supportive help-seeking cultures reduce fear and make appropriate assistance easier to access."
+  },
+  {
+    "id": "M18",
+    "kk": "Mental Fitness",
+    "domain": "Help-seeking & referral",
+    "difficulty": "Application",
+    "q": "An athlete tells a coach they are experiencing significant ongoing psychological difficulties. What is the most appropriate role for the coach?",
+    "options": [
+      "Diagnose the athlete's condition.",
+      "Listen, provide appropriate support and connect the athlete with qualified professional help when needed.",
+      "Provide treatment without specialist support.",
+      "Ignore the issue unless performance changes."
+    ],
+    "answer": 1,
+    "feedback": "Coaches can support athletes and facilitate referral, but diagnosis and treatment should be provided by appropriately qualified professionals."
+  },
+  {
+    "id": "M19",
+    "kk": "Mental Fitness",
+    "domain": "Workload & recovery",
+    "difficulty": "Application",
+    "q": "An academy athlete reports persistent fatigue, poor concentration and reduced enjoyment after several weeks of increased training and travel. Which response is most appropriate?",
+    "options": [
+      "Increase workload further to build resilience.",
+      "Remove all recovery opportunities.",
+      "Assume the athlete lacks motivation.",
+      "Review training and travel demands and adjust workload and recovery where appropriate."
+    ],
+    "answer": 3,
+    "feedback": "Monitoring and adjusting workload can address fatigue and support wellbeing and continued participation."
+  },
+  {
+    "id": "M20",
+    "kk": "Mental Fitness",
+    "domain": "Organisational responsibility",
+    "difficulty": "Application",
+    "q": "A development program changes training times every week with little notice. Athletes struggle to plan schoolwork and sleep. This example best demonstrates:",
+    "options": [
+      "organisational decisions influencing individual wellbeing and participation.",
+      "an athlete's physical fitness determining access.",
+      "mental fitness eliminating environmental barriers.",
+      "a purely intrapersonal issue."
+    ],
+    "answer": 0,
+    "feedback": "Organisational conditions such as scheduling can influence fatigue, concentration, motivation and participation."
+  },
+  {
+    "id": "M21",
+    "kk": "Mental Fitness",
+    "domain": "Workload & recovery",
+    "difficulty": "Stimulus",
+    "q": "An academy records the following observations over four weeks: Week 1—moderate workload, low fatigue; Week 2—moderate workload, low fatigue; Week 3—high workload, high fatigue; Week 4—high workload, reduced enjoyment and concentration. Which conclusion is best supported?",
+    "options": [
+      "High workload always causes poor mental health.",
+      "The athlete should stop training permanently.",
+      "Increased workload was associated with greater fatigue and reduced enjoyment and concentration in this case.",
+      "Training workload cannot influence mental fitness."
+    ],
+    "answer": 2,
+    "feedback": "The pattern shows an association in this case but does not prove that workload is the only influence."
+  },
+  {
+    "id": "M22",
+    "kk": "Mental Fitness",
+    "domain": "Help-seeking & referral",
+    "difficulty": "Stimulus",
+    "q": "A survey of academy athletes finds that 72% know where to access support, 38% believe asking for help may affect selection, and 31% say they would speak to their coach about a wellbeing concern. Which action would most directly address the identified barrier?",
+    "options": [
+      "Increase training demands.",
+      "Strengthen confidential support processes and reassure athletes that appropriate help-seeking will not unfairly affect selection.",
+      "Require public disclosure of concerns.",
+      "Remove support services from the academy."
+    ],
+    "answer": 1,
+    "feedback": "Fear of selection consequences is a barrier to help-seeking, so confidential and fair support processes directly address that concern."
+  },
+  {
+    "id": "M23",
+    "kk": "Mental Fitness",
+    "domain": "Physical activity & mental fitness",
+    "difficulty": "Stimulus",
+    "q": "Participants in a community program report greater enjoyment after six weeks, increased social connection and improved confidence in completing activities. Some participants still require professional mental-health support. Which conclusion is most appropriate?",
+    "options": [
+      "Physical activity has cured all mental-health difficulties.",
+      "Professional support is unnecessary once activity begins.",
+      "Social connection has no relationship with mental fitness.",
+      "Physical activity may support several aspects of mental fitness while some people still require additional professional support."
+    ],
+    "answer": 3,
+    "feedback": "Physical activity can support wellbeing, confidence and connection without replacing professional care when it is needed."
+  },
+  {
+    "id": "M24",
+    "kk": "Mental Fitness",
+    "domain": "Organisational responsibility",
+    "difficulty": "Stimulus",
+    "q": "An elite volleyball program adds two late-night training sessions each week. An athlete subsequently reports fatigue and difficulty concentrating at school. Which relationship is most accurately described?",
+    "options": [
+      "The organisational training schedule may influence the athlete's fatigue and concentration.",
+      "Fatigue is solely an organisational factor.",
+      "Concentration cannot be affected by scheduling.",
+      "The athlete's response proves that late training is unsuitable for every athlete."
+    ],
+    "answer": 0,
+    "feedback": "Organisational conditions can influence intrapersonal responses such as fatigue and concentration."
+  },
+  {
+    "id": "M25",
+    "kk": "Mental Fitness",
+    "domain": "Local, national & global perspectives",
+    "difficulty": "Stimulus",
+    "q": "A metropolitan academy employs psychologists, dietitians and welfare staff. A smaller regional program has one coach and relies on external community services. Which conclusion is best supported?",
+    "options": [
+      "Regional athletes do not require wellbeing support.",
+      "Specialist support guarantees better performance.",
+      "Access to specialist mental-fitness support may differ between sporting pathways and locations.",
+      "Community services cannot support athletes."
+    ],
+    "answer": 2,
+    "feedback": "Resources and location can influence access to specialist support across different sporting environments."
+  },
+  {
+    "id": "M26",
+    "kk": "Mental Fitness",
+    "domain": "Workload & recovery",
+    "difficulty": "SAC-style",
+    "q": "An elite swimmer attends early-morning training three times each week, reports persistent fatigue and is struggling to concentrate at school. The athlete fears that asking for fewer sessions may affect selection. Which action is most appropriate?",
+    "options": [
+      "Require the athlete to continue the same workload.",
+      "Consult with the athlete, review the training schedule and adjust workload or recovery opportunities where appropriate.",
+      "Tell the athlete that fatigue is solely their responsibility.",
+      "Remove the athlete from the pathway."
+    ],
+    "answer": 1,
+    "feedback": "Reviewing workload is within the pathway's control and can address fatigue while respecting the athlete's individual needs."
+  },
+  {
+    "id": "M27",
+    "kk": "Mental Fitness",
+    "domain": "Organisational responsibility",
+    "difficulty": "SAC-style",
+    "q": "Which sequence best explains how an organisational decision may influence participation?",
+    "options": [
+      "Reduced sleep → unpredictable schedule → improved motivation → increased participation.",
+      "Improved belonging → unequal support → reduced confidence → increased participation.",
+      "Unpredictable scheduling → reduced recovery → fatigue and lower motivation → reduced participation.",
+      "Higher workload → greater fatigue → guaranteed improved performance → increased participation."
+    ],
+    "answer": 2,
+    "feedback": "Organisational scheduling can influence recovery and individual responses, which may then affect willingness or ability to participate."
+  },
+  {
+    "id": "M28",
+    "kk": "Mental Fitness",
+    "domain": "Organisational responsibility",
+    "difficulty": "SAC-style",
+    "q": "Athletes in an elite pathway report anxiety, fatigue and uncertainty about where to seek help. Which strategy best demonstrates organisational responsibility?",
+    "options": [
+      "Leave all wellbeing decisions to individual athletes.",
+      "Require coaches to diagnose psychological conditions.",
+      "Focus only on competition results.",
+      "Provide regular private check-ins, monitor workload and recovery, and establish clear professional referral pathways."
+    ],
+    "answer": 3,
+    "feedback": "Elite pathways share responsibility for athlete wellbeing through practical support, monitoring and appropriate referral systems."
+  },
+  {
+    "id": "M29",
+    "kk": "Mental Fitness",
+    "domain": "Historical, current & future implications",
+    "difficulty": "SAC-style",
+    "q": "Which statement best describes a change in attitudes towards mental fitness in sport?",
+    "options": [
+      "Sport has increasingly shifted from viewing help-seeking as weakness towards recognising wellbeing and support as part of athlete development.",
+      "Modern sport places less emphasis on athlete wellbeing than in the past.",
+      "Current approaches discourage athletes from discussing difficulties.",
+      "Mental fitness is now considered relevant only after problems occur."
+    ],
+    "answer": 0,
+    "feedback": "Contemporary approaches increasingly recognise mental fitness, early support and help-seeking as important parts of athlete development."
+  },
+  {
+    "id": "M30",
+    "kk": "Mental Fitness",
+    "domain": "Historical, current & future implications",
+    "difficulty": "SAC-style",
+    "q": "A national sporting organisation plans to introduce online mental-fitness education and regular wellbeing check-ins across development pathways. Which evaluation is most appropriate?",
+    "options": [
+      "Online delivery will automatically provide equal access to every athlete.",
+      "Regular check-ins remove the need for professional referral.",
+      "The approach may improve early support and access, but connectivity, privacy, cost and effectiveness should still be evaluated.",
+      "Mental-fitness education should replace physical training."
+    ],
+    "answer": 2,
+    "feedback": "Future strategies may improve access and early support, but practical issues such as privacy, connectivity and effectiveness must still be considered."
   }
 ]
