@@ -973,5 +973,455 @@
     ],
     "answer": 1,
     "feedback": "Future developments may improve prevention and rehabilitation, but strategies also need to be practical, affordable and accessible."
+  },
+  {
+    "id": "P01",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Confidence & self-efficacy",
+    "difficulty": "Foundation",
+    "q": "Which statement best describes confidence in relation to physical activity and sport?",
+    "options": [
+      "The ability to maintain the same training load in every situation.",
+      "Belief in your ability to succeed or perform effectively.",
+      "The amount of enjoyment gained from an activity.",
+      "The ability to ignore feedback from others."
+    ],
+    "answer": 1,
+    "feedback": "Confidence involves belief in your ability to succeed. It can influence whether someone is willing to begin, continue or perform an activity."
+  },
+  {
+    "id": "P02",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Motivation & autonomy support",
+    "difficulty": "Foundation",
+    "q": "Which example best demonstrates intrinsic motivation?",
+    "options": [
+      "Exercising to receive a prize.",
+      "Training because a coach has threatened extra work.",
+      "Participating because the activity is enjoyable and personally satisfying.",
+      "Playing sport only to gain social-media attention."
+    ],
+    "answer": 2,
+    "feedback": "Intrinsic motivation comes from internal enjoyment or satisfaction rather than external rewards or pressure."
+  },
+  {
+    "id": "P03",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Concentration",
+    "difficulty": "Foundation",
+    "q": "Concentration is best described as:",
+    "options": [
+      "focusing attention on information that is relevant to the task.",
+      "increasing physical activation before every activity.",
+      "believing that success is guaranteed.",
+      "reducing the amount of sleep required before competition."
+    ],
+    "answer": 0,
+    "feedback": "Concentration involves directing attention towards relevant cues, instructions and feedback."
+  },
+  {
+    "id": "P04",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Arousal regulation",
+    "difficulty": "Foundation",
+    "q": "Which statement about optimal arousal is most accurate?",
+    "options": [
+      "Every athlete performs best at the same level of arousal.",
+      "The highest possible level of arousal produces the best performance.",
+      "Optimal arousal refers only to physical activation.",
+      "The ideal level of arousal varies between individuals and activities."
+    ],
+    "answer": 3,
+    "feedback": "Optimal arousal is the level of physical and mental activation that best suits the individual and the task."
+  },
+  {
+    "id": "P05",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Sleep optimisation",
+    "difficulty": "Foundation",
+    "q": "Which statement best explains sleep optimisation?",
+    "options": [
+      "Reducing sleep so more time is available for training.",
+      "Using habits and opportunities that support sufficient, good-quality sleep.",
+      "Sleeping for exactly the same number of hours as every other athlete.",
+      "Replacing recovery activities with daytime naps."
+    ],
+    "answer": 1,
+    "feedback": "Sleep optimisation involves creating conditions and routines that support adequate sleep quality and duration."
+  },
+  {
+    "id": "P06",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Mental imagery",
+    "difficulty": "Foundation",
+    "q": "Mental imagery involves:",
+    "options": [
+      "analysing written performance statistics.",
+      "increasing physical training volume before competition.",
+      "mentally rehearsing an action or situation without physically performing it.",
+      "avoiding thoughts about an upcoming performance."
+    ],
+    "answer": 2,
+    "feedback": "Imagery involves mentally rehearsing movements, sensations or situations and can support confidence and concentration."
+  },
+  {
+    "id": "P07",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Self-talk",
+    "difficulty": "Foundation",
+    "q": "Which example best demonstrates positive or instructional self-talk?",
+    "options": [
+      "Stay balanced and watch the ball.",
+      "Everyone else is better than me.",
+      "If I miss this, the match is over.",
+      "I always make mistakes under pressure."
+    ],
+    "answer": 0,
+    "feedback": "Helpful self-talk uses realistic statements or cue words to direct attention and reinforce confidence or technique."
+  },
+  {
+    "id": "P08",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Relaxation strategies",
+    "difficulty": "Foundation",
+    "q": "Progressive muscle relaxation involves:",
+    "options": [
+      "completing repeated high-intensity movements.",
+      "visualising a successful performance.",
+      "repeating a motivational phrase.",
+      "deliberately tensing and then releasing muscle groups to reduce physical tension."
+    ],
+    "answer": 3,
+    "feedback": "Progressive muscle relaxation helps an athlete recognise and reduce excessive muscular tension."
+  },
+  {
+    "id": "P09",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Confidence & self-efficacy",
+    "difficulty": "Application",
+    "q": "A student wants to join a recreational swimming program but worries that they will be slower than everyone else and decides not to attend. Which strategy would be most appropriate?",
+    "options": [
+      "Place the student immediately in the most advanced group.",
+      "Tell the student that confidence should not influence participation.",
+      "Provide an achievable introductory challenge and supportive feedback about progress.",
+      "Require the student to compete before attending regular sessions."
+    ],
+    "answer": 2,
+    "feedback": "Achievable early success and supportive feedback can strengthen confidence and make beginning an unfamiliar activity more manageable."
+  },
+  {
+    "id": "P10",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Motivation & autonomy support",
+    "difficulty": "Application",
+    "q": "A community fitness program wants to improve participants' motivation to continue attending. Which strategy best supports autonomy?",
+    "options": [
+      "Require every participant to complete an identical program.",
+      "Allow participants to choose between suitable activities and difficulty levels.",
+      "Remove all opportunities for participants to set personal goals.",
+      "Increase external rewards after every session."
+    ],
+    "answer": 1,
+    "feedback": "Meaningful choice can increase a participant's sense of control and strengthen motivation to continue."
+  },
+  {
+    "id": "P11",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Concentration",
+    "difficulty": "Application",
+    "q": "A new volleyball player listens carefully to instructions, responds to teammates and applies coaching feedback. Which outcome is most directly supported?",
+    "options": [
+      "Reduced access to the activity.",
+      "Increased physical arousal.",
+      "Reduced need for practice.",
+      "Improved skill learning and stronger connection with teammates."
+    ],
+    "answer": 3,
+    "feedback": "Concentration supports learning and communication, which can improve skill development and a sense of belonging."
+  },
+  {
+    "id": "P12",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Arousal regulation",
+    "difficulty": "Application",
+    "q": "A basketballer becomes highly anxious before taking a free throw. Their breathing becomes rapid and their muscles feel tense. Which strategy is most appropriate immediately before the shot?",
+    "options": [
+      "Controlled breathing.",
+      "Increasing training volume.",
+      "Reviewing several pages of statistics.",
+      "Focusing on the consequences of missing."
+    ],
+    "answer": 0,
+    "feedback": "Controlled breathing can reduce excessive physical and psychological arousal and help the athlete refocus on the task."
+  },
+  {
+    "id": "P13",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Mental imagery",
+    "difficulty": "Application",
+    "q": "A diver has learned a new skill but feels uncertain before competition. Which use of imagery would be most appropriate?",
+    "options": [
+      "Imagine the consequences of making an error.",
+      "Replace all physical practice with visualisation.",
+      "Mentally rehearse the approach, take-off and successful execution of the skill.",
+      "Avoid thinking about the skill until competition begins."
+    ],
+    "answer": 2,
+    "feedback": "Rehearsing successful execution can reinforce confidence and direct attention towards relevant technique."
+  },
+  {
+    "id": "P14",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Self-talk",
+    "difficulty": "Application",
+    "q": "After making two passing errors, a footballer begins thinking, 'I'm ruining the game.' Which response would best help the athlete refocus?",
+    "options": [
+      "Increase concern about the final score.",
+      "Use a short cue such as 'next pass' and focus on the next relevant action.",
+      "Stop communicating with teammates.",
+      "Avoid attempting another pass."
+    ],
+    "answer": 1,
+    "feedback": "Helpful self-talk and task-relevant cues can redirect attention away from the previous error and towards the next action."
+  },
+  {
+    "id": "P15",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Sleep optimisation",
+    "difficulty": "Application",
+    "q": "An athlete regularly obtains insufficient sleep before early-morning training. Which effect is most likely?",
+    "options": [
+      "Improved concentration because the athlete becomes accustomed to fatigue.",
+      "Faster recovery because less time is spent asleep.",
+      "Improved skill accuracy because more time is available for training.",
+      "Reduced concentration, decision-making and physical recovery."
+    ],
+    "answer": 3,
+    "feedback": "Insufficient sleep can impair concentration, decision-making, skill execution and recovery."
+  },
+  {
+    "id": "P16",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Sleep hygiene",
+    "difficulty": "Application",
+    "q": "Which strategy would most appropriately support sleep hygiene?",
+    "options": [
+      "Maintaining a consistent sleep routine and reducing stimulating activity close to bedtime.",
+      "Consuming caffeine immediately before bed.",
+      "Increasing screen use when trying to fall asleep.",
+      "Completing intense exercise every time an athlete wakes during the night."
+    ],
+    "answer": 0,
+    "feedback": "Consistent routines, reduced stimulation and a suitable sleep environment can support sleep quality."
+  },
+  {
+    "id": "P17",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Sleep monitoring",
+    "difficulty": "Application",
+    "q": "An athlete's wearable device gives a low readiness score, but the athlete reports feeling well and has completed training normally. What is the most appropriate response?",
+    "options": [
+      "Cancel all physical activity because the device is always accurate.",
+      "Ignore all sleep-monitoring information.",
+      "Consider the readiness score alongside the athlete's symptoms, recovery and training responses.",
+      "Use the score to prescribe the same training reduction for every athlete."
+    ],
+    "answer": 2,
+    "feedback": "Wearable data can identify patterns, but estimates should be interpreted alongside individual feedback and performance information."
+  },
+  {
+    "id": "P18",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Sleep optimisation",
+    "difficulty": "Application",
+    "q": "An elite competition repeatedly schedules matches that finish very late at night. How could this influence athletes?",
+    "options": [
+      "Late matches automatically improve performance.",
+      "Reduced sleep opportunity may affect recovery, concentration and preparation for later competition.",
+      "Athletes no longer require recovery after late matches.",
+      "Match scheduling cannot influence an athlete's sleep."
+    ],
+    "answer": 1,
+    "feedback": "Late finishes, travel and post-event recovery routines can reduce sleep opportunities and affect readiness."
+  },
+  {
+    "id": "P19",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Matching strategies to individual needs",
+    "difficulty": "Application",
+    "q": "An athlete reports low confidence but is not experiencing excessive tension or anxiety. Which strategy would be most appropriate?",
+    "options": [
+      "Increase physiological arousal as much as possible.",
+      "Reduce sleep before competition.",
+      "Ignore the athlete's concerns.",
+      "Use successful imagery and realistic positive self-talk."
+    ],
+    "answer": 3,
+    "feedback": "Imagery and helpful self-talk can reinforce preparation and confidence when low self-belief is the main difficulty."
+  },
+  {
+    "id": "P20",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Access, inclusion, participation & performance",
+    "difficulty": "Application",
+    "q": "A beginner attends training with a friend who provides encouragement and helps them understand the session. What is the most likely effect?",
+    "options": [
+      "Greater confidence and a stronger likelihood of continuing participation.",
+      "Reduced inclusion because another person is present.",
+      "Reduced intrinsic motivation in every situation.",
+      "Greater sleep disturbance."
+    ],
+    "answer": 0,
+    "feedback": "Encouragement and social support can strengthen confidence, belonging and commitment to continued participation."
+  },
+  {
+    "id": "P21",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Sleep monitoring",
+    "difficulty": "Stimulus",
+    "q": "An athlete records the following passing results: 6 hours sleep = 64% successful passes; 7 hours = 72%; 8 hours = 80%; 9 hours = 81%. Which conclusion is best supported?",
+    "options": [
+      "Every extra hour of sleep produces exactly an 8% improvement.",
+      "Greater sleep duration was associated with improved passing accuracy for this athlete.",
+      "Nine hours of sleep guarantees peak performance for every athlete.",
+      "Sleep duration was the only factor affecting passing accuracy."
+    ],
+    "answer": 1,
+    "feedback": "The data show an association for this athlete, but they do not establish a universal rule or prove causation."
+  },
+  {
+    "id": "P22",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Sleep monitoring",
+    "difficulty": "Stimulus",
+    "q": "Across four sessions, an athlete records: 5.5 hours sleep, fatigue 8/10, 45 of 75 minutes completed; 7.5 hours, fatigue 4/10, 70 of 75 minutes; 8 hours, fatigue 3/10, 75 of 75 minutes; 6 hours, fatigue 7/10, 50 of 75 minutes. Which conclusion is most appropriate?",
+    "options": [
+      "Sleep duration is proven to be the only cause of session completion.",
+      "Every athlete should sleep for exactly eight hours.",
+      "The athlete should permanently reduce all sessions to 50 minutes.",
+      "Lower sleep duration and higher fatigue were associated with reduced session completion for this athlete."
+    ],
+    "answer": 3,
+    "feedback": "The pattern supports an association between sleep, fatigue and training completion, but other influences may also contribute."
+  },
+  {
+    "id": "P23",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Arousal regulation",
+    "difficulty": "Stimulus",
+    "q": "During competition, an athlete shows rapid breathing, tense shoulders, difficulty concentrating and rushed decisions. Which interpretation is most appropriate?",
+    "options": [
+      "The athlete is under-aroused and requires more stimulation.",
+      "The athlete's confidence must be high.",
+      "The athlete may be experiencing excessive arousal that is reducing performance.",
+      "The athlete is demonstrating optimal concentration."
+    ],
+    "answer": 2,
+    "feedback": "Excessive arousal can involve tension, worry and reduced concentration, which may contribute to rushed decisions and poorer execution."
+  },
+  {
+    "id": "P24",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Concentration",
+    "difficulty": "Stimulus",
+    "q": "A tennis player loses three consecutive points and begins thinking about the previous mistakes instead of watching the opponent. Which strategy would best address the immediate problem?",
+    "options": [
+      "Use a simple attentional cue such as 'watch the ball' before the next point.",
+      "Increase concern about the previous points.",
+      "Stop using feedback during the match.",
+      "Reduce sleep the night before the next competition."
+    ],
+    "answer": 0,
+    "feedback": "A task-relevant cue can redirect concentration towards information needed for the next action."
+  },
+  {
+    "id": "P25",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Local, national & global perspectives",
+    "difficulty": "Stimulus",
+    "q": "A professional sporting organisation employs a full-time sport psychologist and sleep specialist. A small community club relies mainly on volunteer coaches and free online resources. Which conclusion is best supported?",
+    "options": [
+      "Community athletes do not require psychological support.",
+      "Access to specialised psychological and sleep support can differ between sporting settings.",
+      "Professional support guarantees better performance.",
+      "Online education removes every difference in access."
+    ],
+    "answer": 1,
+    "feedback": "Financial and organisational resources can influence access to specialist psychological and sleep support."
+  },
+  {
+    "id": "P26",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Access, inclusion, participation & performance",
+    "difficulty": "SAC-style",
+    "q": "A beginner attends a group exercise session but feels uncomfortable because they have little experience. The instructor provides a choice of activities, sets an achievable first goal and gives supportive feedback. Which outcome is most likely?",
+    "options": [
+      "The participant will become dependent on external rewards.",
+      "The participant's concentration will necessarily decrease.",
+      "The participant will no longer need further practice.",
+      "Increased confidence and autonomy may support continued participation."
+    ],
+    "answer": 3,
+    "feedback": "Achievable success and meaningful choice can strengthen confidence and motivation, making continued participation more likely."
+  },
+  {
+    "id": "P27",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Arousal regulation",
+    "difficulty": "SAC-style",
+    "q": "Before a gymnastics routine, an athlete experiences excessive arousal and muscle tension. Which sequence best explains how an appropriate strategy could improve performance?",
+    "options": [
+      "Controlled breathing → reduced tension → improved concentration → more controlled skill execution.",
+      "Reduced sleep → increased fatigue → improved concentration → better execution.",
+      "Negative self-talk → increased doubt → improved confidence → better execution.",
+      "Greater worry → increased arousal → improved decision-making → better execution."
+    ],
+    "answer": 0,
+    "feedback": "Controlled breathing can reduce excessive arousal, allowing the athlete to focus more effectively and execute skills with greater control."
+  },
+  {
+    "id": "P28",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Sleep monitoring",
+    "difficulty": "SAC-style",
+    "q": "A sporting academy introduces wearable devices that estimate sleep duration, sleep quality and readiness. Coaches plan to use the readiness score to determine each athlete's training load. Which evaluation is most appropriate?",
+    "options": [
+      "The score should replace all communication with athletes.",
+      "The technology guarantees accurate training prescription.",
+      "The data may support individualised decisions, but should be interpreted alongside athlete feedback and other performance information.",
+      "Every athlete with the same readiness score should complete an identical program."
+    ],
+    "answer": 2,
+    "feedback": "Monitoring technology can provide useful information, but estimates have limitations and should not replace individual assessment."
+  },
+  {
+    "id": "P29",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Historical, current & future implications",
+    "difficulty": "SAC-style",
+    "q": "Which statement best describes a change in the use of psychological skills in sport?",
+    "options": [
+      "Psychological preparation has become less important as physical training has improved.",
+      "Psychological skills and sleep are increasingly treated as part of overall athlete preparation alongside physical training.",
+      "Current sporting practice discourages athletes from using imagery or concentration strategies.",
+      "Sleep is now considered unrelated to recovery."
+    ],
+    "answer": 1,
+    "feedback": "Contemporary approaches increasingly integrate psychological preparation, sleep and physical training as parts of athlete performance and wellbeing."
+  },
+  {
+    "id": "P30",
+    "kk": "Psychological Skills & Sleep",
+    "domain": "Local, national & global perspectives",
+    "difficulty": "SAC-style",
+    "q": "An international sporting event schedules several matches late at night to maximise television audiences. Athletes report difficulty obtaining adequate sleep before their next matches. Which evaluation is most appropriate?",
+    "options": [
+      "Audience size should always take priority over athlete recovery.",
+      "Late scheduling cannot influence performance if athletes are elite.",
+      "Athletes should simply reduce their need for sleep.",
+      "Organisers should consider commercial demands alongside athletes' sleep opportunity, recovery and wellbeing."
+    ],
+    "answer": 3,
+    "feedback": "Event scheduling can affect sleep and recovery, so athlete wellbeing should be considered alongside commercial and audience demands."
   }
 ]
