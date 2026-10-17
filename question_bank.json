@@ -2083,5 +2083,605 @@
     ],
     "answer": 3,
     "feedback": "A comprehensive injury-prevention approach addresses both training-related and environmental risk factors."
+  },
+  {
+    "id": "A1PA01",
+    "kk": "Types of Physical Activity",
+    "domain": "Core classification",
+    "difficulty": "Foundation",
+    "q": "Which description best matches play?",
+    "options": [
+      "Spontaneous and flexible movement completed mainly for enjoyment",
+      "An organised competition governed by fixed rules and officials",
+      "A planned routine performed specifically to improve physical fitness",
+      "Physical movement used mainly to travel between two destinations"
+    ],
+    "answer": 0,
+    "feedback": "Play is typically spontaneous, flexible and intrinsically motivated, with enjoyment rather than a practical purpose as the main focus."
+  },
+  {
+    "id": "A1PA02",
+    "kk": "Types of Physical Activity",
+    "domain": "Core classification",
+    "difficulty": "Foundation",
+    "q": "Which feature most clearly identifies a game?",
+    "options": [
+      "It must be part of a registered competition.",
+      "It has rules and a goal or objective.",
+      "It is always completed to improve fitness.",
+      "It must involve travelling between two separate destinations."
+    ],
+    "answer": 1,
+    "feedback": "Games are undertaken for enjoyment and are characterised by rules and a goal or objective."
+  },
+  {
+    "id": "A1PA03",
+    "kk": "Types of Physical Activity",
+    "domain": "Core classification",
+    "difficulty": "Foundation",
+    "q": "Which example is most clearly formal sport?",
+    "options": [
+      "Two friends casually shooting basketballs at a neighbourhood court",
+      "A family playing beach cricket with flexible rules",
+      "A registered hockey match with officials and fixed rules",
+      "A teenager jogging through a park for fitness"
+    ],
+    "answer": 2,
+    "feedback": "Formal sport is highly organised and structured, with established rules and organised competition."
+  },
+  {
+    "id": "A1PA04",
+    "kk": "Types of Physical Activity",
+    "domain": "Core classification",
+    "difficulty": "Foundation",
+    "q": "Which feature is most characteristic of informal sport?",
+    "options": [
+      "Compulsory membership of a sporting organisation",
+      "Fixed competition schedules and accredited officials",
+      "A primary purpose of improving health-related fitness through structured training",
+      "Self-organisation with flexible rules and less structure"
+    ],
+    "answer": 3,
+    "feedback": "Informal sport is typically self-organised, casual and less structured, with rules that can be adapted by participants."
+  },
+  {
+    "id": "A1PA05",
+    "kk": "Types of Physical Activity",
+    "domain": "Core classification",
+    "difficulty": "Foundation",
+    "q": "Which activity is an example of transportation?",
+    "options": [
+      "Walking from home to a train station",
+      "Completing a structured circuit class at a local gym",
+      "Gardening in a backyard",
+      "Playing a social card-based movement game"
+    ],
+    "answer": 0,
+    "feedback": "Transportation involves physical movement used to travel from one location to another."
+  },
+  {
+    "id": "A1PA06",
+    "kk": "Types of Physical Activity",
+    "domain": "Core classification",
+    "difficulty": "Foundation",
+    "q": "Which activity is best classified as a chore?",
+    "options": [
+      "Kayaking on a lake for enjoyment",
+      "Vacuuming the house as a regular household task",
+      "Jogging three times each week as part of a planned fitness program",
+      "Playing in a local tennis competition"
+    ],
+    "answer": 1,
+    "feedback": "Chores are routine, task-oriented activities that are often necessary for everyday living."
+  },
+  {
+    "id": "A1PA07",
+    "kk": "Types of Physical Activity",
+    "domain": "Core classification",
+    "difficulty": "Foundation",
+    "q": "Which description best defines exercise?",
+    "options": [
+      "Any leisure activity completed during free time",
+      "Any movement used to travel between locations",
+      "Planned and structured physical activity performed to improve or maintain fitness",
+      "Spontaneous movement undertaken mainly for enjoyment"
+    ],
+    "answer": 2,
+    "feedback": "Exercise is planned, structured and purposeful physical activity performed to improve or maintain health and fitness."
+  },
+  {
+    "id": "A1PA08",
+    "kk": "Types of Physical Activity",
+    "domain": "Core classification",
+    "difficulty": "Foundation",
+    "q": "Which activity is most clearly recreational?",
+    "options": [
+      "Walking to work because it is the quickest route",
+      "Cleaning a kitchen as part of household responsibilities",
+      "Completing interval running to improve aerobic fitness",
+      "Surfing during free time for enjoyment and relaxation"
+    ],
+    "answer": 3,
+    "feedback": "Recreational activities are voluntary leisure activities performed during free time for enjoyment, relaxation or personal satisfaction."
+  },
+  {
+    "id": "A1PA09",
+    "kk": "Types of Physical Activity",
+    "domain": "Applied classification",
+    "difficulty": "Application",
+    "q": "A child uses chalk, hoops and cones to invent a movement course and changes it whenever they feel like it. Which type of physical activity is this?",
+    "options": [
+      "Play",
+      "Game",
+      "Formal sport",
+      "Exercise"
+    ],
+    "answer": 0,
+    "feedback": "The activity is spontaneous, flexible and performed for enjoyment, which are key characteristics of play."
+  },
+  {
+    "id": "A1PA10",
+    "kk": "Types of Physical Activity",
+    "domain": "Applied classification",
+    "difficulty": "Application",
+    "q": "During lunch, students create a throwing challenge with agreed rules and score points for hitting targets. Which type of physical activity is this?",
+    "options": [
+      "Play",
+      "Game",
+      "Transportation",
+      "Household chore"
+    ],
+    "answer": 1,
+    "feedback": "The activity has agreed rules and a goal or scoring objective, making it a game."
+  },
+  {
+    "id": "A1PA11",
+    "kk": "Types of Physical Activity",
+    "domain": "Applied classification",
+    "difficulty": "Application",
+    "q": "A wheelchair basketball team plays in a registered competition with scheduled fixtures, officials and standard rules. How should this activity be classified?",
+    "options": [
+      "Leisure recreational activity",
+      "Informal sport",
+      "Formal sport",
+      "Exercise"
+    ],
+    "answer": 2,
+    "feedback": "A registered competition with scheduled fixtures, officials and standard rules is formal sport."
+  },
+  {
+    "id": "A1PA12",
+    "kk": "Types of Physical Activity",
+    "domain": "Applied classification",
+    "difficulty": "Application",
+    "q": "Friends play basketball in a driveway and agree to change the scoring rules because only three people are available. Which type of physical activity is this?",
+    "options": [
+      "Game",
+      "Structured fitness exercise",
+      "Formal sport",
+      "Informal sport"
+    ],
+    "answer": 3,
+    "feedback": "The activity uses sport skills but is self-organised and uses flexible rules, so it is informal sport."
+  },
+  {
+    "id": "A1PA13",
+    "kk": "Types of Physical Activity",
+    "domain": "Applied classification",
+    "difficulty": "Application",
+    "q": "A student walks 18 minutes from home to the railway station each morning. What is the main type of physical activity?",
+    "options": [
+      "Transportation",
+      "Planned exercise",
+      "Recreation",
+      "Play"
+    ],
+    "answer": 0,
+    "feedback": "The purpose of the walking is to travel from home to another destination, so it is transportation."
+  },
+  {
+    "id": "A1PA14",
+    "kk": "Types of Physical Activity",
+    "domain": "Applied classification",
+    "difficulty": "Application",
+    "q": "A person spends Saturday morning washing windows and mopping floors because these jobs need to be completed at home. How is this activity best classified?",
+    "options": [
+      "Recreational activity",
+      "Chore",
+      "Exercise",
+      "Game"
+    ],
+    "answer": 1,
+    "feedback": "Routine household tasks completed for a practical purpose are classified as chores."
+  },
+  {
+    "id": "A1PA15",
+    "kk": "Types of Physical Activity",
+    "domain": "Applied classification",
+    "difficulty": "Application",
+    "q": "A swimmer completes a planned set of laps three mornings each week specifically to improve aerobic fitness. Which classification is most appropriate?",
+    "options": [
+      "Transportation",
+      "Recreation",
+      "Exercise",
+      "Play"
+    ],
+    "answer": 2,
+    "feedback": "The swimming is planned, structured and completed to improve fitness, so it is exercise."
+  },
+  {
+    "id": "A1PA16",
+    "kk": "Types of Physical Activity",
+    "domain": "Applied classification",
+    "difficulty": "Application",
+    "q": "A group goes kayaking on a quiet lake on Sunday afternoon because they enjoy being outdoors together. There is no competition or fitness goal. How is this activity best classified?",
+    "options": [
+      "Formal sport",
+      "Transportation",
+      "Chore",
+      "Recreational activity"
+    ],
+    "answer": 3,
+    "feedback": "The kayaking is undertaken voluntarily during leisure time for enjoyment, so it is a recreational activity."
+  },
+  {
+    "id": "A1PA17",
+    "kk": "Types of Physical Activity",
+    "domain": "Purpose and context",
+    "difficulty": "Application",
+    "q": "A student cycles from home to a gym before completing a workout. How should the cycling portion of the trip be classified?",
+    "options": [
+      "Transportation",
+      "Exercise",
+      "Informal sport",
+      "Recreation"
+    ],
+    "answer": 0,
+    "feedback": "Although cycling can be exercise, in this context its main purpose is travel to another location, so it is transportation."
+  },
+  {
+    "id": "A1PA18",
+    "kk": "Types of Physical Activity",
+    "domain": "Purpose and context",
+    "difficulty": "Application",
+    "q": "A person completes six planned cycling intervals on a stationary bike to improve cardiovascular fitness. Which type of physical activity is this?",
+    "options": [
+      "Transportation",
+      "Exercise",
+      "Play",
+      "Chore"
+    ],
+    "answer": 1,
+    "feedback": "The cycling is planned and structured with a fitness purpose, so it is exercise rather than transportation."
+  },
+  {
+    "id": "A1PA19",
+    "kk": "Types of Physical Activity",
+    "domain": "Purpose and context",
+    "difficulty": "Application",
+    "q": "Four friends kick a soccer ball around at a park and change the boundaries and rules to suit the space available. How should the activity be classified?",
+    "options": [
+      "Game",
+      "Formal sport",
+      "Informal sport",
+      "Transportation"
+    ],
+    "answer": 2,
+    "feedback": "The activity uses a recognised sport but is self-organised with flexible rules, so it is informal sport."
+  },
+  {
+    "id": "A1PA20",
+    "kk": "Types of Physical Activity",
+    "domain": "Purpose and context",
+    "difficulty": "Application",
+    "q": "Students enter a school futsal competition with fixed fixtures, official referees and standardised rules. Which type of physical activity is this?",
+    "options": [
+      "Game",
+      "Recreation",
+      "Informal sport",
+      "Formal sport"
+    ],
+    "answer": 3,
+    "feedback": "The organised competition structure, officials and standard rules make this formal sport."
+  },
+  {
+    "id": "A1PA21",
+    "kk": "Types of Physical Activity",
+    "domain": "Distinguishing categories",
+    "difficulty": "Application",
+    "q": "Two children move around a playground pretending the ground is lava. They make up ideas as they go and do not use fixed rules or scoring. Why is this better classified as play than a game?",
+    "options": [
+      "It is spontaneous and flexible rather than governed by agreed rules and a goal.",
+      "It takes place outdoors rather than inside a sporting facility.",
+      "It involves children rather than adults or older adolescents.",
+      "It does not require enough movement to be considered a game."
+    ],
+    "answer": 0,
+    "feedback": "Play is characterised by spontaneity and flexibility, whereas games have rules and a goal or objective."
+  },
+  {
+    "id": "A1PA22",
+    "kk": "Types of Physical Activity",
+    "domain": "Distinguishing categories",
+    "difficulty": "Application",
+    "q": "A person schedules a 45-minute hike every Tuesday and Thursday specifically to improve fitness. Why is exercise the best classification?",
+    "options": [
+      "Hiking is always exercise when it is completed on a regular weekly schedule.",
+      "The activity is planned and completed specifically to improve fitness.",
+      "Any activity lasting more than 30 minutes is exercise.",
+      "The activity occurs outdoors and involves continuous movement."
+    ],
+    "answer": 1,
+    "feedback": "Purpose and context matter. Because the hike is planned and structured to improve fitness, it is best classified as exercise."
+  },
+  {
+    "id": "A1PA23",
+    "kk": "Types of Physical Activity",
+    "domain": "Distinguishing categories",
+    "difficulty": "Application",
+    "q": "A teenager pushes a lawn mower around the backyard because mowing the lawn is one of their regular household responsibilities. Why is this a chore rather than transportation?",
+    "options": [
+      "The activity is completed at home instead of in the community.",
+      "The movement is repetitive and therefore cannot be transportation.",
+      "The main purpose is completing a household task rather than travelling to a destination.",
+      "The activity requires more physical effort than most forms of transportation."
+    ],
+    "answer": 2,
+    "feedback": "The primary purpose is to complete a routine household task, which makes it a chore."
+  },
+  {
+    "id": "A1PA24",
+    "kk": "Types of Physical Activity",
+    "domain": "Distinguishing categories",
+    "difficulty": "Application",
+    "q": "A person goes paddleboarding during free time because they find it relaxing. They do not compete or follow a training program. Why is recreation the best classification?",
+    "options": [
+      "It occurs on water instead of on land.",
+      "It involves equipment but does not require a coach.",
+      "It is less physically demanding than organised sport.",
+      "It is voluntary leisure activity undertaken mainly for enjoyment and relaxation."
+    ],
+    "answer": 3,
+    "feedback": "Recreation occurs during discretionary leisure time and is undertaken for enjoyment, relaxation or personal satisfaction."
+  },
+  {
+    "id": "A1PA25",
+    "kk": "Types of Physical Activity",
+    "domain": "Distinguishing categories",
+    "difficulty": "Application",
+    "q": "The same sport can be formal in one setting and informal in another. Which factor most directly determines the classification?",
+    "options": [
+      "The level of organisation, structure and rules in that setting",
+      "The age and fitness level of the participants",
+      "Whether the activity takes place indoors or outdoors",
+      "The total amount of energy expended by participants during the activity"
+    ],
+    "answer": 0,
+    "feedback": "Formal and informal sport are distinguished mainly by the level of organisation, structure and rules."
+  },
+  {
+    "id": "A1PA26",
+    "kk": "Types of Physical Activity",
+    "domain": "Distinguishing categories",
+    "difficulty": "Application",
+    "q": "A student runs from school to the train station because they need to catch a train. Why is this transportation rather than exercise?",
+    "options": [
+      "Running cannot be classified as exercise for school-aged people.",
+      "The primary purpose is travelling from one location to another.",
+      "The activity is too short to produce any health or fitness benefit.",
+      "Transportation must always occur as part of a daily routine."
+    ],
+    "answer": 1,
+    "feedback": "Running can fit different categories. Here, its main purpose is travel between destinations, making it transportation."
+  },
+  {
+    "id": "A1PA27",
+    "kk": "Types of Physical Activity",
+    "domain": "Distinguishing categories",
+    "difficulty": "Application",
+    "q": "Students play four-square at recess using agreed rules, boundaries and a goal of eliminating opponents. Why is 'game' the most appropriate classification?",
+    "options": [
+      "It occurs during leisure time and therefore must be recreation.",
+      "It uses a ball, which means it should be classified as sport.",
+      "It is organised around rules and a goal without needing formal sporting structures.",
+      "It is spontaneous movement without agreed rules or an objective."
+    ],
+    "answer": 2,
+    "feedback": "Games have rules and a goal or objective, but they do not require the formal organisation associated with formal sport."
+  },
+  {
+    "id": "A1PA28",
+    "kk": "Types of Physical Activity",
+    "domain": "Distinguishing categories",
+    "difficulty": "Application",
+    "q": "A person dances socially at a community festival during their free time for enjoyment. There is no training goal or competition. Which classification is most appropriate?",
+    "options": [
+      "Game",
+      "Exercise",
+      "Formal sport",
+      "Recreational activity"
+    ],
+    "answer": 3,
+    "feedback": "In this context, dancing is a voluntary leisure activity undertaken for enjoyment, so it is recreational."
+  },
+  {
+    "id": "A1PA29",
+    "kk": "Types of Physical Activity",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Activity log: 7:45 am walk to school; 4:00 pm clean the garage; 5:30 pm planned resistance workout; 7:00 pm casual fishing. Which entry is transportation?",
+    "options": [
+      "7:45 am walk to school",
+      "4:00 pm clean the garage",
+      "5:30 pm planned resistance workout",
+      "7:00 pm casual fishing"
+    ],
+    "answer": 0,
+    "feedback": "Walking to school is transportation because the movement is used to travel from one destination to another."
+  },
+  {
+    "id": "A1PA30",
+    "kk": "Types of Physical Activity",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Activity log: 8:00 am garden maintenance; 10:00 am planned 30-minute run to improve fitness; 1:00 pm beach cricket with flexible rules; 4:00 pm walk to the shops. Which entry is exercise?",
+    "options": [
+      "8:00 am garden maintenance",
+      "10:00 am planned run",
+      "1:00 pm beach cricket",
+      "4:00 pm walk to the shops"
+    ],
+    "answer": 1,
+    "feedback": "The planned run is structured and completed specifically to improve fitness, so it is exercise."
+  },
+  {
+    "id": "A1PA31",
+    "kk": "Types of Physical Activity",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "At a community event, participants can choose from a registered tennis tournament, a guided walk to a museum, casual three-on-three basketball with adjustable rules, or a structured fitness circuit. Which activity is informal sport?",
+    "options": [
+      "Registered tennis tournament",
+      "Guided walk to a museum",
+      "Casual three-on-three basketball",
+      "Structured fitness circuit"
+    ],
+    "answer": 2,
+    "feedback": "Casual three-on-three basketball with adjustable rules is self-organised and flexible, making it informal sport."
+  },
+  {
+    "id": "A1PA32",
+    "kk": "Types of Physical Activity",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "During recess, four activities occur: free imaginative movement on climbing equipment, walking to the library, cleaning sports equipment, and a target-throwing challenge with rules and scoring. Which activity is a game?",
+    "options": [
+      "Free imaginative movement",
+      "Walking to the library",
+      "Cleaning sports equipment",
+      "Target-throwing challenge"
+    ],
+    "answer": 3,
+    "feedback": "The target-throwing challenge has rules and scoring toward a goal, which are defining characteristics of a game."
+  },
+  {
+    "id": "A1PA33",
+    "kk": "Types of Physical Activity",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "A student cycles to school each morning. On weekends, the same student completes planned cycling intervals to improve aerobic fitness. Which pair of classifications is correct?",
+    "options": [
+      "Transportation, then exercise",
+      "Exercise, then transportation",
+      "Recreation, then formal sport",
+      "Chore, then informal sport"
+    ],
+    "answer": 0,
+    "feedback": "Cycling to school is transportation because it is used for travel; planned cycling intervals for fitness are exercise."
+  },
+  {
+    "id": "A1PA34",
+    "kk": "Types of Physical Activity",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Scenario A: a soccer team plays in a registered league with referees and set fixtures. Scenario B: friends play soccer in a park and adjust the rules as they go. Which classification is correct?",
+    "options": [
+      "A = game; B = play",
+      "A = formal sport; B = informal sport",
+      "A = exercise; B = recreational activity",
+      "A = informal sport; B = formal sport"
+    ],
+    "answer": 1,
+    "feedback": "The registered league is formal sport, while the self-organised park game with flexible rules is informal sport."
+  },
+  {
+    "id": "A1PA35",
+    "kk": "Types of Physical Activity",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A student walks from home to a pool, then completes a planned set of swimming laps to improve fitness. Which classification best applies to the two activities in order?",
+    "options": [
+      "Exercise, then recreation",
+      "Recreation, then transportation",
+      "Transportation, then exercise",
+      "Chore, then formal sport"
+    ],
+    "answer": 2,
+    "feedback": "The walk is transportation because it is used to travel to the pool; the planned fitness-focused swimming is exercise."
+  },
+  {
+    "id": "A1PA36",
+    "kk": "Types of Physical Activity",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A group plays backyard cricket using improvised boundaries, no official and rules that change depending on how many people are playing. Which feature provides the strongest evidence that this is informal sport?",
+    "options": [
+      "The activity is completed outdoors.",
+      "The participants use equipment associated with cricket.",
+      "The activity involves physical exertion and skill.",
+      "The participants organise the activity themselves and adapt the rules."
+    ],
+    "answer": 3,
+    "feedback": "Self-organisation and flexible rules distinguish informal sport from formal sport."
+  },
+  {
+    "id": "A1PA37",
+    "kk": "Types of Physical Activity",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "Two people both go hiking. Person 1 follows a planned weekly hiking program to improve fitness. Person 2 hikes occasionally during holidays for relaxation. Which statement best explains the different classifications?",
+    "options": [
+      "Purpose and context can make Person 1's hiking exercise and Person 2's hiking recreation.",
+      "All hiking is recreation because it usually occurs during leisure time.",
+      "All hiking is exercise because it involves sustained physical movement.",
+      "The classification depends only on the distance each person walks."
+    ],
+    "answer": 0,
+    "feedback": "The same activity can fit different categories depending on purpose and context: planned fitness activity is exercise, while leisure activity for relaxation is recreation."
+  },
+  {
+    "id": "A1PA38",
+    "kk": "Types of Physical Activity",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A dragon boat team competes in a registered competition with scheduled races, officials and standard rules. Which classification is most appropriate?",
+    "options": [
+      "Recreational activity",
+      "Formal sport",
+      "Game",
+      "Informal sport"
+    ],
+    "answer": 1,
+    "feedback": "The organised competition, standard rules and officials make this formal sport, regardless of the cultural context of the activity."
+  },
+  {
+    "id": "A1PA39",
+    "kk": "Types of Physical Activity",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "Students organise a wheelchair basketball game at lunchtime. They choose teams themselves and modify the rules so everyone can participate. Which classification best fits the activity?",
+    "options": [
+      "Play",
+      "Formal sport",
+      "Informal sport",
+      "Exercise"
+    ],
+    "answer": 2,
+    "feedback": "The basketball activity is self-organised and uses adapted rules rather than a formal competition structure, so it is informal sport."
+  },
+  {
+    "id": "A1PA40",
+    "kk": "Types of Physical Activity",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "Student A runs to the bus stop because they are late. Student B completes six planned running intervals to improve aerobic fitness. Which explanation is most accurate?",
+    "options": [
+      "Both activities are exercise because both involve running.",
+      "Both activities are transportation because both involve moving between locations.",
+      "Student A is exercising, while Student B is participating in recreation.",
+      "Student A is using transportation, while Student B is completing exercise because their purposes differ."
+    ],
+    "answer": 3,
+    "feedback": "The purpose of the movement determines the classification: Student A is travelling to a destination, while Student B is completing planned fitness-focused exercise."
   }
 ]

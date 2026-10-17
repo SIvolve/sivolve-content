@@ -26,6 +26,12 @@
       "status": "released",
       "unit": "Unit 2",
       "aos": "Area of Study 2"
+    },
+    {
+      "name": "Types of Physical Activity",
+      "status": "coming_soon",
+      "unit": "Unit 2",
+      "aos": "Area of Study 1"
     }
   ]
 }
