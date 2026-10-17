@@ -4483,5 +4483,605 @@
     ],
     "answer": 3,
     "feedback": "Prevalence and trend data can identify priority behaviours and population groups, allowing health initiatives and resources to be targeted more effectively."
+  },
+  {
+    "id": "A1GL01",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Purpose of guidelines",
+    "difficulty": "Foundation",
+    "q": "Why are Australia's physical activity and sedentary behaviour guidelines used?",
+    "options": [
+      "To provide evidence-based recommendations that support health and wellbeing across different age groups",
+      "To prescribe one exercise program for every Australian regardless of age or circumstances",
+      "To measure each person's weekly physical activity with complete accuracy",
+      "To replace individual health advice from qualified professionals"
+    ],
+    "answer": 0,
+    "feedback": "The guidelines provide evidence-based recommendations for physical activity and sedentary behaviour across age groups."
+  },
+  {
+    "id": "A1GL02",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Core concepts",
+    "difficulty": "Foundation",
+    "q": "What is physical inactivity?",
+    "options": [
+      "Spending any time sitting during the day",
+      "Not meeting the recommended physical activity guidelines",
+      "Completing only light-intensity physical activity",
+      "Using recreational screens after completing exercise"
+    ],
+    "answer": 1,
+    "feedback": "Physical inactivity refers to not meeting the recommended physical activity guidelines."
+  },
+  {
+    "id": "A1GL03",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Core concepts",
+    "difficulty": "Foundation",
+    "q": "Which statement best describes sedentary behaviour?",
+    "options": [
+      "Any physical activity completed below vigorous intensity, including moderate and light movement throughout the day",
+      "Failing to complete muscle-strengthening activity each week",
+      "Waking behaviour involving sitting, reclining or lying with very low energy expenditure",
+      "Sleeping for longer than the recommended duration"
+    ],
+    "answer": 2,
+    "feedback": "Sedentary behaviour involves waking activities performed while sitting, reclining or lying with very low energy expenditure."
+  },
+  {
+    "id": "A1GL04",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Core concepts",
+    "difficulty": "Foundation",
+    "q": "Which statement about physical inactivity and sedentary behaviour is correct?",
+    "options": [
+      "They are two names for exactly the same behaviour.",
+      "Anyone who meets the physical activity guidelines cannot be sedentary, even if they sit for most of their waking day",
+      "Sedentary behaviour occurs only when a person completes no physical activity.",
+      "A person can meet physical activity recommendations and still accumulate substantial sedentary time."
+    ],
+    "answer": 3,
+    "feedback": "Physical activity and sedentary behaviour are distinct; a person may meet activity recommendations while still sitting for long periods."
+  },
+  {
+    "id": "A1GL05",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Infants",
+    "difficulty": "Foundation",
+    "q": "What physical activity is recommended for infants who are not yet mobile?",
+    "options": [
+      "Supervised interactive floor-based play, including at least 30 minutes of tummy time while awake",
+      "At least 60 minutes of moderate- to vigorous-intensity activity every day",
+      "Three hours of structured sport spread across the day",
+      "Thirty minutes of vigorous exercise on most days"
+    ],
+    "answer": 0,
+    "feedback": "Infants should be active several times a day through supervised floor-based play, including at least 30 minutes of tummy time while awake."
+  },
+  {
+    "id": "A1GL06",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Young people 5–17",
+    "difficulty": "Foundation",
+    "q": "How much moderate- to vigorous-intensity physical activity should young people aged 5–17 accumulate each day?",
+    "options": [
+      "At least 30 minutes",
+      "At least 60 minutes",
+      "At least 90 minutes",
+      "At least 150 minutes"
+    ],
+    "answer": 1,
+    "feedback": "Young people aged 5–17 should accumulate at least 60 minutes of moderate- to vigorous-intensity physical activity each day."
+  },
+  {
+    "id": "A1GL07",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Adults 18–64",
+    "difficulty": "Foundation",
+    "q": "Under Australia's current 24-hour movement guidelines, how often should adults aged 18–64 complete muscle-strengthening activities?",
+    "options": [
+      "On at least one day per week",
+      "On at least three days per week",
+      "On at least two days per week",
+      "Every day of the week"
+    ],
+    "answer": 2,
+    "feedback": "Adults aged 18–64 should complete muscle-strengthening activities on 2 or more days per week."
+  },
+  {
+    "id": "A1GL08",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Older adults 65+",
+    "difficulty": "Foundation",
+    "q": "Under Australia's current 24-hour movement guidelines, how often should older adults complete functional activities targeting mobility, balance and coordination?",
+    "options": [
+      "One day per week",
+      "Two days per week",
+      "Only when another activity is not possible",
+      "Three or more days per week"
+    ],
+    "answer": 3,
+    "feedback": "Older adults should include functional activities targeting mobility, balance and coordination on 3 or more days per week."
+  },
+  {
+    "id": "A1GL09",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Toddlers 1–2",
+    "difficulty": "Application",
+    "q": "A 20-month-old accumulates about 90 minutes of active play across the day. Which change would best move the child towards the physical activity recommendation?",
+    "options": [
+      "Increase varied physical activity across the day towards at least 3 hours",
+      "Replace active play with one hour of recreational screen time while keeping total daily movement unchanged",
+      "Complete one uninterrupted 30-minute vigorous exercise session",
+      "Limit movement so the child does not become tired"
+    ],
+    "answer": 0,
+    "feedback": "Toddlers aged 1–2 should accumulate at least 3 hours of varied physical activity across the day."
+  },
+  {
+    "id": "A1GL10",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Preschoolers 3–5",
+    "difficulty": "Application",
+    "q": "A 4-year-old is active for 3 hours across the day but none of the activity is energetic. Which recommendation is not being met?",
+    "options": [
+      "The child must complete 60 minutes of organised sport.",
+      "The 3 hours should include at least 1 hour of energetic play.",
+      "The child must complete strength training on two days each week before the total activity can count",
+      "The 3 hours must be completed in one continuous session."
+    ],
+    "answer": 1,
+    "feedback": "Preschoolers aged 3–5 should accumulate at least 3 hours of physical activity, including at least 1 hour of energetic play."
+  },
+  {
+    "id": "A1GL11",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Early years sedentary behaviour",
+    "difficulty": "Application",
+    "q": "Which routine best aligns with sedentary behaviour recommendations for an 18-month-old?",
+    "options": [
+      "Two hours of screen time broken into shorter sessions, with active play between each session",
+      "One hour of screen time before bed",
+      "No sedentary screen time and avoiding restraint for more than one hour at a time",
+      "Unlimited screen time if the child also completes active play"
+    ],
+    "answer": 2,
+    "feedback": "For children under 2, sedentary screen time is not recommended, and infants and toddlers should not be restrained for more than one hour at a time."
+  },
+  {
+    "id": "A1GL12",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Early years sedentary behaviour",
+    "difficulty": "Application",
+    "q": "A 4-year-old has 45 minutes of recreational screen time per day. Which statement is correct?",
+    "options": [
+      "The child exceeds the screen-time recommendation by 15 minutes.",
+      "The child must have no recreational screen time at this age, even when it is educational and supervised",
+      "The screen-time recommendation is measured per week, not per day.",
+      "The child is within the recommendation of no more than 1 hour per day."
+    ],
+    "answer": 3,
+    "feedback": "Children aged 2–5 should have no more than 1 hour of sedentary recreational screen time per day; less is better."
+  },
+  {
+    "id": "A1GL13",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Young people 5–17",
+    "difficulty": "Application",
+    "q": "A 15-year-old completes 35 minutes of MVPA before school and 30 minutes after school. What does this show?",
+    "options": [
+      "The daily 60-minute MVPA recommendation can be accumulated across shorter sessions.",
+      "The activity does not count because it was not completed continuously.",
+      "The student must complete another 60 minutes after school.",
+      "Only the vigorous portion can count towards the daily recommendation."
+    ],
+    "answer": 0,
+    "feedback": "The 60 minutes of daily MVPA does not need to be continuous; shorter sessions across the day can contribute."
+  },
+  {
+    "id": "A1GL14",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Young people 5–17",
+    "difficulty": "Application",
+    "q": "A 13-year-old completes 60 minutes of MVPA every day but no vigorous or muscle- and bone-strengthening activity during the week. Which recommendation is missing?",
+    "options": [
+      "Several hours of recreational screen time each day",
+      "Vigorous and muscle- and bone-strengthening activities on at least 3 days per week",
+      "Exactly 30 minutes of light activity before school each day",
+      "Formal sport participation on at least 5 days per week"
+    ],
+    "answer": 1,
+    "feedback": "Young people should incorporate vigorous activity and muscle- and bone-strengthening activity on at least 3 days per week."
+  },
+  {
+    "id": "A1GL15",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Young people 5–17",
+    "difficulty": "Application",
+    "q": "A 16-year-old completes 60 minutes of MVPA daily but has 3.5 hours of recreational screen time each day. Which conclusion is most accurate?",
+    "options": [
+      "The student meets both the activity and sedentary screen-time recommendations.",
+      "The student is physically inactive because recreational screen time is high.",
+      "The student meets the daily MVPA recommendation but exceeds the recreational screen-time recommendation.",
+      "The student cannot be classified because physical activity and screen time cannot be considered together."
+    ],
+    "answer": 2,
+    "feedback": "The student meets the 60-minute MVPA recommendation but exceeds the limit of 2 hours of sedentary recreational screen time per day."
+  },
+  {
+    "id": "A1GL16",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Young people 5–17",
+    "difficulty": "Application",
+    "q": "Which change would best address sedentary behaviour for a young person who sits for long uninterrupted periods after school?",
+    "options": [
+      "Complete all sitting in one longer uninterrupted block so movement can be concentrated later in the day",
+      "Replace light activity with additional sitting",
+      "Increase schoolwork screen time without breaks",
+      "Break up prolonged sitting and replace some sedentary time with movement"
+    ],
+    "answer": 3,
+    "feedback": "The guidelines encourage limiting and breaking up prolonged sitting, with movement replacing sedentary time where possible."
+  },
+  {
+    "id": "A1GL17",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Adults 18–64",
+    "difficulty": "Application",
+    "q": "Which weekly pattern best reflects the current adult moderate- to vigorous-intensity physical activity recommendation?",
+    "options": [
+      "At least 30 minutes on most days, accumulating about 2.5 hours or more across the week",
+      "One 30-minute moderate session each week",
+      "Exactly 60 minutes of vigorous activity every day",
+      "Three hours of activity completed only on one weekend day"
+    ],
+    "answer": 0,
+    "feedback": "Current Australian guidance recommends 30 minutes or more of moderate- to vigorous-intensity activity on most days, accumulating 2.5 hours or more per week."
+  },
+  {
+    "id": "A1GL18",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Adults 18–64",
+    "difficulty": "Application",
+    "q": "An adult completes 35 minutes of brisk walking on five days each week and strength training on two days, but does no activities targeting balance or coordination. Which current recommendation is missing?",
+    "options": [
+      "Vigorous activity every day",
+      "Functional activities targeting mobility, balance and coordination on 3 or more days per week",
+      "At least 5 hours of moderate activity weekly, regardless of strength or functional activity",
+      "Strength training on five days per week"
+    ],
+    "answer": 1,
+    "feedback": "Current adult recommendations include functional activities targeting mobility, balance and coordination on 3 or more days per week."
+  },
+  {
+    "id": "A1GL19",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Adults 18–64",
+    "difficulty": "Application",
+    "q": "An adult sits for long periods at work but regularly completes the recommended physical activity. What additional behaviour is still recommended?",
+    "options": [
+      "Stop all light-intensity activity",
+      "Replace strength training with more sitting because regular physical activity already offsets sedentary behaviour during work hours",
+      "Limit total sedentary time and break up prolonged periods of sitting",
+      "Avoid standing because it does not count as vigorous activity"
+    ],
+    "answer": 2,
+    "feedback": "Adults are encouraged to limit sedentary time and break up prolonged sedentary periods even if they are physically active."
+  },
+  {
+    "id": "A1GL20",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Adults 18–64",
+    "difficulty": "Application",
+    "q": "Which activity most directly contributes to the current adult functional activity recommendation?",
+    "options": [
+      "Watching a streamed fitness video while seated",
+      "Reading about exercise guidelines",
+      "Completing only upper-body isolation exercises",
+      "Activities that challenge mobility, balance and coordination"
+    ],
+    "answer": 3,
+    "feedback": "Functional activities are those that target mobility, balance and coordination."
+  },
+  {
+    "id": "A1GL21",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Adults 18–64",
+    "difficulty": "Application",
+    "q": "An adult currently completes no planned activity. Which approach is most consistent with the guidelines' practical advice?",
+    "options": [
+      "Start with manageable amounts of movement and build activity progressively over time",
+      "Wait until enough time is available to complete the full recommendation immediately",
+      "Begin with maximum-intensity exercise every day",
+      "Avoid light activity because only vigorous activity provides health benefits"
+    ],
+    "answer": 0,
+    "feedback": "People who are inactive can start with small, manageable amounts and gradually increase frequency, intensity or duration."
+  },
+  {
+    "id": "A1GL22",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Older adults 65+",
+    "difficulty": "Application",
+    "q": "A 70-year-old completes 30 minutes of moderate-intensity activity on most days and strength activity twice per week. Which addition would address another current physical activity recommendation?",
+    "options": [
+      "Eliminate all light-intensity activity",
+      "Add functional activities for mobility, balance and coordination on at least 3 days per week",
+      "Replace moderate activity with uninterrupted sitting",
+      "Complete recreational screen time for several hours each day"
+    ],
+    "answer": 1,
+    "feedback": "Older adults should also complete functional activities targeting mobility, balance and coordination on 3 or more days per week."
+  },
+  {
+    "id": "A1GL23",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Older adults 65+",
+    "difficulty": "Application",
+    "q": "Why are functional activities particularly relevant within the older-adult guidelines?",
+    "options": [
+      "They are the only physical activity older adults are permitted to complete under the guidelines",
+      "They replace the need for muscle-strengthening activity.",
+      "They target mobility, balance and coordination, which can support physical function and reduce falls risk.",
+      "They must always be completed at vigorous intensity."
+    ],
+    "answer": 2,
+    "feedback": "Functional activities target mobility, balance and coordination and are especially relevant to maintaining function and reducing falls risk."
+  },
+  {
+    "id": "A1GL24",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Older adults 65+",
+    "difficulty": "Application",
+    "q": "An older adult spends most of the day seated but takes a 30-minute brisk walk on most days. Which advice still applies?",
+    "options": [
+      "The walk means sedentary behaviour no longer matters because the daily physical activity target has already been achieved",
+      "Only vigorous exercise can offset sitting.",
+      "All sitting should be replaced with formal exercise.",
+      "Limit sedentary time and break up prolonged sitting as often as possible."
+    ],
+    "answer": 3,
+    "feedback": "Older adults should limit sedentary time and regularly break up prolonged periods of sitting, regardless of whether they also complete physical activity."
+  },
+  {
+    "id": "A1GL25",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Across lifespan",
+    "difficulty": "Application",
+    "q": "Which recommendation applies to both adults aged 18–64 and older adults aged 65+ under the current Australian guidelines?",
+    "options": [
+      "Muscle-strengthening activities on 2 or more days per week",
+      "At least 60 minutes of moderate-to-vigorous physical activity on every day of the week",
+      "No recreational screen time",
+      "Three hours of energetic play every day"
+    ],
+    "answer": 0,
+    "feedback": "Both adult age groups are recommended to include muscle-strengthening activities on 2 or more days per week."
+  },
+  {
+    "id": "A1GL26",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Across lifespan",
+    "difficulty": "Application",
+    "q": "Which statement best explains why recommendations differ between age groups?",
+    "options": [
+      "Every age group has identical physical capacities and health needs, so the same recommendation should apply across the lifespan",
+      "Movement recommendations reflect changing growth, development, health needs and physical capacity across the lifespan.",
+      "Older age groups do not receive sedentary behaviour recommendations.",
+      "Only children benefit from age-specific recommendations."
+    ],
+    "answer": 1,
+    "feedback": "Guidelines vary because growth, development, health needs, physical capacity and daily contexts change across the lifespan."
+  },
+  {
+    "id": "A1GL27",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Across lifespan",
+    "difficulty": "Application",
+    "q": "Which pair is correctly matched?",
+    "options": [
+      "Infants — 60 minutes of MVPA every day",
+      "Adults 18–64 — no more than 2 hours recreational screen time per day regardless of work, study or other sedentary demands",
+      "Young people 5–17 — no more than 2 hours of sedentary recreational screen time per day",
+      "Older adults 65+ — at least 3 hours of energetic play per day"
+    ],
+    "answer": 2,
+    "feedback": "Young people aged 5–17 are recommended to limit sedentary recreational screen time to no more than 2 hours per day."
+  },
+  {
+    "id": "A1GL28",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Across lifespan",
+    "difficulty": "Application",
+    "q": "Which pair is correctly matched under the current guidelines?",
+    "options": [
+      "Preschoolers 3–5 — 60 minutes of MVPA only",
+      "Young people 5–17 — muscle strengthening on 2 days per week",
+      "Adults 18–64 — functional activity is not included",
+      "Preschoolers 3–5 — at least 3 hours of activity including at least 1 hour of energetic play"
+    ],
+    "answer": 3,
+    "feedback": "Preschoolers aged 3–5 should accumulate at least 3 hours of physical activity across the day, including at least 1 hour of energetic play."
+  },
+  {
+    "id": "A1GL29",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Profile: Mia, 15 — 65 minutes MVPA daily; vigorous and strengthening activity on 3 days; 90 minutes recreational screen time daily. Which conclusion is best?",
+    "options": [
+      "Mia meets the listed physical activity and recreational screen-time recommendations for her age.",
+      "Mia is physically inactive because using a screen every day automatically means the activity guideline cannot be met",
+      "Mia must complete all 65 minutes in one continuous session.",
+      "Mia exceeds the recreational screen-time recommendation."
+    ],
+    "answer": 0,
+    "feedback": "Mia reaches at least 60 minutes of MVPA daily, includes vigorous and strengthening activity on 3 days, and stays below 2 hours of recreational screen time."
+  },
+  {
+    "id": "A1GL30",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Profile: Noah, 4 — 180 minutes total activity daily, including 30 minutes energetic play; 45 minutes recreational screen time. What is the main issue?",
+    "options": [
+      "His screen time exceeds the recommendation.",
+      "His total activity is sufficient, but energetic play is below the recommended 60 minutes.",
+      "He should complete 60 minutes of MVPA instead of 180 minutes total activity.",
+      "He should have no recreational screen time because all children under 5 must avoid screens."
+    ],
+    "answer": 1,
+    "feedback": "A 4-year-old should accumulate at least 3 hours of activity including at least 1 hour of energetic play. The 45 minutes of screen time is within the 1-hour limit."
+  },
+  {
+    "id": "A1GL31",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Profile: Priya, 38 — 35 minutes MVPA on five days; strength activity on two days; functional activity on one day; long sitting periods at work. Which change best addresses the clearest gaps?",
+    "options": [
+      "Reduce strength training to one day and keep all sitting unchanged because balance activities are not part of adult recommendations",
+      "Replace two MVPA sessions with extra seated recovery.",
+      "Increase functional activity towards 3 or more days and break up prolonged sitting.",
+      "Complete all weekly activity in one session and avoid light activity."
+    ],
+    "answer": 2,
+    "feedback": "Priya should increase functional activities towards 3 or more days per week and also limit and break up prolonged sedentary time."
+  },
+  {
+    "id": "A1GL32",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Profile: George, 68 — 30 minutes moderate activity on five days; strength activity twice; balance and mobility activity three times; several hours of light activity daily. Which statement is most accurate?",
+    "options": [
+      "He is missing the requirement for 60 minutes of MVPA every day because older adults follow the youth guideline",
+      "He must replace moderate activity with vigorous exercise.",
+      "He is missing a requirement for 3 hours of energetic play.",
+      "His activity pattern aligns well with the current physical activity recommendations for older adults."
+    ],
+    "answer": 3,
+    "feedback": "George's pattern reflects the current older-adult recommendations for MVPA, strength, functional activity and light activity."
+  },
+  {
+    "id": "A1GL33",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Profile: Ava, 10 — 60 minutes MVPA daily; strengthening activity on 2 days; 1.5 hours recreational screen time daily. Which change is needed to better meet the guidelines?",
+    "options": [
+      "Add vigorous and muscle- and bone-strengthening activity on at least one more day each week.",
+      "Increase recreational screen time to 3 hours per day while keeping the current physical activity pattern unchanged",
+      "Reduce daily MVPA to 30 minutes.",
+      "Replace MVPA with light activity only."
+    ],
+    "answer": 0,
+    "feedback": "Young people should include vigorous and muscle- and bone-strengthening activities on at least 3 days per week."
+  },
+  {
+    "id": "A1GL34",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Profile: Leo, 18 months — active play totals 3 hours; no screen time; restrained in a stroller for 2 uninterrupted hours. Which guideline-related change is most appropriate?",
+    "options": [
+      "Reduce active play to one hour.",
+      "Break up restraint so it does not continue for more than one hour at a time.",
+      "Introduce one hour of recreational screen time each day because screen use is recommended for toddlers who are otherwise active",
+      "Replace active play with structured strength training."
+    ],
+    "answer": 1,
+    "feedback": "Infants and toddlers should not be restrained for more than one hour at a time."
+  },
+  {
+    "id": "A1GL35",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A student states, 'If I complete 60 minutes of MVPA each day, it does not matter if I sit for the rest of my waking time.' Which evaluation is best?",
+    "options": [
+      "The statement is correct because physical activity removes all effects of sedentary behaviour.",
+      "The statement is correct only for young people, not adults.",
+      "The statement is incorrect because meeting activity recommendations does not remove the recommendation to limit and break up sedentary time.",
+      "The statement is incorrect because 60 minutes of MVPA is never recommended for young people."
+    ],
+    "answer": 2,
+    "feedback": "Physical activity and sedentary behaviour are distinct. Meeting the activity recommendation does not remove the need to limit and break up prolonged sitting."
+  },
+  {
+    "id": "A1GL36",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A 30-year-old completes 30 minutes of MVPA on five days, strength training twice and balance-focused functional activity three times, but sits for uninterrupted periods of six hours at work. What is the strongest conclusion?",
+    "options": [
+      "The adult fails every physical activity recommendation because six hours of sitting automatically cancels all activity completed earlier or later in the day",
+      "The adult meets the sedentary recommendation because physical activity was completed.",
+      "The adult should stop strength training and replace it with more MVPA.",
+      "The activity pattern addresses major physical activity recommendations, but prolonged sedentary time should still be reduced and broken up."
+    ],
+    "answer": 3,
+    "feedback": "The adult's activity pattern addresses major current recommendations, but prolonged sitting remains a separate behaviour that should be limited and interrupted."
+  },
+  {
+    "id": "A1GL37",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "Which response best describes the physical activity guideline for children aged 3–5 years?",
+    "options": [
+      "Accumulate at least 3 hours of physical activity across the day, including at least 1 hour of energetic play.",
+      "Complete at least 60 minutes of MVPA every day, plus strength activity on three days, and no more than two hours of screen time",
+      "Complete 30 minutes of moderate activity on most days.",
+      "Accumulate 150 minutes of moderate activity each week."
+    ],
+    "answer": 0,
+    "feedback": "Children aged 3–5 should accumulate at least 3 hours of physical activity across the day, including at least 1 hour of energetic play."
+  },
+  {
+    "id": "A1GL38",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "Which response best describes key current physical activity recommendations for adults aged 18–64?",
+    "options": [
+      "Exactly 60 minutes of vigorous activity daily with no strength requirement",
+      "Thirty minutes or more of MVPA on most days, muscle strengthening on 2+ days, functional activity on 3+ days, plus several hours of light activity daily",
+      "Three hours of physical activity daily including one hour of energetic play",
+      "Only 150–300 minutes of moderate activity weekly, with no other activity recommendations"
+    ],
+    "answer": 1,
+    "feedback": "Current adult recommendations include MVPA on most days, muscle strengthening on 2+ days, functional activity on 3+ days and several hours of light activity daily."
+  },
+  {
+    "id": "A1GL39",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A 14-year-old completes 60 minutes of MVPA every day, vigorous and strengthening activities on 3 days, and 2.5 hours of recreational screen time daily. Which judgment is most accurate?",
+    "options": [
+      "The student does not meet the physical activity recommendation because 60 minutes is too little.",
+      "The student meets every recommendation because recreational screen time is unrelated to sedentary behaviour once the physical activity target has been achieved",
+      "The student meets the listed physical activity recommendations but exceeds the recreational screen-time recommendation by 30 minutes.",
+      "The student is physically inactive because any recreational screen time means the guidelines are not met."
+    ],
+    "answer": 2,
+    "feedback": "The physical activity components are met, but 2.5 hours of recreational screen time exceeds the 2-hour daily recommendation."
+  },
+  {
+    "id": "A1GL40",
+    "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "Which comparison between the 5–17 and adult 18–64 guidelines is most accurate?",
+    "options": [
+      "Both groups are required to complete exactly 60 minutes of MVPA every day.",
+      "Only adults receive recommendations about muscle-strengthening activity.",
+      "Young people are given no sedentary behaviour recommendations.",
+      "Young people have a daily 60-minute MVPA recommendation, while adults are advised to complete 30+ minutes of MVPA on most days and include other activity components."
+    ],
+    "answer": 3,
+    "feedback": "Young people have a daily 60-minute MVPA recommendation, whereas current adult guidance uses 30+ minutes of MVPA on most days alongside strength, functional and light-activity recommendations."
   }
 ]
