@@ -3883,5 +3883,605 @@
     ],
     "answer": 3,
     "feedback": "Sociocultural influences are not fixed; their impact can change across life stages and as a person's circumstances change."
+  },
+  {
+    "id": "A1PT01",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Core concepts",
+    "difficulty": "Foundation",
+    "q": "What does prevalence describe in physical activity research?",
+    "options": [
+      "The proportion of a population showing a particular behaviour at a given time",
+      "The reason an individual chooses one activity instead of another",
+      "The physiological response produced during exercise",
+      "The reliability of a device used to measure movement"
+    ],
+    "answer": 0,
+    "feedback": "Prevalence describes how common a behaviour or characteristic is within a population at a particular time."
+  },
+  {
+    "id": "A1PT02",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Core concepts",
+    "difficulty": "Foundation",
+    "q": "What is a trend in physical activity data?",
+    "options": [
+      "A single percentage reported for one population at one time",
+      "A pattern of change or difference shown across time or population groups",
+      "A recommendation about how much activity a person should complete",
+      "A method used to record an individual's movement during one isolated physical activity assessment session"
+    ],
+    "answer": 1,
+    "feedback": "A trend is a pattern shown in data, such as an increase, decrease or consistent difference across time or groups."
+  },
+  {
+    "id": "A1PT03",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Core concepts",
+    "difficulty": "Foundation",
+    "q": "Which statement correctly distinguishes physical inactivity from sedentary behaviour?",
+    "options": [
+      "Physical inactivity refers only to people who complete no moderate or vigorous movement and remain seated for most of every waking day.",
+      "Sedentary behaviour means a person has failed to meet every physical activity recommendation.",
+      "Physical inactivity involves not meeting physical activity guidelines, while sedentary behaviour involves prolonged low-energy sitting or lying while awake.",
+      "Physical inactivity and sedentary behaviour describe exactly the same behaviour."
+    ],
+    "answer": 2,
+    "feedback": "A person can fail to meet physical activity guidelines, be highly sedentary, or experience both. The concepts are related but not identical."
+  },
+  {
+    "id": "A1PT04",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Core concepts",
+    "difficulty": "Foundation",
+    "q": "Which statement about physical activity and sedentary behaviour is correct?",
+    "options": [
+      "A person who is sedentary cannot complete any moderate-intensity physical activity.",
+      "Meeting the physical activity guidelines automatically means a person has also limited every form of sedentary behaviour throughout the day.",
+      "Only people with sedentary occupations can accumulate high sedentary time.",
+      "A person can meet physical activity recommendations and still spend long periods sedentary."
+    ],
+    "answer": 3,
+    "feedback": "Physical activity and sedentary behaviour are separate behaviours, so a person can be sufficiently active and still accumulate substantial sedentary time."
+  },
+  {
+    "id": "A1PT05",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Secondary data",
+    "difficulty": "Foundation",
+    "q": "Why is secondary physical activity data useful to governments and health agencies?",
+    "options": [
+      "It can identify population trends and groups that may require targeted support",
+      "It guarantees that every health initiative will improve participation",
+      "It measures every individual's physical activity with perfect accuracy across all settings and activities throughout the year.",
+      "It removes the need to evaluate existing health programs"
+    ],
+    "answer": 0,
+    "feedback": "Secondary data can identify patterns, at-risk groups and changes over time, helping guide initiatives and resource allocation."
+  },
+  {
+    "id": "A1PT06",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Secondary data",
+    "difficulty": "Foundation",
+    "q": "Which source is an example of secondary data when used by a VCE PE student?",
+    "options": [
+      "The student's own seven-day activity diary",
+      "Published National Health Survey physical activity results",
+      "Step counts collected by the student from classmates",
+      "Observations recorded by the student during a practical lesson"
+    ],
+    "answer": 1,
+    "feedback": "Published survey findings are secondary data because they were collected by another organisation and are later analysed by the student."
+  },
+  {
+    "id": "A1PT07",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Data interpretation",
+    "difficulty": "Application",
+    "q": "The proportion of young people aged 5–17 meeting the physical activity guidelines increased from 1.9% to 5.6%. What was the change?",
+    "options": [
+      "An increase of 1.9 percentage points",
+      "An increase of 5.6 percentage points",
+      "An increase of 3.7 percentage points",
+      "A decrease of 3.7 percentage points"
+    ],
+    "answer": 2,
+    "feedback": "The prevalence increased by 3.7 percentage points: 5.6 − 1.9 = 3.7."
+  },
+  {
+    "id": "A1PT08",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Data interpretation",
+    "difficulty": "Application",
+    "q": "Adult guideline compliance increased from 17.0% in 2017–18 to 22.4% in 2022. Which statement best describes this trend?",
+    "options": [
+      "Compliance fell despite a higher 2022 percentage.",
+      "Compliance remained stable because both values were below 25%.",
+      "Compliance increased by 22.4 percentage points.",
+      "Compliance increased by 5.4 percentage points, although most adults still did not meet the guidelines."
+    ],
+    "answer": 3,
+    "feedback": "The increase was 5.4 percentage points, and 22.4% meeting the guidelines means the majority still did not meet them."
+  },
+  {
+    "id": "A1PT09",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Data interpretation",
+    "difficulty": "Application",
+    "q": "In one survey, 9.9% of males aged 5–17 met the guidelines compared with 3.7% of females. Which conclusion is supported?",
+    "options": [
+      "Males had a 6.2 percentage-point higher prevalence of meeting the guidelines.",
+      "Females had a 6.2 percentage-point higher prevalence of meeting the guidelines.",
+      "Both groups had approximately equal prevalence.",
+      "The data show that sex had no relationship with participation."
+    ],
+    "answer": 0,
+    "feedback": "The difference was 9.9 − 3.7 = 6.2 percentage points, with males having the higher prevalence."
+  },
+  {
+    "id": "A1PT10",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Data interpretation",
+    "difficulty": "Application",
+    "q": "Among adults aged 18–64, 24.9% of males and 19.9% of females met the guidelines. What is the most accurate comparison?",
+    "options": [
+      "Females were 5.0 percentage points more likely to meet the guidelines.",
+      "Males were 5.0 percentage points more likely to meet the guidelines.",
+      "Males were 24.9 percentage points more likely to meet the guidelines.",
+      "The groups differed by less than one percentage point."
+    ],
+    "answer": 1,
+    "feedback": "The difference is 5.0 percentage points, with males reporting the higher prevalence."
+  },
+  {
+    "id": "A1PT11",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Children 2–5",
+    "difficulty": "Application",
+    "q": "Data for children aged 2–5 showed that 39% did not meet the physical activity guideline and 75% did not meet the screen-time guideline. What is the strongest conclusion?",
+    "options": [
+      "Physical activity non-compliance was much higher than screen-time non-compliance in this age group.",
+      "Both guidelines had identical levels of non-compliance.",
+      "Screen-time non-compliance was more prevalent than physical activity non-compliance.",
+      "Nearly all children met both recommendations."
+    ],
+    "answer": 2,
+    "feedback": "A larger proportion failed to meet the screen-time guideline (75%) than the physical activity guideline (39%)."
+  },
+  {
+    "id": "A1PT12",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Children 2–5",
+    "difficulty": "Application",
+    "q": "If 83% of children aged 2–5 did not meet both the physical activity and screen-time components, which statement is most accurate?",
+    "options": [
+      "Exactly 83% met both components.",
+      "Most children met both components.",
+      "Only screen time contributed to non-compliance, while physical activity compliance was universal across the age group.",
+      "Most children did not satisfy the combined physical activity and screen-time recommendations."
+    ],
+    "answer": 3,
+    "feedback": "An 83% non-compliance figure means a clear majority did not meet both components together."
+  },
+  {
+    "id": "A1PT13",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Young people 5–17",
+    "difficulty": "Application",
+    "q": "A survey reports that 5.6% of young people aged 5–17 met the physical activity guidelines. Which interpretation is best?",
+    "options": [
+      "Guideline compliance was very low, with most young people not meeting the recommendations.",
+      "Just over half of young people met the recommendations.",
+      "Almost all young people completed sufficient physical activity.",
+      "The result shows sedentary behaviour was absent in this age group because most young people were physically active each day."
+    ],
+    "answer": 0,
+    "feedback": "If only 5.6% met the guidelines, the large majority did not meet them."
+  },
+  {
+    "id": "A1PT14",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Adults 18–64",
+    "difficulty": "Application",
+    "q": "Among adults, 74.2% completed at least 150 minutes of activity in a week, but only 22.4% met the overall physical activity guidelines. What does this best show?",
+    "options": [
+      "Completing 150 minutes automatically means all guideline components are met.",
+      "Many adults completed substantial activity but did not satisfy every component required to meet the guidelines.",
+      "Most adults were completely inactive during the week.",
+      "Strength activity was completed by more adults than total weekly activity."
+    ],
+    "answer": 1,
+    "feedback": "Meeting one component does not necessarily mean all components of the guidelines were met."
+  },
+  {
+    "id": "A1PT15",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Adults 18–64",
+    "difficulty": "Application",
+    "q": "Only 26.6% of adults completed strength activities on two or more days. Which statement is supported?",
+    "options": [
+      "Nearly three quarters of adults met the strength component.",
+      "Strength activity was the most commonly achieved component.",
+      "Most adults did not meet the muscle-strengthening component.",
+      "All adults who missed the strength component were physically inactive."
+    ],
+    "answer": 2,
+    "feedback": "If 26.6% completed strength activity on two or more days, most adults did not meet that component."
+  },
+  {
+    "id": "A1PT16",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Older adults",
+    "difficulty": "Application",
+    "q": "In 2022, 33.4% of adults aged 65+ met the physical activity guidelines. Which description is most accurate?",
+    "options": [
+      "Almost all older adults met the guidelines.",
+      "Fewer than one in ten older adults met the guidelines.",
+      "Two thirds of older adults met the guidelines.",
+      "About one in three older adults met the guidelines."
+    ],
+    "answer": 3,
+    "feedback": "A prevalence of 33.4% is approximately one third of the population."
+  },
+  {
+    "id": "A1PT17",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Sedentary behaviour",
+    "difficulty": "Application",
+    "q": "Nearly half of employed adults report that their workday is mostly sedentary. Which interpretation is most appropriate?",
+    "options": [
+      "Sedentary behaviour is common in the working population even though some workers may also exercise outside work.",
+      "Employed adults cannot meet physical activity guidelines when their occupations require sitting for the majority of each working day.",
+      "Sedentary work proves that a person completes no physical activity during the day.",
+      "Sedentary behaviour only matters when a person does no exercise at all."
+    ],
+    "answer": 0,
+    "feedback": "Sedentary work can coexist with physical activity outside work, so high occupational sitting does not automatically mean total physical inactivity."
+  },
+  {
+    "id": "A1PT18",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Sedentary behaviour",
+    "difficulty": "Application",
+    "q": "A worker sits for eight hours, completes a 45-minute run after work and then watches television for three hours. Which statement best describes the day?",
+    "options": [
+      "The person is not sedentary because they completed a run.",
+      "The person can accumulate physical activity while also spending substantial time sedentary.",
+      "The run means all health risks associated with prolonged sitting are removed.",
+      "The person must be physically inactive because they sat at work."
+    ],
+    "answer": 1,
+    "feedback": "Physical activity and sedentary behaviour are independent enough that both can occur within the same day."
+  },
+  {
+    "id": "A1PT19",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Socioeconomic trends",
+    "difficulty": "Application",
+    "q": "Adults in more disadvantaged areas are less likely to meet physical activity guidelines and more likely to report zero weekly activity. Which trend is demonstrated?",
+    "options": [
+      "Physical activity increases as disadvantage increases.",
+      "Socioeconomic status has no observable relationship with physical activity.",
+      "Lower socioeconomic status is associated with lower physical activity participation.",
+      "Higher socioeconomic status is associated with more physical inactivity."
+    ],
+    "answer": 2,
+    "feedback": "The data indicate lower participation and greater inactivity among more disadvantaged groups."
+  },
+  {
+    "id": "A1PT20",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Age trends",
+    "difficulty": "Application",
+    "q": "A graph shows vigorous-intensity physical activity is highest among younger adults and progressively lower in older age groups. Which trend is shown?",
+    "options": [
+      "Vigorous activity rises steadily with age.",
+      "Vigorous activity remains constant across adulthood.",
+      "Older adults have the highest prevalence of vigorous activity.",
+      "Prevalence of vigorous-intensity physical activity decreases as age increases."
+    ],
+    "answer": 3,
+    "feedback": "The graph demonstrates a negative age trend: vigorous activity becomes less prevalent as age increases."
+  },
+  {
+    "id": "A1PT21",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Secondary data use",
+    "difficulty": "Application",
+    "q": "Why might a government compare physical activity prevalence across age groups?",
+    "options": [
+      "To identify groups with lower participation and target initiatives or resources more effectively",
+      "To prove that every individual within an age group behaves in the same way",
+      "To replace all future data collection with one survey result",
+      "To determine an individual's exact weekly activity without measuring them"
+    ],
+    "answer": 0,
+    "feedback": "Population comparisons can reveal groups with lower participation and inform targeted health promotion and resource allocation."
+  },
+  {
+    "id": "A1PT22",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Secondary data use",
+    "difficulty": "Application",
+    "q": "A health agency observes that guideline compliance has increased over several surveys but remains low overall. What is the best interpretation?",
+    "options": [
+      "The health issue has been completely resolved.",
+      "There has been improvement, but continued action may still be needed because prevalence remains low.",
+      "The earlier surveys must have been inaccurate because genuine health trends should remain stable when the same population is studied.",
+      "Any increase means further monitoring is unnecessary."
+    ],
+    "answer": 1,
+    "feedback": "An improving trend can coexist with low overall prevalence, so continued monitoring and intervention may still be appropriate."
+  },
+  {
+    "id": "A1PT23",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Percentage-point change",
+    "difficulty": "Application",
+    "q": "Sedentary work prevalence rises from 44.1% to 46.9%. What is the change?",
+    "options": [
+      "An increase of 46.9 percentage points",
+      "A decrease of 2.8 percentage points",
+      "An increase of 2.8 percentage points",
+      "An increase of 44.1 percentage points"
+    ],
+    "answer": 2,
+    "feedback": "The prevalence increased by 2.8 percentage points: 46.9 − 44.1 = 2.8."
+  },
+  {
+    "id": "A1PT24",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Data interpretation",
+    "difficulty": "Application",
+    "q": "A survey shows guideline compliance rising from 12% to 18% over time. Which statement is correct?",
+    "options": [
+      "Compliance decreased by 6 percentage points.",
+      "Compliance increased by 18 percentage points.",
+      "Compliance remained unchanged because both values are below 20%.",
+      "Compliance increased by 6 percentage points."
+    ],
+    "answer": 3,
+    "feedback": "The change is 18 − 12 = 6 percentage points."
+  },
+  {
+    "id": "A1PT25",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Data interpretation",
+    "difficulty": "Application",
+    "q": "Population A has 28% meeting the guidelines and Population B has 17%. Which conclusion is supported?",
+    "options": [
+      "Population A has an 11 percentage-point higher prevalence of meeting the guidelines.",
+      "Population B has an 11 percentage-point higher prevalence of meeting the guidelines.",
+      "Both populations have the same prevalence because both are below 50%.",
+      "The data prove every person in Population A is more active than every person in Population B."
+    ],
+    "answer": 0,
+    "feedback": "The prevalence difference is 11 percentage points. Population data describe groups and do not establish that every individual follows the group pattern."
+  },
+  {
+    "id": "A1PT26",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Data interpretation",
+    "difficulty": "Application",
+    "q": "A dataset reports that 30% of a group met the guidelines in Year 1 and 30% in Year 2. Which trend is most accurate?",
+    "options": [
+      "A strong increase",
+      "No change in prevalence",
+      "A strong decrease",
+      "A consistent age-related decline across the two years"
+    ],
+    "answer": 1,
+    "feedback": "Because the prevalence is identical in both years, the data show no change over that period."
+  },
+  {
+    "id": "A1PT27",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Data: young people meeting guidelines — 2017–18: 1.9%; 2022: 5.6%. Which summary is best?",
+    "options": [
+      "Compliance fell by 3.7 percentage points and became extremely low.",
+      "Compliance increased to more than half of young people.",
+      "Compliance increased by 3.7 percentage points but remained very low.",
+      "Compliance stayed effectively unchanged."
+    ],
+    "answer": 2,
+    "feedback": "The prevalence rose by 3.7 percentage points, but 5.6% still represents very low compliance."
+  },
+  {
+    "id": "A1PT28",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Data: adults meeting guidelines — males 24.9%; females 19.9%. Which interpretation is most accurate?",
+    "options": [
+      "Females were 5.0 percentage points higher.",
+      "The difference was too small to identify any pattern.",
+      "Both groups had compliance above 50%.",
+      "Males had a 5.0 percentage-point higher prevalence than females."
+    ],
+    "answer": 3,
+    "feedback": "The difference is 5.0 percentage points, with males reporting the higher guideline compliance."
+  },
+  {
+    "id": "A1PT29",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Data: adults — 74.2% completed at least 150 minutes per week; 26.6% completed strength activity on two or more days; 22.4% met the overall guidelines. Which conclusion is best?",
+    "options": [
+      "Meeting the overall guidelines involves more than simply accumulating 150 minutes of activity.",
+      "Most adults completed the strength component because 26.6% is more than half.",
+      "Adults who accumulated 150 minutes all met the overall guidelines.",
+      "Overall guideline compliance was higher than participation in every individual component."
+    ],
+    "answer": 0,
+    "feedback": "The much lower overall compliance shows that satisfying one activity component does not necessarily satisfy all components of the guidelines."
+  },
+  {
+    "id": "A1PT30",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Data: children aged 2–5 — 39% did not meet the physical activity component; 75% did not meet the screen-time component; 83% did not meet both. What stands out most clearly?",
+    "options": [
+      "Physical activity non-compliance was nearly twice screen-time non-compliance.",
+      "Screen-time non-compliance was particularly high and combined compliance was low.",
+      "Most children met both components.",
+      "Screen time was not a meaningful issue for this age group."
+    ],
+    "answer": 1,
+    "feedback": "Three quarters did not meet the screen-time component and 83% did not meet both components, showing substantial non-compliance."
+  },
+  {
+    "id": "A1PT31",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Data: adults aged 65+ — 33.4% met the guidelines; 40.7% participated in daily physical activity. Which conclusion is supported?",
+    "options": [
+      "Everyone who reported daily physical activity must also have met every component of the physical activity guidelines.",
+      "Daily activity was less common than meeting the guidelines.",
+      "Some older adults were active daily without necessarily meeting every guideline requirement.",
+      "No older adults were regularly active."
+    ],
+    "answer": 2,
+    "feedback": "Daily participation and overall guideline compliance are different measures, so daily activity does not guarantee all requirements were met."
+  },
+  {
+    "id": "A1PT32",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Data show physical inactivity is more common in more disadvantaged areas. Which response best uses the trend?",
+    "options": [
+      "Assume every person living in a disadvantaged area is physically inactive and requires the same intervention.",
+      "Stop collecting data because the trend is already known.",
+      "Direct all resources only to high-income communities.",
+      "Consider targeted initiatives for disadvantaged communities while continuing to monitor participation."
+    ],
+    "answer": 3,
+    "feedback": "Population trends can inform targeted action, but they should not be used to make absolute claims about every individual."
+  },
+  {
+    "id": "A1PT33",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Survey results: Group X meeting guidelines — 2020: 18%, 2022: 21%, 2024: 25%. Which trend is shown?",
+    "options": [
+      "A gradual increase in prevalence over time",
+      "A gradual decrease in prevalence over time",
+      "No meaningful directional pattern",
+      "A rise followed by a decline"
+    ],
+    "answer": 0,
+    "feedback": "The values increase at each time point, showing a consistent upward trend."
+  },
+  {
+    "id": "A1PT34",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Survey results: vigorous activity prevalence — ages 18–24: 31%; 25–34: 27%; 35–44: 23%; 45–54: 19%; 55–64: 15%. Which conclusion is best?",
+    "options": [
+      "Vigorous activity increases with age.",
+      "Vigorous activity prevalence decreases progressively across the age groups shown.",
+      "The highest prevalence occurs among ages 55–64.",
+      "Age shows no relationship with vigorous activity in these data."
+    ],
+    "answer": 1,
+    "feedback": "The percentages decrease at each successive age group, showing lower vigorous activity prevalence with increasing age."
+  },
+  {
+    "id": "A1PT35",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A report states that guideline compliance rose from 17.0% to 22.4% among adults, while 77.6% still did not meet the guidelines in the later survey. Which analysis is strongest?",
+    "options": [
+      "The rise proves that physical inactivity is no longer a public-health concern.",
+      "The later result means almost all adults met the guidelines.",
+      "Compliance improved by 5.4 percentage points, but physical inactivity remained prevalent because most adults still did not meet the guidelines.",
+      "The figures cannot be compared because both are percentages."
+    ],
+    "answer": 2,
+    "feedback": "A strong analysis combines the direction and size of the change with the continuing low level of overall compliance."
+  },
+  {
+    "id": "A1PT36",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "An office worker meets the weekly physical activity guideline but spends most working hours seated and several evening hours watching television. What does this scenario demonstrate?",
+    "options": [
+      "Meeting physical activity recommendations prevents sedentary behaviour.",
+      "Sedentary behaviour and physical inactivity are identical.",
+      "The worker must be physically inactive because a desk-based occupation involves long periods of sitting during the workday.",
+      "A person can be sufficiently active according to guidelines while still accumulating high sedentary time."
+    ],
+    "answer": 3,
+    "feedback": "Meeting physical activity recommendations does not prevent someone from also spending prolonged periods sedentary."
+  },
+  {
+    "id": "A1PT37",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A health department finds that physical activity guideline compliance is lowest in one population group. What is the most appropriate use of this secondary data?",
+    "options": [
+      "Use the finding to help target initiatives and resources while continuing to evaluate outcomes.",
+      "Conclude that every person in that population group is physically inactive.",
+      "Assume the same prevalence will remain unchanged in all future surveys.",
+      "Replace individual assessment with the population statistic."
+    ],
+    "answer": 0,
+    "feedback": "Secondary data can guide targeted initiatives and resource allocation, but population statistics should not be treated as descriptions of every individual."
+  },
+  {
+    "id": "A1PT38",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A survey reports that 46.9% of employed adults have predominantly sedentary workdays, up from 44.1%. Which interpretation is best?",
+    "options": [
+      "Sedentary work decreased by 2.8 percentage points.",
+      "Sedentary work increased by 2.8 percentage points, indicating a small upward trend.",
+      "Sedentary work increased by 46.9 percentage points.",
+      "The data show all employed adults are physically inactive."
+    ],
+    "answer": 1,
+    "feedback": "The increase is 2.8 percentage points. The data describe sedentary work, not whether every worker meets physical activity guidelines."
+  },
+  {
+    "id": "A1PT39",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "Young people meeting the guidelines increased from 1.9% to 5.6%, while adults increased from 17.0% to 22.4%. Which comparison is most accurate?",
+    "options": [
+      "Young people had the higher compliance in both periods.",
+      "Adults showed no improvement over time.",
+      "Both groups improved, but adult compliance remained substantially higher than young people's compliance.",
+      "Young people and adults reached approximately the same compliance in 2022 because both groups improved from their earlier survey results."
+    ],
+    "answer": 2,
+    "feedback": "Both groups increased over time, but 22.4% adult compliance remained much higher than 5.6% among young people."
+  },
+  {
+    "id": "A1PT40",
+    "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A dataset shows low guideline compliance, high sedentary time and lower participation in disadvantaged groups. Which conclusion best reflects how such data should inform health promotion?",
+    "options": [
+      "One universal strategy should be applied identically to every population group because prevalence data cannot distinguish meaningful differences in need across communities.",
+      "Only sedentary behaviour should be addressed because physical inactivity is unrelated.",
+      "Population differences should be ignored to avoid targeted approaches.",
+      "Initiatives can be informed by the identified patterns, with resources directed toward behaviours and groups showing greater need."
+    ],
+    "answer": 3,
+    "feedback": "Prevalence and trend data can identify priority behaviours and population groups, allowing health initiatives and resources to be targeted more effectively."
   }
 ]
