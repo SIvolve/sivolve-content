@@ -2683,5 +2683,605 @@
     ],
     "answer": 3,
     "feedback": "The purpose of the movement determines the classification: Student A is travelling to a destination, while Student B is completing planned fitness-focused exercise."
+  },
+  {
+    "id": "A1BEN01",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Physical benefits",
+    "difficulty": "Foundation",
+    "q": "Which outcome is a physical benefit of regular participation in physical activity?",
+    "options": [
+      "Improved muscular strength and endurance",
+      "A stronger sense of purpose in life",
+      "Greater ability to recognise and manage emotions",
+      "More opportunities to develop supportive friendships"
+    ],
+    "answer": 0,
+    "feedback": "Improved muscular strength and endurance are physical benefits because they improve the functioning and capacity of the body."
+  },
+  {
+    "id": "A1BEN02",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Mental benefits",
+    "difficulty": "Foundation",
+    "q": "Which outcome is primarily a mental benefit of regular physical activity?",
+    "options": [
+      "Improved bone density",
+      "Improved concentration and information processing",
+      "Greater ability to manage disappointment",
+      "Increased opportunities to form relationships"
+    ],
+    "answer": 1,
+    "feedback": "Improved concentration and information processing are mental benefits because they relate to thinking, learning and processing information."
+  },
+  {
+    "id": "A1BEN03",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Emotional benefits",
+    "difficulty": "Foundation",
+    "q": "Which outcome is primarily an emotional benefit of regular physical activity?",
+    "options": [
+      "Reduced risk of cardiovascular disease",
+      "Improved ability to solve problems",
+      "Improved ability to recognise and manage emotions",
+      "Greater connection to a community group"
+    ],
+    "answer": 2,
+    "feedback": "Recognising, expressing and managing emotions are central features of emotional health and wellbeing."
+  },
+  {
+    "id": "A1BEN04",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Social benefits",
+    "difficulty": "Foundation",
+    "q": "Which outcome is primarily a social benefit of regular physical activity?",
+    "options": [
+      "Improved flexibility",
+      "Improved memory",
+      "Greater resilience when responding to setbacks and disappointments",
+      "More opportunities to form meaningful relationships"
+    ],
+    "answer": 3,
+    "feedback": "Physical activity can provide opportunities to interact with others, develop friendships and form meaningful relationships."
+  },
+  {
+    "id": "A1BEN05",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Spiritual benefits",
+    "difficulty": "Foundation",
+    "q": "Which outcome is most clearly a spiritual benefit of regular physical activity?",
+    "options": [
+      "A stronger sense of purpose and meaning",
+      "Improved cardiovascular fitness",
+      "Improved concentration and faster information processing during learning",
+      "Better communication with teammates"
+    ],
+    "answer": 0,
+    "feedback": "A sense of purpose and meaning is associated with spiritual health and wellbeing."
+  },
+  {
+    "id": "A1BEN06",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Physical benefits",
+    "difficulty": "Foundation",
+    "q": "Regular weight-bearing physical activity can contribute to which physical benefit?",
+    "options": [
+      "Improved social connectedness",
+      "Increased bone density",
+      "Greater sense of inner peace",
+      "Improved emotional expression"
+    ],
+    "answer": 1,
+    "feedback": "Weight-bearing activity can help build and maintain bone density, which supports physical health and wellbeing."
+  },
+  {
+    "id": "A1BEN07",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Mental benefits",
+    "difficulty": "Foundation",
+    "q": "Which outcome best reflects improved mental health and wellbeing?",
+    "options": [
+      "Reduced feelings of loneliness",
+      "Improved ability to recover from disappointment and respond to setbacks",
+      "Greater confidence and self-esteem after achieving activity goals",
+      "Increased muscular strength and flexibility"
+    ],
+    "answer": 2,
+    "feedback": "Achieving goals through physical activity can improve confidence and self-esteem, which support mental health and wellbeing."
+  },
+  {
+    "id": "A1BEN08",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Emotional benefits",
+    "difficulty": "Foundation",
+    "q": "Which benefit best reflects improved emotional health and wellbeing?",
+    "options": [
+      "Improved aerobic fitness and physical functioning",
+      "Greater sense of belonging to a community group and shared purpose",
+      "Improved concentration and information processing",
+      "Improved mood and ability to regulate emotional responses"
+    ],
+    "answer": 3,
+    "feedback": "Physical activity can support mood regulation and the management of emotional responses, improving emotional health and wellbeing."
+  },
+  {
+    "id": "A1BEN09",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Social benefits",
+    "difficulty": "Foundation",
+    "q": "Which benefit is most closely associated with social health and wellbeing?",
+    "options": [
+      "Developing communication and teamwork skills",
+      "Reducing the risk of type 2 diabetes",
+      "Improving the ability to process information",
+      "Developing a stronger sense of personal meaning"
+    ],
+    "answer": 0,
+    "feedback": "Communication and teamwork help people interact effectively and build meaningful relationships, supporting social health and wellbeing."
+  },
+  {
+    "id": "A1BEN10",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Spiritual benefits",
+    "difficulty": "Foundation",
+    "q": "Which experience most directly supports spiritual health and wellbeing?",
+    "options": [
+      "Completing strength training to increase muscular strength",
+      "Feeling connected to Country while walking on Country",
+      "Practising decision making during a tactical game",
+      "Learning to control frustration after making an error"
+    ],
+    "answer": 1,
+    "feedback": "Connection to Country can strengthen cultural and spiritual connections, supporting spiritual health and wellbeing."
+  },
+  {
+    "id": "A1BEN11",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Applied classification",
+    "difficulty": "Application",
+    "q": "After joining a community walking group, Maya develops several new friendships and feels less isolated. Which dimension is most directly improved?",
+    "options": [
+      "Physical health and wellbeing",
+      "Mental health and wellbeing",
+      "Social health and wellbeing",
+      "Spiritual health and wellbeing"
+    ],
+    "answer": 2,
+    "feedback": "Developing friendships and reducing isolation are social benefits because they strengthen relationships and social connectedness."
+  },
+  {
+    "id": "A1BEN12",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Applied classification",
+    "difficulty": "Application",
+    "q": "After losing a close match, Jordan reflects on the disappointment and returns to training with a positive response to the setback. Which benefit is most evident?",
+    "options": [
+      "Physical",
+      "Mental",
+      "Social",
+      "Emotional"
+    ],
+    "answer": 3,
+    "feedback": "Learning to manage disappointment and recover from setbacks demonstrates resilience, an emotional health and wellbeing benefit."
+  },
+  {
+    "id": "A1BEN13",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Applied classification",
+    "difficulty": "Application",
+    "q": "An adult participates regularly in physical activity, helping reduce their risk of cardiovascular disease and type 2 diabetes. Which dimension is most directly supported?",
+    "options": [
+      "Physical health and wellbeing",
+      "Social health and wellbeing",
+      "Emotional health and wellbeing",
+      "Spiritual health and wellbeing"
+    ],
+    "answer": 0,
+    "feedback": "A reduced risk of chronic disease is a physical health and wellbeing benefit of regular physical activity."
+  },
+  {
+    "id": "A1BEN14",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Applied classification",
+    "difficulty": "Application",
+    "q": "After several weeks of regular activity, a student reports being better able to focus during lessons and process new information. Which benefit is most directly shown?",
+    "options": [
+      "Emotional",
+      "Mental",
+      "Physical",
+      "Social"
+    ],
+    "answer": 1,
+    "feedback": "Improved focus and information processing are mental health and wellbeing benefits."
+  },
+  {
+    "id": "A1BEN15",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Applied classification",
+    "difficulty": "Application",
+    "q": "A person regularly hikes in a national park and describes feeling peaceful, reflective and connected with nature. Which dimension is most directly supported?",
+    "options": [
+      "Physical health and wellbeing",
+      "Social health and wellbeing",
+      "Spiritual health and wellbeing",
+      "Mental health and wellbeing"
+    ],
+    "answer": 2,
+    "feedback": "Feelings of peace, reflection and connection with nature are spiritual health and wellbeing benefits."
+  },
+  {
+    "id": "A1BEN16",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Applied classification",
+    "difficulty": "Application",
+    "q": "A teenager becomes better at recognising frustration during competition and responding calmly instead of reacting impulsively. Which benefit is most directly demonstrated?",
+    "options": [
+      "Physical",
+      "Mental",
+      "Social",
+      "Emotional"
+    ],
+    "answer": 3,
+    "feedback": "Recognising and managing feelings such as frustration is an emotional health and wellbeing benefit."
+  },
+  {
+    "id": "A1BEN17",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Applied classification",
+    "difficulty": "Application",
+    "q": "A retired adult joins a weekly exercise class and develops a supportive network of friends. What is the clearest social benefit?",
+    "options": [
+      "Reduced loneliness through stronger social connections",
+      "Improved flexibility through repeated movement",
+      "Improved memory through greater brain activity",
+      "Greater resilience when facing personal challenges"
+    ],
+    "answer": 0,
+    "feedback": "Developing supportive relationships can increase social connectedness and reduce loneliness, improving social health and wellbeing."
+  },
+  {
+    "id": "A1BEN18",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Applied classification",
+    "difficulty": "Application",
+    "q": "A student regularly participates in physical activity and notices improved concentration when completing complex schoolwork. Why is this classified as a mental benefit?",
+    "options": [
+      "It strengthens the body's muscles and joints.",
+      "It improves the ability to think and process information.",
+      "It helps the student build meaningful relationships.",
+      "It improves the ability to recognise and express emotions."
+    ],
+    "answer": 1,
+    "feedback": "Mental health and wellbeing includes the ability to think, learn and process information, so improved concentration is a mental benefit."
+  },
+  {
+    "id": "A1BEN19",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Applied classification",
+    "difficulty": "Application",
+    "q": "A person takes part in a weekly dance class and becomes more confident in expressing feelings and coping with mistakes. Which dimension is most directly improved?",
+    "options": [
+      "Physical fitness",
+      "Social connection",
+      "Emotional",
+      "Spiritual wellbeing"
+    ],
+    "answer": 2,
+    "feedback": "Expressing feelings appropriately and coping with mistakes relate to emotional health and wellbeing."
+  },
+  {
+    "id": "A1BEN20",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Applied classification",
+    "difficulty": "Application",
+    "q": "A runner trains for a charity event because contributing to a meaningful cause gives their training direction and significance. Which benefit is most evident?",
+    "options": [
+      "Physical fitness",
+      "Mental processing",
+      "Social connectedness",
+      "Spiritual"
+    ],
+    "answer": 3,
+    "feedback": "A sense of purpose, meaning and direction is a spiritual health and wellbeing benefit."
+  },
+  {
+    "id": "A1BEN21",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Distinguishing dimensions",
+    "difficulty": "Application",
+    "q": "Which example best distinguishes a mental benefit from an emotional benefit?",
+    "options": [
+      "Improved concentration is mental, whereas improved management of frustration is emotional.",
+      "Improved friendships are mental, whereas reduced disease risk is emotional.",
+      "Improved bone density is mental, whereas stronger muscles are emotional.",
+      "A stronger sense of purpose is mental, whereas belonging to a team is emotional."
+    ],
+    "answer": 0,
+    "feedback": "Mental benefits focus on thinking and information processing, while emotional benefits focus on recognising, expressing and managing emotions and showing resilience."
+  },
+  {
+    "id": "A1BEN22",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Distinguishing dimensions",
+    "difficulty": "Application",
+    "q": "A person says that joining a team has helped them make friends and has also given them a stronger sense of purpose. Which statement is correct?",
+    "options": [
+      "Both outcomes are physical benefits.",
+      "Making friends is a social benefit, while purpose is a spiritual benefit.",
+      "Making friends is an emotional benefit, while purpose and direction are mental benefits.",
+      "Both outcomes are mental benefits."
+    ],
+    "answer": 1,
+    "feedback": "Forming friendships supports social health and wellbeing, while developing purpose and meaning supports spiritual health and wellbeing."
+  },
+  {
+    "id": "A1BEN23",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Distinguishing dimensions",
+    "difficulty": "Application",
+    "q": "Which pairing correctly matches a benefit with its dimension of health and wellbeing?",
+    "options": [
+      "Improved memory — emotional",
+      "Reduced loneliness — physical",
+      "Improved resilience — emotional",
+      "Improved muscular endurance — spiritual"
+    ],
+    "answer": 2,
+    "feedback": "Resilience is the ability to recover from challenges or setbacks and is an emotional health and wellbeing benefit."
+  },
+  {
+    "id": "A1BEN24",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Distinguishing dimensions",
+    "difficulty": "Application",
+    "q": "Which statement best explains why a sense of belonging may be classified differently depending on the context?",
+    "options": [
+      "Belonging is always physical because it occurs during movement.",
+      "Belonging is always mental because it changes a person's thoughts.",
+      "Belonging only counts as a benefit when an activity is competitive.",
+      "Belonging may support social connection or spiritual meaning depending on what the scenario emphasises."
+    ],
+    "answer": 3,
+    "feedback": "A sense of belonging can support social health through relationships, or spiritual health when it contributes to meaning, identity or connection to something greater."
+  },
+  {
+    "id": "A1BEN25",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Multiple benefits",
+    "difficulty": "Application",
+    "q": "A person participates in regular social netball. They improve fitness, make new friends and become better at coping with losses. Which statement is most accurate?",
+    "options": [
+      "The activity can provide physical, social and emotional benefits at the same time.",
+      "Only the physical benefit should be counted because netball is a sport.",
+      "The benefits should all be classified as social because the activity takes place with other people.",
+      "Each physical activity can improve only one dimension of health and wellbeing."
+    ],
+    "answer": 0,
+    "feedback": "One movement experience can provide multiple benefits simultaneously, including physical, social and emotional benefits."
+  },
+  {
+    "id": "A1BEN26",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Multiple benefits",
+    "difficulty": "Application",
+    "q": "Which combination best represents two different benefits that may result from regular group exercise?",
+    "options": [
+      "Improved muscular strength, bone density and daily physical functioning",
+      "Improved muscular fitness and stronger social connections",
+      "Improved concentration and improved memory",
+      "Improved resilience and improved emotional regulation"
+    ],
+    "answer": 1,
+    "feedback": "Improved muscular fitness is a physical benefit, while stronger social connections are a social benefit, showing that one activity can benefit multiple dimensions."
+  },
+  {
+    "id": "A1BEN27",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Multiple benefits",
+    "difficulty": "Application",
+    "q": "A bushwalking group reports improved fitness, stronger friendships and a greater appreciation of nature. Which three dimensions are most clearly represented?",
+    "options": [
+      "Mental, emotional and social health",
+      "Physical, mental and emotional",
+      "Physical, social and spiritual",
+      "Emotional, social and spiritual"
+    ],
+    "answer": 2,
+    "feedback": "Improved fitness is physical, stronger friendships are social, and appreciation or connection with nature is spiritual."
+  },
+  {
+    "id": "A1BEN28",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Multiple benefits",
+    "difficulty": "Application",
+    "q": "A student participates regularly in a culturally meaningful dance group. They develop friendships, feel connected to their culture and become more confident managing performance nerves. Which dimensions are most clearly represented?",
+    "options": [
+      "Physical, mental and social health",
+      "Physical, emotional and spiritual",
+      "Mental, social and physical",
+      "Social, spiritual and emotional"
+    ],
+    "answer": 3,
+    "feedback": "Friendships are social, cultural connection is spiritual, and managing nerves is emotional."
+  },
+  {
+    "id": "A1BEN29",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Activity reflection: 'Since joining the walking club, I have met people I now see outside the group and I no longer feel as isolated.' Which benefit is best supported by this reflection?",
+    "options": [
+      "Improved social health through stronger relationships and reduced isolation",
+      "Improved physical health through increased bone density",
+      "Improved mental health through faster information processing",
+      "Improved spiritual health through a greater sense of purpose and meaning"
+    ],
+    "answer": 0,
+    "feedback": "The reflection emphasises relationships and reduced isolation, which are social health and wellbeing benefits."
+  },
+  {
+    "id": "A1BEN30",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Activity reflection: 'After my regular lunchtime walks, I return to class feeling more focused and able to work through difficult problems.' Which dimension is most directly reflected?",
+    "options": [
+      "Physical health and wellbeing",
+      "Mental health and wellbeing",
+      "Emotional health, resilience and wellbeing",
+      "Spiritual health and wellbeing"
+    ],
+    "answer": 1,
+    "feedback": "Focus and problem solving involve thinking and processing information, so this is primarily a mental health and wellbeing benefit."
+  },
+  {
+    "id": "A1BEN31",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Activity reflection: 'Training has taught me to handle disappointment after poor performances and to keep working towards my goals.' Which benefit is most directly demonstrated?",
+    "options": [
+      "Improved social connection and belonging",
+      "Improved physical functioning",
+      "Improved emotional resilience",
+      "Improved spiritual connection"
+    ],
+    "answer": 2,
+    "feedback": "Recovering from disappointment and persisting after setbacks demonstrates emotional resilience."
+  },
+  {
+    "id": "A1BEN32",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Activity reflection: 'Walking on Country with Elders makes me feel connected to culture, land and something larger than myself.' Which dimension is most directly supported?",
+    "options": [
+      "Physical health and physical functioning",
+      "Mental health and wellbeing",
+      "Social health and wellbeing",
+      "Spiritual health and wellbeing"
+    ],
+    "answer": 3,
+    "feedback": "Connection to culture, Country and something greater than oneself reflects spiritual health and wellbeing."
+  },
+  {
+    "id": "A1BEN33",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "A weekly activity diary records three brisk walks, two resistance sessions and one social game. The participant reports maintaining a healthier body weight over time. Which benefit best explains this outcome?",
+    "options": [
+      "Improved physical health through healthy body-weight maintenance",
+      "Improved emotional expression and resilience",
+      "Improved spiritual purpose and reflection",
+      "Improved social adaptation and communication"
+    ],
+    "answer": 0,
+    "feedback": "Maintaining a healthy body weight is a physical health and wellbeing benefit of regular physical activity."
+  },
+  {
+    "id": "A1BEN34",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "A student writes: 'Playing in the team has improved my communication, helped me cooperate with others and introduced me to new friends.' Which dimension is most directly supported?",
+    "options": [
+      "Emotional",
+      "Social",
+      "Mental processing",
+      "Physical"
+    ],
+    "answer": 1,
+    "feedback": "Communication, cooperation and friendships are all social health and wellbeing benefits."
+  },
+  {
+    "id": "A1BEN35",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A person begins regular resistance training. Over time, they can lift heavier household objects and complete physical tasks with less fatigue. Which explanation best links participation to health and wellbeing?",
+    "options": [
+      "Resistance training provides a spiritual benefit because completing tasks gives the person meaning.",
+      "Resistance training provides a social benefit because physical tasks can involve other people.",
+      "Resistance training can improve muscular strength, supporting physical health by improving the body's capacity to perform daily tasks.",
+      "Resistance training improves emotional health because all physical improvements increase resilience."
+    ],
+    "answer": 2,
+    "feedback": "A complete explanation links the activity to improved muscular strength and then to improved physical functioning in everyday life."
+  },
+  {
+    "id": "A1BEN36",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A student joins a lunchtime activity group and begins interacting with classmates they did not previously know. Which explanation best identifies a social benefit?",
+    "options": [
+      "Participation may improve fitness, allowing the student to complete daily tasks more efficiently.",
+      "Participation may improve concentration because movement can support information processing.",
+      "Participation may improve resilience by providing challenges to overcome.",
+      "Participation creates opportunities to form new relationships, which can strengthen social connectedness and reduce isolation."
+    ],
+    "answer": 3,
+    "feedback": "The strongest explanation identifies the opportunity to form relationships and links it to social connectedness and reduced isolation."
+  },
+  {
+    "id": "A1BEN37",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A teenager regularly participates in recreational cycling and reports improved concentration while studying. Which explanation best links the activity to a mental health and wellbeing benefit?",
+    "options": [
+      "Regular activity can support brain function and information processing, helping the teenager concentrate more effectively.",
+      "Regular activity can increase bone density, which directly improves the teenager's concentration.",
+      "Regular activity creates friendships, which means concentration is primarily a social benefit.",
+      "Regular activity develops resilience, so concentration should be classified as an emotional benefit."
+    ],
+    "answer": 0,
+    "feedback": "Mental health and wellbeing includes thinking and information processing; improved concentration is therefore a mental benefit."
+  },
+  {
+    "id": "A1BEN38",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A participant says that repeated competition has helped them recognise frustration, respond calmly to mistakes and recover after losses. Which explanation best links this experience to health and wellbeing?",
+    "options": [
+      "It primarily improves physical health because competition requires movement.",
+      "It supports emotional health by developing emotional regulation and resilience.",
+      "It supports mental health because every competitive decision involves thinking.",
+      "It supports social health because all competition requires interaction with others."
+    ],
+    "answer": 1,
+    "feedback": "Recognising and managing frustration and recovering from setbacks demonstrate emotional regulation and resilience."
+  },
+  {
+    "id": "A1BEN39",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A community walking program includes regular walks through culturally significant local places and opportunities for participants to reflect on their connection to place. Which benefit is most directly promoted?",
+    "options": [
+      "Improved muscular strength as a physical benefit",
+      "Improved problem solving as a mental benefit",
+      "Greater connection, meaning and reflection as a spiritual benefit",
+      "Improved conflict resolution as a social benefit"
+    ],
+    "answer": 2,
+    "feedback": "Connection to place, meaning and reflection are spiritual health and wellbeing benefits."
+  },
+  {
+    "id": "A1BEN40",
+    "kk": "Benefits of Regular Participation in Movement",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A person regularly attends a community exercise class. They become fitter, make supportive friends, manage frustration more effectively and feel a stronger sense of purpose. What does this scenario best demonstrate?",
+    "options": [
+      "Only structured exercise can improve all dimensions of health and wellbeing.",
+      "Physical benefits are always more important than non-physical benefits.",
+      "Each benefit must result from a different type of physical activity.",
+      "Regular participation in one movement experience can contribute to several dimensions of health and wellbeing."
+    ],
+    "answer": 3,
+    "feedback": "A single movement experience can provide physical, social, emotional, mental and/or spiritual benefits at the same time."
   }
 ]
