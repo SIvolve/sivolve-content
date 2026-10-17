@@ -8083,5 +8083,605 @@
     ],
     "answer": 3,
     "feedback": "Reliability, validity and accuracy are distinct. Consistency and appropriate content do not compensate for inaccurate measurement or recording."
+  },
+  {
+    "id": "A1PAP01",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Purpose and design",
+    "difficulty": "Foundation",
+    "q": "What is the main purpose of a personalised physical activity plan?",
+    "options": [
+      "To match physical activity and sedentary-behaviour strategies to an individual's needs and circumstances",
+      "To prescribe the same weekly exercise routine for every participant",
+      "To focus only on improving sporting performance",
+      "To replace physical activity guidelines with personal preferences"
+    ],
+    "answer": 0,
+    "feedback": "A personalised plan should be tailored to the individual and promote appropriate physical activity while reducing sedentary behaviour."
+  },
+  {
+    "id": "A1PAP02",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Planning considerations",
+    "difficulty": "Foundation",
+    "q": "Which information should be considered when designing a personalised physical activity plan?",
+    "options": [
+      "Only the participant's age and the activities most commonly completed by people in the same age group",
+      "Current activity, sedentary behaviour and relevant physiological, psychological and sociocultural information",
+      "Only the participant's preferred sport",
+      "Only the result of one fitness test"
+    ],
+    "answer": 1,
+    "feedback": "A strong plan draws on multiple sources of information so that it is safe, appropriate and sustainable."
+  },
+  {
+    "id": "A1PAP03",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Self-management",
+    "difficulty": "Foundation",
+    "q": "Which action best demonstrates self-management within a physical activity plan?",
+    "options": [
+      "Waiting for someone else to organise every session",
+      "Ignoring missed sessions",
+      "Recording activity and reflecting on barriers and progress",
+      "Changing goals every day without reviewing data"
+    ],
+    "answer": 2,
+    "feedback": "Self-management involves taking responsibility for behaviours such as planning, monitoring, recording and adjusting activity."
+  },
+  {
+    "id": "A1PAP04",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Sustainability",
+    "difficulty": "Foundation",
+    "q": "Which feature is most important for making a personalised physical activity plan sustainable?",
+    "options": [
+      "Including only high-intensity exercise",
+      "Changing activities every session regardless of the participant's preferences, goals, access to facilities or weekly routine",
+      "Using the most expensive equipment available",
+      "Matching activities to the person's needs, preferences, resources and routine"
+    ],
+    "answer": 3,
+    "feedback": "Plans are more sustainable when they fit the participant's circumstances, preferences and available resources."
+  },
+  {
+    "id": "A1PAP05",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Goal setting",
+    "difficulty": "Foundation",
+    "q": "Why are clear and measurable goals useful in a personalised physical activity plan?",
+    "options": [
+      "They provide a target that can be monitored and evaluated over time",
+      "They guarantee that all barriers will disappear",
+      "They remove the need to review the plan",
+      "They ensure every participant uses the same activities"
+    ],
+    "answer": 0,
+    "feedback": "Clear and measurable goals support self-monitoring and make it easier to judge progress and modify the plan."
+  },
+  {
+    "id": "A1PAP06",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Guideline adherence",
+    "difficulty": "Foundation",
+    "q": "A personalised plan should be designed to promote adherence to which recommendations?",
+    "options": [
+      "Only sport-training recommendations designed for athletes preparing to improve competitive performance over a specific season",
+      "Relevant physical activity and sedentary behaviour guidelines",
+      "Only muscular-strength recommendations",
+      "Only the participant's current routine"
+    ],
+    "answer": 1,
+    "feedback": "The Study Design requires personalised plans to promote adherence to relevant physical activity and sedentary behaviour guidelines."
+  },
+  {
+    "id": "A1PAP07",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Primary data",
+    "difficulty": "Foundation",
+    "q": "Which is an example of primary data collected during implementation of a personalised plan?",
+    "options": [
+      "A national report summarising Australian activity trends",
+      "A textbook definition of sedentary behaviour",
+      "The participant's activity diary and weekly reflections",
+      "A government website summarising population trends"
+    ],
+    "answer": 2,
+    "feedback": "Primary data are collected directly from the participant during the plan, such as activity records and reflections."
+  },
+  {
+    "id": "A1PAP08",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Evaluation",
+    "difficulty": "Foundation",
+    "q": "What is the best basis for evaluating whether a personalised plan has been effective?",
+    "options": [
+      "Whether the participant enjoyed the first session and felt comfortable",
+      "Whether the plan looks detailed",
+      "Whether the participant bought new equipment",
+      "Comparison of pre- and post-plan data together with participant reflections"
+    ],
+    "answer": 3,
+    "feedback": "Evaluation should compare baseline and post-implementation data and consider reflections about strengths, limitations and barriers."
+  },
+  {
+    "id": "A1PAP09",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Physiological considerations",
+    "difficulty": "Application",
+    "q": "A participant has a previous knee injury and low current fitness. How should this information influence the plan?",
+    "options": [
+      "Select suitable activities and progression that account for the participant's physical condition",
+      "Ignore the injury if the participant is motivated and ask them to complete the original activities without modification",
+      "Use only vigorous exercise to improve fitness quickly",
+      "Remove all physical activity from the plan"
+    ],
+    "answer": 0,
+    "feedback": "Physiological information should guide safe and appropriate activity selection, progression and modification."
+  },
+  {
+    "id": "A1PAP10",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Psychological considerations",
+    "difficulty": "Application",
+    "q": "A participant has low confidence about exercising in public. Which strategy best responds to this psychological consideration?",
+    "options": [
+      "Require group exercise immediately",
+      "Begin with preferred activities in a comfortable setting and build confidence gradually",
+      "Remove all goals from the plan",
+      "Increase session difficulty to test commitment"
+    ],
+    "answer": 1,
+    "feedback": "A plan should respond to psychological factors such as confidence, motivation and self-efficacy."
+  },
+  {
+    "id": "A1PAP11",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Sociocultural considerations",
+    "difficulty": "Application",
+    "q": "A participant enjoys being active with family but has limited money for organised sport. Which plan feature best addresses these sociocultural factors?",
+    "options": [
+      "A costly gym membership that requires regular travel, specialised equipment and ongoing fees throughout the plan",
+      "Solo training at a distant facility",
+      "Free or low-cost activities that can be completed with family",
+      "Daily sessions requiring specialist equipment"
+    ],
+    "answer": 2,
+    "feedback": "Social support and financial circumstances are sociocultural considerations that should shape the plan."
+  },
+  {
+    "id": "A1PAP12",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Reducing sedentary behaviour",
+    "difficulty": "Application",
+    "q": "Which strategy best increases physical activity while also reducing sedentary behaviour?",
+    "options": [
+      "Adding weekend sport while leaving long periods of uninterrupted weekday sitting completely unchanged overall",
+      "Completing one long exercise session each month",
+      "Replacing all light activity with sitting breaks",
+      "Walking during part of the commute instead of remaining seated for the entire trip"
+    ],
+    "answer": 3,
+    "feedback": "Replacing some seated time with active transport can simultaneously increase physical activity and reduce sedentary behaviour."
+  },
+  {
+    "id": "A1PAP13",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Self-management",
+    "difficulty": "Application",
+    "q": "A participant regularly forgets planned activity sessions. Which self-management strategy is most appropriate?",
+    "options": [
+      "Schedule sessions in a calendar and use reminders",
+      "Rely only on memory and decide whether to exercise at the end of each day without using a schedule",
+      "Remove all planned activity",
+      "Wait until motivation improves before planning"
+    ],
+    "answer": 0,
+    "feedback": "Planning and scheduling are practical self-management strategies that can support adherence."
+  },
+  {
+    "id": "A1PAP14",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Self-monitoring",
+    "difficulty": "Application",
+    "q": "Why is recording physical activity throughout a personalised plan useful?",
+    "options": [
+      "It guarantees the participant meets every guideline because a written record automatically changes physical activity behaviour",
+      "It allows progress, adherence and barriers to be reviewed using evidence",
+      "It prevents any future injury",
+      "It removes the need for participant reflection"
+    ],
+    "answer": 1,
+    "feedback": "Records provide primary data that can be used to monitor behaviour and evaluate strengths and limitations."
+  },
+  {
+    "id": "A1PAP15",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Goal setting",
+    "difficulty": "Application",
+    "q": "Which goal is most useful for monitoring progress?",
+    "options": [
+      "Be more active sometime",
+      "Exercise whenever possible",
+      "Complete three planned 30-minute walks this week and record each session",
+      "Become much fitter soon"
+    ],
+    "answer": 2,
+    "feedback": "A specific, measurable and time-framed goal makes progress easier to monitor and evaluate."
+  },
+  {
+    "id": "A1PAP16",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Plan modification",
+    "difficulty": "Application",
+    "q": "A participant repeatedly misses evening sessions because of family responsibilities. What is the best modification?",
+    "options": [
+      "Keep the same evening schedule and assume adherence will improve once the participant becomes more motivated",
+      "Add more evening sessions",
+      "Remove all weekly goals",
+      "Move activity to realistic times or use shorter sessions that fit the participant's routine"
+    ],
+    "answer": 3,
+    "feedback": "A sustainable plan should be adjusted to genuine barriers so that participation is realistic over time."
+  },
+  {
+    "id": "A1PAP17",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Guideline adherence",
+    "difficulty": "Application",
+    "q": "A participant meets their planned exercise target but spends long uninterrupted periods sitting each day. What should the plan do next?",
+    "options": [
+      "Add strategies to break up and reduce sedentary time as well as maintaining physical activity",
+      "Ignore sitting because planned exercise automatically cancels the health effects of long daily sedentary periods",
+      "Reduce all physical activity",
+      "Replace active sessions with more sitting-based hobbies"
+    ],
+    "answer": 0,
+    "feedback": "Physical activity and sedentary behaviour are separate considerations, so a plan should address both."
+  },
+  {
+    "id": "A1PAP18",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Sustainability",
+    "difficulty": "Application",
+    "q": "Which plan is most likely to be sustainable for a busy participant with limited equipment?",
+    "options": [
+      "Daily long sessions that require specialised equipment, fixed travel times and access to facilities that are not always available",
+      "Short, flexible activities using accessible locations and minimal equipment",
+      "A plan based only on unfamiliar competitive sport",
+      "A fixed routine that cannot be changed"
+    ],
+    "answer": 1,
+    "feedback": "Flexibility, accessibility and fit with the participant's routine support long-term adherence."
+  },
+  {
+    "id": "A1PAP19",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Primary data",
+    "difficulty": "Application",
+    "q": "Which combination would provide the strongest primary data for evaluating a personalised plan?",
+    "options": [
+      "A newspaper article describing exercise benefits together with national statistics about physical activity participation across Australia",
+      "A textbook chapter and a government report",
+      "Activity records plus the participant's reflections on motivation, barriers and enjoyment",
+      "A friend's opinion and a social media post"
+    ],
+    "answer": 2,
+    "feedback": "Direct activity records and participant reflections provide quantitative and qualitative primary data about implementation."
+  },
+  {
+    "id": "A1PAP20",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Evaluation",
+    "difficulty": "Application",
+    "q": "Why should post-plan activity levels preferably be measured using the same method used at baseline?",
+    "options": [
+      "To make the plan longer and ensure the participant completes the same number of activities before and after implementation",
+      "To guarantee a positive result",
+      "To remove all participant bias",
+      "To make pre- and post-plan results more comparable"
+    ],
+    "answer": 3,
+    "feedback": "Using the same method improves comparability when judging changes from baseline."
+  },
+  {
+    "id": "A1PAP21",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Evaluation",
+    "difficulty": "Application",
+    "q": "A participant's activity increases, but they report that the plan is too expensive to continue. What is the best evaluation?",
+    "options": [
+      "The plan shows a benefit but has a sustainability limitation that should be addressed",
+      "The plan is fully successful because activity increased",
+      "The cost issue should be ignored because it is not physiological",
+      "The plan must be stopped permanently"
+    ],
+    "answer": 0,
+    "feedback": "Evaluation should recognise both positive outcomes and limitations that may affect long-term adherence."
+  },
+  {
+    "id": "A1PAP22",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Plan design",
+    "difficulty": "Application",
+    "q": "A participant enjoys cycling, has access to a bicycle and wants to be more active. Which design choice best supports adherence?",
+    "options": [
+      "Choose activities the participant dislikes but other people commonly enjoy",
+      "Include cycling as one appropriate activity within the personalised plan",
+      "Require only gym-based exercise",
+      "Avoid using existing resources"
+    ],
+    "answer": 1,
+    "feedback": "Using enjoyable and accessible activities can improve motivation and sustainability."
+  },
+  {
+    "id": "A1PAP23",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Self-management",
+    "difficulty": "Application",
+    "q": "A participant reviews their activity diary each Sunday and adjusts the following week's schedule after identifying barriers. What skill is being demonstrated?",
+    "options": [
+      "Passive participation in which another person reviews the diary, changes the schedule and makes all decisions for the participant",
+      "Medical diagnosis",
+      "Self-management through monitoring and adjustment",
+      "Population-level evaluation"
+    ],
+    "answer": 2,
+    "feedback": "Reviewing records and modifying behaviour in response to barriers are strong examples of self-management."
+  },
+  {
+    "id": "A1PAP24",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Psychological considerations",
+    "difficulty": "Application",
+    "q": "A participant loses motivation because the plan feels repetitive. Which modification is most appropriate?",
+    "options": [
+      "Increase sedentary time",
+      "Make every activity compulsory and keep the same routine even when the participant reports boredom and declining motivation",
+      "Remove all monitoring",
+      "Introduce suitable variety while retaining activities that support the participant's goals"
+    ],
+    "answer": 3,
+    "feedback": "Variety can support motivation while the plan remains aligned with the participant's goals and needs."
+  },
+  {
+    "id": "A1PAP25",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Sociocultural considerations",
+    "difficulty": "Application",
+    "q": "A participant is more active when a friend joins them. How could the plan use this information?",
+    "options": [
+      "Schedule some activities with supportive peers to strengthen adherence",
+      "Remove all social activity and require the participant to complete every planned session independently without encouragement from others",
+      "Use only solitary exercise",
+      "Ignore the influence because it is not physiological"
+    ],
+    "answer": 0,
+    "feedback": "Peer support is a sociocultural influence that can act as an enabler of physical activity."
+  },
+  {
+    "id": "A1PAP26",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Plan design",
+    "difficulty": "Application",
+    "q": "Which sequence best represents evidence-based personalised planning?",
+    "options": [
+      "Review baseline needs, choose activities, implement them, then evaluate without first setting clear goals",
+      "Review baseline needs and barriers, set suitable goals, implement strategies, record data and evaluate",
+      "Copy another person's plan without changes",
+      "Evaluate before collecting any data"
+    ],
+    "answer": 1,
+    "feedback": "Personalised planning should use baseline evidence, suitable goals and strategies, implementation data and evaluation."
+  },
+  {
+    "id": "A1PAP27",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Evaluation",
+    "difficulty": "Application",
+    "q": "A participant completes most planned sessions but reports increased knee discomfort. What should happen next?",
+    "options": [
+      "Continue unchanged because high adherence is more important than discomfort and the original schedule should always be completed",
+      "Increase the activity intensity",
+      "Review the plan and modify activities in response to the physiological issue",
+      "Ignore the discomfort unless a session is missed"
+    ],
+    "answer": 2,
+    "feedback": "Evaluation should consider physiological feedback as well as adherence and modify the plan when required."
+  },
+  {
+    "id": "A1PAP28",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Strengths and limitations",
+    "difficulty": "Application",
+    "q": "Which finding is best described as a limitation of a personalised plan?",
+    "options": [
+      "The participant enjoys the activities, finds them convenient and reports that they would be willing to continue the plan",
+      "The plan uses accessible local facilities",
+      "Activity records show improved consistency",
+      "The participant cannot sustain the schedule because it conflicts with work commitments"
+    ],
+    "answer": 3,
+    "feedback": "A schedule that conflicts with ongoing responsibilities reduces sustainability and is a clear limitation."
+  },
+  {
+    "id": "A1PAP29",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "A participant records 90 minutes of planned activity in week 1, 130 minutes in week 2 and 160 minutes in week 3. Which conclusion is best supported?",
+    "options": [
+      "The participant's recorded physical activity increased across the three weeks",
+      "The participant definitely met every relevant physical activity and sedentary behaviour guideline throughout each of the three weeks",
+      "Sedentary behaviour must have decreased",
+      "The plan had no limitations"
+    ],
+    "answer": 0,
+    "feedback": "The data directly support an increase in recorded activity. They do not by themselves prove guideline adherence or reduced sedentary behaviour."
+  },
+  {
+    "id": "A1PAP30",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "A participant completes all weekend sessions but repeatedly misses weekday sessions because of a long commute. Which modification is most appropriate?",
+    "options": [
+      "Increase weekday session duration",
+      "Use active transport or shorter sessions that can fit around commuting demands",
+      "Remove weekend activity",
+      "Add more sessions at times already being missed"
+    ],
+    "answer": 1,
+    "feedback": "The modification directly addresses the identified time and transport barrier while supporting physical activity."
+  },
+  {
+    "id": "A1PAP31",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "A participant's post-plan step data improve, but their reflections show they disliked the activities and would not continue them. What does this show?",
+    "options": [
+      "The plan has no strengths because the participant disliked it",
+      "The plan failed to collect primary data",
+      "The plan improved one outcome but has a sustainability limitation",
+      "The plan automatically meets all guidelines"
+    ],
+    "answer": 2,
+    "feedback": "Evaluation can show both a measurable improvement and a limitation affecting long-term adherence."
+  },
+  {
+    "id": "A1PAP32",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Baseline records show high sitting time during study. The plan adds a short walk after each study block and the participant records fewer prolonged sitting periods. What is the strongest conclusion?",
+    "options": [
+      "The plan only targeted aerobic power and did not attempt to change any aspect of the participant's sedentary behaviour",
+      "The participant's sociocultural barriers increased",
+      "No evaluation is possible without a fitness test",
+      "The strategy appears to have reduced sedentary behaviour during study"
+    ],
+    "answer": 3,
+    "feedback": "The pre- and post-plan records directly support a reduction in prolonged sedentary behaviour in that context."
+  },
+  {
+    "id": "A1PAP33",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "A participant records each session, rates motivation from 1 to 5 and notes barriers encountered. Why is this useful?",
+    "options": [
+      "It provides primary data about behaviour and psychological experiences that can inform evaluation",
+      "It replaces the need to implement the plan because detailed recording and reflection provide enough information without participation",
+      "It guarantees the plan is sustainable",
+      "It converts all qualitative information into objective data"
+    ],
+    "answer": 0,
+    "feedback": "Activity records, ratings and reflections provide primary data about what occurred and why adherence may have changed."
+  },
+  {
+    "id": "A1PAP34",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "A participant's goal is to become more active, but the plan contains no scheduled activities, monitoring or review process. What is the main weakness?",
+    "options": [
+      "The participant has too much social support from family and friends, which makes independent self-management impossible to develop",
+      "The plan lacks practical self-management structures to turn the goal into action",
+      "The plan uses too much primary data",
+      "The goal is automatically unrealistic"
+    ],
+    "answer": 1,
+    "feedback": "Goals need practical strategies such as scheduling, monitoring and review to support implementation."
+  },
+  {
+    "id": "A1PAP35",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A student has low motivation, enjoys walking with friends and has limited money. Which plan is best justified?",
+    "options": [
+      "A premium gym program completed alone",
+      "A demanding solo running plan with no flexibility",
+      "Regular free walks with friends, scheduled at realistic times and recorded for review",
+      "A plan based on expensive equipment to increase commitment"
+    ],
+    "answer": 2,
+    "feedback": "This plan addresses motivation, social support, cost, scheduling and self-monitoring in a way that is likely to be sustainable."
+  },
+  {
+    "id": "A1PAP36",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "SAC-style evaluation",
+    "difficulty": "SAC-style",
+    "q": "After four weeks, a participant is more active but still sits for long uninterrupted periods and reports that two planned sessions clash with work. What is the best next step?",
+    "options": [
+      "Keep the plan unchanged because increased activity outweighs sedentary time and scheduling problems",
+      "Remove all physical activity",
+      "Judge the plan completely ineffective",
+      "Retain successful activities, add sedentary-break strategies and reschedule sessions that conflict with work"
+    ],
+    "answer": 3,
+    "feedback": "Effective evaluation uses both strengths and limitations to guide specific modifications."
+  },
+  {
+    "id": "A1PAP37",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "SAC-style evaluation",
+    "difficulty": "SAC-style",
+    "q": "Which evidence provides the strongest basis for judging the effectiveness of a personalised plan?",
+    "options": [
+      "Comparable pre- and post-plan activity data together with participant reflections about adherence and barriers",
+      "The number of pages in the plan and the amount of detail used to describe each scheduled activity",
+      "The participant's favourite activity before the plan",
+      "A general population statistic collected elsewhere"
+    ],
+    "answer": 0,
+    "feedback": "Comparable pre/post data plus participant reflections provide direct evidence about outcomes and implementation."
+  },
+  {
+    "id": "A1PAP38",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A participant's FMA shows no major movement concerns, but they have low self-efficacy and little free time. Which plan design is most appropriate?",
+    "options": [
+      "Use only difficult unfamiliar activities",
+      "Begin with achievable preferred activities in short scheduled sessions and monitor progress",
+      "Ignore time availability because it is not physiological and require the participant to fit the original schedule around existing commitments",
+      "Require long daily sessions to build confidence quickly"
+    ],
+    "answer": 1,
+    "feedback": "The plan should account for psychological and practical barriers while using achievable, monitorable strategies."
+  },
+  {
+    "id": "A1PAP39",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "SAC-style evaluation",
+    "difficulty": "SAC-style",
+    "q": "A participant reports that exercising with a sibling increased enjoyment and helped them complete more sessions. How should this be interpreted?",
+    "options": [
+      "As evidence that physiological fitness directly caused improved adherence",
+      "As proof the plan had no limitations",
+      "As primary data showing a sociocultural enabler supported participation",
+      "As secondary data about population trends"
+    ],
+    "answer": 2,
+    "feedback": "The participant's reflection is primary data, and sibling support is a sociocultural enabler."
+  },
+  {
+    "id": "A1PAP40",
+    "kk": "Personalised Physical Activity Plan",
+    "domain": "SAC-style evaluation",
+    "difficulty": "SAC-style",
+    "q": "A plan increases physical activity for two weeks, but participation falls when the participant returns to their usual work schedule. Which conclusion is best?",
+    "options": [
+      "The plan is fully sustainable because it worked briefly",
+      "The plan should be judged only on the first two weeks",
+      "The participant's work schedule is irrelevant",
+      "The plan had short-term effectiveness but needs modification to improve long-term sustainability"
+    ],
+    "answer": 3,
+    "feedback": "A strong evaluation distinguishes short-term success from long-term sustainability and uses barriers to guide future modification."
   }
 ]
