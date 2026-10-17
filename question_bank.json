@@ -6,10 +6,10 @@
     "difficulty": "Foundation",
     "q": "Which statement best describes the role of hormones in relation to physical activity?",
     "options": [
-      "Hormones only influence reproduction.",
-      "Hormones influence functions including muscular development, energy levels, metabolism and reproduction.",
-      "Hormones determine whether an athlete will perform well.",
-      "Hormones affect only elite athletes."
+      "Hormones only influence reproductive processes in the body.",
+      "Hormones influence muscular development, energy, metabolism and reproductive processes.",
+      "Hormones alone determine whether an athlete performs successfully.",
+      "Hormones influence only athletes competing at elite levels."
     ],
     "answer": 1,
     "feedback": "Hormones influence several body functions relevant to physical activity, but their effects vary between individuals."
@@ -36,10 +36,10 @@
     "difficulty": "Foundation",
     "q": "What occurs during ovulation?",
     "options": [
-      "The uterine lining is shed.",
-      "An egg is released from the ovary.",
-      "Progesterone falls to its lowest level.",
-      "Menstruation automatically begins."
+      "The lining of the uterus is shed.",
+      "An egg is released from an ovary.",
+      "Progesterone immediately reaches its lowest level.",
+      "Menstruation begins at the same time."
     ],
     "answer": 1,
     "feedback": "Ovulation involves the release of an egg from the ovary."
@@ -66,10 +66,10 @@
     "difficulty": "Foundation",
     "q": "Which description best defines period poverty?",
     "options": [
-      "Having an irregular menstrual cycle.",
-      "Having insufficient access to menstrual products, sanitation facilities or adequate menstrual education.",
-      "Experiencing pain during menstruation.",
-      "Choosing not to participate in sport during menstruation."
+      "Having changes in the timing of the menstrual cycle.",
+      "Having inadequate access to menstrual products, facilities, education or support.",
+      "Experiencing pain or discomfort during menstruation.",
+      "Choosing to reduce physical activity during menstruation."
     ],
     "answer": 1,
     "feedback": "Period poverty involves practical and educational barriers to managing menstruation."
@@ -94,7 +94,7 @@
     "kk": "Hormonal Considerations",
     "domain": "Amenorrhea & Female Athlete Triad",
     "difficulty": "Foundation",
-    "q": "Which group best represents the three linked areas of the Female Athlete Triad as taught in this course?",
+    "q": "Which group best represents the three linked areas of the Female Athlete Triad?",
     "options": [
       "Low energy availability, menstrual disturbance and low bone mass.",
       "Low hydration, menstrual disturbance and muscle weakness.",
@@ -102,7 +102,7 @@
       "Low energy availability, hypertension and muscle soreness."
     ],
     "answer": 0,
-    "feedback": "The current teaching model links low energy availability, menstrual disturbance and low bone mass."
+    "feedback": "The Female Athlete Triad links low energy availability, menstrual disturbance and low bone mass."
   },
   {
     "id": "H08",
@@ -126,10 +126,10 @@
     "difficulty": "Application",
     "q": "A runner tracks her menstrual cycle. Her coach automatically reduces every training session during menstruation even though she reports feeling well. Which approach would be more appropriate?",
     "options": [
-      "Continue reducing every session because menstrual phase determines performance.",
-      "Stop tracking the athlete completely.",
-      "Consider her individual symptoms, recovery and training responses when deciding whether adjustment is needed.",
-      "Prevent vigorous activity throughout the entire menstrual cycle."
+      "Reduce every session because menstrual phase always determines athletic performance.",
+      "Stop collecting menstrual-cycle information altogether.",
+      "Use her symptoms, recovery and training responses to guide adjustments appropriately.",
+      "Prevent vigorous activity throughout every phase of the menstrual cycle."
     ],
     "answer": 2,
     "feedback": "Exercise prescription should respond to the individual rather than predetermined assumptions about cycle phase."
@@ -231,10 +231,10 @@
     "difficulty": "Application",
     "q": "Which strategy would best help reduce the risk associated with the Female Athlete Triad?",
     "options": [
-      "Encourage athletes to maintain the lowest possible body weight.",
-      "Ensure energy intake supports training demands and promote a healthy body image.",
-      "Ignore changes to menstrual health unless performance declines.",
-      "Increase training load whenever menstrual disturbance occurs."
+      "Encourage athletes to maintain the lowest possible body weight throughout training.",
+      "Match energy intake to training demands and support healthy body-image practices.",
+      "Ignore menstrual changes unless sporting performance clearly declines.",
+      "Increase training load whenever menstrual disturbance is reported."
     ],
     "answer": 1,
     "feedback": "Adequate nutrition, healthy body image and attention to menstrual and bone health are appropriate preventative strategies."
@@ -246,10 +246,10 @@
     "difficulty": "Application",
     "q": "A community sporting centre installs free menstrual products, private changing spaces and appropriate disposal facilities. The main purpose of these changes is to:",
     "options": [
-      "guarantee improved athletic performance.",
-      "reduce practical barriers to access and participation.",
-      "determine athletes' menstrual cycle phases.",
-      "replace individualised physical-activity prescription."
+      "Guarantee improved performance for every participant who uses them.",
+      "Reduce practical barriers to access and participation in sport.",
+      "Identify each athlete's exact menstrual-cycle phase before training.",
+      "Replace the need for individualised physical-activity prescription."
     ],
     "answer": 1,
     "feedback": "Suitable products and facilities remove practical barriers and can make participation more manageable."
@@ -261,10 +261,10 @@
     "difficulty": "Application",
     "q": "The AIS provides education and menstrual-health resources for athletes, coaches and health professionals. Which outcome is this most likely designed to support?",
     "options": [
-      "More informed and individualised responses to athletes' needs.",
-      "Identical training programs for all athletes.",
-      "Elimination of all menstrual symptoms.",
-      "Mandatory disclosure of menstrual information."
+      "Support more informed and individualised responses to athletes' needs over time.",
+      "Create identical training programs for athletes at every level.",
+      "Prevent all menstrual symptoms from affecting physical activity.",
+      "Require athletes to disclose menstrual information to support staff."
     ],
     "answer": 0,
     "feedback": "Education can help athletes and support staff understand individual patterns and respond appropriately."
@@ -276,10 +276,10 @@
     "difficulty": "Application",
     "q": "In some sporting environments, loss of menstruation was historically regarded as evidence that an athlete was training hard enough. Why is this attitude problematic?",
     "options": [
-      "Amenorrhea may indicate a health concern rather than superior fitness.",
-      "Amenorrhea guarantees improved sporting performance.",
-      "Menstruation is unrelated to athlete health.",
-      "Loss of menstruation increases bone mass."
+      "Amenorrhea may signal a health concern rather than superior fitness.",
+      "Amenorrhea reliably leads to better sporting performance over the long term.",
+      "Menstrual health has little relevance to athlete wellbeing.",
+      "Loss of menstruation generally improves bone health in athletes."
     ],
     "answer": 0,
     "feedback": "Menstrual disturbance may be associated with low energy availability and other health concerns and should not be celebrated as evidence of commitment."
@@ -291,10 +291,10 @@
     "difficulty": "Application",
     "q": "An athlete's tracking app predicts that ovulation will occur tomorrow. Which conclusion is most appropriate?",
     "options": [
-      "The app confirms the athlete's exact hormone levels.",
-      "The prediction is an estimate and should be considered alongside the athlete's individual symptoms and responses.",
-      "The athlete should automatically complete their hardest training session tomorrow.",
-      "The athlete should avoid training until the next cycle."
+      "The app confirms the athlete's hormone levels for that day.",
+      "The prediction is an estimate and should be considered alongside individual symptoms.",
+      "The athlete should complete the hardest training session on the predicted ovulation day.",
+      "The athlete should avoid training until the next cycle begins."
     ],
     "answer": 1,
     "feedback": "Tracking may identify patterns, but app predictions do not confirm ovulation or hormone levels."
@@ -306,10 +306,10 @@
     "difficulty": "Stimulus",
     "q": "An athlete records four sessions. Sessions with greater fatigue and discomfort are also the sessions in which less of the planned training is completed. Which conclusion is best supported?",
     "options": [
-      "Menstruation always prevents training completion.",
-      "Higher reported symptoms were associated with lower session completion for this athlete.",
-      "Fatigue is the only influence on training completion.",
-      "Every future session should be reduced by the same amount."
+      "Menstruation prevents athletes from completing planned training sessions.",
+      "Higher symptoms were associated with lower completion for this athlete.",
+      "Fatigue alone explains all differences in the athlete's training completion.",
+      "Every future session should be reduced whenever symptoms are reported."
     ],
     "answer": 1,
     "feedback": "The pattern supports an individual association between symptom severity and session completion without proving a universal rule or single cause."
@@ -321,10 +321,10 @@
     "difficulty": "Stimulus",
     "q": "Mia reports greater fatigue than usual during training. Her diary also shows that she slept for only four hours the previous night. Which interpretation is most appropriate?",
     "options": [
-      "Her menstrual cycle must be the sole cause.",
-      "Her sleep must be the sole cause.",
-      "Both menstrual symptoms and other influences such as sleep should be considered.",
-      "She should stop physical activity permanently."
+      "Her menstrual cycle must be the only cause of fatigue.",
+      "Her sleep duration must be the only cause of fatigue.",
+      "Menstrual symptoms and other factors such as sleep should be considered.",
+      "She should stop all physical activity until the fatigue has completely disappeared."
     ],
     "answer": 2,
     "feedback": "Training responses should be interpreted individually and in context rather than attributed automatically to cycle phase."
@@ -336,10 +336,10 @@
     "difficulty": "Stimulus",
     "q": "A club survey identifies difficulty accessing menstrual products, embarrassment discussing menstruation and inadequate changing facilities. Which response best addresses the combination of barriers?",
     "options": [
-      "Increase training intensity.",
-      "Provide free products, suitable facilities and confidential avenues for support.",
-      "Require public disclosure of menstrual cycles.",
-      "Remove menstruating athletes from competition."
+      "Increase training intensity to build greater resilience to discomfort.",
+      "Provide free products, suitable facilities and confidential support.",
+      "Require athletes to publicly disclose their menstrual-cycle information.",
+      "Remove athletes from activity whenever menstruation is reported."
     ],
     "answer": 1,
     "feedback": "This strategy addresses financial, practical and social barriers together."
@@ -366,10 +366,10 @@
     "difficulty": "Stimulus",
     "q": "Over three menstrual cycles, an athlete records different levels of fatigue during the same phase each month. Which conclusion is most appropriate?",
     "options": [
-      "One cycle can always predict every future cycle.",
-      "The athlete should use individual patterns over time rather than relying on a fixed rule for each phase.",
+      "One recorded cycle can reliably predict how every future cycle will affect training.",
+      "Use patterns across cycles rather than fixed rules for each phase.",
       "The menstrual cycle has no relevance to exercise prescription.",
-      "Training should cease during that phase."
+      "Training should stop whenever the same phase occurs again."
     ],
     "answer": 1,
     "feedback": "Individual experiences can vary between cycles, so repeated monitoring is more useful than fixed assumptions."
@@ -381,10 +381,10 @@
     "difficulty": "Stimulus",
     "q": "A professional sporting organisation has access to specialist hormone-monitoring technology, while a local community club cannot afford the same system. Which limitation does this example illustrate?",
     "options": [
-      "Technology cannot collect useful information.",
-      "Cost and specialist support can create unequal access to emerging technology.",
-      "Community athletes do not experience hormonal changes.",
-      "Elite athletes no longer require individualised training."
+      "Hormone-monitoring technology cannot provide useful information to athletes.",
+      "Cost and specialist support can limit access to emerging technology in sport.",
+      "Community athletes do not experience meaningful hormonal changes during training.",
+      "Elite athletes no longer require individualised training programs."
     ],
     "answer": 1,
     "feedback": "Advanced technologies may improve understanding but may not be equally accessible across sporting settings."
@@ -426,10 +426,10 @@
     "difficulty": "SAC-style",
     "q": "Research into female athletes becomes more inclusive and coaches receive better education about menstrual health. Which future implication is most reasonable?",
     "options": [
-      "Every athlete will respond identically to training.",
-      "Individualised exercise prescription may improve as knowledge and support increase.",
-      "Menstrual tracking will become unnecessary.",
-      "Hormonal considerations will no longer influence physical activity."
+      "Every athlete will eventually respond to training in the same way.",
+      "Exercise prescription may become more individualised as evidence improves.",
+      "Menstrual-cycle tracking will no longer have any practical value.",
+      "Hormonal considerations will cease to affect physical activity participation."
     ],
     "answer": 1,
     "feedback": "Better research and education may allow more informed and individualised support while recognising that responses still vary."
@@ -441,10 +441,10 @@
     "difficulty": "SAC-style",
     "q": "A coach wants to use menstrual information to modify an athlete's training program. Which approach is most appropriate?",
     "options": [
-      "Require the athlete to share cycle information with the entire team.",
-      "Assume cycle phase predicts how the athlete will perform.",
-      "With the athlete's consent, privately monitor relevant symptoms and training responses and make adjustments when appropriate.",
-      "Automatically remove high-intensity exercise during menstruation."
+      "Require the athlete to share cycle information with team members.",
+      "Assume cycle phase can accurately predict the athlete's performance.",
+      "With consent, privately track symptoms and adjust training when appropriate for the athlete.",
+      "Automatically remove high-intensity exercise whenever menstruation occurs."
     ],
     "answer": 2,
     "feedback": "Appropriate prescription should be consensual, private and individualised rather than based on stereotypes or compulsory disclosure."
@@ -457,7 +457,7 @@
     "q": "Which one of the following is the best example of an acute injury?",
     "options": [
       "Achilles pain developing gradually after repeated running.",
-      "Knee damage caused by an awkward landing during a match.",
+      "Knee damage caused by an awkward landing.",
       "Shoulder soreness developing after repeated swimming sessions.",
       "Shin pain becoming progressively worse over several weeks."
     ],
@@ -487,7 +487,7 @@
     "q": "Which situation most clearly demonstrates an injury affecting access to physical activity?",
     "options": [
       "An injured athlete feels disconnected from teammates.",
-      "A player cannot afford the rehabilitation required to return to sport.",
+      "A player cannot afford required rehabilitation.",
       "Knee pain prevents an athlete from completing training.",
       "Reduced strength slows an athlete during competition."
     ],
@@ -532,7 +532,7 @@
     "q": "Which statement about concussion is most accurate?",
     "options": [
       "Loss of consciousness must occur before concussion is suspected.",
-      "Concussion can occur after force to the head, neck or body and may temporarily disrupt brain function.",
+      "Concussion can follow force to the head, neck or body during sport.",
       "Concussion only occurs after a direct blow to the head.",
       "An athlete without a headache cannot have concussion."
     ],
@@ -546,10 +546,10 @@
     "difficulty": "Foundation",
     "q": "The anterior cruciate ligament assists primarily with:",
     "options": [
-      "stabilising the knee and controlling forward and rotational movement.",
-      "producing energy for muscle contraction.",
-      "absorbing all impact through the ankle.",
-      "controlling shoulder movement."
+      "Stabilising the knee during forward and rotational movement.",
+      "Producing energy used for muscular contraction during movement.",
+      "Absorbing impact forces through the ankle during landing.",
+      "Controlling movement at the shoulder joint during throwing."
     ],
     "answer": 0,
     "feedback": "The ACL contributes to knee stability, including control of forward movement of the shin and rotational stability."
@@ -563,8 +563,8 @@
     "options": [
       "Increase training loads rapidly to improve adaptation.",
       "Ignore minor warning signs until performance declines.",
-      "Match safety strategies to the activity risks and the participant's needs.",
-      "Use protective equipment as the only injury-prevention strategy."
+      "Match safety strategies appropriately to activity risks and individual participant needs.",
+      "Use protective equipment as the only injury-prevention strategy available."
     ],
     "answer": 2,
     "feedback": "Safety strategies should match the specific risks of the activity and the individual participant."
@@ -604,10 +604,10 @@
     "kk": "Injuries & Safety",
     "domain": "Concussion",
     "difficulty": "Application",
-    "q": "A concussed player returns too early and receives another heavy impact. Which consequence is most consistent with the lesson material?",
+    "q": "A concussed player returns too early and receives another heavy impact. Which consequence is most likely?",
     "options": [
-      "The second impact guarantees faster recovery.",
-      "Further injury may worsen the condition and prolong recovery.",
+      "The second impact guarantees a faster and safer recovery.",
+      "Further injury may worsen the condition and delay recovery for the athlete.",
       "The player automatically becomes immune to future concussion.",
       "Continued participation reduces the need for medical assessment."
     ],
@@ -623,7 +623,7 @@
     "options": [
       "Complete all schoolwork without breaks.",
       "Avoid learning permanently.",
-      "Gradually resume learning and reduce activities that worsen symptoms.",
+      "Gradually resume learning and reduce symptom-aggravating activities.",
       "Return to unrestricted sport before returning to school."
     ],
     "answer": 2,
@@ -651,8 +651,8 @@
     "difficulty": "Application",
     "q": "Which movement is most closely associated with a possible non-contact ACL injury?",
     "options": [
-      "Controlled walking in a straight line.",
-      "Sudden change of direction with poor knee control.",
+      "Controlled walking in a straight line at low speed.",
+      "Sudden direction change with poor knee control.",
       "Seated upper-body stretching.",
       "Standing still before competition."
     ],
@@ -666,8 +666,8 @@
     "difficulty": "Application",
     "q": "A basketballer repeatedly lands with the knee moving inward. Which strategy is most appropriate?",
     "options": [
-      "Increase the number of jumps without changing technique.",
-      "Use neuromuscular training incorporating strength, balance and controlled landing practice.",
+      "Increase the number of jumps without correcting the landing technique.",
+      "Use neuromuscular training with strength, balance and landing practice.",
       "Avoid all jumping permanently.",
       "Rely entirely on a knee brace."
     ],
@@ -681,8 +681,8 @@
     "difficulty": "Application",
     "q": "Which statement best describes ACL injury risk?",
     "options": [
-      "One single factor explains all ACL injuries.",
-      "Injury risk can reflect several interacting individual and environmental influences.",
+      "A single factor explains every ACL injury that occurs in sport.",
+      "Injury risk reflects several interacting individual and environmental factors.",
       "Female athletes will inevitably sustain ACL injuries.",
       "Hormone levels alone determine ACL injury risk."
     ],
@@ -741,7 +741,7 @@
     "difficulty": "Application",
     "q": "A rural athlete must travel several hours and pay substantial fees to receive specialist rehabilitation. This most directly demonstrates:",
     "options": [
-      "an access barrier.",
+      "a geographic and financial access barrier.",
       "improved inclusion.",
       "psychological skill development.",
       "safer officiating."
@@ -786,9 +786,9 @@
     "difficulty": "Stimulus",
     "q": "A sports club records 18 injury presentations for ages 8–9, 42 for ages 10–14, 37 for ages 15–19 and 25 for ages 20–24. Which conclusion is best supported?",
     "options": [
-      "The 10–14 age group recorded the most injury presentations in this sample.",
+      "The 10–14 group recorded the most injury presentations.",
       "Injury risk always decreases with age.",
-      "Every 10–14-year-old participant will be injured.",
+      "Every participant aged 10–14 will experience a sports injury.",
       "Age is the only factor influencing injury."
     ],
     "answer": 0,
@@ -801,8 +801,8 @@
     "difficulty": "Stimulus",
     "q": "A coach records increasingly high training loads alongside increasing athlete fatigue over four weeks. What is the most appropriate response?",
     "options": [
-      "Continue increasing training regardless of fatigue.",
-      "Review training load and ensure adequate recovery.",
+      "Continue increasing training load regardless of reported fatigue.",
+      "Review training load and allow adequate recovery.",
       "Eliminate all future training.",
       "Assume the athlete has a concussion."
     ],
@@ -831,7 +831,7 @@
     "difficulty": "Stimulus",
     "q": "A team introduces a warm-up containing lower-body strength, balance, agility and controlled landing activities. Knee injuries decrease during the following season. Which conclusion is most appropriate?",
     "options": [
-      "The program may have contributed to reducing modifiable injury risk.",
+      "The program may have reduced modifiable injury risk.",
       "The program guarantees no future knee injury will occur.",
       "Protective equipment is now unnecessary in every sport.",
       "Every knee injury has the same cause."
@@ -861,7 +861,7 @@
     "difficulty": "Stimulus",
     "q": "Before concussion education, 14 athletes reported that they would continue playing after feeling dizzy following a collision. After education, only 4 reported that they would continue. Which conclusion is best supported?",
     "options": [
-      "Education may have improved recognition of the need to withdraw from play.",
+      "Education may have improved appropriate withdrawal from play.",
       "Education eliminates all concussions.",
       "Dizziness is unrelated to concussion.",
       "Education proves that injury rates will fall to zero."
@@ -892,7 +892,7 @@
     "q": "A junior sporting league introduces a rule requiring athletes with suspected concussion to be removed from play, assessed appropriately and complete a gradual return process. How is this most likely to reduce the impact of injury?",
     "options": [
       "It guarantees that concussion will never occur.",
-      "It reduces the likelihood of continued participation while the athlete may still be recovering.",
+      "It reduces continued participation during possible recovery.",
       "It allows athletes to return as soon as symptoms briefly disappear.",
       "It places all responsibility for concussion on the athlete."
     ],
@@ -906,7 +906,7 @@
     "difficulty": "SAC-style",
     "q": "Historically, athletes were sometimes praised for 'playing through pain'. Current sporting practice increasingly encourages injury reporting and appropriate assessment. What does this change most clearly demonstrate?",
     "options": [
-      "A shift from prioritising toughness toward prioritising athlete welfare.",
+      "A shift toward prioritising athlete welfare over toughness in sport.",
       "A reduction in the importance of participant safety.",
       "A return to earlier sporting attitudes.",
       "An expectation that athletes diagnose their own injuries."
@@ -922,7 +922,7 @@
     "q": "A soccer club wants to reduce lower-limb injuries. It introduces strength and movement training but makes no changes to an unsafe playing surface. Which evaluation is most appropriate?",
     "options": [
       "The program is sufficient because strength training removes every injury risk.",
-      "The strategy addresses some individual risks but should also address environmental hazards.",
+      "The strategy addresses some risks but not environmental hazards.",
       "Playing surfaces cannot influence injury.",
       "The club should stop strength training completely."
     ],
@@ -937,7 +937,7 @@
     "q": "An athlete has completed several weeks of intense training and reports high fatigue but no specific injury. Which strategy is most appropriate for reducing injury risk?",
     "options": [
       "Increase training volume further.",
-      "Include adequate rest and recovery to reduce fatigue associated with overtraining.",
+      "Allow adequate rest and recovery to manage fatigue.",
       "Avoid all nutrition following training.",
       "Wait until an injury develops before changing the program."
     ],
@@ -957,17 +957,17 @@
       "Access to support has no influence on recovery."
     ],
     "answer": 0,
-    "feedback": "The material identifies resource differences between elite and community settings as an important access consideration."
+    "feedback": "Access to specialist rehabilitation and recovery resources can vary considerably between elite and community sporting settings."
   },
   {
     "id": "I35",
     "kk": "Injuries & Safety",
     "domain": "Historical, current & future implications",
     "difficulty": "SAC-style",
-    "q": "Future injury-management technology becomes more effective but remains expensive. Which outcome is most consistent with the course material?",
+    "q": "Future injury-management technology becomes more effective but remains expensive. Which outcome is most likely?",
     "options": [
       "Innovation will automatically improve safety equally for every participant.",
-      "New technology may improve injury management, but cost may restrict who can access it.",
+      "New technology may help, but cost can restrict access across sporting settings.",
       "Traditional prevention strategies will become unnecessary.",
       "Community clubs will no longer need coach education."
     ],
@@ -1014,7 +1014,7 @@
       "focusing attention on information that is relevant to the task.",
       "increasing physical activation before every activity.",
       "believing that success is guaranteed.",
-      "reducing the amount of sleep required before competition."
+      "reducing the amount of sleep required before an important competition."
     ],
     "answer": 0,
     "feedback": "Concentration involves directing attention towards relevant cues, instructions and feedback."
@@ -1057,7 +1057,7 @@
     "q": "Mental imagery involves:",
     "options": [
       "analysing written performance statistics.",
-      "increasing physical training volume before competition.",
+      "increasing physical training volume immediately before competition to improve sporting performance.",
       "mentally rehearsing an action or situation without physically performing it.",
       "avoiding thoughts about an upcoming performance."
     ],
@@ -1101,7 +1101,7 @@
     "difficulty": "Application",
     "q": "A student wants to join a recreational swimming program but worries that they will be slower than everyone else and decides not to attend. Which strategy would be most appropriate?",
     "options": [
-      "Place the student immediately in the most advanced group.",
+      "Place the student immediately in the most advanced training group.",
       "Tell the student that confidence should not influence participation.",
       "Provide an achievable introductory challenge and supportive feedback about progress.",
       "Require the student to compete before attending regular sessions."
@@ -1118,7 +1118,7 @@
     "options": [
       "Require every participant to complete an identical program.",
       "Allow participants to choose between suitable activities and difficulty levels.",
-      "Remove all opportunities for participants to set personal goals.",
+      "Remove all opportunities for participants to set their own personal goals.",
       "Increase external rewards after every session."
     ],
     "answer": 1,
@@ -1131,7 +1131,7 @@
     "difficulty": "Application",
     "q": "A new volleyball player listens carefully to instructions, responds to teammates and applies coaching feedback. Which outcome is most directly supported?",
     "options": [
-      "Reduced access to the activity.",
+      "Reduced access to the activity because training feels more difficult.",
       "Increased physical arousal.",
       "Reduced need for practice.",
       "Improved skill learning and stronger connection with teammates."
@@ -1164,7 +1164,7 @@
       "Imagine the consequences of making an error.",
       "Replace all physical practice with visualisation.",
       "Mentally rehearse the approach, take-off and successful execution of the skill.",
-      "Avoid thinking about the skill until competition begins."
+      "Avoid thinking about the skill until the competition begins that day."
     ],
     "answer": 2,
     "feedback": "Rehearsing successful execution can reinforce confidence and direct attention towards relevant technique."
@@ -1176,7 +1176,7 @@
     "difficulty": "Application",
     "q": "After making two passing errors, a footballer begins thinking, 'I'm ruining the game.' Which response would best help the athlete refocus?",
     "options": [
-      "Increase concern about the final score.",
+      "Increase concern about the final score and possible consequences of making another passing error under pressure.",
       "Use a short cue such as 'next pass' and focus on the next relevant action.",
       "Stop communicating with teammates.",
       "Avoid attempting another pass."
@@ -1209,7 +1209,7 @@
       "Maintaining a consistent sleep routine and reducing stimulating activity close to bedtime.",
       "Consuming caffeine immediately before bed.",
       "Increasing screen use when trying to fall asleep.",
-      "Completing intense exercise every time an athlete wakes during the night."
+      "Completing intense exercise whenever the athlete wakes during the night to become tired again."
     ],
     "answer": 0,
     "feedback": "Consistent routines, reduced stimulation and a suitable sleep environment can support sleep quality."
@@ -1267,7 +1267,7 @@
     "q": "A beginner attends training with a friend who provides encouragement and helps them understand the session. What is the most likely effect?",
     "options": [
       "Greater confidence and a stronger likelihood of continuing participation.",
-      "Reduced inclusion because another person is present.",
+      "Reduced inclusion because relying on a friend prevents independent participation in the program.",
       "Reduced intrinsic motivation in every situation.",
       "Greater sleep disturbance."
     ],
@@ -1281,7 +1281,7 @@
     "difficulty": "Stimulus",
     "q": "An athlete records the following passing results: 6 hours sleep = 64% successful passes; 7 hours = 72%; 8 hours = 80%; 9 hours = 81%. Which conclusion is best supported?",
     "options": [
-      "Every extra hour of sleep produces exactly an 8% improvement.",
+      "Every extra hour of sleep produces exactly an 8% improvement in performance.",
       "Greater sleep duration was associated with improved passing accuracy for this athlete.",
       "Nine hours of sleep guarantees peak performance for every athlete.",
       "Sleep duration was the only factor affecting passing accuracy."
@@ -1296,7 +1296,7 @@
     "difficulty": "Stimulus",
     "q": "Across four sessions, an athlete records: 5.5 hours sleep, fatigue 8/10, 45 of 75 minutes completed; 7.5 hours, fatigue 4/10, 70 of 75 minutes; 8 hours, fatigue 3/10, 75 of 75 minutes; 6 hours, fatigue 7/10, 50 of 75 minutes. Which conclusion is most appropriate?",
     "options": [
-      "Sleep duration is proven to be the only cause of session completion.",
+      "Sleep duration is proven to be the only factor determining whether the athlete completes each session.",
       "Every athlete should sleep for exactly eight hours.",
       "The athlete should permanently reduce all sessions to 50 minutes.",
       "Lower sleep duration and higher fatigue were associated with reduced session completion for this athlete."
@@ -1311,7 +1311,7 @@
     "difficulty": "Stimulus",
     "q": "During competition, an athlete shows rapid breathing, tense shoulders, difficulty concentrating and rushed decisions. Which interpretation is most appropriate?",
     "options": [
-      "The athlete is under-aroused and requires more stimulation.",
+      "The athlete is under-aroused and requires greater stimulation to improve concentration.",
       "The athlete's confidence must be high.",
       "The athlete may be experiencing excessive arousal that is reducing performance.",
       "The athlete is demonstrating optimal concentration."
@@ -1329,7 +1329,7 @@
       "Use a simple attentional cue such as 'watch the ball' before the next point.",
       "Increase concern about the previous points.",
       "Stop using feedback during the match.",
-      "Reduce sleep the night before the next competition."
+      "Reduce sleep the night before the next competition so the athlete feels more alert and focused."
     ],
     "answer": 0,
     "feedback": "A task-relevant cue can redirect concentration towards information needed for the next action."
@@ -1344,7 +1344,7 @@
       "Community athletes do not require psychological support.",
       "Access to specialised psychological and sleep support can differ between sporting settings.",
       "Professional support guarantees better performance.",
-      "Online education removes every difference in access."
+      "Online education removes every difference in access to specialised psychological and sleep support across sporting settings."
     ],
     "answer": 1,
     "feedback": "Financial and organisational resources can influence access to specialist psychological and sleep support."
@@ -1403,7 +1403,7 @@
     "options": [
       "Psychological preparation has become less important as physical training has improved.",
       "Psychological skills and sleep are increasingly treated as part of overall athlete preparation alongside physical training.",
-      "Current sporting practice discourages athletes from using imagery or concentration strategies.",
+      "Current sporting practice increasingly discourages athletes from using imagery, concentration and self-talk strategies during important competitive performances.",
       "Sleep is now considered unrelated to recovery."
     ],
     "answer": 1,
@@ -1431,7 +1431,7 @@
     "difficulty": "Foundation",
     "q": "Which statement best describes mental fitness?",
     "options": [
-      "The absence of all mental-health difficulties.",
+      "Mental fitness means never experiencing stress, disappointment or psychological difficulty during sport.",
       "Skills and habits that help people cope with challenges and support wellbeing.",
       "The ability to ignore stress during competition.",
       "A measure of physical strength and endurance."
@@ -1462,7 +1462,7 @@
     "q": "Cognitive functioning most directly involves:",
     "options": [
       "thinking, learning, decision-making and problem-solving.",
-      "muscular strength and power.",
+      "muscular strength, power and endurance.",
       "access to sporting facilities.",
       "competition scheduling."
     ],
@@ -1491,7 +1491,7 @@
     "difficulty": "Foundation",
     "q": "Which statement about physical activity and mental fitness is most accurate?",
     "options": [
-      "Physical activity prevents all mental illness.",
+      "Physical activity prevents all mental illness when people participate frequently enough in organised sport programs.",
       "Physical activity may support mood, coping and social connection, but benefits vary between individuals.",
       "Only competitive sport can support mental fitness.",
       "Physical activity removes the need for professional support."
@@ -1506,7 +1506,7 @@
     "difficulty": "Foundation",
     "q": "Which strategy is most directly associated with managing stress in sport?",
     "options": [
-      "Increasing training whenever an athlete feels overwhelmed.",
+      "Increasing training whenever an athlete experiences competitive stress.",
       "Avoiding all competition.",
       "Using controlled breathing or mindfulness to manage pressure.",
       "Ignoring signs of fatigue."
@@ -1524,7 +1524,7 @@
       "the ability to adapt constructively to setbacks and challenges.",
       "never experiencing disappointment.",
       "avoiding situations where failure is possible.",
-      "maintaining the same emotional response in every situation."
+      "maintaining the same emotional response in every challenging situation."
     ],
     "answer": 0,
     "feedback": "Resilience involves acknowledging setbacks and responding constructively rather than avoiding all difficulty."
@@ -1566,7 +1566,7 @@
     "difficulty": "Application",
     "q": "A community walking group wants new participants to feel more included. Which strategy is most appropriate?",
     "options": [
-      "Require participants to walk alone.",
+      "Require every participant to exercise alone throughout the entire program.",
       "Create welcoming group activities and opportunities for participants to interact.",
       "Remove all beginner sessions.",
       "Rank participants according to speed."
@@ -1583,7 +1583,7 @@
     "options": [
       "Increase training intensity.",
       "Require specialist equipment before joining.",
-      "Reduce the number of available programs.",
+      "Reduce the number of available programs so participants have fewer choices to consider.",
       "Provide clear information about location, cost, activity type and available support."
     ],
     "answer": 3,
@@ -1626,7 +1626,7 @@
     "difficulty": "Application",
     "q": "An athlete is struggling to balance training, schoolwork and recovery and is becoming increasingly stressed. Which response is most appropriate?",
     "options": [
-      "Add extra training sessions.",
+      "Add extra training sessions so the athlete becomes more accustomed to competing under pressure.",
       "Review the schedule and plan time for training, schoolwork and recovery.",
       "Stop communicating with support people.",
       "Ignore the issue unless performance declines."
@@ -1671,7 +1671,7 @@
     "difficulty": "Application",
     "q": "An athlete in a development pathway is experiencing ongoing difficulties but worries that asking for help will affect selection. Which organisational response is most appropriate?",
     "options": [
-      "Tell athletes that seeking help shows a lack of commitment.",
+      "Tell athletes that seeking professional help demonstrates a lack of commitment to their sporting pathway.",
       "Require concerns to be discussed publicly.",
       "Provide confidential support options and clear referral pathways that do not unfairly penalise help-seeking.",
       "Remove the athlete from the pathway immediately."
@@ -1686,7 +1686,7 @@
     "difficulty": "Application",
     "q": "An athlete tells a coach they are experiencing significant ongoing psychological difficulties. What is the most appropriate role for the coach?",
     "options": [
-      "Diagnose the athlete's condition.",
+      "Diagnose the athlete's condition based on the coach's own observations and previous sporting experience alone.",
       "Listen, provide appropriate support and connect the athlete with qualified professional help when needed.",
       "Provide treatment without specialist support.",
       "Ignore the issue unless performance changes."
@@ -1701,7 +1701,7 @@
     "difficulty": "Application",
     "q": "An academy athlete reports persistent fatigue, poor concentration and reduced enjoyment after several weeks of increased training and travel. Which response is most appropriate?",
     "options": [
-      "Increase workload further to build resilience.",
+      "Increase the athlete's workload further so greater training exposure builds resilience to fatigue.",
       "Remove all recovery opportunities.",
       "Assume the athlete lacks motivation.",
       "Review training and travel demands and adjust workload and recovery where appropriate."
@@ -1717,7 +1717,7 @@
     "q": "A development program changes training times every week with little notice. Athletes struggle to plan schoolwork and sleep. This example best demonstrates:",
     "options": [
       "organisational decisions influencing individual wellbeing and participation.",
-      "an athlete's physical fitness determining access.",
+      "an athlete's fitness level determining program access.",
       "mental fitness eliminating environmental barriers.",
       "a purely intrapersonal issue."
     ],
@@ -1748,7 +1748,7 @@
     "options": [
       "Increase training demands.",
       "Strengthen confidential support processes and reassure athletes that appropriate help-seeking will not unfairly affect selection.",
-      "Require public disclosure of concerns.",
+      "Require athletes to publicly disclose wellbeing concerns so coaches can monitor every issue affecting selection decisions.",
       "Remove support services from the academy."
     ],
     "answer": 1,
@@ -1763,7 +1763,7 @@
     "options": [
       "Physical activity has cured all mental-health difficulties.",
       "Professional support is unnecessary once activity begins.",
-      "Social connection has no relationship with mental fitness.",
+      "Social connection has no meaningful relationship with mental fitness, wellbeing or continued participation in community physical activity programs.",
       "Physical activity may support several aspects of mental fitness while some people still require additional professional support."
     ],
     "answer": 3,
@@ -1791,7 +1791,7 @@
     "difficulty": "Stimulus",
     "q": "A metropolitan academy employs psychologists, dietitians and welfare staff. A smaller regional program has one coach and relies on external community services. Which conclusion is best supported?",
     "options": [
-      "Regional athletes do not require wellbeing support.",
+      "Regional athletes do not require mental fitness support because smaller programs involve less pressure and stress.",
       "Specialist support guarantees better performance.",
       "Access to specialist mental-fitness support may differ between sporting pathways and locations.",
       "Community services cannot support athletes."
@@ -1806,7 +1806,7 @@
     "difficulty": "SAC-style",
     "q": "An elite swimmer attends early-morning training three times each week, reports persistent fatigue and is struggling to concentrate at school. The athlete fears that asking for fewer sessions may affect selection. Which action is most appropriate?",
     "options": [
-      "Require the athlete to continue the same workload.",
+      "Require the athlete to continue the same workload because reducing training may weaken commitment to the pathway.",
       "Consult with the athlete, review the training schedule and adjust workload or recovery opportunities where appropriate.",
       "Tell the athlete that fatigue is solely their responsibility.",
       "Remove the athlete from the pathway."
@@ -1824,7 +1824,7 @@
       "Reduced sleep → unpredictable schedule → improved motivation → increased participation.",
       "Improved belonging → unequal support → reduced confidence → increased participation.",
       "Unpredictable scheduling → reduced recovery → fatigue and lower motivation → reduced participation.",
-      "Higher workload → greater fatigue → guaranteed improved performance → increased participation."
+      "Higher workload → greater fatigue → guaranteed improved performance → increased overall participation."
     ],
     "answer": 2,
     "feedback": "Organisational scheduling can influence recovery and individual responses, which may then affect willingness or ability to participate."
@@ -1852,7 +1852,7 @@
     "q": "Which statement best describes a change in attitudes towards mental fitness in sport?",
     "options": [
       "Sport has increasingly shifted from viewing help-seeking as weakness towards recognising wellbeing and support as part of athlete development.",
-      "Modern sport places less emphasis on athlete wellbeing than in the past.",
+      "Modern sport places less emphasis on athlete wellbeing because successful performance is now considered more important than psychological support, recovery and help-seeking.",
       "Current approaches discourage athletes from discussing difficulties.",
       "Mental fitness is now considered relevant only after problems occur."
     ],
@@ -1873,5 +1873,215 @@
     ],
     "answer": 2,
     "feedback": "Future strategies may improve access and early support, but practical issues such as privacy, connectivity and effectiveness must still be considered."
+  },
+  {
+    "id": "H31",
+    "kk": "Hormonal Considerations",
+    "domain": "Local, national & global responses",
+    "difficulty": "Application",
+    "q": "A local council provides free menstrual products in community sporting facilities. What is the most likely benefit?",
+    "options": [
+      "It ensures every participant will experience improved sporting performance.",
+      "It removes the need for clubs to provide inclusive changing facilities.",
+      "It prevents menstrual symptoms from affecting physical activity.",
+      "It reduces a practical barrier that may limit access and participation."
+    ],
+    "answer": 3,
+    "feedback": "Providing free menstrual products can reduce a practical and financial barrier to accessing and participating in physical activity."
+  },
+  {
+    "id": "H32",
+    "kk": "Hormonal Considerations",
+    "domain": "Historical, current & future implications",
+    "difficulty": "Application",
+    "q": "Why is increased research involving female athletes important for physical-activity prescription?",
+    "options": [
+      "It allows one training program to be prescribed for all female athletes.",
+      "It proves menstrual-cycle phase is the main influence on sporting performance.",
+      "It can improve evidence used to develop more individualised exercise programs.",
+      "It removes the need to consider an athlete's symptoms and training responses."
+    ],
+    "answer": 2,
+    "feedback": "Better research can improve understanding of individual responses and support more informed physical-activity prescription."
+  },
+  {
+    "id": "H33",
+    "kk": "Hormonal Considerations",
+    "domain": "Individualised physical-activity prescription",
+    "difficulty": "Stimulus",
+    "q": "Two athletes are in the same menstrual-cycle phase. One reports feeling well, while the other reports significant fatigue and discomfort. What is the most appropriate approach?",
+    "options": [
+      "Give both athletes the same reduced training program.",
+      "Prevent both athletes from completing vigorous physical activity.",
+      "Ignore their symptoms because they are in the same cycle phase.",
+      "Adjust training according to each athlete's symptoms and responses."
+    ],
+    "answer": 3,
+    "feedback": "Physical-activity prescription should consider individual symptoms and responses rather than assuming all athletes respond identically."
+  },
+  {
+    "id": "H34",
+    "kk": "Hormonal Considerations",
+    "domain": "Ethical strategies",
+    "difficulty": "SAC-style",
+    "q": "A coach wants athletes to record menstrual information to help guide training. Which approach is most appropriate?",
+    "options": [
+      "Require every athlete to display their information to the team.",
+      "Use the information to predict performance without consulting athletes.",
+      "Share individual records with other coaches whenever requested.",
+      "Make participation voluntary and keep relevant information private."
+    ],
+    "answer": 3,
+    "feedback": "Menstrual information should be handled respectfully, with consent and appropriate privacy."
+  },
+  {
+    "id": "H35",
+    "kk": "Hormonal Considerations",
+    "domain": "Local, national & global responses",
+    "difficulty": "SAC-style",
+    "q": "Advanced hormone-monitoring technology may provide additional information for exercise prescription. Which limitation should sporting organisations consider?",
+    "options": [
+      "The technology means athlete feedback is no longer useful.",
+      "The technology guarantees accurate performance predictions.",
+      "Cost and specialist expertise may limit equitable access.",
+      "The technology removes the need for individualised programs."
+    ],
+    "answer": 2,
+    "feedback": "Emerging technology may offer benefits, but cost and access to specialist expertise can limit its availability across sporting settings."
+  },
+  {
+    "id": "H36",
+    "kk": "Hormonal Considerations",
+    "domain": "Access, inclusion, participation & performance",
+    "difficulty": "Application",
+    "q": "A sporting organisation reduces menstrual stigma through education, but some participants still cannot afford menstrual products. Which evaluation is most appropriate?",
+    "options": [
+      "The strategy has removed every barrier affecting participation.",
+      "The education is ineffective because performance has not been measured.",
+      "The organisation should stop discussing menstrual health.",
+      "The strategy may improve inclusion, while an access barrier remains."
+    ],
+    "answer": 3,
+    "feedback": "Education may reduce stigma and improve inclusion, but financial barriers can still restrict access and participation."
+  },
+  {
+    "id": "I36",
+    "kk": "Injuries & Safety",
+    "domain": "Concussion",
+    "difficulty": "Foundation",
+    "q": "Which response is most appropriate when concussion is suspected during sport?",
+    "options": [
+      "Allow the athlete to continue if symptoms appear mild.",
+      "Complete a fitness test before deciding whether to continue.",
+      "Remove the athlete from participation and arrange appropriate assessment.",
+      "Wait until the following day before responding to the symptoms."
+    ],
+    "answer": 2,
+    "feedback": "An athlete with suspected concussion should be removed from participation and appropriately assessed."
+  },
+  {
+    "id": "I37",
+    "kk": "Injuries & Safety",
+    "domain": "Injury prevention & safety",
+    "difficulty": "Application",
+    "q": "A club wants to reduce knee injuries. Which strategy provides the most comprehensive approach?",
+    "options": [
+      "Provide knee braces to every participant regardless of individual need.",
+      "Focus only on increasing the amount of training completed each week.",
+      "Replace strength training with additional competitive matches.",
+      "Combine movement training with appropriate environmental and safety checks."
+    ],
+    "answer": 3,
+    "feedback": "Effective injury prevention can address both participant-related factors and environmental risks."
+  },
+  {
+    "id": "I38",
+    "kk": "Injuries & Safety",
+    "domain": "Rehabilitation & return to sport",
+    "difficulty": "Application",
+    "q": "Why should return to sport after injury not be based only on the amount of time that has passed?",
+    "options": [
+      "All athletes recover from the same injury at exactly the same rate.",
+      "Time since injury is unrelated to rehabilitation in every situation.",
+      "Physical and psychological readiness should also be assessed.",
+      "Returning later always guarantees that reinjury will not occur."
+    ],
+    "answer": 2,
+    "feedback": "Return-to-sport decisions should consider individual recovery, including physical function and psychological readiness."
+  },
+  {
+    "id": "I39",
+    "kk": "Injuries & Safety",
+    "domain": "Access, inclusion, participation & performance",
+    "difficulty": "Application",
+    "q": "A rural sporting club introduces telehealth physiotherapy and subsidised travel for injured athletes who need specialist care. What is the main purpose of these strategies?",
+    "options": [
+      "Increase the intensity of rehabilitation programs.",
+      "Ensure athletes return to competition immediately.",
+      "Replace all face-to-face health services in rural communities.",
+      "Reduce geographic and financial barriers to rehabilitation."
+    ],
+    "answer": 3,
+    "feedback": "Travel distance and cost can restrict access to rehabilitation, so these strategies aim to reduce those barriers."
+  },
+  {
+    "id": "I40",
+    "kk": "Injuries & Safety",
+    "domain": "Responsibility & sporting systems",
+    "difficulty": "SAC-style",
+    "q": "Why might an independent medical professional be used to assess a suspected concussion during elite sport?",
+    "options": [
+      "To guarantee the athlete will be cleared to return immediately.",
+      "To transfer responsibility for safety entirely to the athlete.",
+      "To reduce potential conflicts between player welfare and competitive pressures during assessment.",
+      "To allow coaches to make the final medical diagnosis."
+    ],
+    "answer": 2,
+    "feedback": "Independent assessment can help ensure decisions prioritise athlete welfare rather than competitive pressures."
+  },
+  {
+    "id": "I41",
+    "kk": "Injuries & Safety",
+    "domain": "Local, national & global responses",
+    "difficulty": "Application",
+    "q": "What is a likely benefit of national concussion guidelines for community sport?",
+    "options": [
+      "They eliminate the possibility of concussion occurring.",
+      "They allow every sport to ignore its own participation risks.",
+      "They guarantee identical recovery times for every athlete.",
+      "They promote more consistent recognition and management of concussion."
+    ],
+    "answer": 3,
+    "feedback": "National guidance can support more consistent safety practices while individual recovery still needs to be considered."
+  },
+  {
+    "id": "I42",
+    "kk": "Injuries & Safety",
+    "domain": "Historical, current & future implications",
+    "difficulty": "SAC-style",
+    "q": "Future wearable technology may help monitor training load and possible injury risk. Which conclusion is most appropriate?",
+    "options": [
+      "Wearable technology will prevent every sporting injury from occurring.",
+      "Technology should replace coaches and qualified health professionals.",
+      "It can support decisions when used with other relevant information and professional judgement.",
+      "Anyone using wearable technology can safely increase training without limits."
+    ],
+    "answer": 2,
+    "feedback": "Technology may provide useful information, but injury-prevention decisions should consider multiple sources of evidence and professional judgement."
+  },
+  {
+    "id": "I43",
+    "kk": "Injuries & Safety",
+    "domain": "Injury prevention & safety",
+    "difficulty": "Stimulus",
+    "q": "A team reports increasing fatigue during a heavy training block, and coaches also identify an uneven playing surface. Which response best addresses injury risk?",
+    "options": [
+      "Continue the training load because no injury has occurred yet.",
+      "Repair the surface but make no changes to recovery practices.",
+      "Reduce training but continue using the unsafe playing surface.",
+      "Review training and recovery while also correcting the environmental hazard."
+    ],
+    "answer": 3,
+    "feedback": "A comprehensive injury-prevention approach addresses both training-related and environmental risk factors."
   }
 ]
