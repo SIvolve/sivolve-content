@@ -5083,5 +5083,605 @@
     ],
     "answer": 3,
     "feedback": "Young people have a daily 60-minute MVPA recommendation, whereas current adult guidance uses 30+ minutes of MVPA on most days alongside strength, functional and light-activity recommendations."
+  },
+  {
+    "id": "A1AS01",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Core concepts",
+    "difficulty": "Foundation",
+    "q": "Which statement best describes a subjective method of assessing physical activity?",
+    "options": [
+      "It relies on a person's perception, memory or self-report of their behaviour",
+      "It records movement automatically without any participant input",
+      "It requires a trained observer to code physical activity while it occurs",
+      "It always provides more accurate data than an objective method"
+    ],
+    "answer": 0,
+    "feedback": "Subjective methods rely on a person's perception, recall or self-report rather than direct measurement."
+  },
+  {
+    "id": "A1AS02",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Core concepts",
+    "difficulty": "Foundation",
+    "q": "Which statement best describes an objective assessment method?",
+    "options": [
+      "It depends mainly on the participant remembering past activity.",
+      "It uses measurable or directly observable data to assess behaviour.",
+      "It can only be used with very large population samples.",
+      "It always costs less than a subjective method."
+    ],
+    "answer": 1,
+    "feedback": "Objective methods use measurable or observable data rather than relying mainly on self-report."
+  },
+  {
+    "id": "A1AS03",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Recall surveys",
+    "difficulty": "Foundation",
+    "q": "Why is a recall survey classified as subjective?",
+    "options": [
+      "It records only the number of steps completed.",
+      "It requires a trained observer to watch the participant.",
+      "It relies on the participant remembering and reporting previous behaviour.",
+      "It measures movement with an accelerometer."
+    ],
+    "answer": 2,
+    "feedback": "Recall surveys are subjective because the participant must remember and report past physical activity and sedentary behaviour."
+  },
+  {
+    "id": "A1AS04",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Diaries",
+    "difficulty": "Foundation",
+    "q": "Which description best matches an activity diary?",
+    "options": [
+      "A device that automatically counts steps",
+      "A tool that automatically counts steps without recording the activity context",
+      "A sensor that detects changes in body position",
+      "A self-report record completed as physical activity and sedentary behaviour occur"
+    ],
+    "answer": 3,
+    "feedback": "An activity diary is a subjective method in which the participant records behaviour as it occurs."
+  },
+  {
+    "id": "A1AS05",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Pedometers",
+    "difficulty": "Foundation",
+    "q": "What does a pedometer primarily measure?",
+    "options": [
+      "The number of steps accumulated",
+      "Detailed information about activity context",
+      "Heart rate across different exercise intensities",
+      "The accuracy of a participant's recall"
+    ],
+    "answer": 0,
+    "feedback": "A pedometer primarily provides an objective count of steps accumulated."
+  },
+  {
+    "id": "A1AS06",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Observation tools",
+    "difficulty": "Foundation",
+    "q": "Which assessment method uses a trained observer to record physical activity behaviour as it occurs?",
+    "options": [
+      "Recall survey",
+      "Observation tool",
+      "Activity diary",
+      "Proxy survey"
+    ],
+    "answer": 1,
+    "feedback": "Observation tools are objective methods in which a trained observer records physical activity behaviour."
+  },
+  {
+    "id": "A1AS07",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Wearable technology",
+    "difficulty": "Foundation",
+    "q": "Which is an example of wearable technology used to assess physical activity?",
+    "options": [
+      "A paper recall questionnaire completed about physical activity from the previous week",
+      "Activity diary",
+      "Fitness tracker worn on the wrist",
+      "Printed interview schedule"
+    ],
+    "answer": 2,
+    "feedback": "A wrist-worn fitness tracker is wearable technology and can collect objective movement-related data."
+  },
+  {
+    "id": "A1AS08",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Method selection",
+    "difficulty": "Foundation",
+    "q": "Which factor should be considered when selecting an assessment method?",
+    "options": [
+      "Whether the method has the longest questionnaire",
+      "Whether the participant prefers the most expensive option",
+      "Whether every other researcher uses the same tool",
+      "The purpose of the assessment and the available time, cost and resources"
+    ],
+    "answer": 3,
+    "feedback": "Method selection should consider the assessment purpose, required accuracy, population or individual, available resources and type of information needed."
+  },
+  {
+    "id": "A1AS09",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Recall surveys",
+    "difficulty": "Application",
+    "q": "A researcher wants a quick, low-cost overview of physical activity across 4,000 adults. Which method is most practical?",
+    "options": [
+      "A recall survey administered to the sample",
+      "Continuous observation of every participant",
+      "A laboratory assessment for each participant",
+      "A trained observer following each person for a week"
+    ],
+    "answer": 0,
+    "feedback": "Recall surveys are practical and cost-effective for collecting broad information from large populations."
+  },
+  {
+    "id": "A1AS10",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Recall surveys",
+    "difficulty": "Application",
+    "q": "What is a major limitation of a recall survey?",
+    "options": [
+      "It cannot be used with large participant groups",
+      "Participants may forget or inaccurately report previous activity.",
+      "It cannot collect information about sedentary behaviour.",
+      "It always requires expensive wearable technology."
+    ],
+    "answer": 1,
+    "feedback": "Recall error and inaccurate self-report are important limitations of recall surveys."
+  },
+  {
+    "id": "A1AS11",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Diaries",
+    "difficulty": "Application",
+    "q": "A participant records the type, duration and intensity of each activity immediately after completing it. Which method is being used?",
+    "options": [
+      "Pedometer",
+      "Recall survey",
+      "Activity diary",
+      "Direct observation"
+    ],
+    "answer": 2,
+    "feedback": "A diary records physical activity and sedentary behaviour as or soon after it occurs and can include type, duration and intensity."
+  },
+  {
+    "id": "A1AS12",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Diaries",
+    "difficulty": "Application",
+    "q": "What is a likely limitation of asking participants to keep a detailed activity diary for two weeks?",
+    "options": [
+      "It cannot record activity duration.",
+      "It provides no information about activity type.",
+      "It is an objective method that requires trained observers.",
+      "It requires ongoing effort and accurate recording by participants."
+    ],
+    "answer": 3,
+    "feedback": "Diaries can provide detailed information, but they require participant commitment and accurate self-report over time."
+  },
+  {
+    "id": "A1AS13",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Proxy reports",
+    "difficulty": "Application",
+    "q": "A researcher wants information about the physical activity of very young children who cannot reliably self-report. Which approach is most suitable?",
+    "options": [
+      "Use a parent or carer as a proxy respondent",
+      "Ask each child to complete a long recall survey independently",
+      "Rely only on the child's estimate of weekly activity",
+      "Exclude the children from all forms of assessment"
+    ],
+    "answer": 0,
+    "feedback": "A proxy report can be appropriate when a participant, such as a young child, cannot reliably self-report."
+  },
+  {
+    "id": "A1AS14",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Pedometers",
+    "difficulty": "Application",
+    "q": "A participant wants a simple objective measure of how much walking they complete each day. Which method is most suitable?",
+    "options": [
+      "Recall survey",
+      "Pedometer",
+      "Activity diary",
+      "Interview"
+    ],
+    "answer": 1,
+    "feedback": "A pedometer is well suited to objectively counting daily steps."
+  },
+  {
+    "id": "A1AS15",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Pedometers",
+    "difficulty": "Application",
+    "q": "Why might a pedometer be unsuitable if a researcher needs detailed information about activity intensity and context?",
+    "options": [
+      "It relies entirely on the participant's memory.",
+      "It can only be worn for a few minutes.",
+      "It mainly counts steps and provides limited information about how the activity was performed.",
+      "It cannot provide any numerical information."
+    ],
+    "answer": 2,
+    "feedback": "Pedometers are useful for step counts but provide limited information about intensity, type and context."
+  },
+  {
+    "id": "A1AS16",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Observation tools",
+    "difficulty": "Application",
+    "q": "A researcher wants detailed information about the type, intensity and context of activity occurring in a playground. Which method is most suitable?",
+    "options": [
+      "A short recall survey asking participants to remember playground activity several months later",
+      "A simple step count only",
+      "A participant interview after the school year",
+      "A structured observation tool used while the activity occurs"
+    ],
+    "answer": 3,
+    "feedback": "Observation tools can record activity type, intensity and environmental context as behaviour occurs."
+  },
+  {
+    "id": "A1AS17",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "SOFIT",
+    "difficulty": "Application",
+    "q": "Which situation is SOFIT designed to assess?",
+    "options": [
+      "Student activity levels, lesson context and teacher behaviour during a PE lesson",
+      "Free-play activity in parks, playgrounds and recreation spaces where no formal lesson is being taught",
+      "An adult's step count during commuting",
+      "Self-reported activity across the previous month"
+    ],
+    "answer": 0,
+    "feedback": "SOFIT is used in Physical Education settings and can record student activity, lesson context and teacher behaviour."
+  },
+  {
+    "id": "A1AS18",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "SOPLAY",
+    "difficulty": "Application",
+    "q": "Which situation is most appropriate for SOPLAY?",
+    "options": [
+      "Assessing one athlete's heart rate, distance and movement continuously during a structured training session",
+      "Observing activity levels and context during recess or lunchtime free play",
+      "Recording an adult's weekly activity through a diary",
+      "Measuring steps during a walking program"
+    ],
+    "answer": 1,
+    "feedback": "SOPLAY is designed to observe physical activity in free-play settings such as playgrounds, recess and lunch."
+  },
+  {
+    "id": "A1AS19",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Observation tools",
+    "difficulty": "Application",
+    "q": "What is a limitation of direct observation as an assessment method?",
+    "options": [
+      "It cannot provide reliable information about the setting or context in which activity occurs.",
+      "It always depends on participant memory.",
+      "It can require considerable time and trained observers.",
+      "It cannot record activity intensity."
+    ],
+    "answer": 2,
+    "feedback": "Observation can provide rich objective information, but it can be time-consuming and may require trained observers."
+  },
+  {
+    "id": "A1AS20",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Wearable technology",
+    "difficulty": "Application",
+    "q": "A person wants real-time information about steps, heart rate and activity intensity across several days. Which method is most suitable?",
+    "options": [
+      "Paper recall survey",
+      "Proxy diary",
+      "Single playground observation",
+      "Wearable activity tracker"
+    ],
+    "answer": 3,
+    "feedback": "Wearable technology can collect real-time data such as steps, heart rate and activity intensity over extended periods."
+  },
+  {
+    "id": "A1AS21",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Wearable technology",
+    "difficulty": "Application",
+    "q": "What is one limitation of wearable technology?",
+    "options": [
+      "Cost, access or device limitations may reduce practicality for some users",
+      "It can never collect data over more than one day",
+      "It relies entirely on long-term memory",
+      "It cannot produce numerical data"
+    ],
+    "answer": 0,
+    "feedback": "Wearable technology can provide rich data, but cost, access, device accuracy and technology requirements can limit practicality."
+  },
+  {
+    "id": "A1AS22",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Digital tools",
+    "difficulty": "Application",
+    "q": "A participant uses a smartphone app to record routes, review activity history and track progress over time. Which method is being used?",
+    "options": [
+      "Proxy survey",
+      "Digital tool",
+      "Direct observation",
+      "Paper diary only"
+    ],
+    "answer": 1,
+    "feedback": "Apps and software that monitor, store and analyse activity are digital assessment tools."
+  },
+  {
+    "id": "A1AS23",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Digital tools",
+    "difficulty": "Application",
+    "q": "Why might a digital tool be unsuitable for some participants?",
+    "options": [
+      "It can never track activity over time.",
+      "It is always less detailed than a recall survey, even when the app stores routes, duration and intensity over time.",
+      "Access to compatible technology or digital skills may be limited.",
+      "It cannot provide feedback to users."
+    ],
+    "answer": 2,
+    "feedback": "Digital tools can be useful, but access to devices, internet or digital skills can create barriers."
+  },
+  {
+    "id": "A1AS24",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Method selection",
+    "difficulty": "Application",
+    "q": "A researcher values high accuracy and detailed individual data more than low cost. Which approach is generally most appropriate?",
+    "options": [
+      "Use only one short self-report question.",
+      "Choose the cheapest available method even when it does not collect the detailed information required by the research question.",
+      "Use the same method for every research question.",
+      "Select an objective method capable of collecting the required detailed data."
+    ],
+    "answer": 3,
+    "feedback": "When accuracy and detail are priorities, an appropriate objective method may be preferable despite greater cost or lower practicality."
+  },
+  {
+    "id": "A1AS25",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Accuracy and practicality",
+    "difficulty": "Application",
+    "q": "Which statement best describes the usual trade-off between accuracy and practicality?",
+    "options": [
+      "Methods that provide richer objective data can be less practical because they may cost more or require more resources.",
+      "Subjective methods are always more accurate because participants know their own behaviour.",
+      "More expensive methods are automatically appropriate for every assessment.",
+      "Practicality and accuracy are unrelated when measuring physical activity."
+    ],
+    "answer": 0,
+    "feedback": "Assessment often involves balancing accuracy with cost, time, equipment and feasibility."
+  },
+  {
+    "id": "A1AS26",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Individual vs population",
+    "difficulty": "Application",
+    "q": "Why might a recall survey be chosen for a national population study instead of continuous direct observation?",
+    "options": [
+      "Recall surveys remove memory error and social desirability bias when they are completed by a sufficiently large sample.",
+      "They are generally more feasible and cost-effective for very large samples.",
+      "Observation cannot measure any type of physical activity.",
+      "Recall surveys provide perfect real-time data."
+    ],
+    "answer": 1,
+    "feedback": "Large population studies often prioritise feasibility, making recall surveys more practical than resource-intensive direct observation."
+  },
+  {
+    "id": "A1AS27",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Individual vs population",
+    "difficulty": "Application",
+    "q": "An individual wants detailed feedback to identify when they are inactive during the day. Which method is likely to be most useful?",
+    "options": [
+      "A one-off population prevalence estimate",
+      "A general health promotion poster",
+      "A wearable device capable of recording movement patterns across the day",
+      "A survey completed by an unrelated person who has not directly observed the individual's daily movement patterns"
+    ],
+    "answer": 2,
+    "feedback": "A wearable can provide personalised movement data across the day, helping identify patterns of activity and inactivity."
+  },
+  {
+    "id": "A1AS28",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Method selection",
+    "difficulty": "Application",
+    "q": "Which question should be asked first when justifying an assessment method?",
+    "options": [
+      "Which method has the newest technology?",
+      "Which method looks most impressive?",
+      "Which method has the longest list of features, even if many of those features are unrelated to the assessment purpose?",
+      "What is the purpose of the assessment and what information is required?"
+    ],
+    "answer": 3,
+    "feedback": "The method should be selected according to the assessment purpose and the information that needs to be collected."
+  },
+  {
+    "id": "A1AS29",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Study A: 5,000 adults complete a brief questionnaire about activity during the previous week. Which description is most accurate?",
+    "options": [
+      "It is a subjective recall method that is practical for a large population sample.",
+      "It is an objective method because the sample is large.",
+      "It is direct observation because behaviour is being recorded.",
+      "It is a wearable method because activity is measured over a week."
+    ],
+    "answer": 0,
+    "feedback": "A questionnaire asking participants to remember the previous week is a subjective recall survey and is practical for large samples."
+  },
+  {
+    "id": "A1AS30",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Study B: participants wear a device that records movement continuously for seven days. What is the strongest advantage over a recall survey?",
+    "options": [
+      "It guarantees every type of activity is measured perfectly.",
+      "It reduces reliance on participants remembering and reporting their activity.",
+      "It is always cheaper to use with thousands of people.",
+      "It automatically explains why participants chose each activity."
+    ],
+    "answer": 1,
+    "feedback": "Objective wearable data reduce dependence on memory and self-report, although devices still have limitations."
+  },
+  {
+    "id": "A1AS31",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Study C: an observer records how many students are sedentary, walking or very active during lunchtime and notes the playground context. Which tool best matches the purpose?",
+    "options": [
+      "SOFIT",
+      "Activity diary",
+      "SOPLAY",
+      "Pedometer"
+    ],
+    "answer": 2,
+    "feedback": "SOPLAY is designed for observing activity and environmental context in free-play settings such as lunchtime."
+  },
+  {
+    "id": "A1AS32",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Study D: a PE department wants to examine student activity levels, lesson context and teacher behaviour during classes. Which method is most appropriate?",
+    "options": [
+      "Pedometer only",
+      "Population recall survey",
+      "SOPLAY observation across a free-play playground setting rather than within the structured PE lesson",
+      "SOFIT observation during PE lessons"
+    ],
+    "answer": 3,
+    "feedback": "SOFIT is specifically designed to assess activity levels, lesson context and teacher behaviour during Physical Education lessons."
+  },
+  {
+    "id": "A1AS33",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Study E compares two methods. Method 1 is inexpensive and easy to administer but depends on memory. Method 2 is more costly but automatically records movement. Which pairing is most likely?",
+    "options": [
+      "Method 1: recall survey; Method 2: wearable technology",
+      "Method 1: wearable technology; Method 2: recall survey",
+      "Method 1: observation; Method 2: proxy survey",
+      "Method 1: pedometer; Method 2: paper diary"
+    ],
+    "answer": 0,
+    "feedback": "A recall survey is practical but memory-dependent, while wearable technology can automatically record objective movement data but may cost more."
+  },
+  {
+    "id": "A1AS34",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Study F asks 200 participants to record activity type, duration and intensity each day for one week. What is the main limitation?",
+    "options": [
+      "The method cannot collect detailed information.",
+      "Participants must consistently and accurately complete the diary over time.",
+      "The method is objective and requires specialised laboratory equipment to verify every activity entry recorded by participants.",
+      "The method can only measure step counts."
+    ],
+    "answer": 1,
+    "feedback": "Diaries can collect detailed data, but compliance and accurate ongoing recording are important limitations."
+  },
+  {
+    "id": "A1AS35",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A researcher needs to assess physical activity in 10,000 adults with a limited budget. Which choice is most defensible?",
+    "options": [
+      "Give every participant a high-cost wearable because accuracy is the only consideration.",
+      "Directly observe every participant for one week.",
+      "Use a recall survey because it is practical and cost-effective for a large population, while acknowledging recall error.",
+      "Use no assessment because a large sample cannot be measured."
+    ],
+    "answer": 2,
+    "feedback": "For a very large population with limited resources, recall surveys are practical; a strong justification also acknowledges their limitations."
+  },
+  {
+    "id": "A1AS36",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A researcher wants detailed objective information about activity patterns in a small group and has sufficient funding. Which choice is best justified?",
+    "options": [
+      "A brief recall survey because memory-based self-report is always more accurate than repeated objective measurement across several days",
+      "A paper diary because it removes all participant reporting error",
+      "A single question asking whether participants feel active",
+      "Wearable technology because it can collect detailed real-time movement data across multiple days"
+    ],
+    "answer": 3,
+    "feedback": "Wearable technology is appropriate when detailed objective individual data are needed and cost is less restrictive."
+  },
+  {
+    "id": "A1AS37",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A student says, 'Objective methods are always the best choice.' Which response is most accurate?",
+    "options": [
+      "Not necessarily; the most appropriate method depends on purpose, accuracy needs, sample size, cost, time and resources.",
+      "Yes; objective methods are always cheaper, quicker and easier to administer, regardless of sample size, purpose or available resources.",
+      "Yes; subjective methods cannot measure physical activity at all.",
+      "No; subjective methods are always more accurate than objective methods."
+    ],
+    "answer": 0,
+    "feedback": "No single method is best in every situation. Selection requires balancing purpose, accuracy, practicality and resources."
+  },
+  {
+    "id": "A1AS38",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A public health team wants both large-scale prevalence data and more detailed movement data from a smaller subsample. Which design is most appropriate?",
+    "options": [
+      "Use one observation session for the entire population.",
+      "Use a recall survey for the large sample and wearable technology for the smaller subsample.",
+      "Use only a pedometer because using the same assessment method for every participant is more important than matching methods to purpose and sample size.",
+      "Use no subjective methods because they have limitations."
+    ],
+    "answer": 1,
+    "feedback": "Combining methods can balance practicality at the population level with more detailed objective data in a smaller subsample."
+  },
+  {
+    "id": "A1AS39",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A school wants to know whether students are active during free-play areas at lunchtime and whether the environment affects participation. Which method is best justified?",
+    "options": [
+      "A long-term adult recall survey",
+      "A pedometer worn by one student",
+      "SOPLAY because it can record activity levels and environmental context in a free-play setting",
+      "SOFIT because it is designed specifically to examine teacher behaviour and lesson context during structured Physical Education classes"
+    ],
+    "answer": 2,
+    "feedback": "SOPLAY is suited to free-play settings and can provide objective information about activity and environmental context."
+  },
+  {
+    "id": "A1AS40",
+    "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A researcher chooses a diary because participants need to report activity type, duration, intensity and sedentary time across one week. What is the strongest evaluation of this choice?",
+    "options": [
+      "It is unsuitable because diaries cannot record more than one dimension of activity.",
+      "It is objective because entries are completed close to when activity occurs.",
+      "It removes all social desirability and reporting bias.",
+      "It can provide detailed self-report information, but participant burden and inaccurate recording may reduce data quality."
+    ],
+    "answer": 3,
+    "feedback": "A diary can capture rich multidimensional information, but compliance and self-report accuracy remain important limitations."
   }
 ]

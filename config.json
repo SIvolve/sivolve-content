@@ -56,6 +56,12 @@
       "status": "coming_soon",
       "unit": "Unit 2",
       "aos": "Area of Study 1"
+    },
+    {
+      "name": "Assessment of Physical Activity and Sedentary Behaviour",
+      "status": "coming_soon",
+      "unit": "Unit 2",
+      "aos": "Area of Study 1"
     }
   ]
 }
