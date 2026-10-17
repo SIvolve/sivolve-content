@@ -3283,5 +3283,605 @@
     ],
     "answer": 3,
     "feedback": "A single movement experience can provide physical, social, emotional, mental and/or spiritual benefits at the same time."
+  },
+  {
+    "id": "A1SC01",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Core concepts",
+    "difficulty": "Foundation",
+    "q": "Which statement best describes a sociocultural enabler of physical activity?",
+    "options": [
+      "A social or cultural influence that increases motivation, opportunity or access to participate",
+      "A personal injury that prevents a person from exercising for several weeks",
+      "A fitness adaptation that improves performance during physical activity",
+      "A measurement tool used to record physical activity participation"
+    ],
+    "answer": 0,
+    "feedback": "A sociocultural enabler is a social or cultural influence that encourages participation by increasing motivation, opportunity or access."
+  },
+  {
+    "id": "A1SC02",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Core concepts",
+    "difficulty": "Foundation",
+    "q": "Which statement best describes a sociocultural barrier to physical activity?",
+    "options": [
+      "A factor that guarantees a person will stop being physically active",
+      "A social or cultural influence that reduces motivation, opportunity or access",
+      "A training method that improves physical fitness over time",
+      "A guideline that recommends how much physical activity people should complete"
+    ],
+    "answer": 1,
+    "feedback": "A sociocultural barrier is a social or cultural influence that makes participation more difficult by reducing motivation, opportunity or access."
+  },
+  {
+    "id": "A1SC03",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Family",
+    "difficulty": "Foundation",
+    "q": "Which example best represents family acting as an enabler of physical activity?",
+    "options": [
+      "A local council builds a new shared walking path",
+      "A friendship group chooses screen-based activities after school",
+      "A parent provides transport to weekly sports training",
+      "A sporting club publishes information in several languages"
+    ],
+    "answer": 2,
+    "feedback": "Providing transport is a form of family support that increases access to physical activity."
+  },
+  {
+    "id": "A1SC04",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Peers",
+    "difficulty": "Foundation",
+    "q": "Which example best represents peers acting as a barrier to physical activity?",
+    "options": [
+      "A parent pays a registration fee",
+      "A council provides free exercise sessions",
+      "A school provides access to sporting equipment and facilities during lunch breaks",
+      "Friends regularly discourage a student from joining physical activities"
+    ],
+    "answer": 3,
+    "feedback": "Peers can act as a barrier when their attitudes or behaviour discourage participation and reduce motivation."
+  },
+  {
+    "id": "A1SC05",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Socioeconomic status",
+    "difficulty": "Foundation",
+    "q": "Which factor is included when describing socioeconomic status?",
+    "options": [
+      "Income, education and occupation",
+      "Age, gender and biological sex",
+      "Fitness, skill and motivation",
+      "Family size, friendship group and sporting ability"
+    ],
+    "answer": 0,
+    "feedback": "Socioeconomic status describes a person's social and economic position and commonly includes income, education and occupation."
+  },
+  {
+    "id": "A1SC06",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Gender",
+    "difficulty": "Foundation",
+    "q": "Which situation best shows gender acting as a barrier to physical activity?",
+    "options": [
+      "A family member regularly exercises with a child",
+      "A student avoids a sport because it is stereotyped as unsuitable for their gender",
+      "A community opens a low-cost recreation centre",
+      "A friend introduces someone to a new physical activity"
+    ],
+    "answer": 1,
+    "feedback": "Gender stereotypes can discourage participation when an activity is viewed as inappropriate for a person's gender."
+  },
+  {
+    "id": "A1SC07",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Cultural norms",
+    "difficulty": "Foundation",
+    "q": "Which example is most clearly related to cultural norms?",
+    "options": [
+      "Having a sports oval within walking distance",
+      "Being able to afford club fees, equipment, transport and private coaching sessions",
+      "Shared beliefs within a group influence which activities are considered acceptable",
+      "Friends arranging to exercise together after school"
+    ],
+    "answer": 2,
+    "feedback": "Cultural norms are shared beliefs, values and behaviours within a group that can shape attitudes and opportunities for participation."
+  },
+  {
+    "id": "A1SC08",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Community",
+    "difficulty": "Foundation",
+    "q": "Which example best represents a community enabler of physical activity?",
+    "options": [
+      "A sibling acts as an active role model",
+      "A friendship group provides encouragement",
+      "A household has enough income to pay club fees",
+      "Safe local paths and accessible recreation facilities are available"
+    ],
+    "answer": 3,
+    "feedback": "Community factors such as accessible facilities, open spaces and safe walking or cycling paths can increase opportunities to be active."
+  },
+  {
+    "id": "A1SC09",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Family",
+    "difficulty": "Application",
+    "q": "A child becomes interested in cycling because their parents regularly ride and invite the child to join them. Which sociocultural factor is acting as an enabler?",
+    "options": [
+      "Family",
+      "Peers",
+      "Gender",
+      "Community"
+    ],
+    "answer": 0,
+    "feedback": "The parents act as role models and provide shared opportunities, so family is the enabler."
+  },
+  {
+    "id": "A1SC10",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Peers",
+    "difficulty": "Application",
+    "q": "A teenager begins attending a weekly exercise class after two friends invite them to join and continue attending with them. Which factor is the clearest enabler?",
+    "options": [
+      "Socioeconomic status",
+      "Peers",
+      "Cultural norms",
+      "Community"
+    ],
+    "answer": 1,
+    "feedback": "The friends are peers, and their encouragement and shared participation increase motivation to attend."
+  },
+  {
+    "id": "A1SC11",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Socioeconomic status",
+    "difficulty": "Application",
+    "q": "A family cannot afford registration fees, specialised equipment or regular transport to a sporting club. Which factor is the clearest barrier?",
+    "options": [
+      "Gender",
+      "Peers",
+      "Socioeconomic status",
+      "Cultural norms and beliefs"
+    ],
+    "answer": 2,
+    "feedback": "Costs related to fees, equipment and transport can make lower socioeconomic status a barrier to participation."
+  },
+  {
+    "id": "A1SC12",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Community",
+    "difficulty": "Application",
+    "q": "A town has no nearby recreation centre, few organised programs and limited public transport to sporting facilities. Which sociocultural factor is the clearest barrier?",
+    "options": [
+      "Family",
+      "Gender",
+      "Peers",
+      "Community"
+    ],
+    "answer": 3,
+    "feedback": "Limited local facilities, programs and transport are community barriers because they reduce access and opportunity."
+  },
+  {
+    "id": "A1SC13",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Gender",
+    "difficulty": "Application",
+    "q": "A school promotes girls' participation in football by providing equal access to facilities and showcasing successful female athletes. How is gender operating?",
+    "options": [
+      "As an enabler through greater opportunity and positive role models",
+      "As a barrier because football is a competitive activity",
+      "As a peer influence because students attend the same school",
+      "As a socioeconomic influence because facilities cost money"
+    ],
+    "answer": 0,
+    "feedback": "Equal opportunities and visible role models can challenge gender stereotypes and enable participation."
+  },
+  {
+    "id": "A1SC14",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Cultural norms",
+    "difficulty": "Application",
+    "q": "A recreation program provides multilingual information and adapts sessions so people from several cultural groups feel welcome. Which factor is being addressed most directly?",
+    "options": [
+      "Peers",
+      "Cultural norms",
+      "Family",
+      "Household socioeconomic status"
+    ],
+    "answer": 1,
+    "feedback": "Multilingual information and culturally inclusive program design address cultural norms and cultural inclusion."
+  },
+  {
+    "id": "A1SC15",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Peers",
+    "difficulty": "Application",
+    "q": "A student's friends usually spend lunch breaks sitting indoors and regularly decline invitations to be active. The student begins doing the same. How are peers influencing participation?",
+    "options": [
+      "They are increasing access to organised sport.",
+      "They are improving the student's socioeconomic position.",
+      "They are acting as a barrier by modelling and reinforcing sedentary behaviour.",
+      "They are creating a community-level opportunity to participate."
+    ],
+    "answer": 2,
+    "feedback": "Peer behaviour and attitudes can be copied by others, so a friendship group that favours sedentary activities can reduce participation."
+  },
+  {
+    "id": "A1SC16",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Family",
+    "difficulty": "Application",
+    "q": "A parent works long hours and cannot transport their child to training at the only club in the area. Which explanation best identifies the influence?",
+    "options": [
+      "Peers are a barrier because teammates are unavailable to provide alternative transport to the training venue each week.",
+      "Gender is a barrier because the child cannot attend training.",
+      "Culture is a barrier because work is valued by the family.",
+      "Family is a barrier because limited transport reduces the child's opportunity to participate."
+    ],
+    "answer": 3,
+    "feedback": "The scenario centres on family support and transport. Without transport, the child's access to participation is reduced."
+  },
+  {
+    "id": "A1SC17",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Community",
+    "difficulty": "Application",
+    "q": "A local council installs lighting along a popular walking route and improves pedestrian crossings. Why may this enable physical activity?",
+    "options": [
+      "It can make the local environment safer and increase opportunities for walking.",
+      "It guarantees that every resident will meet the physical activity guidelines.",
+      "It directly changes family role-modelling and encouragement in every household near the walking route.",
+      "It removes the cost of all organised sport in the community."
+    ],
+    "answer": 0,
+    "feedback": "Safer, more accessible community environments can increase opportunities for people to walk and be physically active."
+  },
+  {
+    "id": "A1SC18",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Socioeconomic status",
+    "difficulty": "Application",
+    "q": "Which situation best shows higher socioeconomic status acting as an enabler?",
+    "options": [
+      "Friends encourage a person to try a new sport.",
+      "A household can afford equipment, coaching and transport to regular training.",
+      "A community provides a free public basketball court.",
+      "A sporting organisation challenges gender stereotypes."
+    ],
+    "answer": 1,
+    "feedback": "Greater financial resources can increase access to equipment, coaching, transport and other participation opportunities."
+  },
+  {
+    "id": "A1SC19",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Cultural norms",
+    "difficulty": "Application",
+    "q": "A student stops attending a sporting program after repeated racial discrimination makes them feel unwelcome. Which factor is most directly acting as a barrier?",
+    "options": [
+      "Family",
+      "Community facilities",
+      "Cultural norms",
+      "Socioeconomic status"
+    ],
+    "answer": 2,
+    "feedback": "Racial discrimination can reflect negative cultural attitudes and reduce inclusion and participation."
+  },
+  {
+    "id": "A1SC20",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Gender",
+    "difficulty": "Application",
+    "q": "A boy wants to participate in dance but is repeatedly told by people around him that dance is 'not for boys'. Which influence is the clearest barrier?",
+    "options": [
+      "Community access and facilities",
+      "Family resources",
+      "Peer transport",
+      "Gender stereotypes"
+    ],
+    "answer": 3,
+    "feedback": "The belief that an activity is unsuitable for a particular gender is a gender stereotype that can discourage participation."
+  },
+  {
+    "id": "A1SC21",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Family",
+    "difficulty": "Application",
+    "q": "Which family action is most likely to enable a child's regular physical activity?",
+    "options": [
+      "Providing encouragement, transport and opportunities to be active together",
+      "Choosing sedentary activities whenever the family spends time together",
+      "Discouraging participation when an activity requires commitment",
+      "Leaving all decisions about access and transport to the child"
+    ],
+    "answer": 0,
+    "feedback": "Family encouragement, transport and shared activity can increase motivation, access and opportunities to participate."
+  },
+  {
+    "id": "A1SC22",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Peers",
+    "difficulty": "Application",
+    "q": "Which peer influence is most likely to increase an adolescent's physical activity participation?",
+    "options": [
+      "Friends exclude the adolescent from their team.",
+      "Friends act as exercise partners and provide encouragement.",
+      "Friends prefer sedentary activities and discourage sport.",
+      "Friends criticise the adolescent for trying a new activity."
+    ],
+    "answer": 1,
+    "feedback": "Peers can enable participation by providing support, encouragement and companionship during physical activity."
+  },
+  {
+    "id": "A1SC23",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Community",
+    "difficulty": "Application",
+    "q": "A rural community has one small sports ground but no indoor recreation facility and very few organised programs. How could this affect participation?",
+    "options": [
+      "It would increase participation because fewer choices make decisions easier.",
+      "It would mainly affect gender rather than community access.",
+      "It may act as a community barrier by limiting available opportunities to be active.",
+      "It would remove socioeconomic barriers because scarce facilities would make organised physical activity less expensive for local residents."
+    ],
+    "answer": 2,
+    "feedback": "A lack of local facilities and programs can reduce access and opportunity, making community a barrier."
+  },
+  {
+    "id": "A1SC24",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Cultural norms",
+    "difficulty": "Application",
+    "q": "Which strategy is most likely to reduce a cultural-norm barrier to participation?",
+    "options": [
+      "Increase the price of organised activities.",
+      "Reduce the number of local programs offered.",
+      "Schedule all activities at one fixed time.",
+      "Provide culturally inclusive programs, diverse role models and accessible information."
+    ],
+    "answer": 3,
+    "feedback": "Inclusive programs, diverse role models and accessible information can increase inclusion and reduce cultural barriers."
+  },
+  {
+    "id": "A1SC25",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Across the lifespan",
+    "difficulty": "Application",
+    "q": "Which statement best reflects how sociocultural influences can change across the lifespan?",
+    "options": [
+      "Family may be especially influential in childhood, while peers often become more influential during adolescence.",
+      "Peers are the only important sociocultural influence once a person reaches adolescence.",
+      "Community influences become important only in later adulthood, after family and peer influences no longer affect participation.",
+      "Socioeconomic status only affects physical activity after retirement."
+    ],
+    "answer": 0,
+    "feedback": "Different sociocultural influences can become more or less important at different life stages; family is often influential in childhood and peers during adolescence."
+  },
+  {
+    "id": "A1SC26",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Across the lifespan",
+    "difficulty": "Application",
+    "q": "An older adult wants to join a recreation program but cannot afford membership and has no convenient transport. Which two influences are most clearly creating barriers?",
+    "options": [
+      "Gender and peers",
+      "Socioeconomic status and community",
+      "Family and cultural norms",
+      "Peers and gender"
+    ],
+    "answer": 1,
+    "feedback": "Affordability relates to socioeconomic status, while transport and local access relate to community factors."
+  },
+  {
+    "id": "A1SC27",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Multiple influences",
+    "difficulty": "Application",
+    "q": "A student receives encouragement from friends but cannot join a club because the fees are too expensive. Which statement best describes the situation?",
+    "options": [
+      "Both peers and socioeconomic status are acting as barriers.",
+      "Both peers and socioeconomic status are acting as enablers.",
+      "Peers are an enabler, while socioeconomic status is a barrier.",
+      "Peers are a barrier, while socioeconomic status operates as an enabler of participation."
+    ],
+    "answer": 2,
+    "feedback": "Peer encouragement supports participation, while unaffordable fees reduce access, so the two factors operate in different directions."
+  },
+  {
+    "id": "A1SC28",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Multiple influences",
+    "difficulty": "Application",
+    "q": "A community offers a free girls' futsal program, provides female coaches and promotes the program through local schools. What does this best demonstrate?",
+    "options": [
+      "Only socioeconomic status influences participation.",
+      "Community factors always have more influence than gender.",
+      "Gender can only operate as a barrier and cannot ever enable participation.",
+      "Several sociocultural enablers can work together to increase participation."
+    ],
+    "answer": 3,
+    "feedback": "Free access, community provision and female role models show that multiple sociocultural enablers can interact to increase opportunity and motivation."
+  },
+  {
+    "id": "A1SC29",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Student reflection: 'My older sister runs most mornings and asked me to train with her. She also drives us to the local running track.' Which factor is the clearest enabler?",
+    "options": [
+      "Family",
+      "Peers",
+      "Socioeconomic status",
+      "Cultural norms"
+    ],
+    "answer": 0,
+    "feedback": "The older sister is a family member acting as a role model and providing both shared participation and transport."
+  },
+  {
+    "id": "A1SC30",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Student reflection: 'I was nervous about joining the gym, but my friends started coming with me and kept encouraging me to attend.' Which factor is most directly enabling participation?",
+    "options": [
+      "Community",
+      "Peers",
+      "Gender",
+      "Family support"
+    ],
+    "answer": 1,
+    "feedback": "The friends are peers whose encouragement and shared attendance increase motivation and commitment."
+  },
+  {
+    "id": "A1SC31",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Community profile: club fees are high, many households have limited disposable income, and specialist equipment is required. Which factor is most directly limiting participation?",
+    "options": [
+      "Gender",
+      "Family",
+      "Socioeconomic status",
+      "Peers"
+    ],
+    "answer": 2,
+    "feedback": "High costs combined with limited financial resources indicate socioeconomic status acting as a barrier."
+  },
+  {
+    "id": "A1SC32",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Community profile: residents have access to parks, a recreation centre, safe footpaths and several low-cost activity programs. Which factor is acting as the clearest enabler?",
+    "options": [
+      "Gender stereotypes",
+      "Family",
+      "Peers",
+      "Community"
+    ],
+    "answer": 3,
+    "feedback": "Accessible facilities, safe environments and local programs are community factors that increase opportunities for physical activity."
+  },
+  {
+    "id": "A1SC33",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Scenario: a school introduces a mixed-gender activity program, highlights diverse sporting role models and challenges stereotypes about who should participate. Which barrier is the program most directly addressing?",
+    "options": [
+      "Gender stereotypes",
+      "Low socioeconomic status",
+      "Lack of peer encouragement",
+      "Limited family transport"
+    ],
+    "answer": 0,
+    "feedback": "The program is directly challenging beliefs and expectations about appropriate activities for different genders."
+  },
+  {
+    "id": "A1SC34",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Scenario: a recreation centre notices low participation from several local cultural groups. It introduces multilingual information, culturally inclusive sessions and diverse coaches. Which influence is being addressed most directly?",
+    "options": [
+      "Peers",
+      "Cultural norms",
+      "Household socioeconomic status",
+      "Family"
+    ],
+    "answer": 1,
+    "feedback": "The changes are designed to improve cultural inclusion and reduce barriers linked to cultural norms."
+  },
+  {
+    "id": "A1SC35",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A student wants to play club basketball. Their parents support the idea and offer transport, but registration fees are unaffordable. Which analysis is most accurate?",
+    "options": [
+      "Family is a barrier because the parents are involved in the decision.",
+      "Socioeconomic status is an enabler because the family values sport.",
+      "Family is an enabler, while socioeconomic status is a barrier because cost limits access.",
+      "Community is the only relevant influence because the activity occurs at a local club."
+    ],
+    "answer": 2,
+    "feedback": "Family support and transport enable participation, while unaffordable fees are a socioeconomic barrier that reduces access."
+  },
+  {
+    "id": "A1SC36",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A teenager's friends invite them to a free local activity program, but the teenager avoids attending because people in their social circle mock the activity as unsuitable for their gender. Which explanation is strongest?",
+    "options": [
+      "Community is a barrier because the program is free.",
+      "Socioeconomic status is a barrier because no fee is charged.",
+      "Cultural norms are the only influence because social opinions are involved.",
+      "Peers provide an opportunity to participate, while gender stereotypes discourage participation."
+    ],
+    "answer": 3,
+    "feedback": "The invitation from friends can enable participation, while gender stereotypes in the social environment can discourage it."
+  },
+  {
+    "id": "A1SC37",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A council wants to increase physical activity in an area where residents report unsafe walking routes and few affordable recreation options. Which response best addresses the identified barriers?",
+    "options": [
+      "Improve safe walking infrastructure and increase affordable local activity opportunities.",
+      "Ask families to become more active without changing local access.",
+      "Promote elite athletes without addressing the local environment.",
+      "Increase membership fees so programs can purchase more equipment."
+    ],
+    "answer": 0,
+    "feedback": "The identified barriers are community access, safety and affordability, so improving infrastructure and affordable opportunities directly addresses them."
+  },
+  {
+    "id": "A1SC38",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "An adolescent becomes more active after joining a friendship group that regularly walks home together and encourages weekend sport. Why are peers acting as an enabler?",
+    "options": [
+      "They increase the adolescent's household income, allowing greater access to equipment, coaching and organised sport.",
+      "They provide encouragement and shared opportunities that increase motivation to participate.",
+      "They remove every community and family barrier to physical activity.",
+      "They change the adolescent's age and stage of the lifespan."
+    ],
+    "answer": 1,
+    "feedback": "Peers can enable activity by providing social support, encouragement and shared opportunities to participate."
+  },
+  {
+    "id": "A1SC39",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A new recreation program is designed with input from local cultural groups, offers information in several languages and employs coaches from diverse backgrounds. Which explanation best describes why this may increase participation?",
+    "options": [
+      "It increases physical fitness before participants begin the program.",
+      "It removes all financial barriers faced by every participant.",
+      "It may reduce cultural barriers by making the program more inclusive, understandable and representative.",
+      "It ensures peers will always encourage participation."
+    ],
+    "answer": 2,
+    "feedback": "Culturally inclusive design, accessible information and diverse representation can reduce cultural barriers and increase opportunities for participation."
+  },
+  {
+    "id": "A1SC40",
+    "kk": "Sociocultural Enablers and Barriers",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A person's physical activity changes over time as family support, friendship groups, finances and access to local facilities change. What does this best demonstrate?",
+    "options": [
+      "Only individual motivation determines physical activity behaviour.",
+      "Sociocultural factors influence children but have little effect on adults.",
+      "One sociocultural factor will remain dominant throughout every stage of life.",
+      "The influence of sociocultural enablers and barriers can vary across the lifespan and with circumstances."
+    ],
+    "answer": 3,
+    "feedback": "Sociocultural influences are not fixed; their impact can change across life stages and as a person's circumstances change."
   }
 ]
