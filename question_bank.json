@@ -5683,5 +5683,605 @@
     ],
     "answer": 3,
     "feedback": "A diary can capture rich multidimensional information, but compliance and self-report accuracy remain important limitations."
+  },
+  {
+    "id": "A1SEM01",
+    "kk": "Social-Ecological Model",
+    "domain": "Core concepts",
+    "difficulty": "Foundation",
+    "q": "What are the four components of the Social-Ecological Model?",
+    "options": [
+      "Individual, social environment, physical environment and policy",
+      "Individual, family, community and physical fitness factors",
+      "Personal, cultural, economic and biological",
+      "Motivation, facilities, transport and sport"
+    ],
+    "answer": 0,
+    "feedback": "The four components are individual, social environment, physical environment and policy."
+  },
+  {
+    "id": "A1SEM02",
+    "kk": "Social-Ecological Model",
+    "domain": "Core concepts",
+    "difficulty": "Foundation",
+    "q": "Which component sits at the centre of the Social-Ecological Model?",
+    "options": [
+      "Policy",
+      "Individual",
+      "Physical environment",
+      "Social environment"
+    ],
+    "answer": 1,
+    "feedback": "The individual is positioned at the centre of the model, surrounded by the social environment, physical environment and policy."
+  },
+  {
+    "id": "A1SEM03",
+    "kk": "Social-Ecological Model",
+    "domain": "Individual",
+    "difficulty": "Foundation",
+    "q": "Which factor best represents the individual component of the Social-Ecological Model?",
+    "options": [
+      "A local council building a shared path",
+      "Friends inviting someone to join a walk",
+      "A person's confidence in their ability to be active",
+      "A school changing its lunchtime activity rules"
+    ],
+    "answer": 2,
+    "feedback": "Confidence is a personal factor and therefore belongs to the individual component."
+  },
+  {
+    "id": "A1SEM04",
+    "kk": "Social-Ecological Model",
+    "domain": "Social environment",
+    "difficulty": "Foundation",
+    "q": "Which factor best represents the social environment component?",
+    "options": [
+      "Knowledge about physical activity",
+      "Access to a nearby sports court",
+      "A workplace procedure supporting active breaks",
+      "Encouragement from family members and friends"
+    ],
+    "answer": 3,
+    "feedback": "The social environment includes people and groups who influence physical activity and sedentary behaviour."
+  },
+  {
+    "id": "A1SEM05",
+    "kk": "Social-Ecological Model",
+    "domain": "Physical environment",
+    "difficulty": "Foundation",
+    "q": "Which example best represents the physical environment component?",
+    "options": [
+      "Safe, well-lit walking paths in the local area",
+      "Personal motivation to exercise regularly",
+      "Support from a training partner",
+      "A school rule allowing active travel during organised excursions and special activity days"
+    ],
+    "answer": 0,
+    "feedback": "The physical environment includes natural and built features such as paths, facilities, lighting and access."
+  },
+  {
+    "id": "A1SEM06",
+    "kk": "Social-Ecological Model",
+    "domain": "Policy",
+    "difficulty": "Foundation",
+    "q": "Which example best represents the policy component?",
+    "options": [
+      "Enjoying physical activity",
+      "A school procedure that allows supervised lunchtime activity",
+      "Having friends who enjoy sport",
+      "Living near a public park that includes walking paths, open space and recreation facilities"
+    ],
+    "answer": 1,
+    "feedback": "Policies include rules, procedures, recommendations and laws that can influence physical activity."
+  },
+  {
+    "id": "A1SEM07",
+    "kk": "Social-Ecological Model",
+    "domain": "Core concepts",
+    "difficulty": "Foundation",
+    "q": "Why is the Social-Ecological Model useful when examining physical activity behaviour?",
+    "options": [
+      "It assumes one factor usually explains behaviour completely.",
+      "It focuses only on personal motivation.",
+      "It recognises that several interacting factors can influence behaviour.",
+      "It removes the need to consider barriers and enablers."
+    ],
+    "answer": 2,
+    "feedback": "The model recognises that physical activity and sedentary behaviour are shaped by multiple interacting influences."
+  },
+  {
+    "id": "A1SEM08",
+    "kk": "Social-Ecological Model",
+    "domain": "Core concepts",
+    "difficulty": "Foundation",
+    "q": "Which statement best reflects systems thinking within the Social-Ecological Model?",
+    "options": [
+      "Each influence operates separately from every other factor.",
+      "Only government decisions affect population behaviour.",
+      "Personal choices are unrelated to the surrounding environment.",
+      "Factors are interconnected and can influence one another."
+    ],
+    "answer": 3,
+    "feedback": "Systems thinking recognises that factors are interrelated, interdependent and interact with one another."
+  },
+  {
+    "id": "A1SEM09",
+    "kk": "Social-Ecological Model",
+    "domain": "Individual",
+    "difficulty": "Application",
+    "q": "A student sets a personal goal to walk for 30 minutes after school and tracks progress each week. Which component is primarily targeted?",
+    "options": [
+      "Individual",
+      "Social environment",
+      "Physical environment",
+      "Policy"
+    ],
+    "answer": 0,
+    "feedback": "Goal setting and self-monitoring are personal strategies and therefore target the individual component."
+  },
+  {
+    "id": "A1SEM10",
+    "kk": "Social-Ecological Model",
+    "domain": "Social environment",
+    "difficulty": "Application",
+    "q": "A community program pairs new participants with walking buddies who provide encouragement. Which component is primarily targeted?",
+    "options": [
+      "Individual",
+      "Social environment",
+      "Physical environment",
+      "Policy"
+    ],
+    "answer": 1,
+    "feedback": "Encouragement and support from other people target the social environment."
+  },
+  {
+    "id": "A1SEM11",
+    "kk": "Social-Ecological Model",
+    "domain": "Physical environment",
+    "difficulty": "Application",
+    "q": "A council installs lighting and drinking fountains along a walking trail. Which component is primarily targeted?",
+    "options": [
+      "Individual",
+      "Social environment",
+      "Physical environment",
+      "Policy"
+    ],
+    "answer": 2,
+    "feedback": "Lighting and facilities change the built physical environment in which activity occurs."
+  },
+  {
+    "id": "A1SEM12",
+    "kk": "Social-Ecological Model",
+    "domain": "Policy",
+    "difficulty": "Application",
+    "q": "A workplace introduces a formal rule allowing staff to take two short movement breaks each shift. Which component is primarily targeted?",
+    "options": [
+      "Individual",
+      "Social environment",
+      "Physical environment",
+      "Policy"
+    ],
+    "answer": 3,
+    "feedback": "A formal workplace rule is a policy-level strategy."
+  },
+  {
+    "id": "A1SEM13",
+    "kk": "Social-Ecological Model",
+    "domain": "Individual",
+    "difficulty": "Application",
+    "q": "Which strategy most directly addresses low confidence as a barrier to physical activity?",
+    "options": [
+      "Provide skill-building sessions that create achievable early success",
+      "Ask family members and close friends to provide regular encouragement before and during each planned activity session",
+      "Build a new recreation centre",
+      "Change local planning regulations"
+    ],
+    "answer": 0,
+    "feedback": "Skill development and achievable success can improve confidence and self-efficacy, targeting the individual component."
+  },
+  {
+    "id": "A1SEM14",
+    "kk": "Social-Ecological Model",
+    "domain": "Social environment",
+    "difficulty": "Application",
+    "q": "Which strategy most directly addresses a lack of social support?",
+    "options": [
+      "Provide information about health benefits",
+      "Create peer-supported activity groups",
+      "Install more bike racks",
+      "Change a school attendance rule"
+    ],
+    "answer": 1,
+    "feedback": "Peer-supported groups target encouragement, companionship and social support."
+  },
+  {
+    "id": "A1SEM15",
+    "kk": "Social-Ecological Model",
+    "domain": "Physical environment",
+    "difficulty": "Application",
+    "q": "Which strategy most directly addresses poor access to safe places for physical activity?",
+    "options": [
+      "Teach goal-setting skills",
+      "Ask participants to invite friends, relatives and neighbours to join them during regular activity sessions",
+      "Improve lighting, paths and access to local facilities",
+      "Introduce a recommendation about daily activity"
+    ],
+    "answer": 2,
+    "feedback": "Improving paths, lighting and facilities directly changes the physical environment."
+  },
+  {
+    "id": "A1SEM16",
+    "kk": "Social-Ecological Model",
+    "domain": "Policy",
+    "difficulty": "Application",
+    "q": "Which strategy most directly targets a policy barrier in a school?",
+    "options": [
+      "Improve students' knowledge of exercise benefits",
+      "Encourage students to motivate one another",
+      "Install new outdoor fitness equipment",
+      "Change school procedures so activity spaces can be used during breaks"
+    ],
+    "answer": 3,
+    "feedback": "Changing school procedures targets the policy component."
+  },
+  {
+    "id": "A1SEM17",
+    "kk": "Social-Ecological Model",
+    "domain": "Multiple components",
+    "difficulty": "Application",
+    "q": "A school gives students activity-planning lessons, forms peer walking groups, improves bike storage and permits active travel incentives. Why is this likely stronger than a single strategy?",
+    "options": [
+      "It targets multiple interacting components that influence behaviour.",
+      "It removes the need to consider student needs.",
+      "It guarantees every student will become active.",
+      "It focuses only on the individual component."
+    ],
+    "answer": 0,
+    "feedback": "A multicomponent approach can address several interacting influences rather than relying on one factor alone."
+  },
+  {
+    "id": "A1SEM18",
+    "kk": "Social-Ecological Model",
+    "domain": "Multiple components",
+    "difficulty": "Application",
+    "q": "Which pair of strategies targets the social and physical environment respectively?",
+    "options": [
+      "Goal setting and self-monitoring",
+      "Walking buddies and improved park lighting",
+      "Education sessions and a school rule",
+      "Bike lanes and a workplace procedure"
+    ],
+    "answer": 1,
+    "feedback": "Walking buddies target the social environment, while improved lighting targets the physical environment."
+  },
+  {
+    "id": "A1SEM19",
+    "kk": "Social-Ecological Model",
+    "domain": "Multiple components",
+    "difficulty": "Application",
+    "q": "A program provides information about physical activity but participants still report unsafe local streets and no nearby facilities. What is the main weakness?",
+    "options": [
+      "It targets too many components at once and therefore makes the initiative unnecessarily complicated for participants to follow",
+      "It focuses too much on policy.",
+      "It addresses individual knowledge but not important physical-environment barriers.",
+      "It removes social support from the program."
+    ],
+    "answer": 2,
+    "feedback": "Information targets the individual component, but unsafe streets and poor facility access are physical-environment barriers that remain unaddressed."
+  },
+  {
+    "id": "A1SEM20",
+    "kk": "Social-Ecological Model",
+    "domain": "Multiple components",
+    "difficulty": "Application",
+    "q": "A council builds a new path but does not promote it, connect it to destinations or address community safety concerns. Which critique is strongest?",
+    "options": [
+      "The initiative is automatically effective because building new infrastructure always changes community behaviour regardless of other barriers",
+      "The initiative targets the individual component only.",
+      "The initiative should ignore local barriers once construction is complete.",
+      "The physical-environment strategy may be limited because other interacting influences remain unaddressed."
+    ],
+    "answer": 3,
+    "feedback": "A physical-environment change may be useful, but its effectiveness can be limited if social, individual or policy barriers remain."
+  },
+  {
+    "id": "A1SEM21",
+    "kk": "Social-Ecological Model",
+    "domain": "Complex environments",
+    "difficulty": "Application",
+    "q": "Why might the same park encourage physical activity for one person but discourage another?",
+    "options": [
+      "People experience the same environment differently because needs, confidence, safety perceptions and social factors vary.",
+      "The Social-Ecological Model assumes environments affect everyone identically.",
+      "Physical environments cannot act as barriers.",
+      "Only policy determines whether a park is used."
+    ],
+    "answer": 0,
+    "feedback": "The same environment can influence people differently because individual and social circumstances vary."
+  },
+  {
+    "id": "A1SEM22",
+    "kk": "Social-Ecological Model",
+    "domain": "Interactions across levels",
+    "difficulty": "Application",
+    "q": "Which example best shows interaction across different levels of society?",
+    "options": [
+      "One person privately decides to exercise.",
+      "A local school, families and council coordinate an active-travel program.",
+      "A person reads an article about fitness and then privately records their thoughts about becoming more physically active",
+      "One student buys a new pair of shoes."
+    ],
+    "answer": 1,
+    "feedback": "The example involves individuals, social groups and community-level organisations working together."
+  },
+  {
+    "id": "A1SEM23",
+    "kk": "Social-Ecological Model",
+    "domain": "Reciprocal influence",
+    "difficulty": "Application",
+    "q": "Which scenario best demonstrates reciprocal influence?",
+    "options": [
+      "A person ignores every feature of their environment.",
+      "A walking path affects activity, but residents can never influence the path.",
+      "Residents use a walking trail more often and then campaign successfully for improved lighting.",
+      "Government policy changes behaviour in only one direction."
+    ],
+    "answer": 2,
+    "feedback": "The environment influences residents' behaviour, while residents' behaviour and advocacy then help change the environment."
+  },
+  {
+    "id": "A1SEM24",
+    "kk": "Social-Ecological Model",
+    "domain": "Reciprocal influence",
+    "difficulty": "Application",
+    "q": "A neighbourhood cycling group becomes popular and later persuades the council to add safer bike lanes. What does this illustrate?",
+    "options": [
+      "Only individual factors matter.",
+      "Physical activity is unaffected by social groups because social influences cannot change the built or policy environment around them",
+      "Policy always changes before behaviour.",
+      "People can influence their environment as well as being influenced by it."
+    ],
+    "answer": 3,
+    "feedback": "The scenario shows reciprocal influence between people and their surrounding environment."
+  },
+  {
+    "id": "A1SEM25",
+    "kk": "Social-Ecological Model",
+    "domain": "Critiquing initiatives",
+    "difficulty": "Application",
+    "q": "When critiquing a physical activity initiative using the Social-Ecological Model, what should be considered first?",
+    "options": [
+      "Which components are targeted and which relevant barriers or enablers remain unaddressed",
+      "Whether the initiative uses the newest technology",
+      "Whether the program has the longest duration",
+      "Whether all participants receive exactly the same strategy even when they experience different barriers, enablers and environmental conditions"
+    ],
+    "answer": 0,
+    "feedback": "A strong SEM critique identifies the components targeted and considers whether important barriers and enablers have been addressed."
+  },
+  {
+    "id": "A1SEM26",
+    "kk": "Social-Ecological Model",
+    "domain": "Designing initiatives",
+    "difficulty": "Application",
+    "q": "Which design feature is most consistent with the Social-Ecological Model?",
+    "options": [
+      "Use one strategy for every population regardless of context.",
+      "Combine strategies across several components and adapt them to the target population.",
+      "Focus only on knowledge because behaviour is mainly an individual choice and environmental influences are secondary",
+      "Ignore environmental barriers if participants are motivated."
+    ],
+    "answer": 1,
+    "feedback": "SEM-informed initiatives usually work across multiple components and should respond to the needs and context of the target population."
+  },
+  {
+    "id": "A1SEM27",
+    "kk": "Social-Ecological Model",
+    "domain": "Designing initiatives",
+    "difficulty": "Application",
+    "q": "Why should an initiative consider the needs of its target population?",
+    "options": [
+      "Because all populations experience identical barriers and therefore should receive the same strategy regardless of their context",
+      "Because policy strategies are never useful.",
+      "Because the same strategy may function as an enabler for some people but not others.",
+      "Because only individual factors can be changed."
+    ],
+    "answer": 2,
+    "feedback": "Different groups can experience environments and strategies differently, so initiatives should be tailored to relevant needs and barriers."
+  },
+  {
+    "id": "A1SEM28",
+    "kk": "Social-Ecological Model",
+    "domain": "Designing initiatives",
+    "difficulty": "Application",
+    "q": "Which feature would most improve the sustainability of a physical activity initiative?",
+    "options": [
+      "Rely entirely on short-term enthusiasm.",
+      "Use a strategy that depends on one volunteer only and has no plan for continuation if that person leaves",
+      "Ignore cost and access barriers.",
+      "Build practical supports across several components that can continue over time."
+    ],
+    "answer": 3,
+    "feedback": "Sustainable initiatives use practical, ongoing supports rather than relying on a single short-term influence."
+  },
+  {
+    "id": "A1SEM29",
+    "kk": "Social-Ecological Model",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Initiative: free beginner sessions, trained peer leaders, improved lighting at the venue, and a council permit allowing evening access. Which statement is most accurate?",
+    "options": [
+      "The initiative addresses all four Social-Ecological Model components.",
+      "The initiative addresses only individual and social factors.",
+      "The initiative addresses physical environment only.",
+      "The initiative does not include a policy strategy."
+    ],
+    "answer": 0,
+    "feedback": "Beginner sessions can target individual factors, peer leaders target social environment, lighting targets physical environment, and the council permit targets policy."
+  },
+  {
+    "id": "A1SEM30",
+    "kk": "Social-Ecological Model",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Initiative: an app provides goal setting and reminders, but users report no safe places nearby to exercise. What is the clearest limitation?",
+    "options": [
+      "The initiative targets too many physical-environment factors.",
+      "It targets individual factors but leaves a physical-environment barrier unresolved.",
+      "The app is a policy strategy and therefore cannot affect behaviour.",
+      "Goal setting belongs to the social environment."
+    ],
+    "answer": 1,
+    "feedback": "Goal setting and reminders target the individual component, while lack of safe spaces is a physical-environment barrier."
+  },
+  {
+    "id": "A1SEM31",
+    "kk": "Social-Ecological Model",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Initiative: students receive encouragement from teachers and friends, but school rules prohibit access to the gym at lunchtime. Which components are most clearly involved?",
+    "options": [
+      "Individual and physical environment",
+      "Physical environment and individual",
+      "Social environment and policy",
+      "Policy and individual"
+    ],
+    "answer": 2,
+    "feedback": "Encouragement comes from the social environment, while rules about gym access are policy."
+  },
+  {
+    "id": "A1SEM32",
+    "kk": "Social-Ecological Model",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Initiative: a town builds a walking track. Usage remains low because residents feel unsafe walking alone and do not know where the track connects. Which response best applies the model?",
+    "options": [
+      "Remove the track because physical-environment strategies never work.",
+      "Provide only more information about health benefits.",
+      "Keep the initiative unchanged because one physical-environment component is enough to address all remaining social and individual barriers",
+      "Add social support and clearer environmental information while retaining the track."
+    ],
+    "answer": 3,
+    "feedback": "The track addresses the physical environment, but social support and clearer information may address remaining barriers."
+  },
+  {
+    "id": "A1SEM33",
+    "kk": "Social-Ecological Model",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Program features: skills workshop, buddy system, free equipment access and a workplace rule protecting activity-break time. Which conclusion is strongest?",
+    "options": [
+      "The program uses a multicomponent approach that addresses individual, social, physical-environment and policy influences.",
+      "The program focuses only on individual motivation.",
+      "The program ignores the workplace environment.",
+      "The program contains no policy element."
+    ],
+    "answer": 0,
+    "feedback": "The four features respectively address individual, social, physical-environment/resource access and policy influences."
+  },
+  {
+    "id": "A1SEM34",
+    "kk": "Social-Ecological Model",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "A school installs bike racks and promotes cycling, but many students live too far away or cannot afford a bike. What does this demonstrate?",
+    "options": [
+      "Bike racks automatically remove every barrier to active travel, regardless of distance, cost, confidence or family circumstances",
+      "A strategy can support some people while remaining unsuitable for others because barriers differ.",
+      "Physical-environment changes should never be used.",
+      "Distance and affordability are policy factors only."
+    ],
+    "answer": 1,
+    "feedback": "A strategy can be an enabler for some people but remain ineffective for others when different barriers are present."
+  },
+  {
+    "id": "A1SEM35",
+    "kk": "Social-Ecological Model",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A council campaign tells residents to 'be more active' but provides no changes to facilities, social support or local policies. Which critique is strongest?",
+    "options": [
+      "The campaign is comprehensive because information addresses every SEM component.",
+      "The campaign mainly changes the physical environment.",
+      "The campaign mainly targets individual factors and may be limited because other barriers are not addressed.",
+      "The campaign is a policy strategy because the council created it."
+    ],
+    "answer": 2,
+    "feedback": "Information campaigns primarily target individual knowledge or motivation. Their impact may be limited if social, environmental or policy barriers remain."
+  },
+  {
+    "id": "A1SEM36",
+    "kk": "Social-Ecological Model",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A workplace wants to reduce prolonged sitting. Which initiative best reflects the Social-Ecological Model?",
+    "options": [
+      "Send one detailed email explaining that prolonged sitting is harmful and expect employees to independently change their daily behaviour",
+      "Ask employees to rely on motivation alone.",
+      "Install standing desks but make no other changes.",
+      "Combine education, team movement breaks, accessible standing options and a procedure supporting regular breaks."
+    ],
+    "answer": 3,
+    "feedback": "The strongest option addresses individual knowledge, social support, physical environment and policy together."
+  },
+  {
+    "id": "A1SEM37",
+    "kk": "Social-Ecological Model",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "Which response best explains why multicomponent initiatives are often preferred within the Social-Ecological Model?",
+    "options": [
+      "Physical activity behaviour is shaped by interacting influences, so addressing several components can reduce multiple barriers and strengthen enablers.",
+      "Every component must always contribute equally to every person's behaviour.",
+      "Policy strategies are always more powerful than individual strategies.",
+      "Once one barrier is removed, all remaining influences become irrelevant."
+    ],
+    "answer": 0,
+    "feedback": "Because behaviour is influenced by multiple interacting factors, initiatives that address several relevant components can be more comprehensive."
+  },
+  {
+    "id": "A1SEM38",
+    "kk": "Social-Ecological Model",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A school wants to increase active transport. Which combination best applies the Social-Ecological Model?",
+    "options": [
+      "Give students a brochure and make no other changes.",
+      "Teach route-planning skills, organise walking groups, improve bike storage and adopt supportive active-travel procedures.",
+      "Build one bike rack without consulting students or families and assume the new facility will address all barriers to active travel",
+      "Ask students to set goals but ignore safety and access."
+    ],
+    "answer": 1,
+    "feedback": "The combination targets individual skills, social support, physical environment and policy."
+  },
+  {
+    "id": "A1SEM39",
+    "kk": "Social-Ecological Model",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "An initiative increases activity for some residents but not for others because transport, confidence and family support differ. Which SEM principle is best demonstrated?",
+    "options": [
+      "One strategy affects everyone in exactly the same way, regardless of differences in transport, confidence, family support or local environment",
+      "Only the physical environment influences behaviour.",
+      "Physical activity is shaped by multiple interacting influences that vary between people and contexts.",
+      "Population strategies should avoid adapting to different barriers."
+    ],
+    "answer": 2,
+    "feedback": "The scenario shows that multiple factors interact and that the same strategy can have different effects across people and settings."
+  },
+  {
+    "id": "A1SEM40",
+    "kk": "Social-Ecological Model",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A community walking initiative currently provides only weekly group walks. Which modification would best strengthen it using the Social-Ecological Model?",
+    "options": [
+      "Remove the group walks and provide information only.",
+      "Keep the program unchanged because social support is sufficient.",
+      "Require every participant to follow the same walking target.",
+      "Add individual goal support, improve safe walking routes and work with council on supportive access policies."
+    ],
+    "answer": 3,
+    "feedback": "Adding individual, physical-environment and policy strategies broadens the existing social strategy into a stronger multicomponent initiative."
   }
 ]
