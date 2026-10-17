@@ -6883,5 +6883,605 @@
     ],
     "answer": 3,
     "feedback": "The proposal responds directly to the identified confidence, cost and access barriers and uses multiple coordinated strategies."
+  },
+  {
+    "id": "A1HRF01",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Core concepts",
+    "difficulty": "Foundation",
+    "q": "Which health-related fitness component is defined as the maximum rate of energy production from the aerobic energy system?",
+    "options": [
+      "Aerobic power",
+      "Muscular strength produced during a single maximal effort",
+      "Muscular endurance",
+      "Flexibility"
+    ],
+    "answer": 0,
+    "feedback": "Aerobic power is the maximum rate of energy production from the aerobic energy system."
+  },
+  {
+    "id": "A1HRF02",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Core concepts",
+    "difficulty": "Foundation",
+    "q": "Which health-related fitness component is the peak force that a muscle can develop?",
+    "options": [
+      "Aerobic power used during prolonged continuous physical activity",
+      "Muscular strength",
+      "Muscular endurance",
+      "Flexibility"
+    ],
+    "answer": 1,
+    "feedback": "Muscular strength is the peak force that a muscle can develop."
+  },
+  {
+    "id": "A1HRF03",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Core concepts",
+    "difficulty": "Foundation",
+    "q": "Which component is the ability of a muscle or muscle group to sustain repeated or sustained contractions against resistance for an extended period?",
+    "options": [
+      "Aerobic power",
+      "Muscular strength",
+      "Muscular endurance",
+      "Flexibility"
+    ],
+    "answer": 2,
+    "feedback": "Muscular endurance involves sustaining repeated or sustained contractions against resistance over an extended period."
+  },
+  {
+    "id": "A1HRF04",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Core concepts",
+    "difficulty": "Foundation",
+    "q": "Which health-related fitness component is the range of movement around a joint?",
+    "options": [
+      "Aerobic power",
+      "Muscular strength",
+      "Muscular endurance",
+      "Flexibility"
+    ],
+    "answer": 3,
+    "feedback": "Flexibility is the range of movement around a joint."
+  },
+  {
+    "id": "A1HRF05",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Aerobic power",
+    "difficulty": "Foundation",
+    "q": "Which factor is most likely to increase aerobic power?",
+    "options": [
+      "A greater proportion of slow-twitch muscle fibres",
+      "A greater proportion of fast-twitch muscle fibres",
+      "A reduction in haemoglobin levels",
+      "A reduction in lung elasticity"
+    ],
+    "answer": 0,
+    "feedback": "Slow-twitch fibres work aerobically, so a greater proportion can increase the ability to produce energy aerobically."
+  },
+  {
+    "id": "A1HRF06",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Muscular strength",
+    "difficulty": "Foundation",
+    "q": "Which factor is most likely to increase a person's potential muscular strength?",
+    "options": [
+      "A smaller muscle cross-sectional area",
+      "A larger muscle cross-sectional area",
+      "A greater proportion of slow-twitch fibres",
+      "A faster muscle contraction in every situation"
+    ],
+    "answer": 1,
+    "feedback": "A larger muscle cross-sectional area provides greater potential to produce force."
+  },
+  {
+    "id": "A1HRF07",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Muscular endurance",
+    "difficulty": "Foundation",
+    "q": "Which factor is most likely to increase muscular endurance?",
+    "options": [
+      "A greater proportion of fast-twitch fibres",
+      "A lower tolerance to metabolic by-products",
+      "A greater proportion of slow-twitch fibres",
+      "A reduction in aerobic capacity"
+    ],
+    "answer": 2,
+    "feedback": "Slow-twitch fibres are fatigue resistant and support repeated contractions over longer periods."
+  },
+  {
+    "id": "A1HRF08",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Flexibility",
+    "difficulty": "Foundation",
+    "q": "Which factor is most likely to increase flexibility immediately before activity?",
+    "options": [
+      "Increasing age",
+      "Shortened muscles at rest",
+      "A joint designed mainly for stability",
+      "An effective warm-up"
+    ],
+    "answer": 3,
+    "feedback": "A warm-up increases the temperature of muscles and structures around joints, which can increase flexibility."
+  },
+  {
+    "id": "A1HRF09",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Aerobic power",
+    "difficulty": "Application",
+    "q": "A student wants to cycle to school without tiring as quickly. Which fitness component is most directly involved?",
+    "options": [
+      "Aerobic power",
+      "Muscular strength",
+      "Muscular endurance",
+      "Flexibility"
+    ],
+    "answer": 0,
+    "feedback": "Cycling for a continuous period relies heavily on aerobic energy production, so aerobic power is particularly important."
+  },
+  {
+    "id": "A1HRF10",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Muscular strength",
+    "difficulty": "Application",
+    "q": "A person needs to lift a heavy box from the floor once. Which fitness component is most important for producing the required force?",
+    "options": [
+      "Aerobic power",
+      "Muscular strength",
+      "Muscular endurance",
+      "Flexibility"
+    ],
+    "answer": 1,
+    "feedback": "A single heavy lift requires high force production, so muscular strength is the most relevant component."
+  },
+  {
+    "id": "A1HRF11",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Muscular endurance",
+    "difficulty": "Application",
+    "q": "A student completes repeated push-ups for several minutes. Which fitness component is being used most directly?",
+    "options": [
+      "Aerobic power",
+      "Muscular strength",
+      "Muscular endurance",
+      "Flexibility"
+    ],
+    "answer": 2,
+    "feedback": "Repeated push-ups require the muscles to continue contracting against resistance, which relies on muscular endurance."
+  },
+  {
+    "id": "A1HRF12",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Flexibility",
+    "difficulty": "Application",
+    "q": "A gardener needs to bend safely through a large range of movement at the hip. Which fitness component is most relevant?",
+    "options": [
+      "Aerobic power",
+      "Muscular strength",
+      "Muscular endurance",
+      "Flexibility"
+    ],
+    "answer": 3,
+    "feedback": "Flexibility allows a joint to move through an appropriate range of motion."
+  },
+  {
+    "id": "A1HRF13",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Aerobic power",
+    "difficulty": "Application",
+    "q": "Two people complete the same long-distance run. One has a greater proportion of slow-twitch muscle fibres. What effect is this most likely to have?",
+    "options": [
+      "Greater aerobic power and improved ability to sustain aerobic work",
+      "Lower aerobic power because slow-twitch fibres fatigue quickly during continuous activity and cannot sustain repeated contractions",
+      "Greater peak force during a single maximal contraction",
+      "Reduced oxygen use by the working muscles"
+    ],
+    "answer": 0,
+    "feedback": "Slow-twitch fibres have strong aerobic characteristics and resist fatigue, supporting sustained aerobic activity."
+  },
+  {
+    "id": "A1HRF14",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Aerobic power",
+    "difficulty": "Application",
+    "q": "Why does aerobic power generally decrease with increasing age after early adulthood?",
+    "options": [
+      "Muscles always become larger with age.",
+      "Changes such as reduced lung elasticity, haemoglobin and muscle mass can reduce oxygen uptake, transport and use.",
+      "Older adults automatically stop using aerobic energy.",
+      "Flexibility becomes the only limiting fitness component."
+    ],
+    "answer": 1,
+    "feedback": "Age-related reductions in lung elasticity, haemoglobin and muscle mass can reduce the body's capacity to take in, transport and use oxygen."
+  },
+  {
+    "id": "A1HRF15",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Muscular strength",
+    "difficulty": "Application",
+    "q": "A student improves leg muscle size after resistance training. Which change is most likely to increase their potential muscular strength?",
+    "options": [
+      "A lower muscle temperature",
+      "A smaller joint range of motion",
+      "A larger muscle cross-sectional area",
+      "A greater proportion of slow-twitch fibres"
+    ],
+    "answer": 2,
+    "feedback": "A larger muscle cross-sectional area increases the potential for greater force production."
+  },
+  {
+    "id": "A1HRF16",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Muscular strength",
+    "difficulty": "Application",
+    "q": "Which statement best explains how muscle contraction speed affects muscular strength?",
+    "options": [
+      "Faster contractions always produce greater force because increased movement speed automatically increases the force produced by a muscle",
+      "Contraction speed has no effect on force.",
+      "Only isometric contractions can produce force.",
+      "Slower contractions can generally produce greater force than faster contractions."
+    ],
+    "answer": 3,
+    "feedback": "The force-velocity relationship means muscles generally produce greater force at slower contraction speeds."
+  },
+  {
+    "id": "A1HRF17",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Muscular strength",
+    "difficulty": "Application",
+    "q": "Why can a warm-up improve muscular strength performance?",
+    "options": [
+      "Warmer muscles are better prepared to produce force.",
+      "Warm-ups permanently increase muscle cross-sectional area and therefore create a lasting increase in maximum force production",
+      "Warm-ups convert slow-twitch fibres into fast-twitch fibres.",
+      "Warm-ups remove the effect of joint angle."
+    ],
+    "answer": 0,
+    "feedback": "Warming the muscles can improve their capacity to contract and produce force during activity."
+  },
+  {
+    "id": "A1HRF18",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Muscular strength",
+    "difficulty": "Application",
+    "q": "Which person is most likely to have greater potential for absolute muscular strength, assuming other factors are similar?",
+    "options": [
+      "A person with less muscle mass",
+      "A person with greater muscle mass",
+      "A person with more adipose tissue but the same muscle mass",
+      "A person with a smaller muscle cross-sectional area"
+    ],
+    "answer": 1,
+    "feedback": "Greater muscle mass and cross-sectional area generally provide greater potential for absolute muscular strength."
+  },
+  {
+    "id": "A1HRF19",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Muscular endurance",
+    "difficulty": "Application",
+    "q": "A person can tolerate a greater accumulation of metabolic by-products during repeated high-intensity efforts. What is the likely effect?",
+    "options": [
+      "Reduced flexibility because greater tolerance to metabolic by-products decreases the range of movement available around the working joints",
+      "Reduced aerobic power",
+      "Improved muscular endurance during repeated high-intensity work",
+      "Lower muscular strength in every contraction"
+    ],
+    "answer": 2,
+    "feedback": "Greater tolerance to metabolic by-products can allow high-intensity muscular work to continue for longer."
+  },
+  {
+    "id": "A1HRF20",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Muscular endurance",
+    "difficulty": "Application",
+    "q": "Why does a greater proportion of slow-twitch fibres support muscular endurance?",
+    "options": [
+      "They produce the highest peak force.",
+      "They fatigue more quickly during repeated work.",
+      "They prevent any metabolic by-products from forming.",
+      "They are relatively fatigue resistant and can sustain aerobic contractions for longer."
+    ],
+    "answer": 3,
+    "feedback": "Slow-twitch fibres resist fatigue and are well suited to repeated or sustained contractions."
+  },
+  {
+    "id": "A1HRF21",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Flexibility",
+    "difficulty": "Application",
+    "q": "A person spends long periods sitting and develops chronically shortened hamstrings. What is the most likely effect?",
+    "options": [
+      "Reduced flexibility at joints influenced by the shortened muscles",
+      "Increased aerobic power because sitting for long periods improves the body's ability to take in, transport and use oxygen",
+      "Increased peak muscular force",
+      "Greater muscular endurance"
+    ],
+    "answer": 0,
+    "feedback": "Shortened muscles can restrict range of movement and therefore reduce flexibility."
+  },
+  {
+    "id": "A1HRF22",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Flexibility",
+    "difficulty": "Application",
+    "q": "Why does joint type affect flexibility?",
+    "options": [
+      "All joints have the same structure but different temperatures, so mobility depends mainly on how warm the surrounding tissues become",
+      "Different joints are designed with different balances of mobility and stability.",
+      "Joint type affects only muscular strength.",
+      "Joint type changes the proportion of muscle fibre types."
+    ],
+    "answer": 1,
+    "feedback": "Joint structure influences how much movement is possible; some joints prioritise mobility while others prioritise stability."
+  },
+  {
+    "id": "A1HRF23",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Flexibility",
+    "difficulty": "Application",
+    "q": "Which change is most likely to reduce flexibility over time?",
+    "options": [
+      "Regular movement through a full range",
+      "An effective warm-up",
+      "Increasing age",
+      "Appropriate stretching"
+    ],
+    "answer": 2,
+    "feedback": "Flexibility generally decreases with increasing age."
+  },
+  {
+    "id": "A1HRF24",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Flexibility",
+    "difficulty": "Application",
+    "q": "A person begins a stretching program that gradually lengthens muscles and surrounding connective tissues. What is the most likely effect?",
+    "options": [
+      "Lower aerobic power",
+      "Lower muscular endurance because stretching the surrounding tissues prevents the muscles from sustaining repeated contractions against resistance",
+      "Smaller muscle cross-sectional area",
+      "Increased range of movement around the relevant joint"
+    ],
+    "answer": 3,
+    "feedback": "Increasing the resting length of muscles and surrounding structures can increase joint range of movement."
+  },
+  {
+    "id": "A1HRF25",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Comparing components",
+    "difficulty": "Application",
+    "q": "A tennis player needs to continue moving throughout a long match and repeatedly sustain rallies. Which combination is especially important?",
+    "options": [
+      "Aerobic power and muscular endurance",
+      "Muscular strength and flexibility only",
+      "Flexibility and peak force only",
+      "Muscular strength and reaction time"
+    ],
+    "answer": 0,
+    "feedback": "Long-duration movement relies on aerobic power, while repeated sustained muscular work relies on muscular endurance."
+  },
+  {
+    "id": "A1HRF26",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Comparing components",
+    "difficulty": "Application",
+    "q": "Which example best distinguishes muscular strength from muscular endurance?",
+    "options": [
+      "Both involve only joint range of motion and therefore depend mainly on the flexibility available around the working joints",
+      "Strength focuses on peak force, whereas endurance focuses on sustaining repeated or prolonged muscular work.",
+      "Strength uses oxygen while endurance never does.",
+      "Endurance is required only in cardiovascular exercise."
+    ],
+    "answer": 1,
+    "feedback": "Muscular strength concerns maximum force production, while muscular endurance concerns sustaining muscular work over time."
+  },
+  {
+    "id": "A1HRF27",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Physical activity plans",
+    "difficulty": "Application",
+    "q": "Why should a balanced physical activity plan include activities that develop several health-related fitness components?",
+    "options": [
+      "Because every activity develops all four components equally, so selecting a range of activities simply repeats the same fitness effect",
+      "Because only sporting performance matters",
+      "Because general health and fitness depend on more than one component",
+      "Because flexibility is the only component linked to injury risk"
+    ],
+    "answer": 2,
+    "feedback": "A balanced physical activity plan supports general health and fitness by addressing multiple fitness components."
+  },
+  {
+    "id": "A1HRF28",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Physical activity plans",
+    "difficulty": "Application",
+    "q": "Which statement best distinguishes a physical activity plan from a training program?",
+    "options": [
+      "A physical activity plan is always more intense.",
+      "A training program never develops fitness.",
+      "Both have exactly the same purpose.",
+      "A physical activity plan generally promotes broad health and fitness, while a training program more narrowly targets performance."
+    ],
+    "answer": 3,
+    "feedback": "Physical activity plans usually focus on broad health and guideline adherence, while training programs are more performance-specific."
+  },
+  {
+    "id": "A1HRF29",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "A student can jog continuously for longer than before and reports less fatigue during a 20-minute run. Which fitness component has most likely improved?",
+    "options": [
+      "Aerobic power",
+      "Muscular strength",
+      "Flexibility",
+      "Peak force"
+    ],
+    "answer": 0,
+    "feedback": "Being able to sustain continuous aerobic activity with less fatigue is consistent with improved aerobic power."
+  },
+  {
+    "id": "A1HRF30",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "A student increases their one-repetition maximum squat after several weeks of resistance training. Which fitness component has most directly improved?",
+    "options": [
+      "Flexibility",
+      "Muscular strength",
+      "Muscular endurance",
+      "Aerobic power"
+    ],
+    "answer": 1,
+    "feedback": "A one-repetition maximum reflects the ability to produce high force, so it is a measure of muscular strength."
+  },
+  {
+    "id": "A1HRF31",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "A student increases from 18 to 30 continuous push-ups without changing technique. Which fitness component has most directly improved?",
+    "options": [
+      "Flexibility",
+      "Aerobic power",
+      "Muscular endurance",
+      "Muscular strength"
+    ],
+    "answer": 2,
+    "feedback": "Completing more repeated contractions before fatigue indicates improved muscular endurance."
+  },
+  {
+    "id": "A1HRF32",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "A student can now move their shoulder through a greater pain-free range after a stretching program. Which fitness component has most directly improved?",
+    "options": [
+      "Aerobic power",
+      "Muscular strength",
+      "Muscular endurance",
+      "Flexibility"
+    ],
+    "answer": 3,
+    "feedback": "A greater range of movement around a joint indicates improved flexibility."
+  },
+  {
+    "id": "A1HRF33",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Two participants have similar training histories. Participant A has a greater proportion of slow-twitch fibres and performs better in a prolonged cycling task. Which explanation is strongest?",
+    "options": [
+      "Slow-twitch fibres support aerobic energy production and resist fatigue, benefiting prolonged activity.",
+      "Slow-twitch fibres create the greatest peak force during maximal lifting.",
+      "Slow-twitch fibres reduce the need for oxygen.",
+      "Slow-twitch fibres prevent all muscular fatigue."
+    ],
+    "answer": 0,
+    "feedback": "Slow-twitch fibres are well suited to aerobic work and have high fatigue resistance, supporting prolonged activity."
+  },
+  {
+    "id": "A1HRF34",
+    "kk": "Health-Related Fitness Components",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "A participant performs a flexibility test before and after an effective warm-up and records a greater range of motion afterwards. What best explains the change?",
+    "options": [
+      "The warm-up permanently changed bone structure and therefore created a lasting increase in the amount of movement available at the joint",
+      "Increased temperature in muscles and joint structures temporarily improved flexibility.",
+      "The warm-up increased muscle cross-sectional area.",
+      "The warm-up converted fast-twitch fibres to slow-twitch fibres."
+    ],
+    "answer": 1,
+    "feedback": "An effective warm-up raises tissue temperature and can temporarily improve range of movement."
+  },
+  {
+    "id": "A1HRF35",
+    "kk": "Health-Related Fitness Components",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A 22-year-old runner has a high proportion of slow-twitch fibres and regularly completes endurance training. Which factor most directly supports their aerobic power according to the fitness-component factors studied?",
+    "options": [
+      "High joint stability because a more stable joint always increases oxygen delivery and therefore directly raises aerobic energy production",
+      "Large adipose stores",
+      "A greater proportion of slow-twitch fibres",
+      "A faster muscle contraction speed"
+    ],
+    "answer": 2,
+    "feedback": "A greater proportion of slow-twitch fibres supports aerobic metabolism and is a factor associated with higher aerobic power."
+  },
+  {
+    "id": "A1HRF36",
+    "kk": "Health-Related Fitness Components",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A student wants to improve the maximum force produced in a single lift. Which characteristic would most strongly support this goal?",
+    "options": [
+      "A greater proportion of slow-twitch fibres",
+      "A shorter resting muscle length in every muscle",
+      "Lower muscle temperature",
+      "A larger muscle cross-sectional area"
+    ],
+    "answer": 3,
+    "feedback": "A larger muscle cross-sectional area increases the potential for force production and therefore muscular strength."
+  },
+  {
+    "id": "A1HRF37",
+    "kk": "Health-Related Fitness Components",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A participant holds a plank for 45 seconds, rests, and repeats this several times. Which explanation best links the activity to muscular endurance?",
+    "options": [
+      "The abdominal muscles must sustain contraction against resistance over time and resist fatigue.",
+      "The abdominal muscles produce one maximal contraction only.",
+      "The activity mainly tests range of movement around the spine.",
+      "The activity depends only on aerobic power."
+    ],
+    "answer": 0,
+    "feedback": "Holding and repeating a plank requires sustained muscular contractions and resistance to fatigue, which are features of muscular endurance."
+  },
+  {
+    "id": "A1HRF38",
+    "kk": "Health-Related Fitness Components",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A person has limited shoulder movement because the joint structure prioritises stability and the surrounding tissues are tight. Which statement best explains their flexibility?",
+    "options": [
+      "Flexibility is unaffected by joint structure.",
+      "Both joint structure and the resting length of surrounding tissues can limit range of movement.",
+      "Only aerobic power determines joint range.",
+      "Muscular strength always increases flexibility."
+    ],
+    "answer": 1,
+    "feedback": "Flexibility is influenced by joint structure and by the length and elasticity of muscles, ligaments and surrounding tissues."
+  },
+  {
+    "id": "A1HRF39",
+    "kk": "Health-Related Fitness Components",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A student is choosing activities for a balanced physical activity plan. Which option best develops all four health-related fitness components across the week?",
+    "options": [
+      "Only short maximal lifts",
+      "Only static stretching",
+      "Continuous cycling, resistance exercise, repeated body-weight work and flexibility activities",
+      "Only low-intensity walking"
+    ],
+    "answer": 2,
+    "feedback": "The combination develops aerobic power, muscular strength, muscular endurance and flexibility."
+  },
+  {
+    "id": "A1HRF40",
+    "kk": "Health-Related Fitness Components",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A person improves their ability to carry heavy objects once, complete repeated push-ups and reach further during a flexibility test. Which interpretation is most accurate?",
+    "options": [
+      "Only aerobic power has improved.",
+      "Only muscular strength has improved.",
+      "All improvements reflect the same fitness component.",
+      "The results indicate changes in muscular strength, muscular endurance and flexibility respectively."
+    ],
+    "answer": 3,
+    "feedback": "A heavy one-off effort reflects muscular strength, repeated push-ups reflect muscular endurance, and increased range of movement reflects flexibility."
   }
 ]
