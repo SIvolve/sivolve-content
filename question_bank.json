@@ -7483,5 +7483,605 @@
     ],
     "answer": 3,
     "feedback": "A heavy one-off effort reflects muscular strength, repeated push-ups reflect muscular endurance, and increased range of movement reflects flexibility."
+  },
+  {
+    "id": "A1FMA01",
+    "kk": "Functional Movement Assessment",
+    "domain": "Core purpose",
+    "difficulty": "Foundation",
+    "q": "What is the main purpose of a Functional Movement Assessment (FMA)?",
+    "options": [
+      "To observe movement quality and help inform a safe, suitable physical activity plan",
+      "To diagnose musculoskeletal injuries and prescribe appropriate medical treatment for each individual participant",
+      "To measure only aerobic fitness",
+      "To rank participants by sporting ability"
+    ],
+    "answer": 0,
+    "feedback": "An FMA observes how a participant performs movements so the results can help inform safe and appropriate physical activity planning."
+  },
+  {
+    "id": "A1FMA02",
+    "kk": "Functional Movement Assessment",
+    "domain": "Physiological considerations",
+    "difficulty": "Foundation",
+    "q": "Which factor is primarily a physiological consideration when selecting an FMA?",
+    "options": [
+      "Peer encouragement",
+      "Current injury status",
+      "Cultural expectations",
+      "Confidence during observation"
+    ],
+    "answer": 1,
+    "feedback": "Physiological considerations include factors such as current fitness, injuries and health conditions."
+  },
+  {
+    "id": "A1FMA03",
+    "kk": "Functional Movement Assessment",
+    "domain": "Psychological considerations",
+    "difficulty": "Foundation",
+    "q": "Which factor is primarily a psychological consideration before conducting an FMA?",
+    "options": [
+      "Access to reliable transport and suitable facilities for attending the assessment at the scheduled time",
+      "Previous knee surgery",
+      "Confidence about completing the assessment",
+      "Family expectations"
+    ],
+    "answer": 2,
+    "feedback": "Psychological considerations include mental and emotional factors such as confidence, motivation and self-efficacy."
+  },
+  {
+    "id": "A1FMA04",
+    "kk": "Functional Movement Assessment",
+    "domain": "Sociocultural considerations",
+    "difficulty": "Foundation",
+    "q": "Which factor is primarily a sociocultural consideration when planning an FMA?",
+    "options": [
+      "Resting heart rate and current cardiovascular responses measured before the participant begins any assessment movement",
+      "Joint pain",
+      "Movement efficiency",
+      "Family or cultural expectations about participation"
+    ],
+    "answer": 3,
+    "feedback": "Sociocultural considerations include family, peers, community, gender, socioeconomic circumstances, cultural beliefs and traditions."
+  },
+  {
+    "id": "A1FMA05",
+    "kk": "Functional Movement Assessment",
+    "domain": "Pre-participation screening",
+    "difficulty": "Foundation",
+    "q": "What is the main purpose of pre-participation health screening before an FMA?",
+    "options": [
+      "To identify health or injury information that may affect whether movements are safe and appropriate",
+      "To diagnose every medical condition",
+      "To guarantee the participant will avoid injury",
+      "To replace informed consent"
+    ],
+    "answer": 0,
+    "feedback": "Pre-participation screening helps identify relevant health conditions, injuries or risks that may require movement modification, referral or additional caution."
+  },
+  {
+    "id": "A1FMA06",
+    "kk": "Functional Movement Assessment",
+    "domain": "Informed consent",
+    "difficulty": "Foundation",
+    "q": "Which statement is an essential feature of informed consent?",
+    "options": [
+      "The participant must complete every movement once testing begins.",
+      "The participant should understand the assessment, possible risks and their right to withdraw.",
+      "Only the final score needs to be explained.",
+      "Consent is unnecessary when an assessment seems low risk and the participant has exercised before"
+    ],
+    "answer": 1,
+    "feedback": "Informed consent requires the participant to understand what will occur, relevant risks and their right to withdraw without penalty."
+  },
+  {
+    "id": "A1FMA07",
+    "kk": "Functional Movement Assessment",
+    "domain": "Validity",
+    "difficulty": "Foundation",
+    "q": "What does validity mean when evaluating an FMA?",
+    "options": [
+      "The assessment produces the same score every time.",
+      "The assessor uses expensive equipment.",
+      "The assessment measures what it claims to measure.",
+      "The results are recorded quickly."
+    ],
+    "answer": 2,
+    "feedback": "Validity refers to whether an assessment actually measures the movement characteristic it is intended to measure."
+  },
+  {
+    "id": "A1FMA08",
+    "kk": "Functional Movement Assessment",
+    "domain": "Reliability",
+    "difficulty": "Foundation",
+    "q": "What does reliability mean when evaluating an FMA?",
+    "options": [
+      "The assessment uses several different movements selected to represent all major areas of the body",
+      "The participant receives immediate feedback.",
+      "The assessor explains the purpose of the FMA.",
+      "The assessment can be repeated under similar conditions with consistent results."
+    ],
+    "answer": 3,
+    "feedback": "Reliability is the ability of an assessment to produce consistent results when repeated under similar conditions."
+  },
+  {
+    "id": "A1FMA09",
+    "kk": "Functional Movement Assessment",
+    "domain": "Accuracy",
+    "difficulty": "Application",
+    "q": "Which description best matches accuracy in an FMA?",
+    "options": [
+      "How close the recorded result is to the participant's actual movement ability",
+      "How many different movements, body regions and movement patterns are included across the complete assessment",
+      "How often the assessment is repeated",
+      "How confident the participant feels"
+    ],
+    "answer": 0,
+    "feedback": "Accuracy concerns how close the recorded result is to the actual ability or characteristic being assessed."
+  },
+  {
+    "id": "A1FMA10",
+    "kk": "Functional Movement Assessment",
+    "domain": "Physiological considerations",
+    "difficulty": "Application",
+    "q": "A participant reports ongoing knee pain from a previous injury. What is the most appropriate response when selecting FMA movements?",
+    "options": [
+      "Ignore the pain if the participant is motivated.",
+      "Select or modify movements to avoid unnecessary knee stress and consider referral if required.",
+      "Include deeper knee-flexion movements to test pain tolerance.",
+      "Cancel all physical activity indefinitely."
+    ],
+    "answer": 1,
+    "feedback": "The FMA should be adapted to the participant's physiological circumstances so testing is safe and appropriate."
+  },
+  {
+    "id": "A1FMA11",
+    "kk": "Functional Movement Assessment",
+    "domain": "Psychological considerations",
+    "difficulty": "Application",
+    "q": "A participant is anxious about being watched by classmates during an FMA. Which strategy best addresses this psychological consideration?",
+    "options": [
+      "Increase the assessment difficulty.",
+      "Ask classmates to give continuous feedback and encouragement throughout every movement in the assessment",
+      "Conduct the assessment in a more private setting.",
+      "Remove the pre-participation screen."
+    ],
+    "answer": 2,
+    "feedback": "Greater privacy can reduce anxiety and support psychological safety during the assessment."
+  },
+  {
+    "id": "A1FMA12",
+    "kk": "Functional Movement Assessment",
+    "domain": "Sociocultural considerations",
+    "difficulty": "Application",
+    "q": "A participant says a particular testing arrangement conflicts with an important cultural preference. What should the assessor do?",
+    "options": [
+      "Proceed because all participants should complete exactly the same testing arrangement regardless of individual preferences",
+      "Exclude the participant from the entire program.",
+      "Ignore the concern unless it changes the final score.",
+      "Adapt the assessment where possible while preserving its purpose and safety."
+    ],
+    "answer": 3,
+    "feedback": "Sociocultural considerations should inform how an FMA is conducted so the assessment is appropriate, inclusive and respectful."
+  },
+  {
+    "id": "A1FMA13",
+    "kk": "Functional Movement Assessment",
+    "domain": "Pre-participation screening",
+    "difficulty": "Application",
+    "q": "A pre-participation screen identifies unexplained chest pain during exercise. What is the most appropriate next step before conducting a demanding FMA?",
+    "options": [
+      "Seek appropriate medical clearance or advice before proceeding.",
+      "Continue because the FMA is not a fitness test.",
+      "Ask the participant to sign a stronger consent form.",
+      "Use a more difficult movement to confirm the problem."
+    ],
+    "answer": 0,
+    "feedback": "Potentially significant health concerns identified during screening should be addressed before demanding physical assessment proceeds."
+  },
+  {
+    "id": "A1FMA14",
+    "kk": "Functional Movement Assessment",
+    "domain": "Pre-participation screening",
+    "difficulty": "Application",
+    "q": "Why is information about previous injuries useful before selecting FMA movements?",
+    "options": [
+      "It guarantees every selected movement will be valid, reliable and accurate for the participant",
+      "It helps identify movements that may need to be modified or avoided for safety.",
+      "It determines the participant's motivation.",
+      "It replaces the need to observe movement technique."
+    ],
+    "answer": 1,
+    "feedback": "Previous injuries can affect movement choice and may indicate that particular movements require modification or should be avoided."
+  },
+  {
+    "id": "A1FMA15",
+    "kk": "Functional Movement Assessment",
+    "domain": "Informed consent",
+    "difficulty": "Application",
+    "q": "Which information should be provided before a participant gives informed consent for an FMA?",
+    "options": [
+      "Only the final score they are expected to achieve",
+      "Only the name of the assessor",
+      "The nature of the assessment, relevant risks, how information will be used and the right to withdraw",
+      "A guarantee that no discomfort will occur"
+    ],
+    "answer": 2,
+    "feedback": "Valid informed consent depends on the participant receiving enough information to make a voluntary, informed decision."
+  },
+  {
+    "id": "A1FMA16",
+    "kk": "Functional Movement Assessment",
+    "domain": "Informed consent",
+    "difficulty": "Application",
+    "q": "A participant decides halfway through an FMA that they no longer want to continue. What should happen?",
+    "options": [
+      "They should finish because consent cannot be withdrawn once testing begins.",
+      "They should complete only the remaining low-risk movements.",
+      "They should continue if the assessor believes the data are important.",
+      "The assessment should stop because consent can be withdrawn."
+    ],
+    "answer": 3,
+    "feedback": "A participant has the right to withdraw consent, so the assessment should stop."
+  },
+  {
+    "id": "A1FMA17",
+    "kk": "Functional Movement Assessment",
+    "domain": "Validity",
+    "difficulty": "Application",
+    "q": "An FMA claims to assess whole-body functional movement but includes only lower-body movements. What is the main problem?",
+    "options": [
+      "Its validity is limited because the assessment does not adequately represent whole-body movement.",
+      "Its reliability is automatically high.",
+      "Its accuracy is guaranteed because several different lower-body movements are included and scored using the same system",
+      "Its informed-consent process is invalid."
+    ],
+    "answer": 0,
+    "feedback": "An assessment should measure what it claims to measure. A whole-body FMA needs movements that adequately represent the whole body."
+  },
+  {
+    "id": "A1FMA18",
+    "kk": "Functional Movement Assessment",
+    "domain": "Reliability",
+    "difficulty": "Application",
+    "q": "A participant repeats an FMA one week later. Which change would most threaten reliability?",
+    "options": [
+      "Using the same movement sequence, instructions, recovery periods and environmental conditions as the first assessment",
+      "Changing the warm-up, movement order and recovery periods",
+      "Testing at a similar time of day",
+      "Using the same instructions"
+    ],
+    "answer": 1,
+    "feedback": "Changing testing conditions makes it harder to determine whether score differences reflect real change or inconsistent procedure."
+  },
+  {
+    "id": "A1FMA19",
+    "kk": "Functional Movement Assessment",
+    "domain": "Accuracy",
+    "difficulty": "Application",
+    "q": "Which action is most likely to improve the accuracy of an FMA?",
+    "options": [
+      "Allowing each assessor to invent their own scoring rules",
+      "Changing equipment between participants",
+      "Using trained assessors, clear protocols and suitable equipment",
+      "Removing all rest periods"
+    ],
+    "answer": 2,
+    "feedback": "Accurate assessment is supported by trained administrators, clear procedures, appropriate equipment and suitable testing conditions."
+  },
+  {
+    "id": "A1FMA20",
+    "kk": "Functional Movement Assessment",
+    "domain": "Reliability",
+    "difficulty": "Application",
+    "q": "Why should the same movement sequence be used when an FMA is repeated?",
+    "options": [
+      "To make the assessment longer",
+      "To increase the participant's motivation",
+      "To ensure every movement is harder the second time",
+      "To reduce procedural variation and improve consistency between assessments"
+    ],
+    "answer": 3,
+    "feedback": "Keeping the movement sequence consistent reduces unwanted variation and improves reliability."
+  },
+  {
+    "id": "A1FMA21",
+    "kk": "Functional Movement Assessment",
+    "domain": "Selecting an FMA",
+    "difficulty": "Application",
+    "q": "A participant has low confidence, limited exercise experience and no current injuries. Which FMA approach is most appropriate?",
+    "options": [
+      "Use clear instructions, manageable movements and a supportive setting matched to the participant's ability.",
+      "Use advanced movements immediately to reveal weaknesses.",
+      "Ignore confidence because it is unrelated to movement assessment.",
+      "Use only the participant's age to choose the assessment."
+    ],
+    "answer": 0,
+    "feedback": "An appropriate FMA considers physiological and psychological characteristics, including current ability and confidence."
+  },
+  {
+    "id": "A1FMA22",
+    "kk": "Functional Movement Assessment",
+    "domain": "Selecting an FMA",
+    "difficulty": "Application",
+    "q": "A group includes participants with different physical abilities and movement limitations. What is the best justification for modifying parts of the FMA?",
+    "options": [
+      "Modifications make reliability irrelevant.",
+      "Adjustments can improve safety and suitability while still assessing relevant movement patterns.",
+      "All participants must complete identical movements regardless of injury history, physical ability or potential safety concerns",
+      "Modified movements automatically increase every participant's score."
+    ],
+    "answer": 1,
+    "feedback": "An FMA should be appropriate for the target individual or group; safe modifications may be justified when they preserve the purpose of the assessment."
+  },
+  {
+    "id": "A1FMA23",
+    "kk": "Functional Movement Assessment",
+    "domain": "Psychological considerations",
+    "difficulty": "Application",
+    "q": "Which participant factor is most clearly psychological rather than physiological or sociocultural?",
+    "options": [
+      "A previous ankle injury",
+      "Family support for physical activity",
+      "Self-efficacy about completing unfamiliar movements",
+      "Access to transport"
+    ],
+    "answer": 2,
+    "feedback": "Self-efficacy is a psychological factor describing belief in one's ability to perform successfully."
+  },
+  {
+    "id": "A1FMA24",
+    "kk": "Functional Movement Assessment",
+    "domain": "Sociocultural considerations",
+    "difficulty": "Application",
+    "q": "Which participant factor is most clearly sociocultural?",
+    "options": [
+      "Current muscular soreness following recent exercise that may temporarily affect how the participant performs movement tasks",
+      "Resting heart rate",
+      "Confidence when attempting a squat",
+      "Family expectations that influence willingness to participate"
+    ],
+    "answer": 3,
+    "feedback": "Family expectations are a sociocultural influence because they arise from the participant's social environment."
+  },
+  {
+    "id": "A1FMA25",
+    "kk": "Functional Movement Assessment",
+    "domain": "Conducting an FMA",
+    "difficulty": "Application",
+    "q": "Why should an assessor follow a clear, standardised protocol during an FMA?",
+    "options": [
+      "It supports reliability and accuracy by reducing unnecessary variation in how the assessment is conducted.",
+      "It guarantees the FMA is valid for every possible participant, movement characteristic and physical activity planning purpose",
+      "It removes the need for informed consent.",
+      "It ensures all participants receive the same score."
+    ],
+    "answer": 0,
+    "feedback": "Standardised procedures help minimise measurement error and make repeated results more comparable."
+  },
+  {
+    "id": "A1FMA26",
+    "kk": "Functional Movement Assessment",
+    "domain": "Evaluating an FMA",
+    "difficulty": "Application",
+    "q": "Two assessors give very different scores for the same movement because they interpret the scoring criteria differently. Which quality is most directly weakened?",
+    "options": [
+      "Validity",
+      "Reliability",
+      "Participant motivation",
+      "Informed consent"
+    ],
+    "answer": 1,
+    "feedback": "If scoring is inconsistent between assessors, the assessment is less reliable because results cannot be reproduced consistently."
+  },
+  {
+    "id": "A1FMA27",
+    "kk": "Functional Movement Assessment",
+    "domain": "Evaluating an FMA",
+    "difficulty": "Application",
+    "q": "An assessor records a movement score incorrectly because the measuring equipment was poorly calibrated. Which quality is most directly affected?",
+    "options": [
+      "Sociocultural suitability",
+      "Validity",
+      "Accuracy",
+      "Psychological safety"
+    ],
+    "answer": 2,
+    "feedback": "Poorly calibrated or unsuitable equipment can make recorded results less accurate."
+  },
+  {
+    "id": "A1FMA28",
+    "kk": "Functional Movement Assessment",
+    "domain": "Evaluating an FMA",
+    "difficulty": "Application",
+    "q": "An FMA is repeated under identical conditions and produces very similar scores, but it does not assess the movement characteristic it claims to measure. Which statement is correct?",
+    "options": [
+      "It is valid but inaccurate.",
+      "It is accurate because scores remain similar",
+      "It is valid because it is repeatable.",
+      "It may be reliable but lacks validity."
+    ],
+    "answer": 3,
+    "feedback": "An assessment can be consistent without measuring the intended characteristic. Reliability does not guarantee validity."
+  },
+  {
+    "id": "A1FMA29",
+    "kk": "Functional Movement Assessment",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "A 16-year-old participant reports a previous shoulder injury, low confidence when being observed and strong family support for physical activity. Which set of considerations is represented?",
+    "options": [
+      "Physiological, psychological and sociocultural respectively",
+      "Psychological, physiological and policy respectively",
+      "Sociocultural, psychological and physiological respectively",
+      "Physiological, policy and physical-environment respectively"
+    ],
+    "answer": 0,
+    "feedback": "The injury is physiological, confidence is psychological and family support is sociocultural."
+  },
+  {
+    "id": "A1FMA30",
+    "kk": "Functional Movement Assessment",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Before an FMA, a participant reports knee pain during deep bending. Which response best uses this information?",
+    "options": [
+      "Ignore the pain because the assessor needs standardised data.",
+      "Select a safer alternative movement or modify the range while preserving the assessment purpose.",
+      "Ask the participant to perform extra repetitions.",
+      "Use the pain response as the final FMA score."
+    ],
+    "answer": 1,
+    "feedback": "Health-screening information should inform movement selection so the assessment remains safe and appropriate."
+  },
+  {
+    "id": "A1FMA31",
+    "kk": "Functional Movement Assessment",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "An assessor repeats an FMA but changes the warm-up, room temperature and recovery time between movements. The participant's scores change substantially. What is the main concern?",
+    "options": [
+      "The FMA is highly valid because environmental conditions were deliberately varied between the two assessment sessions",
+      "The participant did not give consent.",
+      "Reliability is weakened because testing conditions were not consistent.",
+      "The assessment must be diagnostically inaccurate."
+    ],
+    "answer": 2,
+    "feedback": "Changes in warm-up, environment and recovery create procedural variation that can reduce reliability."
+  },
+  {
+    "id": "A1FMA32",
+    "kk": "Functional Movement Assessment",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "An FMA designed to assess whole-body movement uses squats, lunges, pushing, pulling and overhead movement patterns. Which assessment quality is this broad movement selection most directly supporting?",
+    "options": [
+      "Confidentiality",
+      "Reliability",
+      "Accuracy of equipment",
+      "Validity"
+    ],
+    "answer": 3,
+    "feedback": "Including movements that represent the claimed construct supports validity."
+  },
+  {
+    "id": "A1FMA33",
+    "kk": "Functional Movement Assessment",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "A participant is told what movements will be performed, the possible risks, how results will be used and that they may stop at any time. What process is being demonstrated?",
+    "options": [
+      "Informed consent",
+      "Pre-participation screening",
+      "Reliability testing",
+      "Movement diagnosis"
+    ],
+    "answer": 0,
+    "feedback": "Explaining the assessment, risks, data use and right to withdraw are core elements of informed consent."
+  },
+  {
+    "id": "A1FMA34",
+    "kk": "Functional Movement Assessment",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "A tester follows the correct protocol but uses a damaged measuring device that consistently overstates the result. Which statement is most accurate?",
+    "options": [
+      "The FMA must be valid because the same device is used.",
+      "The damaged device threatens accuracy even if the procedure is consistent.",
+      "The FMA becomes more reliable because every score is higher.",
+      "The participant's motivation is the main problem."
+    ],
+    "answer": 1,
+    "feedback": "A consistently faulty device can still produce repeatable results, but the results may not be close to the true value, reducing accuracy."
+  },
+  {
+    "id": "A1FMA35",
+    "kk": "Functional Movement Assessment",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A student with a recent ankle injury, moderate confidence and strong peer support is completing an FMA. Which justification best demonstrates appropriate assessment planning?",
+    "options": [
+      "Use the same advanced movements as everyone else because standardisation is more important than safety.",
+      "Focus only on peer support because sociocultural considerations override physiological factors.",
+      "Modify movements that load the injured ankle while using supportive instructions and an appropriate testing environment.",
+      "Remove all lower-body movements even if some could be completed safely."
+    ],
+    "answer": 2,
+    "feedback": "Appropriate planning considers the injury, psychological state and supportive context while preserving safe and relevant assessment."
+  },
+  {
+    "id": "A1FMA36",
+    "kk": "Functional Movement Assessment",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A school repeats an FMA after six weeks. The same assessor uses the same instructions, movement order, recovery periods and testing area. What is the main reason for doing this?",
+    "options": [
+      "To increase validity by adding more movements",
+      "To make the participant more confident",
+      "To remove the need for accurate equipment",
+      "To improve reliability so changes are more likely to reflect the participant rather than testing variation"
+    ],
+    "answer": 3,
+    "feedback": "Keeping procedures consistent improves reliability and makes pre- and post-assessment comparisons more meaningful."
+  },
+  {
+    "id": "A1FMA37",
+    "kk": "Functional Movement Assessment",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "An assessor wants to evaluate whole-body functional movement. Which option provides the strongest evidence of validity?",
+    "options": [
+      "The assessment samples several relevant movement patterns across different parts of the body.",
+      "The same stopwatch is used for every participant.",
+      "Participants are tested at the same time of day using the same instructions and recovery periods",
+      "The assessor records results immediately."
+    ],
+    "answer": 0,
+    "feedback": "Validity depends on whether the assessment adequately measures the intended construct; a whole-body FMA should represent whole-body movement."
+  },
+  {
+    "id": "A1FMA38",
+    "kk": "Functional Movement Assessment",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A participant completes an FMA in a crowded public space and appears embarrassed, rushed and unwilling to attempt unfamiliar movements. Which change is most appropriate?",
+    "options": [
+      "Increase the number of observers to improve scoring accuracy.",
+      "Use a more private and supportive setting to reduce psychological discomfort and improve engagement.",
+      "Ignore the response because psychological factors do not affect how confidently or willingly a participant completes unfamiliar movements",
+      "Replace the FMA with a medical diagnosis."
+    ],
+    "answer": 1,
+    "feedback": "The participant's psychological state should inform how the FMA is conducted; privacy and support may improve comfort and willingness to participate."
+  },
+  {
+    "id": "A1FMA39",
+    "kk": "Functional Movement Assessment",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A participant signs a form but was not told about possible risks or their right to withdraw. Which evaluation is most accurate?",
+    "options": [
+      "The consent is fully informed because obtaining a participant's signature is sufficient even when risks and withdrawal rights were not explained",
+      "The assessment is reliable because documentation exists.",
+      "The consent process is inadequate because important information was not provided before agreement.",
+      "The FMA is invalid because the participant signed the form."
+    ],
+    "answer": 2,
+    "feedback": "A signature alone is insufficient; informed consent requires relevant information to be provided before a voluntary decision is made."
+  },
+  {
+    "id": "A1FMA40",
+    "kk": "Functional Movement Assessment",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "An FMA produces consistent scores across repeated trials, uses a suitable range of movements, but the assessor frequently records measurements incorrectly. Which conclusion is best?",
+    "options": [
+      "The assessment is accurate because it is repeatable.",
+      "The assessment lacks reliability because the movement range is suitable.",
+      "The assessment lacks validity because repeated scores are similar.",
+      "The procedure may be reliable and valid in design, but poor recording reduces accuracy."
+    ],
+    "answer": 3,
+    "feedback": "Reliability, validity and accuracy are distinct. Consistency and appropriate content do not compensate for inaccurate measurement or recording."
   }
 ]
