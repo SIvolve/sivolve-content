@@ -6283,5 +6283,605 @@
     ],
     "answer": 3,
     "feedback": "Adding individual, physical-environment and policy strategies broadens the existing social strategy into a stronger multicomponent initiative."
+  },
+  {
+    "id": "A1PBI01",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Core concepts",
+    "difficulty": "Foundation",
+    "q": "What is a key purpose of a population-based physical activity initiative?",
+    "options": [
+      "To increase physical activity and/or reduce sedentary behaviour in a selected population",
+      "To measure only the fitness of elite athletes",
+      "To replace all individual responsibility for physical activity",
+      "To focus only on competitive sport performance"
+    ],
+    "answer": 0,
+    "feedback": "Population-based initiatives aim to increase physical activity and/or reduce sedentary behaviour within a selected group, community or population."
+  },
+  {
+    "id": "A1PBI02",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Target populations",
+    "difficulty": "Foundation",
+    "q": "Which group could be an appropriate target population for a physical activity initiative?",
+    "options": [
+      "Only professional athletes in organised high-performance sport",
+      "Older adults living in a local community",
+      "Only people already meeting activity guidelines",
+      "Only students enrolled in physical education"
+    ],
+    "answer": 1,
+    "feedback": "Population-based initiatives may target many different groups, including age-based, cultural, socioeconomic or other population groups."
+  },
+  {
+    "id": "A1PBI03",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Enablers and barriers",
+    "difficulty": "Foundation",
+    "q": "Why should an initiative identify the barriers experienced by its target population?",
+    "options": [
+      "So every participant receives exactly the same strategy",
+      "So the initiative can avoid using multiple SEM components",
+      "So strategies can be designed to address the factors limiting participation",
+      "So only individual motivation needs to be considered"
+    ],
+    "answer": 2,
+    "feedback": "Identifying relevant barriers helps an initiative select strategies that directly address the reasons participation is limited."
+  },
+  {
+    "id": "A1PBI04",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Stakeholders",
+    "difficulty": "Foundation",
+    "q": "Which statement best describes intersectoral collaboration?",
+    "options": [
+      "One participant completing several activities",
+      "One organisation delivering a program without support",
+      "A program focusing only on individual motivation and personal knowledge",
+      "Different sectors working together towards a shared physical activity goal"
+    ],
+    "answer": 3,
+    "feedback": "Intersectoral collaboration involves different sectors or organisations combining resources, expertise and support towards a common goal."
+  },
+  {
+    "id": "A1PBI05",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Effectiveness",
+    "difficulty": "Foundation",
+    "q": "Which feature is most likely to strengthen a population-based physical activity initiative?",
+    "options": [
+      "Addressing several relevant barriers and enablers across multiple SEM components",
+      "Using one strategy regardless of the target population",
+      "Assuming awareness automatically leads to participation",
+      "Ignoring access and resource limitations"
+    ],
+    "answer": 0,
+    "feedback": "Initiatives are generally stronger when they respond to relevant barriers and enablers across multiple levels of influence."
+  },
+  {
+    "id": "A1PBI06",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Stakeholders",
+    "difficulty": "Foundation",
+    "q": "What is one potential benefit of involving several stakeholders in an initiative?",
+    "options": [
+      "It guarantees the initiative will succeed.",
+      "It can increase access to expertise, funding, facilities and community connections.",
+      "It removes the need to identify barriers within the target population.",
+      "It means the initiative only needs one strategy."
+    ],
+    "answer": 1,
+    "feedback": "Different stakeholders can contribute complementary resources, expertise, funding, facilities and access to participants."
+  },
+  {
+    "id": "A1PBI07",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Critiquing initiatives",
+    "difficulty": "Foundation",
+    "q": "When critiquing an initiative, which evidence is most useful?",
+    "options": [
+      "The initiative's name alone",
+      "The organisation's logo",
+      "Information about the strategies used, barriers addressed and likely outcomes",
+      "The total number of words used to describe the program in promotional materials"
+    ],
+    "answer": 2,
+    "feedback": "A meaningful critique uses evidence about what the initiative does, which barriers or enablers it targets, and how likely those strategies are to influence participation."
+  },
+  {
+    "id": "A1PBI08",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Effectiveness",
+    "difficulty": "Foundation",
+    "q": "Which statement best reflects effective initiative design?",
+    "options": [
+      "All groups require identical strategies.",
+      "One short campaign is always enough for lasting behaviour change.",
+      "Only policy strategies can change population behaviour.",
+      "Different populations may require different strategies because their barriers and enablers differ."
+    ],
+    "answer": 3,
+    "feedback": "Population groups can experience different barriers and enablers, so initiative design should be responsive to the target population."
+  },
+  {
+    "id": "A1PBI09",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Target populations",
+    "difficulty": "Application",
+    "q": "A council finds that older adults in one suburb are inactive because they feel unsafe walking alone. Which initiative feature most directly addresses this barrier?",
+    "options": [
+      "Organised local walking groups led at regular times",
+      "Posters describing the health benefits of regular exercise",
+      "A competitive online leaderboard",
+      "A discount for sports equipment"
+    ],
+    "answer": 0,
+    "feedback": "Walking groups directly address the social and safety-related barrier by providing companionship and structured opportunities to be active."
+  },
+  {
+    "id": "A1PBI10",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Enablers and barriers",
+    "difficulty": "Application",
+    "q": "A school wants to increase activity among students who say they lack confidence and do not know how to use the fitness area. Which strategy is most appropriate?",
+    "options": [
+      "Extend the school day",
+      "Provide beginner instruction and supported practice sessions",
+      "Remove organised activities and supervised practice opportunities",
+      "Require students to exercise independently"
+    ],
+    "answer": 1,
+    "feedback": "Beginner instruction and supported practice target knowledge, skills and confidence barriers."
+  },
+  {
+    "id": "A1PBI11",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Target populations",
+    "difficulty": "Application",
+    "q": "A community initiative offers free weekend activity sessions in an area where participation costs are a major barrier. Which barrier is being targeted most directly?",
+    "options": [
+      "Fear of judgement",
+      "Limited social support",
+      "Financial cost",
+      "Poor weather"
+    ],
+    "answer": 2,
+    "feedback": "Free participation directly reduces the financial cost barrier."
+  },
+  {
+    "id": "A1PBI12",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Stakeholders",
+    "difficulty": "Application",
+    "q": "A local initiative is jointly delivered by a council, health service, sporting club and secondary school. What is the clearest advantage of this collaboration?",
+    "options": [
+      "Every participant will respond in exactly the same way to every strategy used.",
+      "The initiative no longer needs to evaluate outcomes.",
+      "Only one SEM component needs to be addressed.",
+      "The organisations can combine facilities, expertise, participant access and resources."
+    ],
+    "answer": 3,
+    "feedback": "Collaboration can increase reach and effectiveness by combining different forms of expertise, infrastructure, access and resources."
+  },
+  {
+    "id": "A1PBI13",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Step Up to Breast Cancer",
+    "difficulty": "Application",
+    "q": "Step Up to Breast Cancer asks participants to walk or run a set distance during August, allows the distance to be completed across multiple sessions, and lets participants track progress online. Which feature most directly supports different fitness levels?",
+    "options": [
+      "The distance can be completed across multiple sessions.",
+      "The challenge occurs in August.",
+      "Progress is recorded online.",
+      "The initiative is linked to fundraising."
+    ],
+    "answer": 0,
+    "feedback": "Allowing the target distance to be accumulated across multiple sessions provides flexibility for participants with different fitness levels."
+  },
+  {
+    "id": "A1PBI14",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "This Girl Can",
+    "difficulty": "Application",
+    "q": "This Girl Can encourages women to be active without fear of judgement and uses relatable stories that challenge stereotypes about women and exercise. Which barrier is most directly targeted?",
+    "options": [
+      "Limited access to suitable sporting facilities",
+      "Fear of judgement and gender stereotypes",
+      "Insufficient wearable technology",
+      "Limited government regulation"
+    ],
+    "answer": 1,
+    "feedback": "The initiative directly targets psychosocial barriers such as fear of judgement, low confidence and gender stereotypes."
+  },
+  {
+    "id": "A1PBI15",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Jump Rope for Heart",
+    "difficulty": "Application",
+    "q": "Jump Rope for Heart is a school-based program in which students learn skipping skills, participate with peers and receive teacher support. Which strategy most directly builds an individual enabler?",
+    "options": [
+      "Participating alongside classmates",
+      "Receiving encouragement from teachers",
+      "Learning and practising skipping skills",
+      "Using a school activity space"
+    ],
+    "answer": 2,
+    "feedback": "Learning and practising a skill can increase competence, confidence and self-efficacy at the individual level."
+  },
+  {
+    "id": "A1PBI16",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Get Active Kids",
+    "difficulty": "Application",
+    "q": "The Get Active Kids Voucher Program provides eligible Victorian children with financial assistance towards organised sport and recreation costs. Which barrier does the voucher most directly reduce?",
+    "options": [
+      "Lack of peer encouragement",
+      "Low knowledge of activity benefits",
+      "Poor local weather",
+      "Participation costs"
+    ],
+    "answer": 3,
+    "feedback": "The voucher directly targets financial barriers such as registration, participation and equipment costs."
+  },
+  {
+    "id": "A1PBI17",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "10,000 Steps",
+    "difficulty": "Application",
+    "q": "The 10,000 Steps program allows participants to track steps, set goals and monitor progress through a website or app. Which enabler is most directly strengthened?",
+    "options": [
+      "Motivation and self-monitoring",
+      "Access to organised team sport",
+      "Government regulation",
+      "Availability of indoor facilities"
+    ],
+    "answer": 0,
+    "feedback": "Goal setting and progress tracking can strengthen motivation, accountability and self-monitoring."
+  },
+  {
+    "id": "A1PBI18",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Indigenous Marathon Project",
+    "difficulty": "Application",
+    "q": "The Indigenous Marathon Project selects Aboriginal and Torres Strait Islander adults for marathon training, health and leadership education, and mentoring. Graduates can become role models in their communities. Which feature most directly strengthens the social environment?",
+    "options": [
+      "Completing a challenging long-distance marathon training program",
+      "Developing supportive networks and community role models",
+      "Using training equipment",
+      "Receiving program funding"
+    ],
+    "answer": 1,
+    "feedback": "Support networks, mentoring and role models are social-environment influences."
+  },
+  {
+    "id": "A1PBI19",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Effectiveness",
+    "difficulty": "Application",
+    "q": "An initiative successfully raises awareness about physical activity but participation does not increase because transport and cost barriers remain. What is the strongest conclusion?",
+    "options": [
+      "Awareness is always sufficient to change behaviour even when major practical barriers to participation remain.",
+      "The initiative should stop collecting data.",
+      "The initiative addresses knowledge but does not adequately address important access barriers.",
+      "The target population should simply become more motivated."
+    ],
+    "answer": 2,
+    "feedback": "Increasing awareness may help, but participation can remain limited when practical barriers such as transport and cost are not addressed."
+  },
+  {
+    "id": "A1PBI20",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Critiquing initiatives",
+    "difficulty": "Application",
+    "q": "A free community exercise program attracts many participants for four weeks, but attendance falls sharply after the program ends. Which limitation is most evident?",
+    "options": [
+      "The initiative targeted too many people.",
+      "The sessions were free.",
+      "The program should have avoided all social support and relied only on participants' own motivation.",
+      "The short-term program may not have supported lasting behaviour change."
+    ],
+    "answer": 3,
+    "feedback": "A decline after the program ends suggests a limitation in sustainability and long-term behaviour change."
+  },
+  {
+    "id": "A1PBI21",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Designing initiatives",
+    "difficulty": "Application",
+    "q": "Young people in a rural town report limited facilities, transport difficulties and few organised activities. Which response best matches their barriers?",
+    "options": [
+      "Provide local low-cost activities, transport support and access to suitable community spaces.",
+      "Run an online awareness campaign only.",
+      "Ask participants to set personal goals without changing access.",
+      "Introduce a competitive ranking system."
+    ],
+    "answer": 0,
+    "feedback": "The most suitable response directly addresses multiple access barriers rather than relying only on individual motivation."
+  },
+  {
+    "id": "A1PBI22",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Intersectoral collaboration",
+    "difficulty": "Application",
+    "q": "A council provides a park, a health organisation trains leaders, and a local community group recruits participants for weekly activity sessions. Why is this an example of intersectoral collaboration?",
+    "options": [
+      "All organisations are performing the same role in delivery.",
+      "Different organisations contribute complementary resources towards one shared goal.",
+      "The initiative targets only individual motivation.",
+      "No target population has been identified."
+    ],
+    "answer": 1,
+    "feedback": "Intersectoral collaboration involves different sectors contributing different strengths and resources towards a common objective."
+  },
+  {
+    "id": "A1PBI23",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Designing initiatives",
+    "difficulty": "Application",
+    "q": "A program for parents of young children identifies childcare and time as major barriers to physical activity. Which strategy best responds to these barriers?",
+    "options": [
+      "Provide information about exercise guidelines only.",
+      "Create a national advertising slogan.",
+      "Offer short activity sessions with on-site childcare at convenient times.",
+      "Use a step-count competition with no childcare, schedule changes or other practical support."
+    ],
+    "answer": 2,
+    "feedback": "Convenient session times and childcare directly address the identified time and caregiving barriers."
+  },
+  {
+    "id": "A1PBI24",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Critiquing initiatives",
+    "difficulty": "Application",
+    "q": "An initiative provides a mobile app for activity tracking to a low-income population, but many intended participants do not have reliable smartphone or data access. What is the most important limitation?",
+    "options": [
+      "The initiative uses a mobile app rather than printed promotional posters and leaflets.",
+      "The program collects activity information.",
+      "Participants can set goals.",
+      "Digital access may exclude part of the target population."
+    ],
+    "answer": 3,
+    "feedback": "A strategy is less accessible when members of the target population cannot reliably use the technology required."
+  },
+  {
+    "id": "A1PBI25",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Comparing initiatives",
+    "difficulty": "Application",
+    "q": "One initiative provides financial assistance for sport fees, while another provides peer-led walking groups. What best explains the difference in approach?",
+    "options": [
+      "They target different barriers to participation.",
+      "Only one can be a population-based initiative.",
+      "Financial strategies never affect participation.",
+      "Social support is always more effective than cost reduction."
+    ],
+    "answer": 0,
+    "feedback": "Different initiatives may use different strategies because their target populations experience different barriers and enablers."
+  },
+  {
+    "id": "A1PBI26",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Effectiveness",
+    "difficulty": "Application",
+    "q": "Which evidence would best help determine whether an initiative has increased physical activity in its target population?",
+    "options": [
+      "The program's promotional slogan",
+      "Participation or activity data collected before and after the initiative",
+      "The colour of the program logo",
+      "The number of organisations listed on the website and the length of each organisation's description"
+    ],
+    "answer": 1,
+    "feedback": "Pre- and post-initiative participation or activity data provide direct evidence of whether physical activity changed."
+  },
+  {
+    "id": "A1PBI27",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Effectiveness",
+    "difficulty": "Application",
+    "q": "A program is popular with participants but only reaches a very small proportion of the intended population. Which aspect of effectiveness is most limited?",
+    "options": [
+      "Enjoyment among participants who already chose to attend the program sessions",
+      "Individual goal setting",
+      "Reach across the target population",
+      "Use of social support"
+    ],
+    "answer": 2,
+    "feedback": "If only a small proportion of the target population participates, the initiative has limited reach."
+  },
+  {
+    "id": "A1PBI28",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Designing initiatives",
+    "difficulty": "Application",
+    "q": "Which initiative is most likely to be sustainable?",
+    "options": [
+      "A one-off event with no follow-up, no local partnerships and no plan for maintaining participation after the event ends",
+      "A program that relies on one short-term volunteer",
+      "A campaign that ignores funding and staffing requirements",
+      "An initiative with ongoing resources, local partnerships and practical strategies that can continue over time"
+    ],
+    "answer": 3,
+    "feedback": "Sustainability is strengthened by ongoing resources, partnerships and practical strategies that can continue beyond a short campaign."
+  },
+  {
+    "id": "A1PBI29",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Initiative: a local program for women provides beginner activity sessions, female peer leaders, free venue access and childcare during sessions. Which statement best explains why the initiative may be effective?",
+    "options": [
+      "It addresses several barriers and enablers rather than relying on one strategy.",
+      "It assumes every participant experiences the same barrier.",
+      "It focuses only on policy.",
+      "It removes the need to evaluate participation."
+    ],
+    "answer": 0,
+    "feedback": "The initiative addresses confidence, social support, access and childcare barriers through multiple strategies."
+  },
+  {
+    "id": "A1PBI30",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Initiative: a council promotes a new walking trail through social media, but residents report the trail has poor lighting and feels unsafe after work. What is the clearest weakness?",
+    "options": [
+      "The initiative provides too much physical-environment support.",
+      "It promotes awareness without adequately addressing the safety barrier.",
+      "The target population has no relevant barriers.",
+      "Social media automatically guarantees participation even when environmental barriers remain unresolved."
+    ],
+    "answer": 1,
+    "feedback": "Promotion may increase awareness, but the unresolved safety issue remains a significant physical-environment barrier."
+  },
+  {
+    "id": "A1PBI31",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Initiative: a school offers free lunchtime dance sessions after students report cost and lack of enjoyable options as barriers. Attendance increases substantially. Which conclusion is best supported?",
+    "options": [
+      "Cost was the only possible barrier and no other factor could have contributed to the increase in attendance.",
+      "The initiative proves all schools should use dance.",
+      "The strategies appear to address identified barriers and are associated with increased participation.",
+      "The increase must have resulted from policy change."
+    ],
+    "answer": 2,
+    "feedback": "The initiative directly addresses cost and activity-choice barriers, and the rise in attendance supports a positive effect on participation."
+  },
+  {
+    "id": "A1PBI32",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Initiative: eligible children receive a voucher for sport fees, but families still report difficulty reaching training venues. Which improvement is most appropriate?",
+    "options": [
+      "Increase advertising about the health benefits of sport without addressing the transport problem described.",
+      "Remove the financial assistance.",
+      "Require children to participate more often.",
+      "Add transport support or more locally accessible activity options."
+    ],
+    "answer": 3,
+    "feedback": "The voucher addresses financial cost, but transport remains an access barrier requiring an additional strategy."
+  },
+  {
+    "id": "A1PBI33",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Initiative: adults use a free step-tracking app, can join team challenges and receive suggestions for local walking routes. Which feature targets the social environment?",
+    "options": [
+      "Team challenges that encourage participants to support one another",
+      "Step tracking within the app to monitor daily movement and progress towards personal goals",
+      "Suggestions for nearby walking routes",
+      "Free access to the digital tool"
+    ],
+    "answer": 0,
+    "feedback": "Team challenges create social support, encouragement and interaction between participants."
+  },
+  {
+    "id": "A1PBI34",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "Stimulus interpretation",
+    "difficulty": "Stimulus",
+    "q": "Initiative: a culturally specific running program provides coaching, mentoring, travel support and leadership education to a small selected group. Which limitation is most directly indicated by the description?",
+    "options": [
+      "The program provides no support.",
+      "The initiative has limited reach because participation is restricted to a small selected group.",
+      "The program cannot influence confidence.",
+      "The initiative has no target population because culturally specific programs are intended to include every member of the community."
+    ],
+    "answer": 1,
+    "feedback": "A small selected cohort can receive intensive support, but the program's direct reach across the broader population is limited."
+  },
+  {
+    "id": "A1PBI35",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A program for secondary students provides activity information and goal-setting tools, but students identify cost, transport and lack of peer support as their main barriers. Which critique is strongest?",
+    "options": [
+      "The program is effective because individual strategies always overcome financial, transport and social barriers when participants are sufficiently motivated.",
+      "The initiative should remove goal setting because it is never useful.",
+      "The program targets individual factors but leaves several important participation barriers unaddressed.",
+      "The target population should be changed instead of the strategies."
+    ],
+    "answer": 2,
+    "feedback": "Information and goal setting target individual factors, but the stated financial, transport and social barriers remain."
+  },
+  {
+    "id": "A1PBI36",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A community wants to increase physical activity among older adults who report low confidence, social isolation and poor access to safe walking spaces. Which initiative best addresses these barriers?",
+    "options": [
+      "Send a detailed brochure explaining the benefits of exercise and expect older adults to overcome confidence, isolation and access barriers independently.",
+      "Run a one-day fitness competition.",
+      "Ask participants to independently track steps at home.",
+      "Provide beginner walking sessions, trained group leaders and safe accessible routes in partnership with council."
+    ],
+    "answer": 3,
+    "feedback": "The strongest initiative directly addresses confidence, social isolation and environmental access using coordinated strategies."
+  },
+  {
+    "id": "A1PBI37",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A statewide campaign encourages women to be active and provides stories from diverse participants, flexible activity ideas and links to welcoming local providers. Why may this be more effective than awareness messaging alone?",
+    "options": [
+      "It combines confidence-building messages with practical and socially supportive opportunities to participate.",
+      "It guarantees that cost and childcare barriers are removed for every woman.",
+      "It targets only the policy component of the SEM.",
+      "It avoids the need to consider barriers within different communities."
+    ],
+    "answer": 0,
+    "feedback": "The campaign goes beyond awareness by also supporting confidence, practical access and connection with welcoming participation opportunities."
+  },
+  {
+    "id": "A1PBI38",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A youth activity initiative is developed by a school, local council and community sporting organisation. The school recruits students, the council provides facilities and the organisation supplies coaches. What is the best explanation of this approach?",
+    "options": [
+      "Each stakeholder duplicates the same role.",
+      "Intersectoral collaboration allows different organisations to contribute complementary resources and expertise.",
+      "The program is effective only because a school is involved.",
+      "Collaboration removes the need to identify barriers because partner organisations can assume the program will suit every student."
+    ],
+    "answer": 1,
+    "feedback": "The organisations contribute different resources and capabilities, which is the central benefit of intersectoral collaboration."
+  },
+  {
+    "id": "A1PBI39",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A four-week walking challenge records high participation during the program, but follow-up data show activity levels return to baseline two months later. Which evaluation is best supported?",
+    "options": [
+      "The initiative was ineffective during the four weeks because activity returned to baseline after the program ended.",
+      "The initiative had no reach.",
+      "The initiative achieved short-term participation but showed limited evidence of sustained behaviour change.",
+      "The initiative should be judged only by its advertising reach."
+    ],
+    "answer": 2,
+    "feedback": "High participation during the program indicates short-term impact, while the return to baseline suggests limited sustainability."
+  },
+  {
+    "id": "A1PBI40",
+    "kk": "Population-Based Physical Activity Initiatives",
+    "domain": "SAC-style application",
+    "difficulty": "SAC-style",
+    "q": "A council plans an initiative for teenagers who report low confidence, lack of transport and few affordable activities. Which proposal best reflects effective population-based initiative design?",
+    "options": [
+      "Provide motivational posters only.",
+      "Build one facility without consulting young people.",
+      "Ask teenagers to take responsibility for overcoming all barriers themselves.",
+      "Co-design low-cost local activities, provide beginner support and improve transport or local access with community partners."
+    ],
+    "answer": 3,
+    "feedback": "The proposal responds directly to the identified confidence, cost and access barriers and uses multiple coordinated strategies."
   }
 ]
