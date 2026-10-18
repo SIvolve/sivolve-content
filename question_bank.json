@@ -9283,5 +9283,605 @@
     ],
     "answer": 1,
     "feedback": "Intrapersonal strengths such as motivation can interact with interpersonal barriers. Motivation alone cannot remove limited services, travel demands or unreliable digital access."
+  },
+  {
+    "id": "C01",
+    "kk": "Coaching",
+    "domain": "Role & influence of the coach",
+    "difficulty": "Foundation",
+    "q": "Which statement best describes the role of an effective coach?",
+    "options": [
+      "An effective coach focuses only on winning competition results.",
+      "An effective coach plans activities, teaches skills, provides feedback and supports athlete wellbeing.",
+      "An effective coach avoids changing activities once a session begins.",
+      "An effective coach leaves all safety decisions to athletes."
+    ],
+    "answer": 1,
+    "feedback": "Effective coaching involves planning, teaching, feedback, inclusion, safety and athlete wellbeing, not performance outcomes alone."
+  },
+  {
+    "id": "C02",
+    "kk": "Coaching",
+    "domain": "Directive coaching",
+    "difficulty": "Foundation",
+    "q": "Which statement best describes directive coaching?",
+    "options": [
+      "The coach provides clear instructions and demonstrations and makes most immediate decisions.",
+      "The athletes independently design the session without coach input.",
+      "The coach avoids correcting unsafe technique.",
+      "The athletes determine all safety procedures."
+    ],
+    "answer": 0,
+    "feedback": "Directive coaching is coach-led and can be useful when clear instruction, demonstrations or immediate safety guidance are required."
+  },
+  {
+    "id": "C03",
+    "kk": "Coaching",
+    "domain": "Collaborative coaching",
+    "difficulty": "Foundation",
+    "q": "Which feature is most characteristic of collaborative coaching?",
+    "options": [
+      "The coach makes every decision without explanation.",
+      "The coach invites athletes to contribute to goals, feedback and activity choices.",
+      "The coach avoids responsibility for safety.",
+      "The coach uses the same approach for every athlete."
+    ],
+    "answer": 1,
+    "feedback": "Collaborative coaching involves athletes in appropriate decisions, which can support autonomy, motivation and responsibility."
+  },
+  {
+    "id": "C04",
+    "kk": "Coaching",
+    "domain": "Adapting coaching style",
+    "difficulty": "Foundation",
+    "q": "Which factor should a coach consider when deciding how much direction or athlete input to use?",
+    "options": [
+      "The athlete's experience, confidence and the complexity or risk of the task",
+      "The coach's preference only",
+      "The colour of the team's uniform",
+      "Whether the session is indoors or outdoors only"
+    ],
+    "answer": 0,
+    "feedback": "Coaching style should be adapted to the athlete and situation, including experience, confidence, task complexity and safety."
+  },
+  {
+    "id": "C05",
+    "kk": "Coaching",
+    "domain": "Session planning",
+    "difficulty": "Foundation",
+    "q": "What is a key purpose of session planning?",
+    "options": [
+      "To remove the need for feedback during practice",
+      "To ensure every athlete completes identical activities",
+      "To give activities a clear purpose and organise suitable practice, equipment and supervision",
+      "To prevent a coach from adapting activities"
+    ],
+    "answer": 2,
+    "feedback": "Session planning helps organise purposeful, safe and appropriately challenging activities while allowing opportunities for practice, feedback and adaptation."
+  },
+  {
+    "id": "C06",
+    "kk": "Coaching",
+    "domain": "Program design & progression",
+    "difficulty": "Foundation",
+    "q": "Which principle is most appropriate when designing a longer-term training program?",
+    "options": [
+      "Keep training difficulty unchanged regardless of progress.",
+      "Increase workload whenever an athlete reports fatigue.",
+      "Ignore school, work and other commitments.",
+      "Increase challenge as athletes become ready while balancing training demands with recovery."
+    ],
+    "answer": 3,
+    "feedback": "Program design should use appropriate progression, consider athlete needs and sporting demands, and balance training with recovery and other commitments."
+  },
+  {
+    "id": "C07",
+    "kk": "Coaching",
+    "domain": "Ethical coaching",
+    "difficulty": "Foundation",
+    "q": "Which behaviour best reflects ethical coaching?",
+    "options": [
+      "Using humiliation to increase toughness",
+      "Showing favouritism to high-performing athletes",
+      "Treating athletes fairly and respectfully while placing wellbeing alongside performance",
+      "Encouraging athletes to hide concerns from others"
+    ],
+    "answer": 2,
+    "feedback": "Ethical coaching involves fair and responsible decisions, respect, dignity, honesty and concern for athlete wellbeing."
+  },
+  {
+    "id": "C08",
+    "kk": "Coaching",
+    "domain": "Safeguarding & professional boundaries",
+    "difficulty": "Foundation",
+    "q": "What does safeguarding athletes primarily involve?",
+    "options": [
+      "Protecting coaches from all criticism",
+      "Keeping athlete concerns within the coaching group",
+      "Allowing coaches to set their own private communication rules",
+      "Protecting athletes from harm, including abuse, bullying and harassment"
+    ],
+    "answer": 3,
+    "feedback": "Safeguarding focuses on protecting athletes from harm and requires clear boundaries, reporting pathways and responsible organisational practices."
+  },
+  {
+    "id": "C09",
+    "kk": "Coaching",
+    "domain": "Directive coaching",
+    "difficulty": "Application",
+    "q": "A beginner is learning a potentially dangerous gymnastics skill for the first time. Which coaching approach is most appropriate initially?",
+    "options": [
+      "Clear direct instructions and demonstrations with close attention to safety",
+      "Allow the athlete to design the skill progression independently",
+      "Ask the athlete to choose any technique they prefer",
+      "Avoid correcting technique until the athlete becomes experienced"
+    ],
+    "answer": 0,
+    "feedback": "Beginners learning unfamiliar or risky skills may benefit from directive coaching because clear instructions and demonstrations can support learning and safety."
+  },
+  {
+    "id": "C10",
+    "kk": "Coaching",
+    "domain": "Collaborative coaching",
+    "difficulty": "Application",
+    "q": "An experienced athlete understands the basic skill and is working on tactical decision-making. Which approach is most appropriate?",
+    "options": [
+      "Use only repeated commands and remove athlete input throughout every training session.",
+      "Invite the athlete to discuss options, set goals and reflect on decisions.",
+      "Stop the athlete asking questions during practice.",
+      "Choose every goal without explaining the reason."
+    ],
+    "answer": 1,
+    "feedback": "Experienced athletes may benefit from collaborative coaching that supports autonomy, reflection and problem-solving."
+  },
+  {
+    "id": "C11",
+    "kk": "Coaching",
+    "domain": "Adapting coaching style",
+    "difficulty": "Application",
+    "q": "A coach begins a session with direct safety instructions, then later asks experienced athletes to help choose practice activities. Why is this appropriate?",
+    "options": [
+      "It removes the coach's responsibility for safety.",
+      "It guarantees every athlete will perform at the same level after every coaching session.",
+      "It adapts coaching style to suit different stages of the session and athlete needs.",
+      "It proves directive coaching is always superior."
+    ],
+    "answer": 2,
+    "feedback": "Effective coaches can change approaches within a session, using direct instruction when safety or clarity is needed and collaboration when athlete input is appropriate."
+  },
+  {
+    "id": "C12",
+    "kk": "Coaching",
+    "domain": "Access, inclusion, participation & performance",
+    "difficulty": "Application",
+    "q": "A new participant is unsure what equipment is needed and worries that an activity will be too difficult. Which coaching response best supports access and inclusion?",
+    "options": [
+      "Tell the participant to watch until they can complete the full activity.",
+      "Use the same task without modification because fairness requires identical treatment for participants throughout training.",
+      "Ask another participant to make all decisions for them.",
+      "Explain what to expect, identify available equipment and adapt the activity to the participant's needs."
+    ],
+    "answer": 3,
+    "feedback": "Clear information and appropriate adaptations can help beginners access sessions and participate meaningfully."
+  },
+  {
+    "id": "C13",
+    "kk": "Coaching",
+    "domain": "Access, inclusion, participation & performance",
+    "difficulty": "Application",
+    "q": "A coach consistently gives the most skilled athletes more practice time and ignores beginners. What is the most likely consequence?",
+    "options": [
+      "Beginners may feel less valued and become less likely to continue participating.",
+      "Beginners will automatically become more motivated.",
+      "Performance opportunities will become more equitable for beginners and experienced athletes alike.",
+      "The coaching environment will become more inclusive."
+    ],
+    "answer": 0,
+    "feedback": "Favouritism can weaken inclusion, confidence and continued participation, particularly for less experienced athletes."
+  },
+  {
+    "id": "C14",
+    "kk": "Coaching",
+    "domain": "Session planning",
+    "difficulty": "Application",
+    "q": "A training session has long queues and athletes spend most of the time waiting for one piece of equipment. Which change would best improve the session?",
+    "options": [
+      "Add more explanation without changing the activity structure, equipment setup or waiting times significantly.",
+      "Reduce waiting time by reorganising space, equipment or activity stations to increase practice opportunities.",
+      "Extend the session so athletes can wait longer.",
+      "Remove feedback to save time."
+    ],
+    "answer": 1,
+    "feedback": "Good session planning should maximise meaningful practice opportunities and organise equipment and space efficiently."
+  },
+  {
+    "id": "C15",
+    "kk": "Coaching",
+    "domain": "Program design & progression",
+    "difficulty": "Application",
+    "q": "An athlete reports persistent fatigue and declining enjoyment during a demanding training block. Which response best reflects appropriate program design?",
+    "options": [
+      "Increase training volume to improve resilience.",
+      "Ignore the fatigue because the program was planned in advance for everyone.",
+      "Monitor the athlete's response and adjust training demands or recovery where needed.",
+      "Remove all future competition goals."
+    ],
+    "answer": 2,
+    "feedback": "Program design should respond to athlete feedback, fatigue and recovery rather than rigidly applying the same training load."
+  },
+  {
+    "id": "C16",
+    "kk": "Coaching",
+    "domain": "Program design & progression",
+    "difficulty": "Application",
+    "q": "A coach increases task difficulty only after athletes demonstrate readiness. What principle does this best demonstrate?",
+    "options": [
+      "Favouritism",
+      "Safeguarding reporting",
+      "Overtraining",
+      "Appropriate progression"
+    ],
+    "answer": 3,
+    "feedback": "Appropriate progression means increasing challenge as athletes become ready, rather than advancing too quickly or keeping tasks unchanged."
+  },
+  {
+    "id": "C17",
+    "kk": "Coaching",
+    "domain": "Feedback & skill development",
+    "difficulty": "Application",
+    "q": "Which feedback is most likely to support skill development?",
+    "options": [
+      "\"Your balance improved; now follow through towards the target.\"",
+      "\"That was terrible. Try harder.\"",
+      "You always make the same mistake, so stop now.",
+      "\"Just copy the best athlete.\""
+    ],
+    "answer": 0,
+    "feedback": "Effective feedback is specific, constructive and gives the athlete a clear next step that can be applied in practice."
+  },
+  {
+    "id": "C18",
+    "kk": "Coaching",
+    "domain": "Feedback & skill development",
+    "difficulty": "Application",
+    "q": "A coach humiliates an athlete after every mistake. Which outcome is most likely?",
+    "options": [
+      "The athlete will automatically become more independent and perform consistently under pressure in competition.",
+      "The athlete may fear making mistakes, lose confidence and become less willing to participate.",
+      "The athlete will necessarily improve faster.",
+      "The coaching relationship will become more inclusive."
+    ],
+    "answer": 1,
+    "feedback": "Humiliation can create fear, reduce confidence and discourage athletes from asking questions, seeking help or continuing participation."
+  },
+  {
+    "id": "C19",
+    "kk": "Coaching",
+    "domain": "Continued participation",
+    "difficulty": "Application",
+    "q": "Which coaching practice is most likely to support continued participation?",
+    "options": [
+      "Using excessive pressure and public criticism to ensure athletes understand that competition results come first.",
+      "Removing athlete feedback from session planning",
+      "Recognising effort and improvement while providing achievable and varied activities",
+      "Criticising mistakes publicly"
+    ],
+    "answer": 2,
+    "feedback": "Enjoyment, achievable challenge, supportive relationships and recognition of progress can encourage athletes to remain involved."
+  },
+  {
+    "id": "C20",
+    "kk": "Coaching",
+    "domain": "Ethical coaching",
+    "difficulty": "Application",
+    "q": "A coach pressures athletes to use a banned substance because it may improve results. Which principle is being violated?",
+    "options": [
+      "Collaborative decision-making and athlete autonomy during training program design and goal setting",
+      "Session organisation",
+      "Skill progression",
+      "Ethical coaching and fair play"
+    ],
+    "answer": 3,
+    "feedback": "Ethical coaching requires honesty, fair play and athlete wellbeing. Winning does not justify harmful or dishonest practices."
+  },
+  {
+    "id": "C21",
+    "kk": "Coaching",
+    "domain": "Safeguarding & professional boundaries",
+    "difficulty": "Application",
+    "q": "A junior coach sends private late-night messages to one athlete and asks that the messages remain secret. What is the most appropriate response?",
+    "options": [
+      "Follow the organisation's safeguarding and reporting procedures and use transparent communication channels.",
+      "Ignore the behaviour if the messages mention sport.",
+      "Ask the athlete to keep monitoring the coach.",
+      "Keep the concern within the coaching team until clear proof of physical harm has been collected."
+    ],
+    "answer": 0,
+    "feedback": "Secret or inappropriate private communication is a safeguarding concern and should be taken seriously and reported through appropriate channels."
+  },
+  {
+    "id": "C22",
+    "kk": "Coaching",
+    "domain": "Safeguarding & professional boundaries",
+    "difficulty": "Application",
+    "q": "Which communication practice best supports professional boundaries with junior athletes?",
+    "options": [
+      "Using private disappearing messages",
+      "Using approved club channels at appropriate times with relevant adults able to view communication",
+      "Contacting athletes through personal social media accounts late at night, provided the messages only discuss training and competition.",
+      "Asking athletes not to share messages"
+    ],
+    "answer": 1,
+    "feedback": "Transparent, sport-related communication through approved channels helps protect athletes and coaches."
+  },
+  {
+    "id": "C23",
+    "kk": "Coaching",
+    "domain": "Safeguarding & professional boundaries",
+    "difficulty": "Application",
+    "q": "A coach wants to transport a junior athlete alone to an event. Which practice is most appropriate?",
+    "options": [
+      "Keep the arrangement informal because it is sport-related.",
+      "Ask the athlete not to mention the arrangement.",
+      "Use appropriate approval procedures and obtain required parent or carer consent before transport arrangements.",
+      "Transport the athlete without informing anyone if the journey is short and the coach considers the arrangement convenient and safe."
+    ],
+    "answer": 2,
+    "feedback": "Professional boundaries require appropriate approval and consent for transport arrangements involving junior athletes."
+  },
+  {
+    "id": "C24",
+    "kk": "Coaching",
+    "domain": "Safeguarding & professional boundaries",
+    "difficulty": "Application",
+    "q": "An athlete reports feeling uncomfortable about a coach's behaviour but has no proof of harm. What should a club official do first?",
+    "options": [
+      "Dismiss the concern until evidence is provided.",
+      "Tell the athlete to confront the coach alone.",
+      "Promise that the concern will remain completely secret so the athlete feels comfortable continuing to talk.",
+      "Take the concern seriously, listen calmly and follow appropriate reporting procedures."
+    ],
+    "answer": 3,
+    "feedback": "Safeguarding concerns should be taken seriously even without proof, with appropriate support and reporting procedures followed."
+  },
+  {
+    "id": "C25",
+    "kk": "Coaching",
+    "domain": "Club & organisational responsibility",
+    "difficulty": "Application",
+    "q": "Which action best demonstrates a sporting club taking responsibility for safe coaching?",
+    "options": [
+      "Providing codes of conduct, coach education, supervision and clear reporting pathways",
+      "Assuming a screening check guarantees safe behaviour and therefore removing the need for supervision, training or reporting procedures",
+      "Leaving each coach to create their own safeguarding rules",
+      "Responding only after serious harm occurs"
+    ],
+    "answer": 0,
+    "feedback": "Safe coaching environments require organisational systems such as recruitment checks, education, supervision, codes of conduct and accessible reporting."
+  },
+  {
+    "id": "C26",
+    "kk": "Coaching",
+    "domain": "Club & organisational responsibility",
+    "difficulty": "Application",
+    "q": "Why is a Working with Children Check not sufficient by itself to ensure athlete safety?",
+    "options": [
+      "It applies only to elite sport.",
+      "Screening does not replace ongoing supervision, training, safe practices and reporting systems.",
+      "It guarantees that no safeguarding concerns can arise once a coach has passed the screening process.",
+      "It removes the need for codes of conduct."
+    ],
+    "answer": 1,
+    "feedback": "Screening is one safeguard, but organisations still need supervision, education, professional boundaries and effective complaint and reporting processes."
+  },
+  {
+    "id": "C27",
+    "kk": "Coaching",
+    "domain": "Local, national & global perspectives",
+    "difficulty": "Application",
+    "q": "Which is the best example of a national-level coaching response?",
+    "options": [
+      "A local club adopts a safeguarding policy and requires every coach to follow its communication, supervision and reporting procedures.",
+      "A parent gives feedback after a game.",
+      "A national sporting organisation develops coach education and safeguarding guidance for clubs across the country.",
+      "One athlete changes their personal goal."
+    ],
+    "answer": 2,
+    "feedback": "National sporting organisations can set expectations, education and safeguarding guidance that support more consistent coaching standards across regions."
+  },
+  {
+    "id": "C28",
+    "kk": "Coaching",
+    "domain": "Historical, current & future implications",
+    "difficulty": "Application",
+    "q": "Which statement best describes a historical change in coaching practice?",
+    "options": [
+      "Coaching has always used the same athlete-centred approach.",
+      "Safeguarding concerns exist only in modern sport.",
+      "Safeguarding concerns exist only in modern sport because historical athletes were more resilient, accepted strict coaching methods and did not experience the same risks from power imbalances.",
+      "Harsh, win-at-all-costs methods were more likely to be accepted in some sporting environments, while current practice places greater emphasis on athlete wellbeing and safeguarding."
+    ],
+    "answer": 3,
+    "feedback": "The lesson contrasts historical acceptance of harsh methods with current athlete-centred approaches that place greater emphasis on wellbeing, boundaries and safeguarding."
+  },
+  {
+    "id": "C29",
+    "kk": "Coaching",
+    "domain": "Adapting coaching style",
+    "difficulty": "Stimulus",
+    "q": "A beginner group is learning a new contact skill. The coach first demonstrates the skill and gives clear safety instructions. Later, once athletes are competent, the coach asks them to suggest tactical variations. Which conclusion is best supported?",
+    "options": [
+      "The coach is appropriately adapting between directive and collaborative coaching as athlete needs change.",
+      "The coach should have used collaboration only from the beginning because athlete choice is always safer than direct instruction when learning contact skills.",
+      "The coach has removed responsibility for athlete safety.",
+      "The coach is using inconsistent methods that cannot support learning."
+    ],
+    "answer": 0,
+    "feedback": "The scenario shows coaching style being adapted to suit safety, skill level and athlete readiness."
+  },
+  {
+    "id": "C30",
+    "kk": "Coaching",
+    "domain": "Program design & progression",
+    "difficulty": "Stimulus",
+    "q": "A coach records athlete fatigue, enjoyment and progress each week. When fatigue rises and performance falls, the coach reduces training load and increases recovery. What does this best demonstrate?",
+    "options": [
+      "Using the same program regardless of feedback because consistency is more important than individual athlete responses.",
+      "Monitoring athlete responses and making individual program adjustments",
+      "Replacing coaching judgement with athlete preference",
+      "Reducing standards whenever training becomes difficult"
+    ],
+    "answer": 1,
+    "feedback": "Good program design includes monitoring athlete responses and adapting training and recovery when needed."
+  },
+  {
+    "id": "C31",
+    "kk": "Coaching",
+    "domain": "Safeguarding & professional boundaries",
+    "difficulty": "Stimulus",
+    "q": "A club requires all junior-team communication to occur through an approved group platform visible to parents and relevant officials. What is the main safeguarding benefit?",
+    "options": [
+      "It prevents athletes from ever speaking directly with coaches.",
+      "It guarantees that no safeguarding issue can occur as long as parents can view every message exchanged on the platform.",
+      "It creates transparent professional communication and reduces opportunities for secret one-to-one contact.",
+      "It removes the need for reporting procedures."
+    ],
+    "answer": 2,
+    "feedback": "Transparent communication channels support professional boundaries, although they do not replace broader safeguarding systems."
+  },
+  {
+    "id": "C32",
+    "kk": "Coaching",
+    "domain": "Access, inclusion, participation & performance",
+    "difficulty": "Stimulus",
+    "q": "Two athletes attend the same session. One requires modified equipment to participate meaningfully, while the other does not. Which coaching response best supports inclusion?",
+    "options": [
+      "Require identical equipment and task conditions because fairness means every participant should complete precisely the same activity without individual adjustments.",
+      "Exclude the athlete needing modification from the activity.",
+      "Reduce both athletes to the easiest version of the task.",
+      "Provide suitable modifications based on individual needs rather than requiring identical conditions for everyone."
+    ],
+    "answer": 3,
+    "feedback": "Inclusive coaching may require different supports so participants can take part meaningfully and fairly."
+  },
+  {
+    "id": "C33",
+    "kk": "Coaching",
+    "domain": "Feedback & continued participation",
+    "difficulty": "Stimulus",
+    "q": "After a month, athletes report that they enjoy training less because the coach criticises mistakes publicly and gives little positive feedback. Attendance begins to fall. Which relationship is best supported?",
+    "options": [
+      "Harmful communication may reduce enjoyment and confidence, which can lower continued participation.",
+      "Public criticism always improves motivation.",
+      "Attendance changes cannot be influenced by coaching behaviour.",
+      "Positive feedback affects performance only and cannot influence confidence, enjoyment, trust or whether athletes continue attending sessions."
+    ],
+    "answer": 0,
+    "feedback": "Coaching behaviour can influence enjoyment, confidence, trust and the likelihood that athletes continue attending."
+  },
+  {
+    "id": "C34",
+    "kk": "Coaching",
+    "domain": "Historical, current & future implications",
+    "difficulty": "Stimulus",
+    "q": "A sporting organisation replaces a traditional win-at-all-costs coaching program with athlete-centred education, safeguarding training and regular athlete feedback. Which interpretation is strongest?",
+    "options": [
+      "The organisation has removed the need for performance goals.",
+      "The organisation reflects a shift from historically accepted harsh practices towards current approaches emphasising wellbeing, inclusion and accountability.",
+      "The change proves historical coaching was always unsafe.",
+      "The organisation can now stop reviewing coaching practices because athlete-centred education and safeguarding training permanently remove the possibility of harmful coaching behaviour."
+    ],
+    "answer": 1,
+    "feedback": "The change reflects the broader move towards athlete-centred coaching, safeguarding and ongoing review while still allowing performance goals."
+  },
+  {
+    "id": "C35",
+    "kk": "Coaching",
+    "domain": "Adapting coaching style",
+    "difficulty": "SAC-style",
+    "q": "An experienced netballer helps set training goals and suggests practice activities while the coach retains responsibility for safety. Which explanation best links this approach to participation?",
+    "options": [
+      "The athlete now controls all safety decisions.",
+      "Collaborative coaching guarantees improved performance.",
+      "Collaborative coaching can increase autonomy and ownership, which may strengthen motivation and encourage more consistent participation.",
+      "The coach should avoid athlete input because experienced athletes need more direct instruction and fewer opportunities to make decisions about their own training."
+    ],
+    "answer": 2,
+    "feedback": "A strong explanation links collaborative coaching to autonomy and ownership, then to motivation, enjoyment and continued participation."
+  },
+  {
+    "id": "C36",
+    "kk": "Coaching",
+    "domain": "Safeguarding & professional boundaries",
+    "difficulty": "SAC-style",
+    "q": "A junior athlete tells a club official that a coach has been sending private late-night messages and asking the athlete not to tell anyone. Which response is most appropriate?",
+    "options": [
+      "Keep the messages confidential unless physical harm is proven.",
+      "Keep the messages confidential unless physical harm is proven because reporting unverified concerns could unfairly damage the coach's reputation.",
+      "Ignore the messages if they relate to performance.",
+      "Take the concern seriously, support the athlete and follow safeguarding and reporting procedures."
+    ],
+    "answer": 3,
+    "feedback": "Safeguarding concerns should be taken seriously, athletes should be supported, and appropriate reporting processes should be followed."
+  },
+  {
+    "id": "C37",
+    "kk": "Coaching",
+    "domain": "Program design & progression",
+    "difficulty": "SAC-style",
+    "q": "A coach increases training volume every week despite several athletes reporting fatigue, reduced enjoyment and declining performance. Which evaluation is most accurate?",
+    "options": [
+      "The program lacks appropriate monitoring and recovery adjustment, which may undermine participation, wellbeing and performance.",
+      "The program is effective because training workload should continue increasing whenever athletes become tired, even if enjoyment and performance are declining.",
+      "The athletes should ignore fatigue because progression must be identical.",
+      "The issue relates only to motivation, not program design."
+    ],
+    "answer": 0,
+    "feedback": "Effective program design should use monitoring and recovery to guide progression rather than increasing demands regardless of athlete responses."
+  },
+  {
+    "id": "C38",
+    "kk": "Coaching",
+    "domain": "Local, national & global perspectives",
+    "difficulty": "SAC-style",
+    "q": "Which statement best compares local and national responsibilities for safe coaching?",
+    "options": [
+      "National bodies manage every local coaching interaction directly.",
+      "National bodies can provide broad education and safeguarding expectations, while local clubs must apply them through everyday coaching, supervision and reporting processes.",
+      "Local clubs do not need their own safeguarding processes if a national organisation has published guidance, because national standards automatically control everyday coach behaviour in every training environment.",
+      "Safeguarding is only a national responsibility."
+    ],
+    "answer": 1,
+    "feedback": "National organisations can provide consistent guidance, but local clubs must implement safe practices in daily coaching environments."
+  },
+  {
+    "id": "C39",
+    "kk": "Coaching",
+    "domain": "Historical, current & future implications",
+    "difficulty": "SAC-style",
+    "q": "Which statement best analyses future implications for coaching?",
+    "options": [
+      "Technology will eventually remove the need for coach judgement, athlete feedback and privacy safeguards because objective performance data will provide all information required to design safe and inclusive training programs.",
+      "Future coaching will focus only on performance data.",
+      "Coaching is likely to become more individualised, with greater use of athlete feedback and technology, while coaches still need to protect privacy, wellbeing and inclusion.",
+      "Safeguarding will become less important as technology improves."
+    ],
+    "answer": 2,
+    "feedback": "The lesson identifies more individualised coaching, increased use of feedback and technology, continued education and ongoing responsibility for privacy, inclusion and wellbeing."
+  },
+  {
+    "id": "C40",
+    "kk": "Coaching",
+    "domain": "Interrelationships",
+    "difficulty": "SAC-style",
+    "q": "A highly motivated athlete trains under a coach who uses humiliation, excessive control and public criticism. Which conclusion best demonstrates an integrated understanding of contemporary issues?",
+    "options": [
+      "Motivation prevents coaching behaviour from affecting the athlete because highly motivated performers can maintain confidence, enjoyment and participation regardless of humiliation, control or public criticism.",
+      "Coaching affects performance only and cannot influence participation.",
+      "Harmful coaching is acceptable if competition results improve.",
+      "Strong motivation may support persistence, but harmful interpersonal coaching can still reduce confidence, enjoyment, inclusion and continued participation."
+    ],
+    "answer": 3,
+    "feedback": "Intrapersonal strengths such as motivation can interact with interpersonal coaching influences. Harmful coaching may still affect confidence, wellbeing, inclusion and participation."
   }
 ]
