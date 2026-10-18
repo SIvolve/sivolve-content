@@ -8683,5 +8683,605 @@
     ],
     "answer": 3,
     "feedback": "A strong evaluation distinguishes short-term success from long-term sustainability and uses barriers to guide future modification."
+  },
+  {
+    "id": "G01",
+    "kk": "Geographic Location",
+    "domain": "Rural & urban opportunities",
+    "difficulty": "Foundation",
+    "q": "Which statement best describes geographic location as an interpersonal issue in physical activity and sport?",
+    "options": [
+      "It refers only to an individual's motivation to participate.",
+      "It describes how where a person lives can influence the opportunities, services and support available to them.",
+      "It refers only to climate and weather conditions.",
+      "It describes differences in physical ability between participants."
+    ],
+    "answer": 1,
+    "feedback": "Geographic location is an interpersonal issue because where people live can shape access to facilities, coaching, transport, competition and other opportunities."
+  },
+  {
+    "id": "G02",
+    "kk": "Geographic Location",
+    "domain": "Rural & urban opportunities",
+    "difficulty": "Foundation",
+    "q": "Which factor is generally more available in higher-population urban areas?",
+    "options": [
+      "Guaranteed low-cost access to every activity regardless of membership fees, bookings, transport or opening times",
+      "Unlimited access to specialist coaches",
+      "Equal participation opportunities for all residents",
+      "A wider range of sport facilities and competitions"
+    ],
+    "answer": 3,
+    "feedback": "Urban areas often support more facilities, clubs and competitions because of larger populations, although cost, demand and accessibility can still create barriers."
+  },
+  {
+    "id": "G03",
+    "kk": "Geographic Location",
+    "domain": "Rural & urban opportunities",
+    "difficulty": "Foundation",
+    "q": "Which statement is most accurate about physical activity opportunities in rural communities?",
+    "options": [
+      "Rural communities can offer strong local connections and natural activity opportunities, but may have fewer specialist services.",
+      "Rural communities always have fewer opportunities than urban communities.",
+      "Rural communities are unaffected by transport barriers.",
+      "Rural communities provide the same sporting options in every location."
+    ],
+    "answer": 0,
+    "feedback": "Rural communities may have fewer specialist facilities, coaches or competitions, but can also provide strong community connections and access to natural environments."
+  },
+  {
+    "id": "G04",
+    "kk": "Geographic Location",
+    "domain": "Distance, transport & travel",
+    "difficulty": "Foundation",
+    "q": "Why can long travel distances reduce participation in sport?",
+    "options": [
+      "They always reduce an athlete's motivation.",
+      "They prevent athletes using online coaching, local clubs or community training options regularly.",
+      "They can increase time and transport costs and make regular attendance more difficult.",
+      "They automatically make training unsafe."
+    ],
+    "answer": 2,
+    "feedback": "Long travel distances can add time, fuel and accommodation costs and compete with school, work or family commitments, reducing regular attendance."
+  },
+  {
+    "id": "G05",
+    "kk": "Geographic Location",
+    "domain": "Terrain, climate & air quality",
+    "difficulty": "Foundation",
+    "q": "Which example best shows terrain acting as an enabler of physical activity?",
+    "options": [
+      "A lack of public transport to a sports centre",
+      "High competition fees at a local club",
+      "A coastal community providing easy access to surfing",
+      "A shortage of qualified coaches"
+    ],
+    "answer": 2,
+    "feedback": "Terrain can enable particular activities when the local environment provides suitable features, such as coastlines for surfing or trails for mountain biking."
+  },
+  {
+    "id": "G06",
+    "kk": "Geographic Location",
+    "domain": "Terrain, climate & air quality",
+    "difficulty": "Foundation",
+    "q": "Which strategy most directly addresses limited daylight as a barrier to physical activity?",
+    "options": [
+      "Installing suitable lighting on paths and sporting areas",
+      "Reducing the number of community facilities so existing venues can be used more efficiently",
+      "Restricting outdoor activity to weekends",
+      "Increasing competition fees to fund clubs"
+    ],
+    "answer": 0,
+    "feedback": "Lighting can extend safe opportunities to be active when daylight is limited, especially after school or work."
+  },
+  {
+    "id": "G07",
+    "kk": "Geographic Location",
+    "domain": "Socioeconomic factors & affordability",
+    "difficulty": "Foundation",
+    "q": "How can socioeconomic circumstances interact with geographic location to affect sport participation?",
+    "options": [
+      "Household income completely determines whether rural or urban communities can provide sporting facilities and coaching",
+      "Low income prevents all participation in informal activity.",
+      "Geographic distance removes the need for equipment costs.",
+      "Travel and accommodation costs can make distant sporting opportunities less affordable."
+    ],
+    "answer": 3,
+    "feedback": "When opportunities are far away, travel, fuel and accommodation costs can compound existing financial barriers."
+  },
+  {
+    "id": "G08",
+    "kk": "Geographic Location",
+    "domain": "Access, inclusion, participation & performance",
+    "difficulty": "Foundation",
+    "q": "Which statement best distinguishes access from inclusion?",
+    "options": [
+      "Access concerns reaching facilities and competitions, while inclusion concerns only whether transport services operate at convenient times for participants.",
+      "Access concerns having an opportunity to participate, while inclusion concerns whether people feel welcomed and supported within that opportunity.",
+      "Access concerns performance outcomes, while inclusion concerns travel distance only.",
+      "Access concerns motivation, while inclusion concerns physical fitness."
+    ],
+    "answer": 1,
+    "feedback": "Access is about having opportunities available; inclusion is about whether people can participate meaningfully and feel welcomed, supported and accommodated."
+  },
+  {
+    "id": "G09",
+    "kk": "Geographic Location",
+    "domain": "Distance, transport & travel",
+    "difficulty": "Application",
+    "q": "Mia lives in a regional town and must travel 120 km each way for specialist gymnastics coaching. She begins missing sessions because of fuel costs and school commitments. Which consequence is most likely?",
+    "options": [
+      "Her geographic location may reduce training frequency and limit skill development.",
+      "Her location will improve performance because long travel always develops resilience.",
+      "Her location affects inclusion only and cannot affect performance.",
+      "Her missed sessions prove she lacks motivation."
+    ],
+    "answer": 0,
+    "feedback": "Long travel distances can reduce regular access to coaching. Fewer guided sessions may limit feedback, practice and skill development."
+  },
+  {
+    "id": "G10",
+    "kk": "Geographic Location",
+    "domain": "Digital access & online coaching",
+    "difficulty": "Application",
+    "q": "A regional athlete has reliable internet but lives three hours from specialist coaching. Which strategy would most directly improve access to regular feedback?",
+    "options": [
+      "Travelling to more distant competitions more often to increase exposure to higher-level opponents and venues",
+      "Reducing the number of training sessions",
+      "Online coaching using video calls and recorded footage",
+      "Waiting until the athlete can relocate"
+    ],
+    "answer": 2,
+    "feedback": "Online coaching can reduce travel demands and provide more frequent access to specialist feedback when digital connectivity is reliable."
+  },
+  {
+    "id": "G11",
+    "kk": "Geographic Location",
+    "domain": "Digital access & online coaching",
+    "difficulty": "Application",
+    "q": "Which is the most important limitation of online coaching as a strategy for remote athletes?",
+    "options": [
+      "It guarantees lower performance.",
+      "It prevents athletes from receiving any technical feedback.",
+      "It can only be used by professional athletes.",
+      "It depends on reliable internet, suitable devices and may not replace all practical facilities or face-to-face support."
+    ],
+    "answer": 3,
+    "feedback": "Online coaching can improve access but relies on digital infrastructure and cannot replace every practical session, facility or hands-on support need."
+  },
+  {
+    "id": "G12",
+    "kk": "Geographic Location",
+    "domain": "Regional pathways & support",
+    "difficulty": "Application",
+    "q": "A regional training hub provides specialist coaching, strength and conditioning support and sports science services closer to athletes' homes. What is the most likely benefit?",
+    "options": [
+      "It removes every financial barrier faced by regional athletes.",
+      "It reduces travel demands and may increase regular access to high-quality support.",
+      "It guarantees selection into elite teams.",
+      "It makes metropolitan facilities unnecessary for every sport."
+    ],
+    "answer": 1,
+    "feedback": "Regional hubs can bring specialist services closer to athletes, reducing travel time and improving regular access, but they do not remove every barrier."
+  },
+  {
+    "id": "G13",
+    "kk": "Geographic Location",
+    "domain": "Regional pathways & support",
+    "difficulty": "Application",
+    "q": "Why can regional development pathways support performance?",
+    "options": [
+      "They ensure every regional athlete is selected for an elite pathway regardless of performance, readiness, competition results or available places.",
+      "They replace the need for local clubs and schools.",
+      "They allow athletes to access coaching and competition closer to home before higher-level opportunities require greater travel.",
+      "They remove differences in previous sporting experience."
+    ],
+    "answer": 2,
+    "feedback": "Regional pathways can provide more regular development opportunities closer to home, supporting skill development and progression."
+  },
+  {
+    "id": "G14",
+    "kk": "Geographic Location",
+    "domain": "Regional pathways & support",
+    "difficulty": "Application",
+    "q": "A sporting organisation identifies talented athletes only at metropolitan competitions. What is the main equity concern?",
+    "options": [
+      "Regional athletes with less access to travel and competition may be overlooked despite having potential.",
+      "Metropolitan athletes will always have poorer coaching.",
+      "Talent identification should never use competition performance because geographic location is the only fair basis for selecting developing athletes.",
+      "Regional athletes should automatically be selected."
+    ],
+    "answer": 0,
+    "feedback": "If selection occurs only at metropolitan events, athletes facing geographic barriers may have fewer opportunities to be seen."
+  },
+  {
+    "id": "G15",
+    "kk": "Geographic Location",
+    "domain": "Socioeconomic factors & affordability",
+    "difficulty": "Application",
+    "q": "A talented rural athlete qualifies for a state competition but cannot afford travel and accommodation. Which strategy most directly addresses this barrier?",
+    "options": [
+      "More frequent metropolitan competitions requiring additional travel, accommodation, entry fees and time away from home",
+      "A higher annual membership fee",
+      "Reducing the athlete's training load",
+      "A travel scholarship or subsidy"
+    ],
+    "answer": 3,
+    "feedback": "Travel assistance or scholarships directly reduce the financial cost of accessing distant training or competition opportunities."
+  },
+  {
+    "id": "G16",
+    "kk": "Geographic Location",
+    "domain": "Community partnerships & planning",
+    "difficulty": "Application",
+    "q": "A small town has unused school courts after hours and no public indoor facility. Which strategy best uses local resources to improve access?",
+    "options": [
+      "Closing the courts to reduce maintenance costs",
+      "A partnership allowing community use of the school courts outside school hours",
+      "Requiring residents to travel to a larger town",
+      "Building a new indoor facility immediately before consulting residents about preferred activities, access needs, schedules, costs or existing resources"
+    ],
+    "answer": 1,
+    "feedback": "Partnerships between schools, councils and clubs can expand access by sharing existing facilities."
+  },
+  {
+    "id": "G17",
+    "kk": "Geographic Location",
+    "domain": "Community partnerships & planning",
+    "difficulty": "Application",
+    "q": "Why is community consultation important when planning physical activity opportunities in rural or remote areas?",
+    "options": [
+      "It helps ensure programs reflect local interests, cultural needs and practical barriers.",
+      "It guarantees that every resident will participate.",
+      "It removes the need for ongoing funding.",
+      "It ensures programs reflect local interests, cultural needs and practical barriers consistently."
+    ],
+    "answer": 0,
+    "feedback": "Consultation helps planners identify what activities, schedules, facilities and supports are relevant to the local community."
+  },
+  {
+    "id": "G18",
+    "kk": "Geographic Location",
+    "domain": "Terrain, climate & air quality",
+    "difficulty": "Application",
+    "q": "Bushfire smoke causes poor air quality across a regional area for several days. Which response best supports continued safe participation?",
+    "options": [
+      "Continue scheduled outdoor sessions while monitoring conditions and change plans only if required.",
+      "Cancel all physical activity for the rest of the season.",
+      "Use current air-quality information and safely move, modify or postpone sessions when required.",
+      "Move every activity indoors regardless of indoor air quality."
+    ],
+    "answer": 2,
+    "feedback": "Flexible planning based on current air-quality information can reduce health risk while maintaining opportunities where safe alternatives are available."
+  },
+  {
+    "id": "G19",
+    "kk": "Geographic Location",
+    "domain": "Terrain, climate & air quality",
+    "difficulty": "Application",
+    "q": "A community with no natural snow wants to offer snow-sport training. Which option best demonstrates how built environments can modify a geographic barrier?",
+    "options": [
+      "Requiring participants to travel interstate every week even when cost, time and transport reduce regular attendance",
+      "Developing an artificial training facility that provides a suitable practice environment",
+      "Reducing access to other community sports",
+      "Removing all equipment requirements"
+    ],
+    "answer": 1,
+    "feedback": "Built or artificial facilities can provide alternatives where local terrain or climate does not naturally support an activity."
+  },
+  {
+    "id": "G20",
+    "kk": "Geographic Location",
+    "domain": "Cultural & social influences",
+    "difficulty": "Application",
+    "q": "A remote community reports that the only funded sport does not reflect local interests. Participation remains low. Which strategy is most appropriate?",
+    "options": [
+      "Increase advertising for the existing sport without consultation and assume greater promotion will overcome all local participation barriers",
+      "Make participation compulsory for young people.",
+      "Assume low participation reflects poor motivation.",
+      "Co-design a broader program with community members to identify activities they value."
+    ],
+    "answer": 3,
+    "feedback": "Community consultation and co-design can improve relevance, inclusion and participation by ensuring activities reflect local interests and needs."
+  },
+  {
+    "id": "G21",
+    "kk": "Geographic Location",
+    "domain": "Access, inclusion, participation & performance",
+    "difficulty": "Application",
+    "q": "A new sports centre is built close to a regional community, but it has high fees and no accessible change rooms. Which conclusion is best?",
+    "options": [
+      "All access and inclusion barriers have been removed.",
+      "Only performance can now be affected.",
+      "Geographic access has improved, but affordability and inclusion barriers may still limit participation.",
+      "Participation must increase because distance is no longer a barrier."
+    ],
+    "answer": 2,
+    "feedback": "Being physically close to a facility improves geographic access, but cost and accessibility can still limit meaningful participation."
+  },
+  {
+    "id": "G22",
+    "kk": "Geographic Location",
+    "domain": "Access, inclusion, participation & performance",
+    "difficulty": "Application",
+    "q": "A regional athlete loses two hours of recovery time after every training session because of travel. How could this affect performance?",
+    "options": [
+      "Reduced recovery may contribute to fatigue and lower training quality.",
+      "Travel automatically improves aerobic fitness.",
+      "Recovery time does not influence performance.",
+      "Long travel affects participation but never performance because athletes can always recover fully while travelling home"
+    ],
+    "answer": 0,
+    "feedback": "Travel demands can reduce available recovery time, potentially increasing fatigue and affecting training quality and performance."
+  },
+  {
+    "id": "G23",
+    "kk": "Geographic Location",
+    "domain": "Rural & urban opportunities",
+    "difficulty": "Application",
+    "q": "Which scenario best demonstrates that urban location does not automatically guarantee access?",
+    "options": [
+      "A rural resident uses local trails for recreation.",
+      "A city resident lives near several facilities, but fees are unaffordable and sessions are fully booked.",
+      "A coastal resident surfs at a nearby beach.",
+      "A regional athlete receives travel support but still has limited access to suitable facilities, qualified coaching and regular competition opportunities."
+    ],
+    "answer": 1,
+    "feedback": "Urban areas may have more facilities, but cost, demand, transport schedules and accessibility can still restrict access."
+  },
+  {
+    "id": "G24",
+    "kk": "Geographic Location",
+    "domain": "Rural & urban opportunities",
+    "difficulty": "Application",
+    "q": "Which example is most likely to be an enabler provided by the characteristics of some rural environments?",
+    "options": [
+      "Guaranteed specialist medical services",
+      "More professional competitions within walking distance together with frequent public transport and several specialist training centres",
+      "Greater public transport frequency",
+      "Ready access to natural trails, open spaces or waterways for recreation"
+    ],
+    "answer": 3,
+    "feedback": "Some rural environments provide natural settings that support activities such as walking, cycling, hiking or water-based recreation."
+  },
+  {
+    "id": "G25",
+    "kk": "Geographic Location",
+    "domain": "Ethical strategies",
+    "difficulty": "Application",
+    "q": "A state sporting body has funds to support regional participation. Which allocation strategy is most ethical?",
+    "options": [
+      "Direct all funding to the largest centre because it has the most participants.",
+      "Give equal funding to every community regardless of circumstances.",
+      "Use transparent criteria considering need, distance, existing access, community priorities and likely impact.",
+      "Fund only athletes already performing at elite level."
+    ],
+    "answer": 2,
+    "feedback": "Transparent, needs-based allocation is more likely to improve equitable access than treating communities with different barriers identically."
+  },
+  {
+    "id": "G26",
+    "kk": "Geographic Location",
+    "domain": "Local, national & global perspectives",
+    "difficulty": "Application",
+    "q": "Which action is most clearly a local-level response to geographic barriers?",
+    "options": [
+      "A national sporting body funds a country-wide talent pathway that provides regional coaching, travel assistance and competition opportunities across several states.",
+      "A local council upgrades community courts and consults residents about access and scheduling.",
+      "An international federation changes global competition rules.",
+      "A federal agency develops a national sport policy."
+    ],
+    "answer": 1,
+    "feedback": "Local councils and community organisations act at the local level by planning facilities and programs for specific communities."
+  },
+  {
+    "id": "G27",
+    "kk": "Geographic Location",
+    "domain": "Local, national & global perspectives",
+    "difficulty": "Application",
+    "q": "Why might a strategy that works in one country need modification before being used elsewhere?",
+    "options": [
+      "Geographic barriers are identical in every country because distance, climate, infrastructure and community priorities affect all populations in the same way.",
+      "International strategies cannot use technology.",
+      "Participation is determined only by national income.",
+      "Climate, infrastructure, population patterns and community priorities can differ between locations."
+    ],
+    "answer": 3,
+    "feedback": "Global strategies need adaptation because geographic, cultural, infrastructural and economic conditions differ between places."
+  },
+  {
+    "id": "G28",
+    "kk": "Geographic Location",
+    "domain": "Historical, current & future implications",
+    "difficulty": "Application",
+    "q": "Historically, why have metropolitan areas often had greater access to sport and recreation infrastructure?",
+    "options": [
+      "Higher population density has often attracted more facilities, services and funding.",
+      "Rural communities have never valued sport and therefore governments have historically avoided investing in facilities outside metropolitan areas.",
+      "Regional athletes have always preferred informal activity.",
+      "Governments have prohibited facilities outside cities."
+    ],
+    "answer": 0,
+    "feedback": "Larger metropolitan populations have often supported greater investment in facilities and services, contributing to historical access differences."
+  },
+  {
+    "id": "G29",
+    "kk": "Geographic Location",
+    "domain": "Access, inclusion, participation & performance",
+    "difficulty": "Stimulus",
+    "q": "A survey finds that 72% of urban adolescents can reach organised sport within 20 minutes, compared with 38% of adolescents in remote communities. Which conclusion is best supported?",
+    "options": [
+      "Remote adolescents are less motivated to participate.",
+      "Urban adolescents have no barriers to sport participation.",
+      "Travel and service availability may create greater access barriers for remote adolescents.",
+      "Geographic location alone determines participation because travel time controls access for adolescents."
+    ],
+    "answer": 2,
+    "feedback": "The data suggest a difference in geographic access, but they do not prove differences in motivation or show that geography is the only influence."
+  },
+  {
+    "id": "G30",
+    "kk": "Geographic Location",
+    "domain": "Community partnerships & planning",
+    "difficulty": "Stimulus",
+    "q": "A regional program provides one visiting specialist coach each school term. Attendance rises initially but falls between visits. Which improvement is most likely to make the program more sustainable?",
+    "options": [
+      "Train local coaches and provide ongoing remote support between specialist visits.",
+      "Increase the distance athletes must travel.",
+      "Replace all local coaches with visiting staff.",
+      "Limit the program to athletes who can already afford private coaching and regular travel to metropolitan training centres between visits."
+    ],
+    "answer": 0,
+    "feedback": "Building local coaching capacity and providing ongoing support can maintain opportunities between specialist visits."
+  },
+  {
+    "id": "G31",
+    "kk": "Geographic Location",
+    "domain": "Distance, transport & travel",
+    "difficulty": "Stimulus",
+    "q": "A 16-year-old regional cyclist travels 2.5 hours to a training centre twice a week. After a timetable change, public transport no longer arrives before training starts. Which link best explains the likely impact?",
+    "options": [
+      "Reduced transport access will automatically improve independent training.",
+      "The timetable change affects inclusion but cannot affect participation.",
+      "Performance will improve because the athlete has more free time.",
+      "Reduced transport access may lower attendance, reducing guided training and potentially limiting performance development."
+    ],
+    "answer": 3,
+    "feedback": "Transport is part of geographic access. If attendance falls, the athlete may receive less coaching, practice and feedback, which can affect performance."
+  },
+  {
+    "id": "G32",
+    "kk": "Geographic Location",
+    "domain": "Digital access & online coaching",
+    "difficulty": "Stimulus",
+    "q": "Two remote athletes are offered online coaching. Athlete A has reliable high-speed internet; Athlete B has frequent connection failures and limited data. What does this comparison demonstrate?",
+    "options": [
+      "Online coaching removes geographic barriers equally when identical digital support is offered to athletes.",
+      "Digital infrastructure can determine whether technology acts as an enabler or remains a barrier.",
+      "Internet access affects motivation but not access.",
+      "Both athletes will receive identical coaching experiences."
+    ],
+    "answer": 1,
+    "feedback": "Technology can reduce distance barriers only when participants have reliable and affordable digital access."
+  },
+  {
+    "id": "G33",
+    "kk": "Geographic Location",
+    "domain": "Community partnerships & planning",
+    "difficulty": "Stimulus",
+    "q": "A council survey shows that local teenagers want evening basketball, but the only court has no lighting and buses stop at 6 pm. Which response best addresses the evidence?",
+    "options": [
+      "Build a daytime walking trail without consulting teenagers, even though their stated preference is evening basketball at the existing court.",
+      "Increase basketball fees to reduce demand.",
+      "Improve court lighting and review transport or scheduling options with the community.",
+      "Assume teenagers are not interested in being active."
+    ],
+    "answer": 2,
+    "feedback": "The survey identifies specific environmental and transport barriers. A targeted response should address those barriers directly."
+  },
+  {
+    "id": "G34",
+    "kk": "Geographic Location",
+    "domain": "Historical, current & future implications",
+    "difficulty": "Stimulus",
+    "q": "A region historically had no specialist training centre. A hub opened five years ago and participation has increased, but some communities still travel more than two hours to reach it. Which future strategy is most justified?",
+    "options": [
+      "Evaluate who is still underserved and consider outreach, transport support or additional regional services.",
+      "Close the hub because it has not removed every barrier.",
+      "Assume the increase in participation means no further action is needed, even when distant communities still face substantial travel barriers.",
+      "Require distant athletes to relocate."
+    ],
+    "answer": 0,
+    "feedback": "Evaluation should identify who continues to face barriers and guide further targeted strategies rather than assuming one facility solves all access problems."
+  },
+  {
+    "id": "G35",
+    "kk": "Geographic Location",
+    "domain": "Access, inclusion, participation & performance",
+    "difficulty": "SAC-style",
+    "q": "A talented netballer in a rural area can attend specialist coaching only once a month because the nearest program is 180 km away. Which explanation best links geographic location to performance?",
+    "options": [
+      "Distance proves the athlete is less motivated than metropolitan players.",
+      "Distance reduces regular access to specialist feedback, which may limit skill development and performance improvement.",
+      "Distance affects only social inclusion and cannot influence training.",
+      "Monthly coaching guarantees equal development because motivated athletes can successfully reproduce all specialist feedback independently."
+    ],
+    "answer": 1,
+    "feedback": "A strong explanation links the geographic barrier to reduced access, then to fewer training and feedback opportunities, and finally to a performance consequence."
+  },
+  {
+    "id": "G36",
+    "kk": "Geographic Location",
+    "domain": "Ethical strategies",
+    "difficulty": "SAC-style",
+    "q": "A remote community has low participation and limited transport. Which proposed strategy is most appropriate?",
+    "options": [
+      "Copy a metropolitan program without modification, deliver it on the same timetable, use the same activities and ignore transport, cultural and facility differences.",
+      "Build an expensive facility before identifying community needs.",
+      "Focus only on elite talent identification.",
+      "Co-design local activities with the community, use existing facilities where possible and provide transport support for opportunities that must occur elsewhere."
+    ],
+    "answer": 3,
+    "feedback": "An ethical strategy should respond to identified local barriers and priorities, involve the community and consider sustainable access."
+  },
+  {
+    "id": "G37",
+    "kk": "Geographic Location",
+    "domain": "Socioeconomic factors & affordability",
+    "difficulty": "SAC-style",
+    "q": "A sporting organisation introduces travel grants for regional athletes. Which evaluation is most accurate?",
+    "options": [
+      "The grants remove every geographic barrier because reducing travel costs gives regional athletes equal access to facilities, coaching, competition and technology.",
+      "The grants can improve performance only, not access.",
+      "The grants may improve access by reducing travel costs, but they may not solve limited local facilities, coaching or competition opportunities.",
+      "The grants are ineffective unless every athlete receives the same amount."
+    ],
+    "answer": 2,
+    "feedback": "Travel grants address affordability and distance-related costs, but geographic disadvantage can involve several interacting barriers."
+  },
+  {
+    "id": "G38",
+    "kk": "Geographic Location",
+    "domain": "Local, national & global perspectives",
+    "difficulty": "SAC-style",
+    "q": "Which statement best compares local and national responses to geographic barriers?",
+    "options": [
+      "Local responses can target specific community facilities and schedules, while national responses can support broader funding, pathways and programs across regions.",
+      "Local responses affect participation only, while national responses affect performance only, so the two levels should operate separately rather than coordinate support.",
+      "National responses must be identical in every community.",
+      "Local responses cannot involve government."
+    ],
+    "answer": 0,
+    "feedback": "Local responses can be highly tailored, while national bodies can provide wider funding, policy, pathways and programs. Effective approaches may combine both."
+  },
+  {
+    "id": "G39",
+    "kk": "Geographic Location",
+    "domain": "Historical, current & future implications",
+    "difficulty": "SAC-style",
+    "q": "Which statement best analyses change over time in geographic access to sport?",
+    "options": [
+      "Geographic barriers disappeared once online coaching became available.",
+      "Historical funding patterns have no effect on current opportunities.",
+      "Future participation will depend only on athlete motivation.",
+      "Historically, many specialist services were concentrated in cities; current regional investment and digital coaching can improve access, but future strategies still need to address unequal infrastructure and connectivity."
+    ],
+    "answer": 3,
+    "feedback": "A strong historical-current-future analysis recognises improvement over time while identifying ongoing and emerging barriers."
+  },
+  {
+    "id": "G40",
+    "kk": "Geographic Location",
+    "domain": "Interrelationships",
+    "difficulty": "SAC-style",
+    "q": "A remote athlete is highly motivated but has unreliable internet, limited local coaching and must travel four hours for competition. Which conclusion best demonstrates an integrated understanding of contemporary issues?",
+    "options": [
+      "Motivation removes the effects of geographic location.",
+      "Strong motivation may support persistence, but interpersonal geographic barriers can still restrict access, participation and performance.",
+      "Geographic barriers affect access only and cannot influence performance.",
+      "The athlete should be excluded from higher-level pathways until local services improve."
+    ],
+    "answer": 1,
+    "feedback": "Intrapersonal strengths such as motivation can interact with interpersonal barriers. Motivation alone cannot remove limited services, travel demands or unreliable digital access."
   }
 ]
