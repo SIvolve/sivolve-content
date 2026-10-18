@@ -11083,5 +11083,605 @@
     ],
     "answer": 3,
     "feedback": "Evaluation should use multiple forms of evidence. Improved registrations and retention show progress, while reported racism and limited leadership opportunities show that further action is needed."
+  },
+  {
+    "id": "GE01",
+    "kk": "Gender Equity in Sport",
+    "domain": "Understanding gender equity",
+    "difficulty": "Foundation",
+    "q": "Which statement best describes gender equity in sport?",
+    "options": [
+      "Giving every participant exactly the same resources in every situation",
+      "Providing fair sporting opportunities and support by addressing barriers linked to gender",
+      "Focusing only on equal participation numbers",
+      "Providing extra support only to elite athletes"
+    ],
+    "answer": 1,
+    "feedback": "Gender equity focuses on fairness. It may require different supports where gender-related barriers affect access, inclusion, participation, performance or progression."
+  },
+  {
+    "id": "GE02",
+    "kk": "Gender Equity in Sport",
+    "domain": "Gender stereotypes",
+    "difficulty": "Foundation",
+    "q": "How can gender stereotypes influence sporting participation?",
+    "options": [
+      "They can shape beliefs about which sports or roles are suitable for particular genders.",
+      "They guarantee that athletes choose sports that match their abilities.",
+      "They affect leadership but not participation.",
+      "They only influence professional sport."
+    ],
+    "answer": 0,
+    "feedback": "Gender stereotypes can affect confidence, aspirations, support and perceptions of belonging, which may influence sporting choices and participation."
+  },
+  {
+    "id": "GE03",
+    "kk": "Gender Equity in Sport",
+    "domain": "Facilities & resources",
+    "difficulty": "Foundation",
+    "q": "Why can training-time allocation be a gender equity issue?",
+    "options": [
+      "Training times affect only spectators.",
+      "All training times provide identical opportunities.",
+      "Less suitable training times can make regular attendance and preparation more difficult for some groups.",
+      "Training schedules are unrelated to participation."
+    ],
+    "answer": 2,
+    "feedback": "The quality and timing of access matter. Repeated allocation of less suitable times can reduce participation, preparation and performance opportunities."
+  },
+  {
+    "id": "GE04",
+    "kk": "Gender Equity in Sport",
+    "domain": "Gender pay gap",
+    "difficulty": "Foundation",
+    "q": "What does a gender pay gap in sport refer to?",
+    "options": [
+      "A difference in training volume between teams",
+      "A difference in athlete age",
+      "A difference in competition rules between sports",
+      "A difference in sporting earnings between genders"
+    ],
+    "answer": 3,
+    "feedback": "A gender pay gap is a difference in earnings between genders. Sporting income may include salaries, prize money and sponsorship."
+  },
+  {
+    "id": "GE05",
+    "kk": "Gender Equity in Sport",
+    "domain": "Coaching representation",
+    "difficulty": "Foundation",
+    "q": "What does representation in coaching refer to?",
+    "options": [
+      "How many athletes attend training",
+      "Who holds coaching positions and has opportunities to progress into senior coaching roles",
+      "How much media coverage a competition receives",
+      "How coaches measure fitness"
+    ],
+    "answer": 1,
+    "feedback": "Coaching representation concerns who holds coaching roles and who has genuine opportunities to enter and progress through coaching pathways."
+  },
+  {
+    "id": "GE06",
+    "kk": "Gender Equity in Sport",
+    "domain": "Decision-making representation",
+    "difficulty": "Foundation",
+    "q": "Why does representation on sporting boards and committees matter?",
+    "options": [
+      "These bodies influence funding, facilities, policies and priorities that shape sporting opportunities.",
+      "Board members only organise social events.",
+      "Leadership representation affects performance but not access.",
+      "Boards do not influence resource allocation."
+    ],
+    "answer": 0,
+    "feedback": "Decision-making bodies influence policies, resources, facilities and priorities, so representation can affect whose needs and experiences are considered."
+  },
+  {
+    "id": "GE07",
+    "kk": "Gender Equity in Sport",
+    "domain": "Pay & performance",
+    "difficulty": "Foundation",
+    "q": "How can lower sporting income affect an athlete's performance?",
+    "options": [
+      "It automatically improves motivation.",
+      "It guarantees reduced participation.",
+      "It may require extra paid work, reducing time for training, sleep or recovery.",
+      "It affects income but cannot affect preparation."
+    ],
+    "answer": 2,
+    "feedback": "Lower sporting income may create additional work demands, reducing preparation, sleep or recovery and potentially affecting performance."
+  },
+  {
+    "id": "GE08",
+    "kk": "Gender Equity in Sport",
+    "domain": "Measuring progress",
+    "difficulty": "Foundation",
+    "q": "Why are participation numbers alone insufficient to judge gender equity?",
+    "options": [
+      "Participation data cannot show any useful information.",
+      "Gender equity only concerns coaching.",
+      "Equal participation automatically proves equal opportunity.",
+      "Equity also involves resources, pay, treatment, leadership and influence over decisions."
+    ],
+    "answer": 3,
+    "feedback": "Higher participation can show progress, but gender equity also requires examining pay, resources, treatment, leadership and decision-making influence."
+  },
+  {
+    "id": "GE09",
+    "kk": "Gender Equity in Sport",
+    "domain": "Facilities & resources",
+    "difficulty": "Application",
+    "q": "A club gives its men's teams most evening training slots while women's teams usually train very early in the morning. What is the main equity concern?",
+    "options": [
+      "Morning training always improves performance.",
+      "The scheduling may make regular attendance and recovery more difficult for the women's teams.",
+      "The issue affects media coverage only.",
+      "Equal numbers of teams make the schedule equitable even when quality of times differs."
+    ],
+    "answer": 1,
+    "feedback": "Less suitable training times can create structural barriers by affecting attendance, sleep, recovery, preparation and continued participation."
+  },
+  {
+    "id": "GE10",
+    "kk": "Gender Equity in Sport",
+    "domain": "Resource allocation",
+    "difficulty": "Application",
+    "q": "A women's program receives less access to accredited coaches, medical support and specialist equipment than the men's program. Which outcome is most likely?",
+    "options": [
+      "Reduced access to development resources may limit participation, preparation and performance opportunities.",
+      "The programs remain equitable because both groups still compete in organised competition.",
+      "Only athlete confidence can be affected.",
+      "Resource allocation cannot influence sporting outcomes."
+    ],
+    "answer": 0,
+    "feedback": "Unequal access to coaching, medical support and equipment can affect both participation and performance pathways."
+  },
+  {
+    "id": "GE11",
+    "kk": "Gender Equity in Sport",
+    "domain": "Gender pay gap",
+    "difficulty": "Application",
+    "q": "A female athlete earns less sporting income and takes evening work to meet living costs. She then sleeps less before morning training. Which link is strongest?",
+    "options": [
+      "Paid work automatically improves sporting discipline.",
+      "Income affects participation but cannot affect performance because financial circumstances sit outside training and competition.",
+      "Lower sporting income can reduce recovery, increasing fatigue and potentially reducing training or competitive performance.",
+      "Sleep is unrelated to sporting income."
+    ],
+    "answer": 2,
+    "feedback": "Financial circumstances can influence sleep and recovery, which are intrapersonal factors that may affect concentration, coordination and sporting execution."
+  },
+  {
+    "id": "GE12",
+    "kk": "Gender Equity in Sport",
+    "domain": "Gender pay gap",
+    "difficulty": "Application",
+    "q": "When comparing gender pay in sport, why is it important to identify what type of earnings are being compared?",
+    "options": [
+      "All forms of sporting income are equivalent because they contribute to an athlete's financial support.",
+      "Prize money is the only meaningful measure.",
+      "Only professional athletes receive sporting income.",
+      "Annual salary, pay per match, prize money and sponsorship measure different aspects of sporting income."
+    ],
+    "answer": 3,
+    "feedback": "A valid comparison must identify the measure being used because annual earnings, match payments, prize money and sponsorship are not equivalent."
+  },
+  {
+    "id": "GE13",
+    "kk": "Gender Equity in Sport",
+    "domain": "Coaching representation",
+    "difficulty": "Application",
+    "q": "A qualified woman is repeatedly overlooked for senior coaching roles while less experienced candidates are appointed through informal networks. Which issue is most evident?",
+    "options": [
+      "The candidate lacks access to participation.",
+      "Biased recruitment and limited networks may restrict coaching progression.",
+      "The issue is mainly about athlete pay.",
+      "Informal recruitment improves equity by identifying strong coaching candidates."
+    ],
+    "answer": 1,
+    "feedback": "Informal networks and biased assumptions can create structural barriers to coaching progression even when candidates have relevant skills."
+  },
+  {
+    "id": "GE14",
+    "kk": "Gender Equity in Sport",
+    "domain": "Coaching pathways",
+    "difficulty": "Application",
+    "q": "Which strategy would best support more women to progress into senior coaching roles?",
+    "options": [
+      "Provide mentoring, practical experience, accessible development opportunities and transparent recruitment.",
+      "Appoint one woman because representation alone resolves coaching progression barriers.",
+      "Limit coaching courses to current senior coaches.",
+      "Use personal networks to fill vacancies."
+    ],
+    "answer": 0,
+    "feedback": "Effective pathways combine development, experience, mentoring and transparent recruitment based on relevant coaching skills."
+  },
+  {
+    "id": "GE15",
+    "kk": "Gender Equity in Sport",
+    "domain": "Decision-making representation",
+    "difficulty": "Application",
+    "q": "A club committee has 12 members but only one woman. Why might this matter for gender equity?",
+    "options": [
+      "One woman guarantees all perspectives are represented because committee membership automatically gives equal influence over decisions fairly.",
+      "Committee composition affects only administration.",
+      "Limited representation may mean barriers affecting women and girls receive less attention in resource and policy decisions.",
+      "Participation levels make leadership representation irrelevant."
+    ],
+    "answer": 2,
+    "feedback": "Decision-making bodies influence funding, facilities and policy. Limited representation can mean some experiences and barriers are less visible in those decisions."
+  },
+  {
+    "id": "GE16",
+    "kk": "Gender Equity in Sport",
+    "domain": "Meaningful representation",
+    "difficulty": "Application",
+    "q": "Which situation best demonstrates meaningful representation rather than token representation?",
+    "options": [
+      "A woman is appointed but excluded from major decisions.",
+      "A committee advertises its diversity while women hold positions but remain excluded from funding decisions.",
+      "One leadership position is created without any responsibilities.",
+      "Women hold leadership roles and have genuine influence over decisions about funding, facilities and policy."
+    ],
+    "answer": 3,
+    "feedback": "Representation is meaningful when people have genuine influence over decisions, not simply when they occupy a position."
+  },
+  {
+    "id": "GE17",
+    "kk": "Gender Equity in Sport",
+    "domain": "Gender stereotypes",
+    "difficulty": "Application",
+    "q": "A girl is repeatedly told that her chosen sport is 'for boys'. What is a likely effect?",
+    "options": [
+      "The stereotype strengthens motivation by encouraging athletes to prove others wrong.",
+      "The stereotype may reduce belonging, confidence or willingness to continue participating.",
+      "The comment affects access to facilities only.",
+      "The comment cannot influence sporting behaviour."
+    ],
+    "answer": 1,
+    "feedback": "Gender stereotypes can shape confidence, aspirations and belonging, which may influence continued participation."
+  },
+  {
+    "id": "GE18",
+    "kk": "Gender Equity in Sport",
+    "domain": "Program design",
+    "difficulty": "Application",
+    "q": "A club wants to increase participation among women and girls. What should it do first?",
+    "options": [
+      "Consult participants about their goals, interests and barriers before designing changes.",
+      "Assume all women prefer the same type of program because shared gender always creates identical sporting goals and barriers.",
+      "Create only competitive programs.",
+      "Copy the men's program without modification."
+    ],
+    "answer": 0,
+    "feedback": "Consultation helps organisations understand specific barriers and preferences instead of assuming all women and girls have the same needs."
+  },
+  {
+    "id": "GE19",
+    "kk": "Gender Equity in Sport",
+    "domain": "Safe & supportive environments",
+    "difficulty": "Application",
+    "q": "Players report repeated sexist comments from staff. Which organisational response is most appropriate?",
+    "options": [
+      "Ignore the comments unless players leave.",
+      "Ask players to tolerate the comments because maintaining staff authority is more important than responding to individual concerns.",
+      "Address the behaviour consistently, provide clear reporting pathways and support affected participants.",
+      "Focus only on improving facilities."
+    ],
+    "answer": 2,
+    "feedback": "Gender equity also depends on respectful environments. Organisations should respond consistently to sexist behaviour and provide clear support and reporting processes."
+  },
+  {
+    "id": "GE20",
+    "kk": "Gender Equity in Sport",
+    "domain": "Facilities & participation",
+    "difficulty": "Application",
+    "q": "A club builds new change rooms for women but continues to give women's teams the least suitable training times. What is the best evaluation?",
+    "options": [
+      "The club has achieved full gender equity because new facilities automatically resolve scheduling, culture and participation barriers.",
+      "Training times cannot influence participation.",
+      "Facilities matter but organisational decisions do not.",
+      "The new facility may improve access and comfort, but scheduling still creates a participation barrier."
+    ],
+    "answer": 3,
+    "feedback": "Infrastructure can remove one barrier, but gender equity also depends on how opportunities such as training times are allocated."
+  },
+  {
+    "id": "GE21",
+    "kk": "Gender Equity in Sport",
+    "domain": "Local perspectives",
+    "difficulty": "Application",
+    "q": "Which action is most appropriate for a local club trying to improve gender equity?",
+    "options": [
+      "Wait for a national body to solve local issues because clubs have little influence over everyday sporting opportunities.",
+      "Review training times, coaching, facilities and resources with participant input, then monitor whether changes improve involvement.",
+      "Focus only on elite athletes.",
+      "Measure success using registrations alone."
+    ],
+    "answer": 1,
+    "feedback": "Local clubs directly control many everyday opportunities, so they can use participant feedback to improve scheduling, resources, coaching and support."
+  },
+  {
+    "id": "GE22",
+    "kk": "Gender Equity in Sport",
+    "domain": "National perspectives",
+    "difficulty": "Application",
+    "q": "How can a national sporting body support gender equity?",
+    "options": [
+      "Provide sustained funding, leadership pathways, policy direction and monitoring across the sport.",
+      "Set national gender-equity goals without providing resources because clear targets alone are enough to change local practice.",
+      "Focus only on national-team results.",
+      "Leave leadership development entirely to individuals."
+    ],
+    "answer": 0,
+    "feedback": "National bodies can influence pathways, resources and expectations across the sporting system through funding, development, policy and accountability."
+  },
+  {
+    "id": "GE23",
+    "kk": "Gender Equity in Sport",
+    "domain": "Global perspectives",
+    "difficulty": "Application",
+    "q": "How can global female sporting role models contribute to gender equity?",
+    "options": [
+      "They automatically remove local cost and facility barriers because visible success changes every community sporting environment.",
+      "They guarantee equal pay in all sports.",
+      "They can broaden aspirations by showing that women can succeed as athletes, coaches and leaders.",
+      "They make local programs unnecessary."
+    ],
+    "answer": 2,
+    "feedback": "Visible global role models can challenge stereotypes and broaden aspirations, but local opportunities and resources are still required."
+  },
+  {
+    "id": "GE24",
+    "kk": "Gender Equity in Sport",
+    "domain": "Historical influences",
+    "difficulty": "Application",
+    "q": "How can historical restrictions on women's sport influence current opportunities?",
+    "options": [
+      "Historical exclusion has no current effect once participation rises because modern opportunities replace earlier structural patterns.",
+      "Only current athlete ability matters.",
+      "Past restrictions affect media but not resources.",
+      "Established networks, funding patterns and leadership structures may continue to favour men's sport."
+    ],
+    "answer": 3,
+    "feedback": "Historical exclusion can shape current structures, networks and investment patterns even after formal restrictions have been removed."
+  },
+  {
+    "id": "GE25",
+    "kk": "Gender Equity in Sport",
+    "domain": "Progress & continuing barriers",
+    "difficulty": "Application",
+    "q": "A sport has greatly increased the number of women participating, but women remain rare in senior coaching and board roles. What is the best conclusion?",
+    "options": [
+      "Gender equity has been fully achieved because equal athlete participation is the most important indicator of fairness.",
+      "Participation has improved, but leadership equity remains incomplete.",
+      "Leadership representation is unrelated to gender equity.",
+      "More participation automatically produces equal leadership."
+    ],
+    "answer": 1,
+    "feedback": "Progress in playing opportunities does not necessarily mean equivalent progress in coaching, leadership, pay or decision-making."
+  },
+  {
+    "id": "GE26",
+    "kk": "Gender Equity in Sport",
+    "domain": "Interpersonal & intrapersonal links",
+    "difficulty": "Application",
+    "q": "A women's team is allocated inconvenient training times and several players miss sessions. One player reports lower confidence before competition. Which relationship is best shown?",
+    "options": [
+      "An interpersonal scheduling issue can influence an intrapersonal factor such as confidence and then affect performance.",
+      "Confidence is an interpersonal factor because it is shaped by the behaviour and decisions of sporting organisations.",
+      "Training schedules are intrapersonal factors.",
+      "Scheduling cannot influence performance."
+    ],
+    "answer": 0,
+    "feedback": "Organisational conditions are interpersonal influences that can affect individual confidence, preparation and ultimately performance."
+  },
+  {
+    "id": "GE27",
+    "kk": "Gender Equity in Sport",
+    "domain": "Ethical strategies",
+    "difficulty": "Application",
+    "q": "A club finds that women's teams receive less access to accredited coaches. Which response is most ethical?",
+    "options": [
+      "Keep the current allocation because it reflects tradition.",
+      "Give accredited coaches to the highest-profile men's team because performance potential should always outweigh gender-equity concerns in allocation.",
+      "Review coach allocation transparently and ensure access is based on relevant sporting needs rather than gender.",
+      "Ask athletes to organise their own coaching."
+    ],
+    "answer": 2,
+    "feedback": "An ethical strategy should address the identified inequity through transparent, relevant and fair allocation processes."
+  },
+  {
+    "id": "GE28",
+    "kk": "Gender Equity in Sport",
+    "domain": "Monitoring & accountability",
+    "difficulty": "Application",
+    "q": "Why should a sporting organisation review gender-equity initiatives over time?",
+    "options": [
+      "Every gender-equity strategy should remain unchanged once introduced because consistency is more important than participant feedback.",
+      "To replace participant feedback with registration numbers.",
+      "Because targets guarantee success without monitoring.",
+      "To determine whether barriers are actually reducing and whether strategies need adjustment."
+    ],
+    "answer": 3,
+    "feedback": "Monitoring helps organisations judge whether actions are working, identify continuing barriers and adjust strategies as circumstances change."
+  },
+  {
+    "id": "GE29",
+    "kk": "Gender Equity in Sport",
+    "domain": "Facilities & resources",
+    "difficulty": "Stimulus",
+    "q": "A review shows that men's teams receive 70% of prime training slots and most strength-and-conditioning support, while women's teams report lower attendance. Which conclusion is strongest?",
+    "options": [
+      "The women's teams are less committed.",
+      "Unequal resource allocation may be contributing to participation differences and should be reviewed.",
+      "Prime training times affect performance but not participation.",
+      "The allocation is equitable because both groups can train, even if one receives consistently better times and support."
+    ],
+    "answer": 1,
+    "feedback": "The resource pattern may be creating structural barriers. A strong conclusion links the allocation to possible effects without assuming a single cause."
+  },
+  {
+    "id": "GE30",
+    "kk": "Gender Equity in Sport",
+    "domain": "Gender pay gap",
+    "difficulty": "Stimulus",
+    "q": "Two athletes compete at the same level. One receives lower sporting income, works additional evening shifts and reports fatigue at morning training. Which explanation best links the factors?",
+    "options": [
+      "Lower sporting income may increase outside work demands, reducing recovery and potentially affecting training quality and performance.",
+      "The athlete's fatigue proves lower motivation.",
+      "Pay affects finances but cannot affect sporting outcomes because athletes can separate employment demands from training and recovery.",
+      "Working more hours always improves resilience."
+    ],
+    "answer": 0,
+    "feedback": "This demonstrates how an interpersonal financial inequity can influence intrapersonal recovery and fatigue, which may then affect sporting performance."
+  },
+  {
+    "id": "GE31",
+    "kk": "Gender Equity in Sport",
+    "domain": "Coaching representation",
+    "difficulty": "Stimulus",
+    "q": "A national sport reports that women make up 48% of participants but only 18% of head coaches. Which interpretation is most appropriate?",
+    "options": [
+      "The sport has achieved gender equity because near-equal athlete participation matters more than representation in senior coaching.",
+      "Coaching representation cannot affect sporting opportunities.",
+      "High athlete participation does not necessarily mean equitable representation in senior coaching pathways.",
+      "The figures prove discrimination caused every appointment."
+    ],
+    "answer": 2,
+    "feedback": "Participation and coaching representation are different indicators. The data identify an imbalance but do not by themselves prove a single cause."
+  },
+  {
+    "id": "GE32",
+    "kk": "Gender Equity in Sport",
+    "domain": "Decision-making representation",
+    "difficulty": "Stimulus",
+    "q": "A board increases women's representation from 15% to 45%, but women report that major funding decisions are still made informally by a small existing group. What is the best evaluation?",
+    "options": [
+      "Gender equity is complete because greater numerical representation guarantees equal influence over every major board decision.",
+      "Board influence is unrelated to resource allocation.",
+      "Informal decision-making always improves fairness.",
+      "Numerical representation has improved, but meaningful influence over decisions may still be limited."
+    ],
+    "answer": 3,
+    "feedback": "Representation should include genuine influence. Headcounts alone do not show whether decision-making power has changed."
+  },
+  {
+    "id": "GE33",
+    "kk": "Gender Equity in Sport",
+    "domain": "Historical, current & future implications",
+    "difficulty": "Stimulus",
+    "q": "A sport that historically restricted women's competition now has strong participation growth, but leadership and pay gaps remain. Which statement best reflects change over time?",
+    "options": [
+      "Historical restrictions are irrelevant because current participation growth proves earlier inequalities no longer affect sporting structures.",
+      "Playing opportunities have improved, but historical patterns may still influence current leadership and financial structures.",
+      "Current participation proves future equity.",
+      "Pay and leadership are unrelated to historical structures."
+    ],
+    "answer": 1,
+    "feedback": "Progress can occur in one area while historical structural patterns continue in others, such as leadership, funding or pay."
+  },
+  {
+    "id": "GE34",
+    "kk": "Gender Equity in Sport",
+    "domain": "Measuring progress",
+    "difficulty": "Stimulus",
+    "q": "After introducing equitable training schedules and leadership mentoring, a club reports higher retention of women players and more women applying for coaching roles. What is the most appropriate conclusion?",
+    "options": [
+      "The changes are associated with positive participation and pathway outcomes, but ongoing monitoring is still needed.",
+      "The strategies caused every improvement because retention and coaching applications increased immediately after the changes were introduced.",
+      "The club no longer needs participant feedback.",
+      "Retention alone proves equal pay."
+    ],
+    "answer": 0,
+    "feedback": "The evidence suggests positive change, but organisations should avoid claiming single-cause certainty and should continue monitoring multiple indicators."
+  },
+  {
+    "id": "GE35",
+    "kk": "Gender Equity in Sport",
+    "domain": "Structural gender inequity",
+    "difficulty": "SAC-style",
+    "q": "A community association gives men's teams preferred court times, greater medical support and more experienced coaches. Several women players reduce their involvement. Which explanation is strongest?",
+    "options": [
+      "The players' reduced involvement proves they lack motivation because structural resources cannot meaningfully influence sporting participation decisions.",
+      "Medical support influences performance only.",
+      "Structural resource inequities may reduce access to quality preparation, weaken inclusion and contribute to lower participation.",
+      "Equal registration rules make the association equitable."
+    ],
+    "answer": 2,
+    "feedback": "The scenario shows how institutional decisions about resources can affect several sporting outcomes, including inclusion, participation and performance opportunities."
+  },
+  {
+    "id": "GE36",
+    "kk": "Gender Equity in Sport",
+    "domain": "Coaching & leadership pathways",
+    "difficulty": "SAC-style",
+    "q": "A national organisation wants to increase women and gender-diverse people in coaching and decision-making positions. Which strategy is most comprehensive?",
+    "options": [
+      "Appoint one person without changing existing systems because a visible appointment is sufficient to demonstrate structural reform.",
+      "Rely on current leaders' personal networks.",
+      "Focus only on athlete participation.",
+      "Use transparent recruitment, mentoring and development pathways, set measurable representation goals and review progress regularly."
+    ],
+    "answer": 3,
+    "feedback": "Structural change requires transparent recruitment, development opportunities, measurable goals and accountability rather than isolated appointments."
+  },
+  {
+    "id": "GE37",
+    "kk": "Gender Equity in Sport",
+    "domain": "Local, national & global perspectives",
+    "difficulty": "SAC-style",
+    "q": "Which statement best compares gender-equity action at local, national and global levels?",
+    "options": [
+      "Only global organisations can affect gender equity because local clubs and national bodies lack sufficient authority to change funding, facilities, coaching pathways, leadership opportunities or everyday sporting experiences.",
+      "Local clubs can change everyday resource allocation, national bodies can shape pathways and policy, and global organisations can influence standards, advocacy and visibility.",
+      "Local clubs influence participation but not resources.",
+      "National bodies have no role in leadership pathways."
+    ],
+    "answer": 1,
+    "feedback": "Gender equity can be influenced at multiple levels, with different organisations affecting everyday access, system-wide pathways and broader standards or advocacy."
+  },
+  {
+    "id": "GE38",
+    "kk": "Gender Equity in Sport",
+    "domain": "Historical, current & future implications",
+    "difficulty": "SAC-style",
+    "q": "Which statement best analyses gender equity in sport across time?",
+    "options": [
+      "Historical exclusion can shape current resources and leadership, while future progress requires sustained investment, representation and accountability.",
+      "Past inequalities disappear once participation numbers rise because current involvement completely replaces the effects of historical exclusion today.",
+      "Current media visibility guarantees future equity.",
+      "Future equity depends only on athlete performance."
+    ],
+    "answer": 0,
+    "feedback": "A strong time-based analysis connects historical structures to current inequalities and identifies sustained future strategies rather than assuming progress is automatic."
+  },
+  {
+    "id": "GE39",
+    "kk": "Gender Equity in Sport",
+    "domain": "Interrelationships",
+    "difficulty": "SAC-style",
+    "q": "A women's team receives poor training times, leading to missed sessions, reduced confidence and less consistent competition performance. Which explanation best demonstrates the interrelationship?",
+    "options": [
+      "Confidence caused the poor training schedule.",
+      "Performance cannot be influenced by attendance because confidence, preparation and skill execution are separate from training opportunities.",
+      "An interpersonal scheduling inequity reduces practice opportunities, which can affect intrapersonal confidence and then influence performance.",
+      "The scheduling issue is purely intrapersonal."
+    ],
+    "answer": 2,
+    "feedback": "The strongest explanation shows the chain from an interpersonal organisational condition to an intrapersonal response and then a sporting outcome."
+  },
+  {
+    "id": "GE40",
+    "kk": "Gender Equity in Sport",
+    "domain": "Evaluating gender equity",
+    "difficulty": "SAC-style",
+    "q": "A club reports equal registration numbers for men and women, but women receive less funding, fewer prime training times and hold few leadership roles. What is the strongest judgement?",
+    "options": [
+      "The club has achieved gender equity because registrations are equal.",
+      "Funding and leadership are unrelated to gender equity.",
+      "Equal participation automatically produces equal performance.",
+      "Equal participation numbers do not demonstrate full gender equity because resources, opportunities and decision-making influence remain unequal."
+    ],
+    "answer": 3,
+    "feedback": "Gender equity must be judged across multiple dimensions. Equal participation does not compensate for continuing inequities in resources, opportunities or influence."
   }
 ]
