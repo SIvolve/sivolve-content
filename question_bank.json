@@ -9883,5 +9883,605 @@
     ],
     "answer": 3,
     "feedback": "Intrapersonal strengths such as motivation can interact with interpersonal coaching influences. Harmful coaching may still affect confidence, wellbeing, inclusion and participation."
+  },
+  {
+    "id": "T01",
+    "kk": "Sports Technology & Media",
+    "domain": "Sports technology fundamentals",
+    "difficulty": "Foundation",
+    "q": "Which statement best describes sports technology?",
+    "options": [
+      "It refers only to equipment used by elite athletes.",
+      "It applies innovations such as equipment, digital tools and monitoring devices to physical activity and sport.",
+      "It describes media coverage of sporting events.",
+      "It refers only to online exercise programs."
+    ],
+    "answer": 1,
+    "feedback": "Sports technology includes equipment, digital tools, monitoring devices and other innovations used to support physical activity, participation and performance."
+  },
+  {
+    "id": "T02",
+    "kk": "Sports Technology & Media",
+    "domain": "Online activity & digital access",
+    "difficulty": "Foundation",
+    "q": "How can online exercise programs improve access to physical activity?",
+    "options": [
+      "They can reduce travel barriers by allowing people to participate at suitable times and locations.",
+      "They guarantee that every participant has reliable internet access.",
+      "They remove all costs associated with physical activity.",
+      "They make face-to-face activities unnecessary."
+    ],
+    "answer": 0,
+    "feedback": "Online programs can reduce transport and scheduling barriers, but access still depends on suitable devices, internet and other individual circumstances."
+  },
+  {
+    "id": "T03",
+    "kk": "Sports Technology & Media",
+    "domain": "Wearables & monitoring",
+    "difficulty": "Foundation",
+    "q": "Which information can a wearable device commonly collect during physical activity?",
+    "options": [
+      "Only an athlete's motivation",
+      "Only competition results",
+      "Heart rate, distance and speed",
+      "Only coach observations"
+    ],
+    "answer": 2,
+    "feedback": "Wearable devices can collect data such as heart rate, distance and speed, which may help monitor effort and progress."
+  },
+  {
+    "id": "T04",
+    "kk": "Sports Technology & Media",
+    "domain": "Video analysis & feedback",
+    "difficulty": "Foundation",
+    "q": "What is a key benefit of video analysis in sport?",
+    "options": [
+      "It guarantees that an athlete will improve performance.",
+      "It replaces the need for coaching judgement.",
+      "It removes the need for repeated practice.",
+      "It can reveal movement details and support specific feedback on technique."
+    ],
+    "answer": 3,
+    "feedback": "Video analysis can help athletes and coaches review movement and provide more specific feedback, but it still requires interpretation and practice."
+  },
+  {
+    "id": "T05",
+    "kk": "Sports Technology & Media",
+    "domain": "Media, beliefs & behaviour",
+    "difficulty": "Foundation",
+    "q": "How can sports media influence behaviour?",
+    "options": [
+      "By shaping what people see, value and consider possible, which may affect sporting choices",
+      "By guaranteeing participation in every sport shown",
+      "By removing financial barriers to physical activity",
+      "By determining sporting ability"
+    ],
+    "answer": 0,
+    "feedback": "Media can influence behaviour by shaping beliefs, awareness and perceptions about sport, which may encourage or discourage participation."
+  },
+  {
+    "id": "T06",
+    "kk": "Sports Technology & Media",
+    "domain": "Representation & role models",
+    "difficulty": "Foundation",
+    "q": "What does representation in sports media refer to?",
+    "options": [
+      "How often athletes train",
+      "Who is shown in media and how they are portrayed",
+      "How much equipment costs",
+      "How coaches design training programs"
+    ],
+    "answer": 1,
+    "feedback": "Representation concerns who is visible in sports media and how athletes or groups are portrayed."
+  },
+  {
+    "id": "T07",
+    "kk": "Sports Technology & Media",
+    "domain": "Privacy, consent & athlete data",
+    "difficulty": "Foundation",
+    "q": "Which practice best supports ethical collection of athlete data?",
+    "options": [
+      "Collecting information without explaining its purpose",
+      "Sharing all data with sponsors automatically",
+      "Obtaining informed consent and explaining what is collected, why it is collected and who can access it",
+      "Keeping data indefinitely regardless of need"
+    ],
+    "answer": 2,
+    "feedback": "Ethical data collection requires informed consent, transparency about purpose and access, and appropriate privacy protections."
+  },
+  {
+    "id": "T08",
+    "kk": "Sports Technology & Media",
+    "domain": "Data interpretation",
+    "difficulty": "Foundation",
+    "q": "Why should performance data be interpreted in context?",
+    "options": [
+      "Because technology data are always inaccurate",
+      "Because athlete feedback should replace all data",
+      "Because coaches should avoid using numerical information",
+      "Because a single score may be influenced by training demands, athlete condition or measurement error"
+    ],
+    "answer": 3,
+    "feedback": "A single score does not explain the whole performance. Training conditions, athlete feedback and measurement limitations should also be considered."
+  },
+  {
+    "id": "T09",
+    "kk": "Sports Technology & Media",
+    "domain": "Online activity & digital access",
+    "difficulty": "Application",
+    "q": "A participant lives far from a gym but has reliable internet and a suitable device. Which strategy would most directly reduce the access barrier?",
+    "options": [
+      "An online exercise program that can be completed at home",
+      "Travelling further to attend a more expensive facility each week",
+      "Waiting until a local gym is built",
+      "Reducing physical activity opportunities"
+    ],
+    "answer": 0,
+    "feedback": "Online exercise can reduce travel demands and allow participation at home when suitable devices and internet are available."
+  },
+  {
+    "id": "T10",
+    "kk": "Sports Technology & Media",
+    "domain": "Technology & inclusion",
+    "difficulty": "Application",
+    "q": "A participant cannot use standard equipment because of a physical disability. Which response best supports inclusion?",
+    "options": [
+      "Require the participant to use the standard equipment",
+      "Consult the participant and provide suitable adapted equipment",
+      "Remove the participant from the activity",
+      "Provide an easier activity without consultation"
+    ],
+    "answer": 1,
+    "feedback": "Inclusive technology should respond to individual needs and be developed with participant input so meaningful participation is possible."
+  },
+  {
+    "id": "T11",
+    "kk": "Sports Technology & Media",
+    "domain": "Motivation & gamification",
+    "difficulty": "Application",
+    "q": "A fitness app awards points for completing activity goals. Which outcome is most likely?",
+    "options": [
+      "Gamification guarantees long-term participation because points and rewards motivate all participants in every situation.",
+      "Points remove all access barriers.",
+      "Gamification may increase engagement for some participants, but it will not motivate everyone equally.",
+      "Competition always improves confidence."
+    ],
+    "answer": 2,
+    "feedback": "Gamification can support motivation and engagement, but individual responses vary and some people may find comparisons discouraging."
+  },
+  {
+    "id": "T12",
+    "kk": "Sports Technology & Media",
+    "domain": "Digital participation systems",
+    "difficulty": "Application",
+    "q": "A club moves all registrations online. Which action would best support equitable access?",
+    "options": [
+      "Require every participant to register digitally because online systems are equally accessible to all members",
+      "Increase registration fees to fund the website",
+      "Limit registrations to existing members",
+      "Offer assistance and an offline registration option for people who cannot use the digital system"
+    ],
+    "answer": 3,
+    "feedback": "Digital systems can improve convenience, but offering assistance and offline alternatives helps people who face digital access barriers."
+  },
+  {
+    "id": "T13",
+    "kk": "Sports Technology & Media",
+    "domain": "Wearables & monitoring",
+    "difficulty": "Application",
+    "q": "A coach uses GPS data to adjust an athlete's training load. Which approach is most appropriate?",
+    "options": [
+      "Use the GPS data together with athlete feedback and coach observation.",
+      "Use GPS data as the only source for every training decision.",
+      "Ignore unusual readings if the athlete reports fatigue.",
+      "Assume all devices are perfectly accurate."
+    ],
+    "answer": 0,
+    "feedback": "Wearable data should be interpreted alongside athlete feedback and professional judgement because devices and individual responses can vary."
+  },
+  {
+    "id": "T14",
+    "kk": "Sports Technology & Media",
+    "domain": "Wearables & monitoring",
+    "difficulty": "Application",
+    "q": "A smartwatch records a slower running speed than usual during a session with different drills, and the athlete reports feeling tired. Which conclusion is most appropriate?",
+    "options": [
+      "The athlete's performance has definitely declined.",
+      "The result should be interpreted alongside the session demands and athlete feedback.",
+      "The smartwatch must be inaccurate.",
+      "The athlete should immediately stop training until the device records their speed."
+    ],
+    "answer": 1,
+    "feedback": "The result needs context. Different drills and fatigue may explain the change, so the technology should not be interpreted in isolation."
+  },
+  {
+    "id": "T15",
+    "kk": "Sports Technology & Media",
+    "domain": "Video analysis & feedback",
+    "difficulty": "Application",
+    "q": "A coach shows an athlete slow-motion footage of their technique and identifies one specific change to practise. Why is this likely to be useful?",
+    "options": [
+      "It guarantees immediate performance improvement.",
+      "It removes the need for coach-athlete discussion because footage provides certainty.",
+      "It provides focused feedback the athlete can apply during repeated practice.",
+      "It makes physical practice unnecessary."
+    ],
+    "answer": 2,
+    "feedback": "Video can make technical details easier to see and support specific, manageable feedback that can then be practised."
+  },
+  {
+    "id": "T16",
+    "kk": "Sports Technology & Media",
+    "domain": "Data interpretation",
+    "difficulty": "Application",
+    "q": "Why can device placement affect the usefulness of sports technology data?",
+    "options": [
+      "It changes an athlete's motivation automatically.",
+      "It determines whether the athlete is included in a team.",
+      "It removes the need for calibration.",
+      "It can alter the accuracy or consistency of recorded measurements."
+    ],
+    "answer": 3,
+    "feedback": "Poor placement or signal quality can affect readings, so coaches should consider measurement reliability when interpreting data."
+  },
+  {
+    "id": "T17",
+    "kk": "Sports Technology & Media",
+    "domain": "Equipment & performance",
+    "difficulty": "Application",
+    "q": "How can improved equipment design influence performance?",
+    "options": [
+      "It may improve fit, control or movement efficiency, although performance still depends on skill and preparation.",
+      "It guarantees success for anyone who uses the equipment because technological improvements determine performance in competition.",
+      "It removes the need for training.",
+      "It affects access but never performance."
+    ],
+    "answer": 0,
+    "feedback": "Equipment can support performance through improved fit, control or efficiency, but it does not determine success by itself."
+  },
+  {
+    "id": "T18",
+    "kk": "Sports Technology & Media",
+    "domain": "Cost, access & equity",
+    "difficulty": "Application",
+    "q": "A club introduces expensive tracking devices that require annual subscriptions. What is the main equity concern?",
+    "options": [
+      "Every participant will benefit equally because devices provide identical opportunities regardless of income or access.",
+      "Some participants may be unable to afford the technology and therefore miss similar feedback opportunities.",
+      "Technology costs affect performance only.",
+      "Subscriptions automatically improve inclusion."
+    ],
+    "answer": 1,
+    "feedback": "Cost can create unequal access to technology and the development opportunities it may provide."
+  },
+  {
+    "id": "T19",
+    "kk": "Sports Technology & Media",
+    "domain": "Privacy, consent & athlete data",
+    "difficulty": "Application",
+    "q": "A wearable records an athlete's location, sleep and training load. Which organisational practice is most appropriate?",
+    "options": [
+      "Share the information with all coaches, administrators and sponsors so anyone involved in the program can use it when needed.",
+      "Collect the data without telling the athlete.",
+      "Explain what data are collected, obtain consent, restrict access and store the information securely.",
+      "Keep all data permanently even when no longer needed."
+    ],
+    "answer": 2,
+    "feedback": "Sensitive athlete data should be collected transparently, with informed consent, limited access and secure storage."
+  },
+  {
+    "id": "T20",
+    "kk": "Sports Technology & Media",
+    "domain": "Fairness & regulation",
+    "difficulty": "Application",
+    "q": "Why might a governing body regulate the use of sports technology in competition?",
+    "options": [
+      "To prevent any future technological development",
+      "To guarantee equal funding for every athlete",
+      "To require every competitor to use the newest approved equipment so performance differences between athletes are eliminated",
+      "To balance innovation with fairness and the requirements of the sport"
+    ],
+    "answer": 3,
+    "feedback": "Equipment rules can help maintain fair competition while still allowing appropriate innovation."
+  },
+  {
+    "id": "T21",
+    "kk": "Sports Technology & Media",
+    "domain": "Media, beliefs & behaviour",
+    "difficulty": "Application",
+    "q": "A teenager sees repeated media stories suggesting that a particular sport is only for one type of person. What is a possible effect?",
+    "options": [
+      "The teenager may believe they do not belong in the sport and become less likely to participate.",
+      "The teenager will definitely join the sport because repeated media exposure always changes beliefs and overcomes every other participation barrier.",
+      "The coverage will remove access barriers.",
+      "The media message cannot influence behaviour."
+    ],
+    "answer": 0,
+    "feedback": "Media messages can shape beliefs about who belongs in sport, which may encourage or discourage participation."
+  },
+  {
+    "id": "T22",
+    "kk": "Sports Technology & Media",
+    "domain": "Representation & role models",
+    "difficulty": "Application",
+    "q": "How can diverse athlete representation support inclusion?",
+    "options": [
+      "It guarantees equal funding for every sport because broader representation automatically produces identical sponsorship and media investment across all competitions.",
+      "It can help viewers see people like themselves participating and strengthen a sense of belonging.",
+      "It removes transport barriers.",
+      "It ensures every viewer becomes physically active."
+    ],
+    "answer": 1,
+    "feedback": "Seeing diverse athletes represented respectfully can challenge stereotypes and help more people feel that participation is possible and welcoming."
+  },
+  {
+    "id": "T23",
+    "kk": "Sports Technology & Media",
+    "domain": "Media, sponsorship & performance",
+    "difficulty": "Application",
+    "q": "How can increased media coverage indirectly support athlete performance?",
+    "options": [
+      "It guarantees better performance because athletes who receive more media coverage always train more effectively and recover more successfully.",
+      "It removes the need for recovery.",
+      "It may attract sponsorship that funds coaching, equipment or other development resources.",
+      "It prevents public pressure."
+    ],
+    "answer": 2,
+    "feedback": "Media exposure can attract funding and sponsorship, which may improve access to resources that support athlete development and performance."
+  },
+  {
+    "id": "T24",
+    "kk": "Sports Technology & Media",
+    "domain": "Negative media influences",
+    "difficulty": "Application",
+    "q": "An athlete receives repeated online abuse after a competition. What is a possible consequence?",
+    "options": [
+      "The athlete will automatically become more confident because public criticism always increases resilience and improves motivation to remain involved in sport.",
+      "The abuse improves inclusion.",
+      "Online comments cannot affect participation.",
+      "The athlete may feel unsafe or unwelcome and withdraw from public or sporting involvement."
+    ],
+    "answer": 3,
+    "feedback": "Online abuse can affect confidence, wellbeing, inclusion and continued participation."
+  },
+  {
+    "id": "T25",
+    "kk": "Sports Technology & Media",
+    "domain": "Media, beliefs & behaviour",
+    "difficulty": "Application",
+    "q": "A club post promotes beginner sessions and clearly lists costs, times and available support. How can this influence access?",
+    "options": [
+      "It can help potential participants understand how and when to join.",
+      "It guarantees that everyone can afford the program once clear information about fees, schedules and support is posted online.",
+      "It removes the need for facilities.",
+      "It affects performance only."
+    ],
+    "answer": 0,
+    "feedback": "Clear participation information can reduce uncertainty and help people identify suitable opportunities."
+  },
+  {
+    "id": "T26",
+    "kk": "Sports Technology & Media",
+    "domain": "Representation & gender equity",
+    "difficulty": "Application",
+    "q": "Why can increased quality coverage of female athletes influence beliefs about sport?",
+    "options": [
+      "It guarantees equal pay immediately because positive media coverage automatically forces sporting organisations to distribute all resources equally between athletes.",
+      "It can challenge gender stereotypes by focusing on sporting skill and achievement.",
+      "It removes every structural barrier.",
+      "It ensures all sports receive identical funding."
+    ],
+    "answer": 1,
+    "feedback": "Respectful, skill-focused coverage can challenge stereotypes and broaden beliefs about who belongs in sport."
+  },
+  {
+    "id": "T27",
+    "kk": "Sports Technology & Media",
+    "domain": "Media data & causation",
+    "difficulty": "Application",
+    "q": "Media coverage and junior registrations for a sport both increase over the same period. Which conclusion is most appropriate?",
+    "options": [
+      "Media coverage definitely caused every new registration because no other factor can influence whether young people become aware of, access or join a sport.",
+      "Registrations cannot be influenced by media.",
+      "The increases are associated, but the information alone does not prove that media coverage caused the rise in registrations.",
+      "All access barriers must have been removed."
+    ],
+    "answer": 2,
+    "feedback": "An association between media coverage and registrations does not prove causation. Other factors such as fees, facilities or new programs may also contribute."
+  },
+  {
+    "id": "T28",
+    "kk": "Sports Technology & Media",
+    "domain": "Ethical media strategies",
+    "difficulty": "Application",
+    "q": "Which media practice is most ethical when sharing an athlete's personal story?",
+    "options": [
+      "Share private information if it may attract more views.",
+      "Use an athlete's image without permission if the post promotes sport.",
+      "Ignore online abuse unless sponsorship is affected.",
+      "Obtain consent, respect privacy and present the athlete fairly."
+    ],
+    "answer": 3,
+    "feedback": "Ethical sports media should respect consent, privacy and fair representation, and organisations should respond to harmful online behaviour."
+  },
+  {
+    "id": "T29",
+    "kk": "Sports Technology & Media",
+    "domain": "Data interpretation",
+    "difficulty": "Stimulus",
+    "q": "A club's wearable data show that an athlete's weekly running distance fell by 15%. The athlete was completing rehabilitation sessions instead of normal training. Which conclusion is best supported?",
+    "options": [
+      "The lower distance should be interpreted in the context of the changed training program.",
+      "The athlete has definitely become less fit because any reduction in weekly running distance proves a decline in physical capacity.",
+      "The wearable has failed.",
+      "The athlete should return immediately to full training."
+    ],
+    "answer": 0,
+    "feedback": "Changes in training context can explain changes in recorded data, so the result should not be interpreted in isolation."
+  },
+  {
+    "id": "T30",
+    "kk": "Sports Technology & Media",
+    "domain": "Cost, access & equity",
+    "difficulty": "Stimulus",
+    "q": "A community club introduces GPS watches. Athletes gain useful training feedback, but each member must pay an additional annual fee and several families cannot afford it. Which evaluation is strongest?",
+    "options": [
+      "The watches should be compulsory because data are useful.",
+      "The watches may support training, but the cost barrier can reduce equitable access to the benefit.",
+      "The cost is irrelevant because useful performance technology benefits all athletes equally once a club decides the information is valuable.",
+      "The club should stop using all technology."
+    ],
+    "answer": 1,
+    "feedback": "A strong evaluation recognises both the performance benefit and the access limitation created by cost."
+  },
+  {
+    "id": "T31",
+    "kk": "Sports Technology & Media",
+    "domain": "Media data & causation",
+    "difficulty": "Stimulus",
+    "q": "A women's competition receives more media coverage over three years. During the same period, spectator awareness and junior registrations also rise. What is the best interpretation?",
+    "options": [
+      "Media coverage is proven to be the only cause of increased registrations because awareness and participation rose during the same period.",
+      "Junior registrations must have increased because sponsorship increased.",
+      "The variables increased together, but the information does not prove that media coverage caused every change.",
+      "The data prove that all gender-equity barriers were removed."
+    ],
+    "answer": 2,
+    "feedback": "The data show an association, not proof of causation. Other changes may also have influenced awareness and registrations."
+  },
+  {
+    "id": "T32",
+    "kk": "Sports Technology & Media",
+    "domain": "Negative media influences",
+    "difficulty": "Stimulus",
+    "q": "An athlete receives extensive media attention before a major event. Sponsorship increases, but the athlete reports disrupted concentration and reduced recovery time because of interviews. Which conclusion is best supported?",
+    "options": [
+      "Media attention affects sponsorship only and cannot influence concentration, recovery, confidence or other aspects of athlete performance.",
+      "Public attention always improves concentration.",
+      "The athlete should avoid all media permanently.",
+      "Media exposure can create both performance benefits and performance pressures."
+    ],
+    "answer": 3,
+    "feedback": "Media exposure may bring resources and recognition while also increasing scrutiny, pressure and demands on training or recovery."
+  },
+  {
+    "id": "T33",
+    "kk": "Sports Technology & Media",
+    "domain": "Technology & inclusion",
+    "difficulty": "Stimulus",
+    "q": "An online fitness platform adds captions, clear demonstrations and seated exercise options. Which outcome is most likely?",
+    "options": [
+      "The changes may improve inclusion by making activities usable for a wider range of participants.",
+      "The changes guarantee that all participants will join because captions and seated options remove every remaining access and inclusion barrier.",
+      "The platform no longer needs internet access.",
+      "The changes affect performance only."
+    ],
+    "answer": 0,
+    "feedback": "Accessible instructions and adapted activity options can help more people participate meaningfully."
+  },
+  {
+    "id": "T34",
+    "kk": "Sports Technology & Media",
+    "domain": "Historical, current & future implications",
+    "difficulty": "Stimulus",
+    "q": "Sports monitoring once relied heavily on stopwatches and written records, while current athletes can use wearable devices and automated analysis. Which future issue is most important to consider as technology develops further?",
+    "options": [
+      "Whether athletes should stop using human judgement entirely once automated systems can process larger amounts of performance data.",
+      "Privacy, fairness, access and the accuracy or bias of automated feedback",
+      "Whether all technology should be banned from sport",
+      "Whether digital tools can replace physical training"
+    ],
+    "answer": 1,
+    "feedback": "Future sports technology may expand opportunities, but ethical safeguards must develop alongside innovation, particularly around privacy, fairness, access and automated decision-making."
+  },
+  {
+    "id": "T35",
+    "kk": "Sports Technology & Media",
+    "domain": "Wearables & monitoring",
+    "difficulty": "SAC-style",
+    "q": "A professional club uses GPS technology to monitor workload. The system provides detailed feedback but is expensive and stores personal location and health data. Which evaluation is most appropriate?",
+    "options": [
+      "The technology benefits every athlete equally because objective data automatically remove differences in affordability, digital access and individual interpretation.",
+      "The technology should replace coach observation.",
+      "The technology may support individualised training, but cost, privacy, accessibility and data interpretation must be considered.",
+      "The technology affects performance but cannot affect access or inclusion."
+    ],
+    "answer": 2,
+    "feedback": "A strong evaluation weighs the performance benefit against concerns about affordability, privacy, accessibility and interpretation."
+  },
+  {
+    "id": "T36",
+    "kk": "Sports Technology & Media",
+    "domain": "Media, beliefs & behaviour",
+    "difficulty": "SAC-style",
+    "q": "A women's sporting competition receives increased media coverage, more people become aware of the competition and junior registrations rise. Which explanation is strongest?",
+    "options": [
+      "Media coverage alone caused every new registration.",
+      "Participation rose because media coverage removes cost, transport and facility barriers and therefore guarantees that every interested viewer can access the sport.",
+      "Coverage can influence performance but not participation.",
+      "Greater visibility may influence beliefs and awareness and contribute to participation, but other access factors may also affect registrations."
+    ],
+    "answer": 3,
+    "feedback": "Media can influence beliefs, awareness and behaviour, but participation also depends on factors such as cost, transport, facilities and available programs."
+  },
+  {
+    "id": "T37",
+    "kk": "Sports Technology & Media",
+    "domain": "Fairness & regulation",
+    "difficulty": "SAC-style",
+    "q": "A new piece of equipment improves performance but is available only to well-funded teams. Which response best addresses the issue?",
+    "options": [
+      "Governing bodies should consider whether the technology creates an unfair advantage and whether rules are needed to protect competition equity.",
+      "All teams should be required to buy the technology immediately because equal rules are achieved whenever every competitor is expected to purchase the same equipment regardless of cost.",
+      "Technology should never be used in sport.",
+      "Performance improvements always justify unequal access."
+    ],
+    "answer": 0,
+    "feedback": "Ethical evaluation should consider who benefits, who misses out and whether regulation is needed to balance innovation with fairness."
+  },
+  {
+    "id": "T38",
+    "kk": "Sports Technology & Media",
+    "domain": "Local, national & global perspectives",
+    "difficulty": "SAC-style",
+    "q": "Which statement best compares local and global influences of sports technology and media?",
+    "options": [
+      "Local technology affects access only, while global technology affects performance only, because the scale at which technology is used completely determines which sporting outcome it can influence.",
+      "Local clubs may use affordable tools to improve access and communication, while global sport may face wider issues involving international exposure, funding differences and equipment regulation.",
+      "Global media reaches everyone equally.",
+      "Local clubs cannot use digital technology."
+    ],
+    "answer": 1,
+    "feedback": "Local and global contexts can use similar technologies differently, and the scale of access, funding, exposure and regulation varies."
+  },
+  {
+    "id": "T39",
+    "kk": "Sports Technology & Media",
+    "domain": "Historical, current & future implications",
+    "difficulty": "SAC-style",
+    "q": "Which statement best analyses change over time in sports media?",
+    "options": [
+      "Sports media has always operated in the same way.",
+      "Digital media has removed all inequalities in sports coverage because every athlete, competition and audience now has equal access to online platforms, sponsorship, reliable internet, respectful representation and the same opportunity to create and distribute content.",
+      "Traditional media once gave audiences fewer choices and broadcasters greater control, while digital platforms now allow wider participation in content creation but also create new issues such as online abuse and privacy.",
+      "Future media will no longer influence beliefs or behaviour."
+    ],
+    "answer": 2,
+    "feedback": "A strong historical-current-future analysis recognises both expanded access and new ethical challenges created by digital media."
+  },
+  {
+    "id": "T40",
+    "kk": "Sports Technology & Media",
+    "domain": "Interrelationships",
+    "difficulty": "SAC-style",
+    "q": "A young athlete follows a popular online training account, buys an expensive wearable and copies a demanding program without professional advice. Which conclusion best demonstrates an integrated understanding?",
+    "options": [
+      "Popular online advice is reliable whenever many people follow it because large audiences prove the program is safe, suitable for individual needs and supported by accurate evidence.",
+      "Technology guarantees that the copied program is appropriate.",
+      "Media and technology cannot interact to influence participation or performance.",
+      "Media may influence behaviour, while technology can provide useful feedback, but cost, suitability, interpretation and the reliability of online advice still matter."
+    ],
+    "answer": 3,
+    "feedback": "Media can shape behaviour and technology can support monitoring, but benefits depend on trustworthy advice, appropriate interpretation, individual needs and equitable access."
   }
 ]
