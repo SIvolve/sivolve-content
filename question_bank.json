@@ -487,11 +487,11 @@
     "q": "Which situation most clearly demonstrates an injury affecting access to physical activity?",
     "options": [
       "An injured athlete feels disconnected from teammates.",
-      "A player cannot afford required rehabilitation.",
       "Knee pain prevents an athlete from completing training.",
-      "Reduced strength slows an athlete during competition."
+      "Reduced strength slows an athlete during competition.",
+      "A player cannot afford required rehabilitation."
     ],
-    "answer": 1,
+    "answer": 3,
     "feedback": "Cost is a practical barrier to obtaining rehabilitation and therefore affects access."
   },
   {
@@ -546,12 +546,12 @@
     "difficulty": "Foundation",
     "q": "The anterior cruciate ligament assists primarily with:",
     "options": [
-      "Stabilising the knee during forward and rotational movement.",
       "Producing energy used for muscular contraction during movement.",
       "Absorbing impact forces through the ankle during landing.",
-      "Controlling movement at the shoulder joint during throwing."
+      "Controlling movement at the shoulder joint during throwing.",
+      "Stabilising the knee during forward and rotational movement."
     ],
-    "answer": 0,
+    "answer": 3,
     "feedback": "The ACL contributes to knee stability, including control of forward movement of the shin and rotational stability."
   },
   {
@@ -607,11 +607,11 @@
     "q": "A concussed player returns too early and receives another heavy impact. Which consequence is most likely?",
     "options": [
       "The second impact guarantees a faster and safer recovery.",
-      "Further injury may worsen the condition and delay recovery for the athlete.",
       "The player automatically becomes immune to future concussion.",
+      "Further injury may worsen the condition and delay recovery for the athlete.",
       "Continued participation reduces the need for medical assessment."
     ],
-    "answer": 1,
+    "answer": 2,
     "feedback": "Another impact before recovery may worsen the injury and increase time away from sport."
   },
   {
@@ -637,11 +637,11 @@
     "q": "A netballer twists awkwardly, hears a pop and develops rapid knee swelling. Which response is most appropriate?",
     "options": [
       "Strap the knee and return if jogging feels comfortable.",
-      "Remove the athlete from play and arrange qualified assessment.",
       "Complete several more direction changes to test stability.",
-      "Continue competing unless pain becomes severe."
+      "Continue competing unless pain becomes severe.",
+      "Remove the athlete from play and arrange qualified assessment."
     ],
-    "answer": 1,
+    "answer": 3,
     "feedback": "A pop, swelling and instability may indicate serious injury and require removal and professional assessment."
   },
   {
@@ -757,11 +757,11 @@
     "q": "Which action best reflects an athlete's responsibility for sporting safety?",
     "options": [
       "Hiding symptoms to avoid losing selection.",
-      "Reporting injury symptoms and concerns.",
       "Diagnosing their own concussion.",
+      "Reporting injury symptoms and concerns.",
       "Ignoring medical advice when feeling better."
     ],
-    "answer": 1,
+    "answer": 2,
     "feedback": "Athletes contribute to safety by reporting symptoms and injury concerns rather than concealing them."
   },
   {
@@ -772,11 +772,11 @@
     "q": "A coach notices that an injured player is being pressured by teammates to return before medical clearance. Which response is most appropriate?",
     "options": [
       "Encourage the athlete to play through the injury.",
-      "Prioritise athlete welfare and support appropriate recovery.",
       "Allow teammates to decide whether the athlete returns.",
-      "Ignore the situation because safety is solely the athlete's responsibility."
+      "Ignore the situation because safety is solely the athlete's responsibility.",
+      "Prioritise athlete welfare and support appropriate recovery."
     ],
-    "answer": 1,
+    "answer": 3,
     "feedback": "Coaches should provide safe preparation and avoid pressuring athletes to continue when injured."
   },
   {
@@ -786,12 +786,12 @@
     "difficulty": "Stimulus",
     "q": "A sports club records 18 injury presentations for ages 8–9, 42 for ages 10–14, 37 for ages 15–19 and 25 for ages 20–24. Which conclusion is best supported?",
     "options": [
-      "The 10–14 group recorded the most injury presentations.",
       "Injury risk always decreases with age.",
       "Every participant aged 10–14 will experience a sports injury.",
-      "Age is the only factor influencing injury."
+      "Age is the only factor influencing injury.",
+      "The 10–14 group recorded the most injury presentations."
     ],
-    "answer": 0,
+    "answer": 3,
     "feedback": "The data support a comparison of the recorded groups but do not establish universal injury risk or prove a single cause."
   },
   {
@@ -861,12 +861,12 @@
     "difficulty": "Stimulus",
     "q": "Before concussion education, 14 athletes reported that they would continue playing after feeling dizzy following a collision. After education, only 4 reported that they would continue. Which conclusion is best supported?",
     "options": [
-      "Education may have improved appropriate withdrawal from play.",
       "Education eliminates all concussions.",
       "Dizziness is unrelated to concussion.",
-      "Education proves that injury rates will fall to zero."
+      "Education proves that injury rates will fall to zero.",
+      "Education may have improved appropriate withdrawal from play."
     ],
-    "answer": 0,
+    "answer": 3,
     "feedback": "Education can improve awareness and willingness to respond appropriately, although it cannot eliminate all injury."
   },
   {
@@ -876,12 +876,12 @@
     "difficulty": "Stimulus",
     "q": "An injured netballer cannot afford private physiotherapy, feels disconnected after missing team activities, attends fewer training sessions and moves more slowly after returning. Which sequence correctly identifies the effects?",
     "options": [
-      "Access → inclusion → participation → performance",
       "Inclusion → access → performance → participation",
       "Participation → performance → access → inclusion",
+      "Access → inclusion → participation → performance",
       "Performance → inclusion → access → participation"
     ],
-    "answer": 0,
+    "answer": 2,
     "feedback": "Rehabilitation cost affects access; disconnection affects inclusion; fewer sessions affects participation; slower movement affects performance."
   },
   {
@@ -892,11 +892,11 @@
     "q": "A junior sporting league introduces a rule requiring athletes with suspected concussion to be removed from play, assessed appropriately and complete a gradual return process. How is this most likely to reduce the impact of injury?",
     "options": [
       "It guarantees that concussion will never occur.",
-      "It reduces continued participation during possible recovery.",
       "It allows athletes to return as soon as symptoms briefly disappear.",
+      "It reduces continued participation during possible recovery.",
       "It places all responsibility for concussion on the athlete."
     ],
-    "answer": 1,
+    "answer": 2,
     "feedback": "Removal and controlled return reduce exposure to further injury during recovery and place athlete welfare ahead of immediate performance."
   },
   {
@@ -937,11 +937,11 @@
     "q": "An athlete has completed several weeks of intense training and reports high fatigue but no specific injury. Which strategy is most appropriate for reducing injury risk?",
     "options": [
       "Increase training volume further.",
-      "Allow adequate rest and recovery to manage fatigue.",
       "Avoid all nutrition following training.",
+      "Allow adequate rest and recovery to manage fatigue.",
       "Wait until an injury develops before changing the program."
     ],
-    "answer": 1,
+    "answer": 2,
     "feedback": "Adequate recovery can reduce fatigue and the risk of injuries associated with excessive training load."
   },
   {
