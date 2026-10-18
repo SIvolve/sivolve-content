@@ -10483,5 +10483,605 @@
     ],
     "answer": 3,
     "feedback": "Media can shape behaviour and technology can support monitoring, but benefits depend on trustworthy advice, appropriate interpretation, individual needs and equitable access."
+  },
+  {
+    "id": "IE01",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Institutional & structural inclusion",
+    "difficulty": "Foundation",
+    "q": "Which statement best describes institutional and structural inclusion in sport?",
+    "options": [
+      "It means every participant must receive exactly the same support.",
+      "Sporting organisations use rules, leadership and resources in ways that help different people access, belong, participate and progress.",
+      "It refers only to the design of sporting equipment.",
+      "It applies only to elite sporting organisations."
+    ],
+    "answer": 1,
+    "feedback": "Institutions and structures include organisations, rules, leadership and resource allocation. Their decisions can create or remove barriers to sporting involvement."
+  },
+  {
+    "id": "IE02",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Equality & equity",
+    "difficulty": "Foundation",
+    "q": "What is the main difference between equality and equity in sport?",
+    "options": [
+      "Equality provides the same support, whereas equity responds to different needs and barriers.",
+      "Equality changes support for each participant, whereas equity treats everyone identically.",
+      "Equality relates only to performance, whereas equity relates only to access.",
+      "Equality and equity mean exactly the same thing."
+    ],
+    "answer": 0,
+    "feedback": "Equality means providing the same opportunity or resource. Equity recognises that different barriers may require different support to create fair opportunities."
+  },
+  {
+    "id": "IE03",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Community voice & consultation",
+    "difficulty": "Foundation",
+    "q": "Why is community consultation important when designing inclusive sporting programs?",
+    "options": [
+      "It guarantees that every participant will agree with the final program.",
+      "It removes the need for organisational responsibility.",
+      "It helps organisations identify actual needs and barriers before making decisions.",
+      "It allows leaders to avoid reviewing the program later."
+    ],
+    "answer": 2,
+    "feedback": "Consultation helps organisations understand the needs, priorities and barriers experienced by participants and communities."
+  },
+  {
+    "id": "IE04",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Cultural safety & racism",
+    "difficulty": "Foundation",
+    "q": "Which feature best reflects a culturally safe sporting environment?",
+    "options": [
+      "Every cultural group is expected to follow identical practices without discussion.",
+      "Only elite athletes are asked about cultural needs.",
+      "Concerns are ignored unless participation numbers fall.",
+      "Participants' identities are respected and there are clear processes for responding to racism or discrimination."
+    ],
+    "answer": 3,
+    "feedback": "Cultural safety involves respect for identity, freedom from racism or humiliation, meaningful consultation and clear responses to concerns."
+  },
+  {
+    "id": "IE05",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Physical diversity",
+    "difficulty": "Foundation",
+    "q": "Which statement best reflects an inclusive approach to physical diversity?",
+    "options": [
+      "Assume that a physical disability determines the participant's sporting ability.",
+      "Ask the participant about their goals and useful adjustments, then adapt support where needed.",
+      "Remove challenging activities from anyone who uses adapted equipment.",
+      "Use identical equipment for every participant regardless of need."
+    ],
+    "answer": 1,
+    "feedback": "Inclusive practice starts with the participant's strengths, goals and preferences rather than assumptions about ability."
+  },
+  {
+    "id": "IE06",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Intellectual diversity",
+    "difficulty": "Foundation",
+    "q": "Which strategy can support a participant who needs extra processing time?",
+    "options": [
+      "Use short instructions, demonstrations, processing time and repeated practice.",
+      "Give several new instructions at once to increase independence.",
+      "Reduce all activities to the easiest possible level.",
+      "Avoid giving feedback so the participant is not confused."
+    ],
+    "answer": 0,
+    "feedback": "Clear language, step-by-step demonstrations, processing time and repeated practice can support understanding while maintaining appropriate challenge."
+  },
+  {
+    "id": "IE07",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Gender & sexual diversity",
+    "difficulty": "Foundation",
+    "q": "How can discriminatory language affect gender and sexually diverse participants in sport?",
+    "options": [
+      "It has no effect if the participant remains registered.",
+      "It improves motivation by making sport more competitive.",
+      "It can weaken safety and belonging and may reduce participation or performance.",
+      "It affects spectators but not athletes."
+    ],
+    "answer": 2,
+    "feedback": "Discriminatory language and harassment can reduce belonging, discourage attendance and create distraction that affects performance."
+  },
+  {
+    "id": "IE08",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Measuring inclusion",
+    "difficulty": "Foundation",
+    "q": "Why are registration numbers alone insufficient to judge whether a sporting environment is inclusive?",
+    "options": [
+      "They cannot provide any information about participation.",
+      "They measure performance instead of participation.",
+      "They are useful only for national organisations.",
+      "They show who joins but not necessarily whether participants feel respected, heard or meaningfully involved."
+    ],
+    "answer": 3,
+    "feedback": "Participation data are useful, but participant experiences are also needed to judge safety, belonging and meaningful inclusion."
+  },
+  {
+    "id": "IE09",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Cultural diversity & communication",
+    "difficulty": "Application",
+    "q": "A club's registration information is available only in complex English, and several families cannot understand how to enrol. Which strategy most directly addresses the barrier?",
+    "options": [
+      "Keep the existing information and ask children to translate it.",
+      "Provide plain-language and translated information with registration assistance.",
+      "Increase the registration fee to fund more training sessions.",
+      "Limit enrolment to families already familiar with the club."
+    ],
+    "answer": 1,
+    "feedback": "Accessible and translated information can reduce a communication barrier and improve access to the registration process."
+  },
+  {
+    "id": "IE10",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Cultural diversity & scheduling",
+    "difficulty": "Application",
+    "q": "Several participants regularly miss training because sessions clash with important cultural or religious commitments. What is the most inclusive response?",
+    "options": [
+      "Consult participants and consider flexible scheduling where practical.",
+      "Keep the schedule unchanged because equality requires identical treatment.",
+      "Remove participants who cannot attend every session.",
+      "Assume the participants are not committed to the sport."
+    ],
+    "answer": 0,
+    "feedback": "Consultation and flexible scheduling can address a structural barrier without making assumptions about commitment."
+  },
+  {
+    "id": "IE11",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Racism & organisational response",
+    "difficulty": "Application",
+    "q": "A player reports repeated racial abuse at training. Which organisational response is most appropriate?",
+    "options": [
+      "Ignore the report unless several other players complain.",
+      "Ask the player to solve the issue privately with the person involved.",
+      "Use clear reporting procedures, respond consistently and support the affected participant.",
+      "Wait to see whether the player stops attending."
+    ],
+    "answer": 2,
+    "feedback": "Organisations should respond to racism through clear procedures, consistent action and support. Ignoring reports can undermine trust and safety."
+  },
+  {
+    "id": "IE12",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Aboriginal & Torres Strait Islander inclusion",
+    "difficulty": "Application",
+    "q": "A regional organisation wants to develop a new sport program with a local Aboriginal community. Which approach is most appropriate?",
+    "options": [
+      "Use a successful program from another community without changes.",
+      "Complete the program first and request feedback after launch.",
+      "Use cultural symbols in promotion without seeking permission.",
+      "Co-design the program with local community leaders and organisations so local priorities shape planning and delivery."
+    ],
+    "answer": 3,
+    "feedback": "Aboriginal and Torres Strait Islander communities are diverse. Meaningful inclusion requires local voice, partnership and co-design rather than assumptions or one-size-fits-all programs."
+  },
+  {
+    "id": "IE13",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Policy into practice",
+    "difficulty": "Application",
+    "q": "A club publishes an inclusion policy but provides no staff training, funding or reporting process. What is the main limitation?",
+    "options": [
+      "The policy automatically creates an inclusive environment once published.",
+      "The policy may have little practical effect because responsibilities and resources have not been established.",
+      "The policy should focus only on elite athletes.",
+      "Written policies are never useful in sport."
+    ],
+    "answer": 1,
+    "feedback": "Inclusive policies need implementation through resources, staff training, clear responsibilities, reporting processes and ongoing review."
+  },
+  {
+    "id": "IE14",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Resource allocation",
+    "difficulty": "Application",
+    "q": "A club has a small inclusion budget. Participant feedback identifies transport costs as the main reason some members cannot attend training. Which use of the funding is most equitable?",
+    "options": [
+      "Prioritise transport assistance for participants affected by the identified barrier.",
+      "Divide the money equally among every registered member regardless of need.",
+      "Spend the full budget on promotional posters.",
+      "Reserve all funding for the highest-performing team."
+    ],
+    "answer": 0,
+    "feedback": "Equitable resource allocation responds to identified barriers. If transport is preventing attendance, targeted assistance can improve participation."
+  },
+  {
+    "id": "IE15",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Physical access & facilities",
+    "difficulty": "Application",
+    "q": "A wheelchair user cannot enter a sporting venue because the only entrance has stairs. Which change most directly improves access?",
+    "options": [
+      "Offer encouragement and ask the participant to practise climbing stairs.",
+      "Move all activities to a more difficult location.",
+      "Provide an accessible entrance and clear pathways through the venue.",
+      "Ask another participant to carry the wheelchair."
+    ],
+    "answer": 2,
+    "feedback": "Accessible entrances and pathways remove a structural barrier that prevents a participant from entering and using the venue."
+  },
+  {
+    "id": "IE16",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Adapted equipment & activities",
+    "difficulty": "Application",
+    "q": "A participant has difficulty controlling the standard ball used in a skills session. Which response is most inclusive?",
+    "options": [
+      "Remove the participant from skill practice.",
+      "Use the ball because equal treatment requires every participant to use identical equipment.",
+      "Make every activity easier for the whole group.",
+      "Consult the participant and trial suitable equipment adjustments while maintaining an appropriate challenge."
+    ],
+    "answer": 3,
+    "feedback": "Adaptations should respond to individual needs while preserving choice, meaningful participation and opportunities to progress."
+  },
+  {
+    "id": "IE17",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Intellectual diversity & learning",
+    "difficulty": "Application",
+    "q": "A participant finds multi-step spoken instructions difficult to remember. Which coaching adjustment is most appropriate?",
+    "options": [
+      "Repeat instructions faster and more loudly so the participant receives the same information as everyone else.",
+      "Demonstrate one step at a time, allow practice and check understanding before adding the next step.",
+      "Exclude the participant from complex skills.",
+      "Give the participant an unrelated activity."
+    ],
+    "answer": 1,
+    "feedback": "Breaking instructions into manageable steps, demonstrating, allowing practice and checking understanding can support skill learning and performance."
+  },
+  {
+    "id": "IE18",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Choice & independence",
+    "difficulty": "Application",
+    "q": "A participant can complete most activities independently but sometimes needs assistance. What approach best supports inclusion?",
+    "options": [
+      "Ask what assistance is useful and provide support without taking over tasks the participant can manage.",
+      "Provide assistance for every task so the participant never needs to make independent choices during sessions.",
+      "Speak only to the participant's support person.",
+      "Remove all challenging activities."
+    ],
+    "answer": 0,
+    "feedback": "Inclusive support respects participant choice and independence while providing assistance where it is genuinely useful."
+  },
+  {
+    "id": "IE19",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Participation options",
+    "difficulty": "Application",
+    "q": "Why can offering mainstream, adapted and specialist participation options support inclusion?",
+    "options": [
+      "Require every participant with support needs to choose a specialist program because specialists always provide safer participation.",
+      "It prevents participants from changing programs over time.",
+      "It can provide meaningful choice so participants can select settings that suit their goals and support needs.",
+      "It removes the need to consult participants."
+    ],
+    "answer": 2,
+    "feedback": "Different participation settings can support different goals and needs. The key is meaningful participant choice rather than automatic placement."
+  },
+  {
+    "id": "IE20",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Gender & sexual diversity",
+    "difficulty": "Application",
+    "q": "A club hears repeated homophobic comments in the change rooms. Which response best supports inclusion?",
+    "options": [
+      "Ignore the comments unless a player leaves the club.",
+      "Ask affected players to avoid the change rooms.",
+      "Require players to disclose their orientation before support is offered so the club can respond consistently.",
+      "Set and enforce clear expectations for respectful behaviour, provide a reporting pathway and address the comments."
+    ],
+    "answer": 3,
+    "feedback": "Organisations should address discriminatory language consistently, provide accessible reporting and protect participant privacy."
+  },
+  {
+    "id": "IE21",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Privacy & respectful support",
+    "difficulty": "Application",
+    "q": "Which action best respects the privacy of a gender-diverse participant?",
+    "options": [
+      "Share the participant's identity with the team so everyone can prepare appropriate support together.",
+      "Ask what support is helpful and avoid pressuring the participant to disclose personal information.",
+      "Require personal details before allowing participation.",
+      "Discuss the participant's identity publicly to promote inclusion."
+    ],
+    "answer": 1,
+    "feedback": "Inclusive practice respects privacy, individual choice and the participant's preferences about what information is shared."
+  },
+  {
+    "id": "IE22",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Development pathways",
+    "difficulty": "Application",
+    "q": "A participant with disability is welcomed into social sessions but is never considered for advanced coaching despite strong performance. What is the main inclusion issue?",
+    "options": [
+      "Access to development and performance pathways is being restricted by assumptions rather than relevant ability.",
+      "The participant already has full inclusion because registration provides equal access to every development opportunity.",
+      "Advanced coaching should be limited to participants without disability.",
+      "Development pathways are unrelated to inclusion."
+    ],
+    "answer": 0,
+    "feedback": "Inclusion extends beyond entry. Fair opportunities to develop, compete, coach, officiate and lead should be based on relevant skills and goals rather than assumptions."
+  },
+  {
+    "id": "IE23",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Leadership & representation",
+    "difficulty": "Application",
+    "q": "How can diverse representation in club leadership improve structural inclusion?",
+    "options": [
+      "It guarantees every leadership decision will satisfy all members because diverse representation removes the need for further consultation.",
+      "It removes the need for community consultation.",
+      "It can bring a wider range of experiences into decisions about policies, resources and programs.",
+      "It affects leadership but cannot influence participation."
+    ],
+    "answer": 2,
+    "feedback": "Representation can help decision-making reflect a wider range of experiences, although meaningful inclusion also requires consultation, action and review."
+  },
+  {
+    "id": "IE24",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Local partnerships",
+    "difficulty": "Application",
+    "q": "Why might a local club partner with community organisations when developing an inclusion program?",
+    "options": [
+      "Partnerships allow the club to avoid direct consultation because community organisations can speak accurately for every participant and family.",
+      "Community organisations should make all club decisions.",
+      "Partnerships are useful only for one-off events.",
+      "Community partners can help identify priorities, build trust and connect the club with interested families."
+    ],
+    "answer": 3,
+    "feedback": "Local partnerships can combine knowledge, relationships and resources, especially when maintained through shared planning and ongoing feedback."
+  },
+  {
+    "id": "IE25",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "National approaches",
+    "difficulty": "Application",
+    "q": "What is an important role for a national sporting body in promoting inclusion?",
+    "options": [
+      "Design one identical national program for every community because consistent delivery is more important than local consultation or adaptation.",
+      "Provide guidance, education and resources that support inclusive practice across state and local organisations.",
+      "Focus only on national-team selection.",
+      "Leave all inclusion decisions to individual athletes."
+    ],
+    "answer": 1,
+    "feedback": "National bodies can support inclusion through policy, education, resources and guidance, but local implementation still needs to respond to participant circumstances."
+  },
+  {
+    "id": "IE26",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Global perspectives",
+    "difficulty": "Application",
+    "q": "An international competition increases the visibility of athletes with disability. Why does this not prove that local sport is fully inclusive?",
+    "options": [
+      "Elite visibility can challenge assumptions, but local barriers such as cost, facilities and coaching may still restrict participation.",
+      "International success automatically removes community barriers because visible elite athletes prove that facilities, coaching, cost and attitudes are equally supportive everywhere.",
+      "Local clubs are unaffected by access and inclusion issues.",
+      "Visibility matters only to spectators."
+    ],
+    "answer": 0,
+    "feedback": "Elite success and visibility can influence beliefs, but accessible community opportunities, resources and support are still necessary for local inclusion."
+  },
+  {
+    "id": "IE27",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Historical, current & future implications",
+    "difficulty": "Application",
+    "q": "How can historical exclusion continue to influence current participation?",
+    "options": [
+      "Historical exclusion has no current effect once organisations change their written rules because trust is restored immediately by policy reform.",
+      "Only current funding levels influence participation.",
+      "Past discriminatory practices can affect trust in sporting institutions and willingness to engage with unfamiliar organisations.",
+      "Historical issues affect performance but not access."
+    ],
+    "answer": 2,
+    "feedback": "Historical exclusion can shape current trust and engagement. Sustained practical change, community voice and accountability are needed to rebuild confidence."
+  },
+  {
+    "id": "IE28",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Measuring inclusion",
+    "difficulty": "Application",
+    "q": "A club's registrations rise after an inclusion initiative, but several participants report that they are still excluded from decisions. What is the best interpretation?",
+    "options": [
+      "The initiative is fully successful because registrations increased.",
+      "Participant feedback should be ignored because subjective experiences are less important than the number of people who register.",
+      "The club should remove the inclusion initiative.",
+      "Registrations suggest improved access or participation, but participant feedback shows inclusion still needs attention."
+    ],
+    "answer": 3,
+    "feedback": "Multiple forms of evidence are needed. Registrations can show who joins, while participant feedback provides evidence about belonging and meaningful involvement."
+  },
+  {
+    "id": "IE29",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Equality & equity",
+    "difficulty": "Stimulus",
+    "q": "A club charges every junior the same fee. A review finds that some families cannot afford registration or equipment. Which change best demonstrates equity?",
+    "options": [
+      "Keep the same fee because identical treatment ensures every family receives an equal and therefore fair sporting opportunity.",
+      "Offer targeted fee assistance and equipment loans based on identified financial barriers.",
+      "Increase all fees so the club can buy more equipment.",
+      "Remove families who cannot pay on time."
+    ],
+    "answer": 1,
+    "feedback": "Equity responds to different barriers. Targeted financial support can make the sporting opportunity genuinely accessible."
+  },
+  {
+    "id": "IE30",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Aboriginal & Torres Strait Islander inclusion",
+    "difficulty": "Stimulus",
+    "q": "A sporting organisation plans a program for several Aboriginal and Torres Strait Islander communities. Leaders propose using exactly the same activities, timetable and promotion in every location. What is the strongest concern?",
+    "options": [
+      "Communities have different priorities and circumstances, so local consultation and co-design are needed.",
+      "National organisations should use the same program everywhere because consistency is more important than differences between local communities.",
+      "All communities prefer different sports.",
+      "Promotion should occur only after the program finishes."
+    ],
+    "answer": 0,
+    "feedback": "Aboriginal and Torres Strait Islander communities are diverse. Local voices should guide priorities, delivery and review rather than assuming one program suits everyone."
+  },
+  {
+    "id": "IE31",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Physical diversity & access",
+    "difficulty": "Stimulus",
+    "q": "A club reports higher attendance among participants with disability after buying adapted equipment. Feedback shows that several participants still cannot access the upstairs meeting room. Which conclusion is best supported?",
+    "options": [
+      "The club is fully inclusive because higher attendance proves that all facility, communication and participation barriers have been removed.",
+      "The adapted equipment should be removed.",
+      "Participation has improved, but a remaining facility barrier means the club should continue reviewing inclusion.",
+      "Facility access does not affect inclusion."
+    ],
+    "answer": 2,
+    "feedback": "Improved attendance is positive evidence, but participant experience can reveal remaining barriers that still require action."
+  },
+  {
+    "id": "IE32",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Intellectual diversity & performance",
+    "difficulty": "Stimulus",
+    "q": "A basketball player with an intellectual disability performs well in familiar drills but becomes confused when several new instructions are given at once. Which response best supports performance?",
+    "options": [
+      "Lower every drill permanently because participants with intellectual disability should always receive easier activities regardless of skill.",
+      "Remove the player from tactical activities.",
+      "Give the same rapid instructions more loudly.",
+      "Use short step-by-step instructions, demonstrations and repeated practice before combining the movements."
+    ],
+    "answer": 3,
+    "feedback": "Breaking a task into clear steps and allowing practice supports understanding and skill execution without unnecessarily reducing challenge."
+  },
+  {
+    "id": "IE33",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Gender & sexual diversity",
+    "difficulty": "Stimulus",
+    "q": "A teenager stops attending training after repeated transphobic comments from teammates. Which outcome is most directly illustrated?",
+    "options": [
+      "The athlete lacks commitment to training because attendance decisions are determined mainly by personal motivation rather than team behaviour.",
+      "Discriminatory behaviour has weakened inclusion and contributed to reduced participation.",
+      "The comments improved team cohesion.",
+      "The issue affects access only."
+    ],
+    "answer": 1,
+    "feedback": "Harassment can undermine safety and belonging, causing participants to reduce or stop their involvement."
+  },
+  {
+    "id": "IE34",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Community voice & evaluation",
+    "difficulty": "Stimulus",
+    "q": "A club consults a culturally diverse community before launching a program, changes session times and communication methods, and then reviews attendance and participant feedback. Why is this approach strong?",
+    "options": [
+      "It combines community voice, practical action and evidence-based review rather than treating consultation as a one-off activity.",
+      "It guarantees every participant will remain because consultation and schedule changes automatically remove all other access, inclusion and participation barriers.",
+      "It removes the need for future changes.",
+      "It focuses only on participation numbers."
+    ],
+    "answer": 0,
+    "feedback": "Meaningful consultation should influence decisions and be followed by review using both participation data and participant experiences."
+  },
+  {
+    "id": "IE35",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Institutional & structural inclusion",
+    "difficulty": "SAC-style",
+    "q": "A club has an inclusive registration policy but allocates its best facilities, coaches and development funding to the same established group each year. Which evaluation is most appropriate?",
+    "options": [
+      "The club is fully inclusive because open registration means every member has an equal opportunity to access the best facilities, coaches and development resources.",
+      "Resource allocation affects performance only and cannot influence inclusion.",
+      "The club's formal access may be inclusive, but resource allocation can still create structural inequity in participation and performance opportunities.",
+      "Equal registration rules guarantee equitable development pathways."
+    ],
+    "answer": 2,
+    "feedback": "Institutional inclusion depends on more than registration. How facilities, coaching and funding are distributed can affect who participates, develops and progresses."
+  },
+  {
+    "id": "IE36",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Local, national & global perspectives",
+    "difficulty": "SAC-style",
+    "q": "Which statement best compares inclusion strategies across local and national sport?",
+    "options": [
+      "Local clubs should follow national programs without adapting them because consistent implementation across all communities is more important than responding to different local barriers and participant needs.",
+      "National bodies influence performance but not access or inclusion.",
+      "Local organisations cannot contribute to structural change.",
+      "Local clubs can adapt directly to participant needs, while national bodies can provide broader policy, education and resources that support consistent inclusive practice."
+    ],
+    "answer": 3,
+    "feedback": "Local organisations can respond to specific community needs, while national organisations can influence systems through policy, education, resources and leadership."
+  },
+  {
+    "id": "IE37",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Historical, current & future implications",
+    "difficulty": "SAC-style",
+    "q": "Which statement best analyses inclusion in sport over time?",
+    "options": [
+      "Historical exclusion becomes irrelevant once a modern inclusion policy is introduced because written rules immediately restore trust, remove structural barriers and guarantee fair participation opportunities.",
+      "Historical exclusion can shape current trust, current inclusive practices can reduce barriers, and future progress depends on sustained consultation, resources and accountability.",
+      "Current inclusion means future barriers cannot emerge.",
+      "Future inclusion depends only on increasing registrations."
+    ],
+    "answer": 1,
+    "feedback": "A strong time-based analysis links historical effects, current strategies and the need for sustained future action and review."
+  },
+  {
+    "id": "IE38",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Ethical strategies",
+    "difficulty": "SAC-style",
+    "q": "A sporting organisation wants to improve inclusion for a group that reports high costs, poor access to facilities and little voice in decisions. Which strategy is most comprehensive?",
+    "options": [
+      "Consult the group, target resources at the identified barriers, improve facility access and include members in meaningful decision-making.",
+      "Run a promotional campaign without changing resources or facilities.",
+      "Provide exactly the same support to every member because equality ensures fairness even when participants report different barriers involving cost, facilities and decision-making.",
+      "Wait for participation to increase before making structural changes."
+    ],
+    "answer": 0,
+    "feedback": "A strong ethical response addresses the specific barriers identified by participants and combines practical resources with meaningful community voice."
+  },
+  {
+    "id": "IE39",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Access, inclusion, participation & performance",
+    "difficulty": "SAC-style",
+    "q": "A club provides translated registration information, respectful coaching, flexible session times and fair access to advanced coaching. Which sequence best explains the likely outcomes?",
+    "options": [
+      "Translated information improves performance directly, while advanced coaching affects access only, because each strategy influences a single sporting outcome and cannot affect other stages of involvement.",
+      "Flexible session times guarantee inclusion regardless of coaching behaviour.",
+      "Translated information can improve access, respectful coaching can strengthen inclusion, flexible times can support participation, and advanced coaching can support performance.",
+      "All four strategies influence exactly the same sporting outcome."
+    ],
+    "answer": 2,
+    "feedback": "Different strategies can affect different stages of sporting involvement, from gaining access through to belonging, regular participation and performance development."
+  },
+  {
+    "id": "IE40",
+    "kk": "Inclusion & Equity in Sport",
+    "domain": "Evaluating inclusion",
+    "difficulty": "SAC-style",
+    "q": "After an inclusion program, registrations rise by 20% and retention improves, but participant interviews identify ongoing racism and limited leadership opportunities. Which judgement is strongest?",
+    "options": [
+      "The program is fully successful because registrations increased.",
+      "The interviews should be ignored because numerical data are more reliable.",
+      "The program has failed completely because any remaining barrier proves that increased registrations and retention have no value and that none of the inclusion strategies worked.",
+      "The program has improved some participation outcomes, but inclusion remains incomplete because participant experiences and structural opportunities still show barriers."
+    ],
+    "answer": 3,
+    "feedback": "Evaluation should use multiple forms of evidence. Improved registrations and retention show progress, while reported racism and limited leadership opportunities show that further action is needed."
   }
 ]
