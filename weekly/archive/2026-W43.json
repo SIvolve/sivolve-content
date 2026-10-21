@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "week": "2026-W43",
+  "timezone": "Australia/Melbourne",
+  "status": "published",
+  "generated_at": "2026-10-21T04:09:30.779722+00:00",
+  "questions": [
+    {
+      "id": "M16",
+      "kk": "Mental Fitness",
+      "domain": "Cognitive functioning",
+      "difficulty": "Application",
+      "q": "During a match, a footballer notices an unmarked teammate and quickly selects an appropriate pass. Which component of mental fitness is most directly involved?",
+      "options": [
+        "Cognitive functioning.",
+        "Social exclusion.",
+        "Structural access.",
+        "Physical strength."
+      ],
+      "answer": 0,
+      "feedback": "Cognitive functioning supports information processing, decision-making and problem-solving during performance."
+    },
+    {
+      "id": "C02",
+      "kk": "Coaching",
+      "domain": "Directive coaching",
+      "difficulty": "Foundation",
+      "q": "Which statement best describes directive coaching?",
+      "options": [
+        "The coach provides clear instructions and demonstrations and makes most immediate decisions.",
+        "The athletes independently design the session without coach input.",
+        "The coach avoids correcting unsafe technique.",
+        "The athletes determine all safety procedures."
+      ],
+      "answer": 0,
+      "feedback": "Directive coaching is coach-led and can be useful when clear instruction, demonstrations or immediate safety guidance are required."
+    },
+    {
+      "id": "A1SEM07",
+      "kk": "Social-Ecological Model",
+      "domain": "Core concepts",
+      "difficulty": "Foundation",
+      "q": "Why is the Social-Ecological Model useful when examining physical activity behaviour?",
+      "options": [
+        "It assumes one factor usually explains behaviour completely.",
+        "It focuses only on personal motivation.",
+        "It recognises that several interacting factors can influence behaviour.",
+        "It removes the need to consider barriers and enablers."
+      ],
+      "answer": 2,
+      "feedback": "The model recognises that physical activity and sedentary behaviour are shaped by multiple interacting influences."
+    },
+    {
+      "id": "H32",
+      "kk": "Hormonal Considerations",
+      "domain": "Historical, current & future implications",
+      "difficulty": "Application",
+      "q": "Why is increased research involving female athletes important for physical-activity prescription?",
+      "options": [
+        "It allows one training program to be prescribed for all female athletes.",
+        "It proves menstrual-cycle phase is the main influence on sporting performance.",
+        "It can improve evidence used to develop more individualised exercise programs.",
+        "It removes the need to consider an athlete's symptoms and training responses."
+      ],
+      "answer": 2,
+      "feedback": "Better research can improve understanding of individual responses and support more informed physical-activity prescription."
+    },
+    {
+      "id": "G29",
+      "kk": "Geographic Location",
+      "domain": "Access, inclusion, participation & performance",
+      "difficulty": "Stimulus",
+      "q": "A survey finds that 72% of urban adolescents can reach organised sport within 20 minutes, compared with 38% of adolescents in remote communities. Which conclusion is best supported?",
+      "options": [
+        "Remote adolescents are less motivated to participate.",
+        "Urban adolescents have no barriers to sport participation.",
+        "Travel and service availability may create greater access barriers for remote adolescents.",
+        "Geographic location alone determines participation because travel time controls access for adolescents."
+      ],
+      "answer": 2,
+      "feedback": "The data suggest a difference in geographic access, but they do not prove differences in motivation or show that geography is the only influence."
+    },
+    {
+      "id": "A1BEN09",
+      "kk": "Benefits of Regular Participation in Movement",
+      "domain": "Social benefits",
+      "difficulty": "Foundation",
+      "q": "Which benefit is most closely associated with social health and wellbeing?",
+      "options": [
+        "Developing communication and teamwork skills",
+        "Reducing the risk of type 2 diabetes",
+        "Improving the ability to process information",
+        "Developing a stronger sense of personal meaning"
+      ],
+      "answer": 0,
+      "feedback": "Communication and teamwork help people interact effectively and build meaningful relationships, supporting social health and wellbeing."
+    },
+    {
+      "id": "C25",
+      "kk": "Coaching",
+      "domain": "Club & organisational responsibility",
+      "difficulty": "Application",
+      "q": "Which action best demonstrates a sporting club taking responsibility for safe coaching?",
+      "options": [
+        "Providing codes of conduct, coach education, supervision and clear reporting pathways",
+        "Assuming a screening check guarantees safe behaviour and therefore removing the need for supervision, training or reporting procedures",
+        "Leaving each coach to create their own safeguarding rules",
+        "Responding only after serious harm occurs"
+      ],
+      "answer": 0,
+      "feedback": "Safe coaching environments require organisational systems such as recruitment checks, education, supervision, codes of conduct and accessible reporting."
+    },
+    {
+      "id": "A1GL23",
+      "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+      "domain": "Older adults 65+",
+      "difficulty": "Application",
+      "q": "Why are functional activities particularly relevant within the older-adult guidelines?",
+      "options": [
+        "They are the only physical activity older adults are permitted to complete under the guidelines",
+        "They replace the need for muscle-strengthening activity.",
+        "They target mobility, balance and coordination, which can support physical function and reduce falls risk.",
+        "They must always be completed at vigorous intensity."
+      ],
+      "answer": 2,
+      "feedback": "Functional activities target mobility, balance and coordination and are especially relevant to maintaining function and reducing falls risk."
+    },
+    {
+      "id": "A1PT30",
+      "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+      "domain": "Stimulus interpretation",
+      "difficulty": "Stimulus",
+      "q": "Data: children aged 2–5 — 39% did not meet the physical activity component; 75% did not meet the screen-time component; 83% did not meet both. What stands out most clearly?",
+      "options": [
+        "Physical activity non-compliance was nearly twice screen-time non-compliance.",
+        "Screen-time non-compliance was particularly high and combined compliance was low.",
+        "Most children met both components.",
+        "Screen time was not a meaningful issue for this age group."
+      ],
+      "answer": 1,
+      "feedback": "Three quarters did not meet the screen-time component and 83% did not meet both components, showing substantial non-compliance."
+    },
+    {
+      "id": "A1HRF35",
+      "kk": "Health-Related Fitness Components",
+      "domain": "SAC-style application",
+      "difficulty": "SAC-style",
+      "q": "A 22-year-old runner has a high proportion of slow-twitch fibres and regularly completes endurance training. Which factor most directly supports their aerobic power according to the fitness-component factors studied?",
+      "options": [
+        "High joint stability because a more stable joint always increases oxygen delivery and therefore directly raises aerobic energy production",
+        "Large adipose stores",
+        "A greater proportion of slow-twitch fibres",
+        "A faster muscle contraction speed"
+      ],
+      "answer": 2,
+      "feedback": "A greater proportion of slow-twitch fibres supports aerobic metabolism and is a factor associated with higher aerobic power."
+    }
+  ]
+}
