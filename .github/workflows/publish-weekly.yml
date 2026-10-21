@@ -1,0 +1,52 @@
+name: Publish SIvolve Weekly
+
+on:
+  schedule:
+    # Sunday UTC = Monday 00:15 Melbourne (AEDT) or 00:15 (AEST).
+    # The other run safely skips or sees an existing snapshot.
+    - cron: '15 13,14 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sivolve-weekly-publication
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout content
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test Weekly generator
+        run: python -m unittest discover -s weekly/tests -v
+      - name: Generate this week's immutable snapshot
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            python -m weekly.publish_weekly --manual
+          else
+            python -m weekly.publish_weekly
+          fi
+      - name: Commit new snapshot only
+        run: |
+          WEEK=$(TZ=Australia/Melbourne date +%G-W%V)
+          TARGET="weekly/archive/${WEEK}.json"
+          if [ ! -f "$TARGET" ]; then
+            echo 'No snapshot created.'
+            exit 0
+          fi
+          git add -- "$TARGET"
+          if git diff --cached --quiet; then
+            echo 'Existing weekly snapshot remains unchanged.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "Publish SIvolve Weekly ${WEEK}"
+          git push

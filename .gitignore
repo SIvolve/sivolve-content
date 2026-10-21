@@ -1,0 +1,9 @@
+**/__pycache__/
+*.py[cod]
+.DS_Store
+weekly/output/
+weekly/*.preview.json
+weekly/*.repo-backup.py
+weekly/*.before-*.py
+weekly/source/
+.pytest_cache/
