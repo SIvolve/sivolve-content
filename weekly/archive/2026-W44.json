@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "week": "2026-W44",
+  "timezone": "Australia/Melbourne",
+  "status": "published",
+  "generated_at": "2026-10-25T13:36:07.165269+00:00",
+  "questions": [
+    {
+      "id": "A1AS23",
+      "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+      "domain": "Digital tools",
+      "difficulty": "Application",
+      "q": "Why might a digital tool be unsuitable for some participants?",
+      "options": [
+        "It can never track activity over time.",
+        "It is always less detailed than a recall survey, even when the app stores routes, duration and intensity over time.",
+        "Access to compatible technology or digital skills may be limited.",
+        "It cannot provide feedback to users."
+      ],
+      "answer": 2,
+      "feedback": "Digital tools can be useful, but access to devices, internet or digital skills can create barriers."
+    },
+    {
+      "id": "GE18",
+      "kk": "Gender Equity in Sport",
+      "domain": "Program design",
+      "difficulty": "Application",
+      "q": "A club wants to increase participation among women and girls. What should it do first?",
+      "options": [
+        "Consult participants about their goals, interests and barriers before designing changes.",
+        "Assume all women prefer the same type of program because shared gender always creates identical sporting goals and barriers.",
+        "Create only competitive programs.",
+        "Copy the men's program without modification."
+      ],
+      "answer": 0,
+      "feedback": "Consultation helps organisations understand specific barriers and preferences instead of assuming all women and girls have the same needs."
+    },
+    {
+      "id": "T26",
+      "kk": "Sports Technology & Media",
+      "domain": "Representation & gender equity",
+      "difficulty": "Application",
+      "q": "Why can increased quality coverage of female athletes influence beliefs about sport?",
+      "options": [
+        "It guarantees equal pay immediately because positive media coverage automatically forces sporting organisations to distribute all resources equally between athletes.",
+        "It can challenge gender stereotypes by focusing on sporting skill and achievement.",
+        "It removes every structural barrier.",
+        "It ensures all sports receive identical funding."
+      ],
+      "answer": 1,
+      "feedback": "Respectful, skill-focused coverage can challenge stereotypes and broaden beliefs about who belongs in sport."
+    },
+    {
+      "id": "GE07",
+      "kk": "Gender Equity in Sport",
+      "domain": "Pay & performance",
+      "difficulty": "Foundation",
+      "q": "How can lower sporting income affect an athlete's performance?",
+      "options": [
+        "It automatically improves motivation.",
+        "It guarantees reduced participation.",
+        "It may require extra paid work, reducing time for training, sleep or recovery.",
+        "It affects income but cannot affect preparation."
+      ],
+      "answer": 2,
+      "feedback": "Lower sporting income may create additional work demands, reducing preparation, sleep or recovery and potentially affecting performance."
+    },
+    {
+      "id": "I11",
+      "kk": "Injuries & Safety",
+      "domain": "Concussion",
+      "difficulty": "Application",
+      "q": "A concussed player returns too early and receives another heavy impact. Which consequence is most likely?",
+      "options": [
+        "The second impact guarantees a faster and safer recovery.",
+        "The player automatically becomes immune to future concussion.",
+        "Further injury may worsen the condition and delay recovery for the athlete.",
+        "Continued participation reduces the need for medical assessment."
+      ],
+      "answer": 2,
+      "feedback": "Another impact before recovery may worsen the injury and increase time away from sport."
+    },
+    {
+      "id": "A1PA08",
+      "kk": "Types of Physical Activity",
+      "domain": "Core classification",
+      "difficulty": "Foundation",
+      "q": "Which activity is most clearly recreational?",
+      "options": [
+        "Walking to work because it is the quickest route",
+        "Cleaning a kitchen as part of household responsibilities",
+        "Completing interval running to improve aerobic fitness",
+        "Surfing during free time for enjoyment and relaxation"
+      ],
+      "answer": 3,
+      "feedback": "Recreational activities are voluntary leisure activities performed during free time for enjoyment, relaxation or personal satisfaction."
+    },
+    {
+      "id": "A1PBI38",
+      "kk": "Population-Based Physical Activity Initiatives",
+      "domain": "SAC-style application",
+      "difficulty": "SAC-style",
+      "q": "A youth activity initiative is developed by a school, local council and community sporting organisation. The school recruits students, the council provides facilities and the organisation supplies coaches. What is the best explanation of this approach?",
+      "options": [
+        "Each stakeholder duplicates the same role.",
+        "Intersectoral collaboration allows different organisations to contribute complementary resources and expertise.",
+        "The program is effective only because a school is involved.",
+        "Collaboration removes the need to identify barriers because partner organisations can assume the program will suit every student."
+      ],
+      "answer": 1,
+      "feedback": "The organisations contribute different resources and capabilities, which is the central benefit of intersectoral collaboration."
+    },
+    {
+      "id": "IE29",
+      "kk": "Inclusion & Equity in Sport",
+      "domain": "Equality & equity",
+      "difficulty": "Stimulus",
+      "q": "A club charges every junior the same fee. A review finds that some families cannot afford registration or equipment. Which change best demonstrates equity?",
+      "options": [
+        "Keep the same fee because identical treatment ensures every family receives an equal and therefore fair sporting opportunity.",
+        "Offer targeted fee assistance and equipment loans based on identified financial barriers.",
+        "Increase all fees so the club can buy more equipment.",
+        "Remove families who cannot pay on time."
+      ],
+      "answer": 1,
+      "feedback": "Equity responds to different barriers. Targeted financial support can make the sporting opportunity genuinely accessible."
+    },
+    {
+      "id": "A1SC33",
+      "kk": "Sociocultural Enablers and Barriers",
+      "domain": "Stimulus interpretation",
+      "difficulty": "Stimulus",
+      "q": "Scenario: a school introduces a mixed-gender activity program, highlights diverse sporting role models and challenges stereotypes about who should participate. Which barrier is the program most directly addressing?",
+      "options": [
+        "Gender stereotypes",
+        "Low socioeconomic status",
+        "Lack of peer encouragement",
+        "Limited family transport"
+      ],
+      "answer": 0,
+      "feedback": "The program is directly challenging beliefs and expectations about appropriate activities for different genders."
+    },
+    {
+      "id": "P03",
+      "kk": "Psychological Skills & Sleep",
+      "domain": "Concentration",
+      "difficulty": "Foundation",
+      "q": "Concentration is best described as:",
+      "options": [
+        "focusing attention on information that is relevant to the task.",
+        "increasing physical activation before every activity.",
+        "believing that success is guaranteed.",
+        "reducing the amount of sleep required before an important competition."
+      ],
+      "answer": 0,
+      "feedback": "Concentration involves directing attention towards relevant cues, instructions and feedback."
+    }
+  ]
+}
