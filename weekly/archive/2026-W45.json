@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "week": "2026-W45",
+  "timezone": "Australia/Melbourne",
+  "status": "published",
+  "generated_at": "2026-11-01T13:49:46.366474+00:00",
+  "questions": [
+    {
+      "id": "A1HRF38",
+      "kk": "Health-Related Fitness Components",
+      "domain": "SAC-style application",
+      "difficulty": "SAC-style",
+      "q": "A person has limited shoulder movement because the joint structure prioritises stability and the surrounding tissues are tight. Which statement best explains their flexibility?",
+      "options": [
+        "Flexibility is unaffected by joint structure.",
+        "Both joint structure and the resting length of surrounding tissues can limit range of movement.",
+        "Only aerobic power determines joint range.",
+        "Muscular strength always increases flexibility."
+      ],
+      "answer": 1,
+      "feedback": "Flexibility is influenced by joint structure and by the length and elasticity of muscles, ligaments and surrounding tissues."
+    },
+    {
+      "id": "GE16",
+      "kk": "Gender Equity in Sport",
+      "domain": "Meaningful representation",
+      "difficulty": "Application",
+      "q": "Which situation best demonstrates meaningful representation rather than token representation?",
+      "options": [
+        "A woman is appointed but excluded from major decisions.",
+        "A committee advertises its diversity while women hold positions but remain excluded from funding decisions.",
+        "One leadership position is created without any responsibilities.",
+        "Women hold leadership roles and have genuine influence over decisions about funding, facilities and policy."
+      ],
+      "answer": 3,
+      "feedback": "Representation is meaningful when people have genuine influence over decisions, not simply when they occupy a position."
+    },
+    {
+      "id": "A1PT31",
+      "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+      "domain": "Stimulus interpretation",
+      "difficulty": "Stimulus",
+      "q": "Data: adults aged 65+ — 33.4% met the guidelines; 40.7% participated in daily physical activity. Which conclusion is supported?",
+      "options": [
+        "Everyone who reported daily physical activity must also have met every component of the physical activity guidelines.",
+        "Daily activity was less common than meeting the guidelines.",
+        "Some older adults were active daily without necessarily meeting every guideline requirement.",
+        "No older adults were regularly active."
+      ],
+      "answer": 2,
+      "feedback": "Daily participation and overall guideline compliance are different measures, so daily activity does not guarantee all requirements were met."
+    },
+    {
+      "id": "A1AS10",
+      "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+      "domain": "Recall surveys",
+      "difficulty": "Application",
+      "q": "What is a major limitation of a recall survey?",
+      "options": [
+        "It cannot be used with large participant groups",
+        "Participants may forget or inaccurately report previous activity.",
+        "It cannot collect information about sedentary behaviour.",
+        "It always requires expensive wearable technology."
+      ],
+      "answer": 1,
+      "feedback": "Recall error and inaccurate self-report are important limitations of recall surveys."
+    },
+    {
+      "id": "T22",
+      "kk": "Sports Technology & Media",
+      "domain": "Representation & role models",
+      "difficulty": "Application",
+      "q": "How can diverse athlete representation support inclusion?",
+      "options": [
+        "It guarantees equal funding for every sport because broader representation automatically produces identical sponsorship and media investment across all competitions.",
+        "It can help viewers see people like themselves participating and strengthen a sense of belonging.",
+        "It removes transport barriers.",
+        "It ensures every viewer becomes physically active."
+      ],
+      "answer": 1,
+      "feedback": "Seeing diverse athletes represented respectfully can challenge stereotypes and help more people feel that participation is possible and welcoming."
+    },
+    {
+      "id": "I20",
+      "kk": "Injuries & Safety",
+      "domain": "Rehabilitation & return to sport",
+      "difficulty": "Application",
+      "q": "A rural athlete must travel several hours and pay substantial fees to receive specialist rehabilitation. This most directly demonstrates:",
+      "options": [
+        "a geographic and financial access barrier.",
+        "improved inclusion.",
+        "psychological skill development.",
+        "safer officiating."
+      ],
+      "answer": 0,
+      "feedback": "Cost and location can restrict access to appropriate recovery support."
+    },
+    {
+      "id": "GE02",
+      "kk": "Gender Equity in Sport",
+      "domain": "Gender stereotypes",
+      "difficulty": "Foundation",
+      "q": "How can gender stereotypes influence sporting participation?",
+      "options": [
+        "They can shape beliefs about which sports or roles are suitable for particular genders.",
+        "They guarantee that athletes choose sports that match their abilities.",
+        "They affect leadership but not participation.",
+        "They only influence professional sport."
+      ],
+      "answer": 0,
+      "feedback": "Gender stereotypes can affect confidence, aspirations, support and perceptions of belonging, which may influence sporting choices and participation."
+    },
+    {
+      "id": "A1PA05",
+      "kk": "Types of Physical Activity",
+      "domain": "Core classification",
+      "difficulty": "Foundation",
+      "q": "Which activity is an example of transportation?",
+      "options": [
+        "Walking from home to a train station",
+        "Completing a structured circuit class at a local gym",
+        "Gardening in a backyard",
+        "Playing a social card-based movement game"
+      ],
+      "answer": 0,
+      "feedback": "Transportation involves physical movement used to travel from one location to another."
+    },
+    {
+      "id": "M21",
+      "kk": "Mental Fitness",
+      "domain": "Workload & recovery",
+      "difficulty": "Stimulus",
+      "q": "An academy records the following observations over four weeks: Week 1—moderate workload, low fatigue; Week 2—moderate workload, low fatigue; Week 3—high workload, high fatigue; Week 4—high workload, reduced enjoyment and concentration. Which conclusion is best supported?",
+      "options": [
+        "High workload always causes poor mental health.",
+        "The athlete should stop training permanently.",
+        "Increased workload was associated with greater fatigue and reduced enjoyment and concentration in this case.",
+        "Training workload cannot influence mental fitness."
+      ],
+      "answer": 2,
+      "feedback": "The pattern shows an association in this case but does not prove that workload is the only influence."
+    },
+    {
+      "id": "P05",
+      "kk": "Psychological Skills & Sleep",
+      "domain": "Sleep optimisation",
+      "difficulty": "Foundation",
+      "q": "Which statement best explains sleep optimisation?",
+      "options": [
+        "Reducing sleep so more time is available for training.",
+        "Using habits and opportunities that support sufficient, good-quality sleep.",
+        "Sleeping for exactly the same number of hours as every other athlete.",
+        "Replacing recovery activities with daytime naps."
+      ],
+      "answer": 1,
+      "feedback": "Sleep optimisation involves creating conditions and routines that support adequate sleep quality and duration."
+    }
+  ]
+}
