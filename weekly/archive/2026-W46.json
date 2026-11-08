@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "week": "2026-W46",
+  "timezone": "Australia/Melbourne",
+  "status": "published",
+  "generated_at": "2026-11-08T13:53:17.559968+00:00",
+  "questions": [
+    {
+      "id": "H13",
+      "kk": "Hormonal Considerations",
+      "domain": "Period poverty & stigma",
+      "difficulty": "Application",
+      "q": "Members of a sporting club regularly joke about menstruation. One athlete feels embarrassed about requesting support and believes her needs are not taken seriously. Which concept is most directly affected?",
+      "options": [
+        "Inclusion",
+        "Aerobic capacity",
+        "Access to equipment",
+        "Training intensity"
+      ],
+      "answer": 0,
+      "feedback": "Negative attitudes can reduce belonging and make participants feel their needs are unwelcome."
+    },
+    {
+      "id": "GE03",
+      "kk": "Gender Equity in Sport",
+      "domain": "Facilities & resources",
+      "difficulty": "Foundation",
+      "q": "Why can training-time allocation be a gender equity issue?",
+      "options": [
+        "Training times affect only spectators.",
+        "All training times provide identical opportunities.",
+        "Less suitable training times can make regular attendance and preparation more difficult for some groups.",
+        "Training schedules are unrelated to participation."
+      ],
+      "answer": 2,
+      "feedback": "The quality and timing of access matter. Repeated allocation of less suitable times can reduce participation, preparation and performance opportunities."
+    },
+    {
+      "id": "A1SEM02",
+      "kk": "Social-Ecological Model",
+      "domain": "Core concepts",
+      "difficulty": "Foundation",
+      "q": "Which component sits at the centre of the Social-Ecological Model?",
+      "options": [
+        "Policy",
+        "Individual",
+        "Physical environment",
+        "Social environment"
+      ],
+      "answer": 1,
+      "feedback": "The individual is positioned at the centre of the model, surrounded by the social environment, physical environment and policy."
+    },
+    {
+      "id": "A1GL06",
+      "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+      "domain": "Young people 5–17",
+      "difficulty": "Foundation",
+      "q": "How much moderate- to vigorous-intensity physical activity should young people aged 5–17 accumulate each day?",
+      "options": [
+        "At least 30 minutes",
+        "At least 60 minutes",
+        "At least 90 minutes",
+        "At least 150 minutes"
+      ],
+      "answer": 1,
+      "feedback": "Young people aged 5–17 should accumulate at least 60 minutes of moderate- to vigorous-intensity physical activity each day."
+    },
+    {
+      "id": "IE24",
+      "kk": "Inclusion & Equity in Sport",
+      "domain": "Local partnerships",
+      "difficulty": "Application",
+      "q": "Why might a local club partner with community organisations when developing an inclusion program?",
+      "options": [
+        "Partnerships allow the club to avoid direct consultation because community organisations can speak accurately for every participant and family.",
+        "Community organisations should make all club decisions.",
+        "Partnerships are useful only for one-off events.",
+        "Community partners can help identify priorities, build trust and connect the club with interested families."
+      ],
+      "answer": 3,
+      "feedback": "Local partnerships can combine knowledge, relationships and resources, especially when maintained through shared planning and ongoing feedback."
+    },
+    {
+      "id": "GE13",
+      "kk": "Gender Equity in Sport",
+      "domain": "Coaching representation",
+      "difficulty": "Application",
+      "q": "A qualified woman is repeatedly overlooked for senior coaching roles while less experienced candidates are appointed through informal networks. Which issue is most evident?",
+      "options": [
+        "The candidate lacks access to participation.",
+        "Biased recruitment and limited networks may restrict coaching progression.",
+        "The issue is mainly about athlete pay.",
+        "Informal recruitment improves equity by identifying strong coaching candidates."
+      ],
+      "answer": 1,
+      "feedback": "Informal networks and biased assumptions can create structural barriers to coaching progression even when candidates have relevant skills."
+    },
+    {
+      "id": "A1PBI37",
+      "kk": "Population-Based Physical Activity Initiatives",
+      "domain": "SAC-style application",
+      "difficulty": "SAC-style",
+      "q": "A statewide campaign encourages women to be active and provides stories from diverse participants, flexible activity ideas and links to welcoming local providers. Why may this be more effective than awareness messaging alone?",
+      "options": [
+        "It combines confidence-building messages with practical and socially supportive opportunities to participate.",
+        "It guarantees that cost and childcare barriers are removed for every woman.",
+        "It targets only the policy component of the SEM.",
+        "It avoids the need to consider barriers within different communities."
+      ],
+      "answer": 0,
+      "feedback": "The campaign goes beyond awareness by also supporting confidence, practical access and connection with welcoming participation opportunities."
+    },
+    {
+      "id": "A1SC19",
+      "kk": "Sociocultural Enablers and Barriers",
+      "domain": "Cultural norms",
+      "difficulty": "Application",
+      "q": "A student stops attending a sporting program after repeated racial discrimination makes them feel unwelcome. Which factor is most directly acting as a barrier?",
+      "options": [
+        "Family",
+        "Community facilities",
+        "Cultural norms",
+        "Socioeconomic status"
+      ],
+      "answer": 2,
+      "feedback": "Racial discrimination can reflect negative cultural attitudes and reduce inclusion and participation."
+    },
+    {
+      "id": "A1BEN32",
+      "kk": "Benefits of Regular Participation in Movement",
+      "domain": "Stimulus interpretation",
+      "difficulty": "Stimulus",
+      "q": "Activity reflection: 'Walking on Country with Elders makes me feel connected to culture, land and something larger than myself.' Which dimension is most directly supported?",
+      "options": [
+        "Physical health and physical functioning",
+        "Mental health and wellbeing",
+        "Social health and wellbeing",
+        "Spiritual health and wellbeing"
+      ],
+      "answer": 3,
+      "feedback": "Connection to culture, Country and something greater than oneself reflects spiritual health and wellbeing."
+    },
+    {
+      "id": "G32",
+      "kk": "Geographic Location",
+      "domain": "Digital access & online coaching",
+      "difficulty": "Stimulus",
+      "q": "Two remote athletes are offered online coaching. Athlete A has reliable high-speed internet; Athlete B has frequent connection failures and limited data. What does this comparison demonstrate?",
+      "options": [
+        "Online coaching removes geographic barriers equally when identical digital support is offered to athletes.",
+        "Digital infrastructure can determine whether technology acts as an enabler or remains a barrier.",
+        "Internet access affects motivation but not access.",
+        "Both athletes will receive identical coaching experiences."
+      ],
+      "answer": 1,
+      "feedback": "Technology can reduce distance barriers only when participants have reliable and affordable digital access."
+    }
+  ]
+}
