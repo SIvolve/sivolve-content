@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "week": "2026-W47",
+  "timezone": "Australia/Melbourne",
+  "status": "published",
+  "generated_at": "2026-11-15T13:56:41.439858+00:00",
+  "questions": [
+    {
+      "id": "A1PBI17",
+      "kk": "Population-Based Physical Activity Initiatives",
+      "domain": "10,000 Steps",
+      "difficulty": "Application",
+      "q": "The 10,000 Steps program allows participants to track steps, set goals and monitor progress through a website or app. Which enabler is most directly strengthened?",
+      "options": [
+        "Motivation and self-monitoring",
+        "Access to organised team sport",
+        "Government regulation",
+        "Availability of indoor facilities"
+      ],
+      "answer": 0,
+      "feedback": "Goal setting and progress tracking can strengthen motivation, accountability and self-monitoring."
+    },
+    {
+      "id": "A1PA30",
+      "kk": "Types of Physical Activity",
+      "domain": "Stimulus interpretation",
+      "difficulty": "Stimulus",
+      "q": "Activity log: 8:00 am garden maintenance; 10:00 am planned 30-minute run to improve fitness; 1:00 pm beach cricket with flexible rules; 4:00 pm walk to the shops. Which entry is exercise?",
+      "options": [
+        "8:00 am garden maintenance",
+        "10:00 am planned run",
+        "1:00 pm beach cricket",
+        "4:00 pm walk to the shops"
+      ],
+      "answer": 1,
+      "feedback": "The planned run is structured and completed specifically to improve fitness, so it is exercise."
+    },
+    {
+      "id": "GE09",
+      "kk": "Gender Equity in Sport",
+      "domain": "Facilities & resources",
+      "difficulty": "Application",
+      "q": "A club gives its men's teams most evening training slots while women's teams usually train very early in the morning. What is the main equity concern?",
+      "options": [
+        "Morning training always improves performance.",
+        "The scheduling may make regular attendance and recovery more difficult for the women's teams.",
+        "The issue affects media coverage only.",
+        "Equal numbers of teams make the schedule equitable even when quality of times differs."
+      ],
+      "answer": 1,
+      "feedback": "Less suitable training times can create structural barriers by affecting attendance, sleep, recovery, preparation and continued participation."
+    },
+    {
+      "id": "A1AS18",
+      "kk": "Assessment of Physical Activity and Sedentary Behaviour",
+      "domain": "SOPLAY",
+      "difficulty": "Application",
+      "q": "Which situation is most appropriate for SOPLAY?",
+      "options": [
+        "Assessing one athlete's heart rate, distance and movement continuously during a structured training session",
+        "Observing activity levels and context during recess or lunchtime free play",
+        "Recording an adult's weekly activity through a diary",
+        "Measuring steps during a walking program"
+      ],
+      "answer": 1,
+      "feedback": "SOPLAY is designed to observe physical activity in free-play settings such as playgrounds, recess and lunch."
+    },
+    {
+      "id": "GE01",
+      "kk": "Gender Equity in Sport",
+      "domain": "Understanding gender equity",
+      "difficulty": "Foundation",
+      "q": "Which statement best describes gender equity in sport?",
+      "options": [
+        "Giving every participant exactly the same resources in every situation",
+        "Providing fair sporting opportunities and support by addressing barriers linked to gender",
+        "Focusing only on equal participation numbers",
+        "Providing extra support only to elite athletes"
+      ],
+      "answer": 1,
+      "feedback": "Gender equity focuses on fairness. It may require different supports where gender-related barriers affect access, inclusion, participation, performance or progression."
+    },
+    {
+      "id": "IE26",
+      "kk": "Inclusion & Equity in Sport",
+      "domain": "Global perspectives",
+      "difficulty": "Application",
+      "q": "An international competition increases the visibility of athletes with disability. Why does this not prove that local sport is fully inclusive?",
+      "options": [
+        "Elite visibility can challenge assumptions, but local barriers such as cost, facilities and coaching may still restrict participation.",
+        "International success automatically removes community barriers because visible elite athletes prove that facilities, coaching, cost and attitudes are equally supportive everywhere.",
+        "Local clubs are unaffected by access and inclusion issues.",
+        "Visibility matters only to spectators."
+      ],
+      "answer": 0,
+      "feedback": "Elite success and visibility can influence beliefs, but accessible community opportunities, resources and support are still necessary for local inclusion."
+    },
+    {
+      "id": "A1GL04",
+      "kk": "Physical Activity and Sedentary Behaviour Guidelines",
+      "domain": "Core concepts",
+      "difficulty": "Foundation",
+      "q": "Which statement about physical inactivity and sedentary behaviour is correct?",
+      "options": [
+        "They are two names for exactly the same behaviour.",
+        "Anyone who meets the physical activity guidelines cannot be sedentary, even if they sit for most of their waking day",
+        "Sedentary behaviour occurs only when a person completes no physical activity.",
+        "A person can meet physical activity recommendations and still accumulate substantial sedentary time."
+      ],
+      "answer": 3,
+      "feedback": "Physical activity and sedentary behaviour are distinct; a person may meet activity recommendations while still sitting for long periods."
+    },
+    {
+      "id": "I02",
+      "kk": "Injuries & Safety",
+      "domain": "Injury impacts & mechanisms",
+      "difficulty": "Foundation",
+      "q": "An overuse injury is most likely to develop when:",
+      "options": [
+        "body tissues are repeatedly loaded without sufficient recovery.",
+        "an athlete experiences one unexpected collision.",
+        "an athlete changes direction once during a game.",
+        "protective equipment is fitted correctly."
+      ],
+      "answer": 0,
+      "feedback": "Overuse injuries can develop when repeated loading occurs without enough recovery time."
+    },
+    {
+      "id": "G31",
+      "kk": "Geographic Location",
+      "domain": "Distance, transport & travel",
+      "difficulty": "Stimulus",
+      "q": "A 16-year-old regional cyclist travels 2.5 hours to a training centre twice a week. After a timetable change, public transport no longer arrives before training starts. Which link best explains the likely impact?",
+      "options": [
+        "Reduced transport access will automatically improve independent training.",
+        "The timetable change affects inclusion but cannot affect participation.",
+        "Performance will improve because the athlete has more free time.",
+        "Reduced transport access may lower attendance, reducing guided training and potentially limiting performance development."
+      ],
+      "answer": 3,
+      "feedback": "Transport is part of geographic access. If attendance falls, the athlete may receive less coaching, practice and feedback, which can affect performance."
+    },
+    {
+      "id": "H28",
+      "kk": "Hormonal Considerations",
+      "domain": "Access, inclusion, participation & performance",
+      "difficulty": "SAC-style",
+      "q": "An athlete cannot afford menstrual products, feels embarrassed because teammates make negative comments, misses training, and performs poorly after returning because she has completed less preparation. Which sequence best matches the four effects described?",
+      "options": [
+        "Access → inclusion → participation → performance",
+        "Performance → access → inclusion → participation",
+        "Inclusion → participation → access → performance",
+        "Participation → performance → inclusion → access"
+      ],
+      "answer": 0,
+      "feedback": "Cost affects access; negative attitudes affect inclusion; missing training affects participation; reduced preparation may then affect performance."
+    }
+  ]
+}
