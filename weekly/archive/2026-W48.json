@@ -1,0 +1,199 @@
+{
+  "schema_version": 1,
+  "week": "2026-W48",
+  "timezone": "Australia/Melbourne",
+  "status": "published",
+  "generated_at": "2026-11-22T20:17:58.766505+00:00",
+  "questions": [
+    {
+      "id": "M12",
+      "kk": "Mental Fitness",
+      "domain": "Physical activity & mental fitness",
+      "difficulty": "Application",
+      "q": "A participant joins a recreational basketball program, enjoys learning new skills and develops new friendships. Which mental-fitness benefits are most clearly demonstrated?",
+      "options": [
+        "Achievement and social connection.",
+        "Increased physiological arousal only.",
+        "Reduced access to activity.",
+        "Elimination of all future stress."
+      ],
+      "answer": 0,
+      "feedback": "Skill development can provide achievement, while shared activity can strengthen social connection.",
+      "sources": [
+        {
+          "organisation": "Australian Sports Commission Clearinghouse for Sport",
+          "title": "Social and Mental Wellbeing",
+          "url": "https://www.ausport.gov.au/clearinghouse/evidence/value-and-benefits/social-and-mental-wellbeing"
+        }
+      ]
+    },
+    {
+      "id": "C30",
+      "kk": "Coaching",
+      "domain": "Program design & progression",
+      "difficulty": "Stimulus",
+      "q": "A coach records athlete fatigue, enjoyment and progress each week. When fatigue rises and performance falls, the coach reduces training load and increases recovery. What does this best demonstrate?",
+      "options": [
+        "Using the same program regardless of feedback because consistency is more important than individual athlete responses.",
+        "Monitoring athlete responses and making individual program adjustments",
+        "Replacing coaching judgement with athlete preference",
+        "Reducing standards whenever training becomes difficult"
+      ],
+      "answer": 1,
+      "feedback": "Good program design includes monitoring athlete responses and adapting training and recovery when needed.",
+      "sources": [
+        {
+          "organisation": "Australian Sports Commission",
+          "title": "Training load and recovery position statement",
+          "url": "https://www.ausport.gov.au/ais/position_statements/training-load-in-relation-to-loading-and-unloading-phases-of-training"
+        }
+      ]
+    },
+    {
+      "id": "A1BEN01",
+      "kk": "Benefits of Regular Participation in Movement",
+      "domain": "Physical benefits",
+      "difficulty": "Foundation",
+      "q": "Which outcome is a physical benefit of regular participation in physical activity?",
+      "options": [
+        "Improved muscular strength and endurance",
+        "A stronger sense of purpose in life",
+        "Greater ability to recognise and manage emotions",
+        "More opportunities to develop supportive friendships"
+      ],
+      "answer": 0,
+      "feedback": "Improved muscular strength and endurance are physical benefits because they improve the functioning and capacity of the body.",
+      "sources": [
+        {
+          "organisation": "World Health Organization",
+          "title": "Physical activity fact sheet (June 2024)",
+          "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+        },
+        {
+          "organisation": "Victorian Better Health Channel",
+          "title": "Sport, physical activity and our health",
+          "url": "https://www.betterhealth.vic.gov.au/health/healthyliving/sports-and-physical-activity"
+        }
+      ]
+    },
+    {
+      "id": "SIU2N040",
+      "kk": "Gender Equity in Sport",
+      "domain": "Safe participation and discrimination reporting",
+      "difficulty": "Application",
+      "q": "A qualified female referee reports repeated sexist remarks from spectators at community matches. The association says the number of women registered as referees has increased, so its gender-equity strategy must be successful. What is the most appropriate evaluation and response?",
+      "options": [
+        "Use referee registrations as the sole measure of success because more women joining means they must feel welcome.",
+        "Recommend that the referee ignore the comments and continue officiating; complaints might discourage spectators.",
+        "Assess retention and reports of harassment, enforce spectator-conduct procedures and provide accessible reporting and support.",
+        "Reduce the number of matches assigned to women until spectators become accustomed to seeing female officials."
+      ],
+      "answer": 2,
+      "feedback": "More registrations do not establish that referees experience respectful, equitable conditions. Monitoring retention, safety and complaint outcomes alongside participation data helps assess inclusion; clear behaviour standards, reporting and support address the identified harassment rather than placing the burden on officials.",
+      "sources": [
+        {
+          "organisation": "Australian Sports Commission",
+          "title": "Coaching and officiating",
+          "url": "https://www.ausport.gov.au/clearinghouse/evidence/women-in-sport/equity/coaching-and-officiating"
+        }
+      ]
+    },
+    {
+      "id": "P06",
+      "kk": "Psychological Skills & Sleep",
+      "domain": "Mental imagery",
+      "difficulty": "Foundation",
+      "q": "Mental imagery involves:",
+      "options": [
+        "analysing written performance statistics.",
+        "increasing physical training volume immediately before competition to improve sporting performance.",
+        "mentally rehearsing an action or situation without physically performing it.",
+        "avoiding thoughts about an upcoming performance."
+      ],
+      "answer": 2,
+      "feedback": "Imagery involves mentally rehearsing movements, sensations or situations and can support confidence and concentration."
+    },
+    {
+      "id": "GE04",
+      "kk": "Gender Equity in Sport",
+      "domain": "Gender pay gap",
+      "difficulty": "Foundation",
+      "q": "What does a gender pay gap in sport refer to?",
+      "options": [
+        "A difference in training volume between teams",
+        "A difference in athlete age",
+        "A difference in competition rules between sports",
+        "A difference in sporting earnings between genders"
+      ],
+      "answer": 3,
+      "feedback": "A gender pay gap is a difference in earnings between genders. Sporting income may include salaries, prize money and sponsorship."
+    },
+    {
+      "id": "A1HRF26",
+      "kk": "Health-Related Fitness Components",
+      "domain": "Comparing components",
+      "difficulty": "Application",
+      "q": "Which example best distinguishes muscular strength from muscular endurance?",
+      "options": [
+        "Both involve only joint range of motion and therefore depend mainly on the flexibility available around the working joints",
+        "Strength focuses on peak force, whereas endurance focuses on sustaining repeated or prolonged muscular work.",
+        "Strength uses oxygen while endurance never does.",
+        "Endurance is required only in cardiovascular exercise."
+      ],
+      "answer": 1,
+      "feedback": "Muscular strength concerns maximum force production, while muscular endurance concerns sustaining muscular work over time.",
+      "sources": [
+        {
+          "organisation": "American College of Sports Medicine",
+          "title": "Components of Fitness: 2026 roundtable summary",
+          "url": "https://acsm.org/science-spotlight-late-august-2026/"
+        }
+      ]
+    },
+    {
+      "id": "A1SC30",
+      "kk": "Sociocultural Enablers and Barriers",
+      "domain": "Stimulus interpretation",
+      "difficulty": "Stimulus",
+      "q": "Student reflection: 'I was nervous about joining the gym, but my friends started coming with me and kept encouraging me to attend.' Which factor is most directly enabling participation?",
+      "options": [
+        "Community",
+        "Peers",
+        "Gender",
+        "Family support"
+      ],
+      "answer": 1,
+      "feedback": "The friends are peers whose encouragement and shared attendance increase motivation and commitment."
+    },
+    {
+      "id": "A1SEM36",
+      "kk": "Social-Ecological Model",
+      "domain": "SAC-style application",
+      "difficulty": "SAC-style",
+      "q": "A workplace wants to reduce prolonged sitting. Which initiative best reflects the Social-Ecological Model?",
+      "options": [
+        "Send one detailed email explaining that prolonged sitting is harmful and expect employees to independently change their daily behaviour",
+        "Ask employees to rely on motivation alone.",
+        "Install standing desks but make no other changes.",
+        "Combine education, team movement breaks, accessible standing options and a procedure supporting regular breaks."
+      ],
+      "answer": 3,
+      "feedback": "The strongest option addresses individual knowledge, social support, physical environment and policy together."
+    },
+    {
+      "id": "A1PT18",
+      "kk": "Prevalence and Trends of Physical Activity, Physical Inactivity and Sedentary Behaviour",
+      "domain": "Sedentary behaviour",
+      "difficulty": "Application",
+      "q": "A worker sits for eight hours, completes a 45-minute run after work and then watches television for three hours. Which statement best describes the day?",
+      "options": [
+        "The person is not sedentary because they completed a run.",
+        "The person can accumulate physical activity while also spending substantial time sedentary.",
+        "The run means all health risks associated with prolonged sitting are removed.",
+        "The person must be physically inactive because they sat at work."
+      ],
+      "answer": 1,
+      "feedback": "Physical activity and sedentary behaviour are independent enough that both can occur within the same day."
+    }
+  ]
+}
